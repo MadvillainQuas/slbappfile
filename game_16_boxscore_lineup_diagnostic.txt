@@ -1,0 +1,194 @@
+================================================================================
+GAME 16 BOXSCORE vs LINEUP DIAGNOSTIC
+================================================================================
+
+Game ID: 2719734
+
+WARNINGS (minor discrepancies):
+--------------------------------------------------------------------------------
+Newcastle Eagles: PF - Boxscore=19, Lineup=17, Diff=-2 (-10.5%)
+London Lions: PF - Boxscore=28, Lineup=26, Diff=-2 (-7.1%)
+
+================================================================================
+LINEUP DETAILS:
+--------------------------------------------------------------------------------
+
+Newcastle Eagles | 14,15,24,25,3
+  Time: 10.0 min
+  Points: 4, FGM/A: 2/13, 3PM/A: 0/4, FTM/A: 0/2
+  REB: 5 (O:2/D:3), AST: 0, STL: 2, BLK: 1, TOV: 1, PF: 5
+
+Newcastle Eagles | 14,15,21,25,3
+  Time: 7.5 min
+  Points: 26, FGM/A: 6/9, 3PM/A: 1/2, FTM/A: 13/14
+  REB: 4 (O:1/D:3), AST: 1, STL: 3, BLK: 0, TOV: 1, PF: 2
+
+London Lions | 1,13,21,23,5
+  Time: 5.8 min
+  Points: 15, FGM/A: 6/8, 3PM/A: 1/2, FTM/A: 2/4
+  REB: 8 (O:1/D:7), AST: 2, STL: 1, BLK: 0, TOV: 2, PF: 3
+
+London Lions | 10,22,23,31,6
+  Time: 5.6 min
+  Points: 11, FGM/A: 4/6, 3PM/A: 1/2, FTM/A: 2/4
+  REB: 2 (O:1/D:1), AST: 5, STL: 1, BLK: 0, TOV: 4, PF: 5
+
+London Lions | 1,13,21,5,6
+  Time: 4.3 min
+  Points: 10, FGM/A: 4/7, 3PM/A: 2/5, FTM/A: 0/0
+  REB: 6 (O:3/D:3), AST: 2, STL: 0, BLK: 1, TOV: 2, PF: 2
+
+London Lions | 1,13,21,22,23
+  Time: 4.2 min
+  Points: 10, FGM/A: 4/7, 3PM/A: 0/0, FTM/A: 2/3
+  REB: 4 (O:2/D:2), AST: 1, STL: 1, BLK: 0, TOV: 1, PF: 2
+
+Newcastle Eagles | 14,15,25,41,45
+  Time: 3.9 min
+  Points: 5, FGM/A: 2/5, 3PM/A: 0/0, FTM/A: 1/2
+  REB: 4 (O:0/D:4), AST: 2, STL: 2, BLK: 0, TOV: 1, PF: 1
+
+Newcastle Eagles | 14,15,24,41,45
+  Time: 3.3 min
+  Points: 6, FGM/A: 1/6, 3PM/A: 0/1, FTM/A: 4/4
+  REB: 2 (O:1/D:1), AST: 1, STL: 1, BLK: 0, TOV: 1, PF: 1
+
+Newcastle Eagles | 14,21,3,41,45
+  Time: 3.1 min
+  Points: 11, FGM/A: 4/5, 3PM/A: 1/1, FTM/A: 2/3
+  REB: 1 (O:1/D:0), AST: 4, STL: 0, BLK: 0, TOV: 1, PF: 0
+
+London Lions | 10,16,31,5,6
+  Time: 3.0 min
+  Points: 3, FGM/A: 1/4, 3PM/A: 1/1, FTM/A: 0/0
+  REB: 2 (O:0/D:2), AST: 1, STL: 1, BLK: 0, TOV: 2, PF: 1
+
+London Lions | 1,21,3,31,5
+  Time: 2.8 min
+  Points: 6, FGM/A: 2/3, 3PM/A: 0/0, FTM/A: 2/2
+  REB: 1 (O:0/D:1), AST: 1, STL: 0, BLK: 0, TOV: 1, PF: 1
+
+London Lions | 1,10,31,5,6
+  Time: 2.7 min
+  Points: 7, FGM/A: 3/3, 3PM/A: 1/1, FTM/A: 0/0
+  REB: 1 (O:0/D:1), AST: 3, STL: 0, BLK: 0, TOV: 1, PF: 0
+
+Newcastle Eagles | 15,24,3,41,45
+  Time: 2.4 min
+  Points: 2, FGM/A: 1/3, 3PM/A: 0/0, FTM/A: 0/0
+  REB: 2 (O:1/D:1), AST: 0, STL: 1, BLK: 0, TOV: 2, PF: 0
+
+London Lions | 1,13,21,23,6
+  Time: 2.1 min
+  Points: 4, FGM/A: 2/3, 3PM/A: 0/0, FTM/A: 0/0
+  REB: 2 (O:0/D:2), AST: 0, STL: 0, BLK: 0, TOV: 1, PF: 1
+
+Newcastle Eagles | 14,15,24,3,41
+  Time: 1.9 min
+  Points: 0, FGM/A: 0/2, 3PM/A: 0/1, FTM/A: 0/0
+  REB: 1 (O:0/D:1), AST: 0, STL: 0, BLK: 1, TOV: 1, PF: 0
+
+Newcastle Eagles | 14,15,25,3,41
+  Time: 1.8 min
+  Points: 8, FGM/A: 3/6, 3PM/A: 1/2, FTM/A: 1/1
+  REB: 2 (O:1/D:1), AST: 1, STL: 0, BLK: 0, TOV: 0, PF: 4
+
+London Lions | 1,13,21,31,5
+  Time: 1.7 min
+  Points: 2, FGM/A: 1/3, 3PM/A: 0/0, FTM/A: 0/0
+  REB: 1 (O:0/D:1), AST: 0, STL: 0, BLK: 0, TOV: 0, PF: 1
+
+London Lions | 13,16,23,31,5
+  Time: 1.7 min
+  Points: 3, FGM/A: 0/2, 3PM/A: 0/1, FTM/A: 3/4
+  REB: 2 (O:1/D:1), AST: 1, STL: 2, BLK: 1, TOV: 1, PF: 1
+
+Newcastle Eagles | 14,24,25,3,41
+  Time: 1.7 min
+  Points: 5, FGM/A: 2/2, 3PM/A: 1/1, FTM/A: 0/0
+  REB: 1 (O:0/D:1), AST: 1, STL: 0, BLK: 0, TOV: 2, PF: 1
+
+London Lions | 1,23,31,5,6
+  Time: 1.4 min
+  Points: 5, FGM/A: 1/2, 3PM/A: 0/1, FTM/A: 3/4
+  REB: 2 (O:0/D:2), AST: 0, STL: 0, BLK: 0, TOV: 0, PF: 2
+
+London Lions | 1,13,23,31,5
+  Time: 1.3 min
+  Points: 2, FGM/A: 1/1, 3PM/A: 0/0, FTM/A: 0/0
+  REB: 0 (O:0/D:0), AST: 1, STL: 0, BLK: 0, TOV: 0, PF: 0
+
+Newcastle Eagles | 14,25,3,41,45
+  Time: 1.1 min
+  Points: 0, FGM/A: 0/0, 3PM/A: 0/0, FTM/A: 0/0
+  REB: 0 (O:0/D:0), AST: 0, STL: 0, BLK: 0, TOV: 2, PF: 1
+
+London Lions | 1,13,23,5,6
+  Time: 1.1 min
+  Points: 2, FGM/A: 1/1, 3PM/A: 0/0, FTM/A: 0/0
+  REB: 0 (O:0/D:0), AST: 1, STL: 0, BLK: 0, TOV: 0, PF: 1
+
+Newcastle Eagles | 15,21,3,41,45
+  Time: 1.0 min
+  Points: 2, FGM/A: 1/2, 3PM/A: 0/0, FTM/A: 0/0
+  REB: 0 (O:0/D:0), AST: 0, STL: 0, BLK: 0, TOV: 0, PF: 0
+
+London Lions | 1,13,23,31,6
+  Time: 0.9 min
+  Points: 2, FGM/A: 1/3, 3PM/A: 0/0, FTM/A: 0/0
+  REB: 2 (O:1/D:1), AST: 0, STL: 1, BLK: 0, TOV: 0, PF: 0
+
+Newcastle Eagles | 14,15,21,41,45
+  Time: 0.8 min
+  Points: 0, FGM/A: 0/2, 3PM/A: 0/1, FTM/A: 0/0
+  REB: 1 (O:1/D:0), AST: 0, STL: 1, BLK: 0, TOV: 0, PF: 0
+
+Newcastle Eagles | 15,24,25,3,41
+  Time: 0.8 min
+  Points: 4, FGM/A: 1/1, 3PM/A: 0/0, FTM/A: 2/2
+  REB: 0 (O:0/D:0), AST: 0, STL: 0, BLK: 0, TOV: 0, PF: 1
+
+London Lions | 13,23,31,5,6
+  Time: 0.6 min
+  Points: 0, FGM/A: 0/0, 3PM/A: 0/0, FTM/A: 0/0
+  REB: 0 (O:0/D:0), AST: 0, STL: 0, BLK: 0, TOV: 1, PF: 2
+
+Newcastle Eagles | 15,25,3,41,45
+  Time: 0.6 min
+  Points: 0, FGM/A: 0/0, 3PM/A: 0/0, FTM/A: 0/0
+  REB: 0 (O:0/D:0), AST: 0, STL: 0, BLK: 0, TOV: 0, PF: 1
+
+London Lions | 1,10,21,23,6
+  Time: 0.4 min
+  Points: 0, FGM/A: 0/0, 3PM/A: 0/0, FTM/A: 0/0
+  REB: 0 (O:0/D:0), AST: 0, STL: 0, BLK: 0, TOV: 0, PF: 2
+
+London Lions | 13,22,23,31,6
+  Time: 0.3 min
+  Points: 0, FGM/A: 0/0, 3PM/A: 0/0, FTM/A: 0/0
+  REB: 0 (O:0/D:0), AST: 0, STL: 0, BLK: 0, TOV: 0, PF: 1
+
+Newcastle Eagles | 14,15,24,25,45
+  Time: 0.2 min
+  Points: 1, FGM/A: 0/0, 3PM/A: 0/0, FTM/A: 1/1
+  REB: 0 (O:0/D:0), AST: 0, STL: 0, BLK: 0, TOV: 0, PF: 0
+
+London Lions | 1,10,21,22,23
+  Time: 0.1 min
+  Points: 0, FGM/A: 0/0, 3PM/A: 0/0, FTM/A: 0/0
+  REB: 0 (O:0/D:0), AST: 0, STL: 0, BLK: 0, TOV: 1, PF: 1
+
+London Lions | 13,21,22,23,31
+  Time: 0.0 min
+  Points: 0, FGM/A: 0/0, 3PM/A: 0/0, FTM/A: 0/0
+  REB: 0 (O:0/D:0), AST: 0, STL: 0, BLK: 0, TOV: 0, PF: 0
+
+Newcastle Eagles | 24,3,41,45,9
+  Time: 0.0 min
+  Points: 2, FGM/A: 0/0, 3PM/A: 0/0, FTM/A: 2/2
+  REB: 0 (O:0/D:0), AST: 0, STL: 0, BLK: 0, TOV: 0, PF: 0
+
+London Lions | 1,16,21,31,5
+  Time: 0.0 min
+  Points: 0, FGM/A: 0/0, 3PM/A: 0/0, FTM/A: 0/0
+  REB: 0 (O:0/D:0), AST: 0, STL: 0, BLK: 0, TOV: 1, PF: 0

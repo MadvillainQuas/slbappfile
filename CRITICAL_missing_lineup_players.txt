@@ -1,0 +1,46 @@
+================================================================================
+CRITICAL ERROR: PLAYERS IN STINTS BUT NOT IN LINEUP STATS
+================================================================================
+
+This means these players appeared on court during stints,
+but their lineup combinations were never tracked in lineup_stats.
+This indicates a lineup tracking failure.
+
+Total affected players: 3
+
+
+Team: London Lions
+Player: Jonathan Williams
+Games appeared in stints: 11 games - ['2702543', '2702546', '2702548', '2702570', '2702580', '2702583', '2702591', '2702603', '2702606', '2702616', '2719734']
+Total possessions in stints: 443.9
+Found in lineup stats: NO ❌
+--------------------------------------------------------------------------------
+
+Team: Caledonia Gladiators
+Player: Rian Holland
+Games appeared in stints: 1 games - ['2702545']
+Total possessions in stints: 70.5
+Found in lineup stats: NO ❌
+--------------------------------------------------------------------------------
+
+Team: Leicester Riders
+Player: Tomiwa Sulaiman
+Games appeared in stints: 1 games - ['2702543']
+Total possessions in stints: 26.8
+Found in lineup stats: NO ❌
+--------------------------------------------------------------------------------
+
+================================================================================
+DIAGNOSTIC: CHECKING FOR SIMILAR PLAYER NAMES
+================================================================================
+
+
+Looking for 'Jonathan Williams' variants in lineup stats...
+  ❌ No similar names found for 'Jonathan Williams' on London Lions
+
+Looking for 'Rian Holland' variants in lineup stats...
+  ❌ No similar names found for 'Rian Holland' on Caledonia Gladiators
+
+Looking for 'Tomiwa Sulaiman' variants in lineup stats...
+  ⚠️  Found similar names: ['Olutomiwa Sulaiman']
+  This suggests identity resolution inconsistency!

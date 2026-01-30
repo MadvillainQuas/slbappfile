@@ -1,0 +1,149 @@
+================================================================================
+GAME 61 BOXSCORE vs LINEUP DIAGNOSTIC
+================================================================================
+
+Game ID: 2702592
+
+CRITICAL ERRORS (>5% discrepancy):
+--------------------------------------------------------------------------------
+Cheshire Phoenix: PF - Boxscore=26, Lineup=23, Diff=-3 (-11.5%)
+
+
+================================================================================
+LINEUP DETAILS:
+--------------------------------------------------------------------------------
+
+Cheshire Phoenix | 11,2,23,3,99
+  Time: 17.2 min
+  Points: 40, FGM/A: 14/36, 3PM/A: 9/19, FTM/A: 3/5
+  REB: 14 (O:6/D:8), AST: 10, STL: 3, BLK: 3, TOV: 4, PF: 5
+
+B. Braun Sheffield Sharks | 1,2,4,5,9
+  Time: 9.3 min
+  Points: 31, FGM/A: 11/17, 3PM/A: 3/4, FTM/A: 6/7
+  REB: 14 (O:3/D:11), AST: 7, STL: 0, BLK: 1, TOV: 5, PF: 8
+
+B. Braun Sheffield Sharks | 1,2,23,5,9
+  Time: 8.1 min
+  Points: 19, FGM/A: 8/16, 3PM/A: 3/4, FTM/A: 0/0
+  REB: 7 (O:2/D:5), AST: 7, STL: 1, BLK: 2, TOV: 1, PF: 3
+
+B. Braun Sheffield Sharks | 1,2,23,24,4
+  Time: 7.1 min
+  Points: 19, FGM/A: 7/11, 3PM/A: 3/6, FTM/A: 2/5
+  REB: 6 (O:1/D:5), AST: 4, STL: 0, BLK: 3, TOV: 3, PF: 2
+
+Cheshire Phoenix | 11,23,3,5,99
+  Time: 4.5 min
+  Points: 17, FGM/A: 6/9, 3PM/A: 1/3, FTM/A: 4/6
+  REB: 4 (O:0/D:4), AST: 2, STL: 1, BLK: 0, TOV: 2, PF: 5
+
+B. Braun Sheffield Sharks | 1,2,24,4,5
+  Time: 4.0 min
+  Points: 4, FGM/A: 2/8, 3PM/A: 0/2, FTM/A: 0/2
+  REB: 8 (O:2/D:6), AST: 2, STL: 0, BLK: 1, TOV: 1, PF: 1
+
+Cheshire Phoenix | 2,23,3,9,99
+  Time: 3.1 min
+  Points: 9, FGM/A: 3/4, 3PM/A: 1/2, FTM/A: 2/2
+  REB: 3 (O:0/D:3), AST: 1, STL: 1, BLK: 1, TOV: 1, PF: 3
+
+Cheshire Phoenix | 1,11,5,9,99
+  Time: 3.1 min
+  Points: 6, FGM/A: 2/8, 3PM/A: 2/5, FTM/A: 0/0
+  REB: 4 (O:2/D:2), AST: 2, STL: 1, BLK: 0, TOV: 0, PF: 0
+
+Cheshire Phoenix | 23,24,3,5,9
+  Time: 2.9 min
+  Points: 7, FGM/A: 2/6, 3PM/A: 1/3, FTM/A: 2/2
+  REB: 1 (O:0/D:1), AST: 1, STL: 2, BLK: 0, TOV: 0, PF: 4
+
+B. Braun Sheffield Sharks | 1,23,3,5,9
+  Time: 2.6 min
+  Points: 6, FGM/A: 3/4, 3PM/A: 0/0, FTM/A: 0/0
+  REB: 3 (O:0/D:3), AST: 1, STL: 1, BLK: 1, TOV: 3, PF: 2
+
+Cheshire Phoenix | 23,3,5,9,99
+  Time: 2.2 min
+  Points: 5, FGM/A: 1/6, 3PM/A: 1/4, FTM/A: 2/4
+  REB: 6 (O:3/D:3), AST: 0, STL: 0, BLK: 0, TOV: 0, PF: 0
+
+Cheshire Phoenix | 11,2,3,5,99
+  Time: 1.7 min
+  Points: 1, FGM/A: 0/4, 3PM/A: 0/1, FTM/A: 1/1
+  REB: 0 (O:0/D:0), AST: 0, STL: 0, BLK: 0, TOV: 0, PF: 2
+
+B. Braun Sheffield Sharks | 11,2,23,24,4
+  Time: 1.7 min
+  Points: 6, FGM/A: 2/5, 3PM/A: 0/1, FTM/A: 2/2
+  REB: 3 (O:2/D:1), AST: 1, STL: 0, BLK: 0, TOV: 0, PF: 0
+
+B. Braun Sheffield Sharks | 1,3,4,5,9
+  Time: 1.6 min
+  Points: 8, FGM/A: 3/3, 3PM/A: 0/0, FTM/A: 2/2
+  REB: 2 (O:0/D:2), AST: 1, STL: 0, BLK: 0, TOV: 0, PF: 2
+
+B. Braun Sheffield Sharks | 1,11,23,24,4
+  Time: 1.6 min
+  Points: 0, FGM/A: 0/2, 3PM/A: 0/1, FTM/A: 0/0
+  REB: 1 (O:0/D:1), AST: 0, STL: 0, BLK: 0, TOV: 1, PF: 0
+
+B. Braun Sheffield Sharks | 1,11,4,5,9
+  Time: 1.5 min
+  Points: 5, FGM/A: 2/4, 3PM/A: 1/2, FTM/A: 0/0
+  REB: 3 (O:1/D:2), AST: 2, STL: 0, BLK: 1, TOV: 0, PF: 0
+
+Cheshire Phoenix | 11,3,5,9,99
+  Time: 1.4 min
+  Points: 7, FGM/A: 3/4, 3PM/A: 1/2, FTM/A: 0/0
+  REB: 1 (O:0/D:1), AST: 2, STL: 1, BLK: 0, TOV: 0, PF: 1
+
+B. Braun Sheffield Sharks | 1,2,24,5,9
+  Time: 1.2 min
+  Points: 2, FGM/A: 0/1, 3PM/A: 0/0, FTM/A: 2/3
+  REB: 3 (O:1/D:2), AST: 0, STL: 0, BLK: 1, TOV: 1, PF: 0
+
+Cheshire Phoenix | 2,3,5,9,99
+  Time: 0.8 min
+  Points: 0, FGM/A: 0/2, 3PM/A: 0/2, FTM/A: 0/0
+  REB: 2 (O:0/D:2), AST: 0, STL: 0, BLK: 0, TOV: 1, PF: 1
+
+Cheshire Phoenix | 1,2,3,5,99
+  Time: 0.8 min
+  Points: 0, FGM/A: 0/3, 3PM/A: 0/2, FTM/A: 0/2
+  REB: 4 (O:2/D:2), AST: 0, STL: 0, BLK: 1, TOV: 0, PF: 0
+
+Cheshire Phoenix | 1,2,23,24,5
+  Time: 0.7 min
+  Points: 2, FGM/A: 0/2, 3PM/A: 0/2, FTM/A: 2/2
+  REB: 1 (O:0/D:1), AST: 0, STL: 0, BLK: 0, TOV: 0, PF: 1
+
+Cheshire Phoenix | 11,23,5,9,99
+  Time: 0.6 min
+  Points: 3, FGM/A: 1/1, 3PM/A: 1/1, FTM/A: 0/0
+  REB: 1 (O:0/D:1), AST: 1, STL: 0, BLK: 0, TOV: 0, PF: 0
+
+B. Braun Sheffield Sharks | 1,2,23,24,5
+  Time: 0.6 min
+  Points: 0, FGM/A: 0/1, 3PM/A: 0/0, FTM/A: 0/0
+  REB: 1 (O:0/D:1), AST: 0, STL: 0, BLK: 0, TOV: 0, PF: 0
+
+Cheshire Phoenix | 1,2,24,5,9
+  Time: 0.6 min
+  Points: 0, FGM/A: 0/0, 3PM/A: 0/0, FTM/A: 0/0
+  REB: 0 (O:0/D:0), AST: 0, STL: 0, BLK: 0, TOV: 1, PF: 1
+
+B. Braun Sheffield Sharks | 1,11,23,5,9
+  Time: 0.5 min
+  Points: 0, FGM/A: 0/2, 3PM/A: 0/0, FTM/A: 0/0
+  REB: 1 (O:1/D:0), AST: 0, STL: 0, BLK: 0, TOV: 0, PF: 2
+
+B. Braun Sheffield Sharks | 1,24,4,5,9
+  Time: 0.3 min
+  Points: 1, FGM/A: 0/0, 3PM/A: 0/0, FTM/A: 1/4
+  REB: 1 (O:0/D:1), AST: 0, STL: 0, BLK: 0, TOV: 0, PF: 1
+
+Cheshire Phoenix | 2,23,3,5,99
+  Time: 0.1 min
+  Points: 0, FGM/A: 0/0, 3PM/A: 0/0, FTM/A: 0/0
+  REB: 0 (O:0/D:0), AST: 0, STL: 0, BLK: 0, TOV: 0, PF: 0
