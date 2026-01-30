@@ -1,0 +1,13 @@
+================================================================================
+WARNING: PLAYERS IN LINEUP STATS BUT NOT IN STINTS
+================================================================================
+
+Total affected players: 1
+
+
+Team: Leicester Riders
+Player: Oscar Curran
+Total seconds in lineup stats: 12s (0.2 min)
+Number of lineup combinations: 1
+Found in stints: NO
+--------------------------------------------------------------------------------

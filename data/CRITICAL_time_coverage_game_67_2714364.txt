@@ -1,0 +1,377 @@
+================================================================================
+CRITICAL ERROR: LINEUP TIME COVERAGE FAILURE
+================================================================================
+
+Game ID: 2714364
+Game Number: 67
+Expected Time: 40.0 min (2400s)
+Overtime Periods: 0
+
+
+TEAM: Surrey 89ers
+--------------------------------------------------------------------------------
+Expected:    2400s (40.0 min)
+Actual:      2373s (39.5 min)
+Discrepancy: -27.0s (-1.1%)
+Unique Lineups: 16
+
+DETAILED LINEUP BREAKDOWN:
+--------------------------------------------------------------------------------
+  1. Players: 0,10,12,21,7
+     Time: 9.82 min (589s)
+
+  2. Players: 0,10,17,4,55
+     Time: 5.08 min (305s)
+
+  3. Players: 12,15,17,21,7
+     Time: 4.88 min (293s)
+
+  4. Players: 0,10,17,21,7
+     Time: 4.68 min (281s)
+
+  5. Players: 10,12,15,21,7
+     Time: 2.63 min (158s)
+
+  6. Players: 0,12,15,17,7
+     Time: 1.92 min (115s)
+
+  7. Players: 0,10,12,55,7
+     Time: 1.42 min (85s)
+
+  8. Players: 10,12,15,55,7
+     Time: 1.40 min (84s)
+
+  9. Players: 12,15,17,4,55
+     Time: 1.22 min (73s)
+
+ 10. Players: 12,15,17,55,7
+     Time: 1.18 min (71s)
+
+ 11. Players: 0,12,17,21,7
+     Time: 1.15 min (69s)
+
+ 12. Players: 10,12,15,21,4
+     Time: 1.03 min (62s)
+
+ 13. Players: 10,12,15,4,55
+     Time: 1.00 min (60s)
+
+ 14. Players: 0,12,17,4,55
+     Time: 0.73 min (44s)
+
+ 15. Players: 12,15,17,21,4
+     Time: 0.73 min (44s)
+
+ 16. Players: 0,12,15,21,7
+     Time: 0.67 min (40s)
+
+
+TOTAL FROM LINEUPS: 2373s (39.5 min)
+
+TEAM: Bristol Flyers
+--------------------------------------------------------------------------------
+Expected:    2400s (40.0 min)
+Actual:      2373s (39.5 min)
+Discrepancy: -27.0s (-1.1%)
+Unique Lineups: 17
+
+DETAILED LINEUP BREAKDOWN:
+--------------------------------------------------------------------------------
+  1. Players: 21,22,3,4,7
+     Time: 9.82 min (589s)
+
+  2. Players: 13,22,3,4,7
+     Time: 3.77 min (226s)
+
+  3. Players: 13,4,7,77,9
+     Time: 3.12 min (187s)
+
+  4. Players: 13,22,3,51,7
+     Time: 2.68 min (161s)
+
+  5. Players: 21,22,3,4,9
+     Time: 2.65 min (159s)
+
+  6. Players: 13,22,3,51,77
+     Time: 2.63 min (158s)
+
+  7. Players: 13,51,7,77,9
+     Time: 2.27 min (136s)
+
+  8. Players: 21,3,4,7,9
+     Time: 2.25 min (135s)
+
+  9. Players: 13,22,51,77,9
+     Time: 2.15 min (129s)
+
+ 10. Players: 13,22,4,7,9
+     Time: 1.92 min (115s)
+
+ 11. Players: 13,3,51,7,9
+     Time: 1.83 min (110s)
+
+ 12. Players: 13,4,51,7,9
+     Time: 1.40 min (84s)
+
+ 13. Players: 13,22,51,7,9
+     Time: 1.18 min (71s)
+
+ 14. Players: 22,4,51,7,9
+     Time: 0.72 min (43s)
+
+ 15. Players: 13,3,4,7,9
+     Time: 0.50 min (30s)
+
+ 16. Players: 13,21,22,4,9
+     Time: 0.43 min (26s)
+
+ 17. Players: 22,3,4,51,7
+     Time: 0.23 min (14s)
+
+
+TOTAL FROM LINEUPS: 2373s (39.5 min)
+
+================================================================================
+STINT ANALYSIS
+================================================================================
+
+Total stints tracked: 29
+
+Stint 1:
+  Period: 1
+  Time: 0s - 343s (Duration: 343s)
+  Home: Surrey 89ers - ['Isiah Small', 'Kino Lily Jr', 'Michael Graham', 'Ronald Polite Iii', 'Tyrin Lawrence']
+  Away: Bristol Flyers - ['Cameron Holden', 'Joseph Anderson', 'Marcus Delpeche', 'William Yoakum', 'Zachary Anderson']
+  Score: 16-9 (Total: 16-9)
+
+Stint 2:
+  Period: 1
+  Time: 343s - 467s (Duration: 124s)
+  Home: Surrey 89ers - ['Kino Lily Jr', 'Michael Graham', 'Nedas Cholevinskas', 'Ronald Polite Iii', 'Tayo Ogedengbe']
+  Away: Bristol Flyers - ['Cameron Holden', 'Darnell Brodie', 'Joseph Anderson', 'Owen Mccormack', 'William Yoakum']
+  Score: 0-5 (Total: 16-14)
+
+Stint 3:
+  Period: 1
+  Time: 467s - 536s (Duration: 69s)
+  Home: Surrey 89ers - ['Haydn Ling', 'Kino Lily Jr', 'Nedas Cholevinskas', 'Ronald Polite Iii', 'Tayo Ogedengbe']
+  Away: Bristol Flyers - ['Cameron Holden', 'Darnell Brodie', 'Jonathan Brown', 'Joseph Anderson', 'Owen Mccormack']
+  Score: 3-2 (Total: 19-16)
+
+Stint 4:
+  Period: 1
+  Time: 536s - 600s (Duration: 64s)
+  Home: Surrey 89ers - ['Andrew Lawrence', 'Haydn Ling', 'Isiah Small', 'Kino Lily Jr', 'Nedas Cholevinskas']
+  Away: Bristol Flyers - ['Darnell Brodie', 'Evan Walshe', 'Jonathan Brown', 'Joseph Anderson', 'Owen Mccormack']
+  Score: 5-1 (Total: 24-17)
+
+Stint 5:
+  Period: 2
+  Time: 600s - 649s (Duration: 49s)
+  Home: Surrey 89ers - ['Andrew Lawrence', 'Haydn Ling', 'Isiah Small', 'Nedas Cholevinskas', 'Tyrin Lawrence']
+  Away: Bristol Flyers - ['Cameron Holden', 'Darnell Brodie', 'Evan Walshe', 'Jonathan Brown', 'Owen Mccormack']
+  Score: 2-0 (Total: 26-17)
+
+Stint 6:
+  Period: 2
+  Time: 649s - 751s (Duration: 102s)
+  Home: Surrey 89ers - ['Andrew Lawrence', 'Haydn Ling', 'Isiah Small', 'Nedas Cholevinskas', 'Tyrin Lawrence']
+  Away: Bristol Flyers - ['Cameron Holden', 'Darnell Brodie', 'Jonathan Brown', 'Owen Mccormack', 'Zachary Anderson']
+  Score: 2-3 (Total: 28-20)
+
+Stint 7:
+  Period: 2
+  Time: 751s - 834s (Duration: 83s)
+  Home: Surrey 89ers - ['Isiah Small', 'Michael Graham', 'Nedas Cholevinskas', 'Ronald Polite Iii', 'Tyrin Lawrence']
+  Away: Bristol Flyers - ['Jonathan Brown', 'Joseph Anderson', 'Marcus Delpeche', 'William Yoakum', 'Zachary Anderson']
+  Score: 2-0 (Total: 31-20)
+
+Stint 8:
+  Period: 2
+  Time: 834s - 915s (Duration: 81s)
+  Home: Surrey 89ers - ['Kino Lily Jr', 'Michael Graham', 'Ronald Polite Iii', 'Tayo Ogedengbe', 'Tyrin Lawrence']
+  Away: Bristol Flyers - ['Jonathan Brown', 'Joseph Anderson', 'Marcus Delpeche', 'William Yoakum', 'Zachary Anderson']
+  Score: 4-4 (Total: 35-24)
+
+Stint 9:
+  Period: 2
+  Time: 915s - 982s (Duration: 67s)
+  Home: Surrey 89ers - ['Kino Lily Jr', 'Michael Graham', 'Ronald Polite Iii', 'Tayo Ogedengbe', 'Tyrin Lawrence']
+  Away: Bristol Flyers - ['Cameron Holden', 'Joseph Anderson', 'Owen Mccormack', 'William Yoakum', 'Zachary Anderson']
+  Score: 0-2 (Total: 35-26)
+
+Stint 10:
+  Period: 2
+  Time: 982s - 1043s (Duration: 61s)
+  Home: Surrey 89ers - ['Isiah Small', 'Kino Lily Jr', 'Michael Graham', 'Ronald Polite Iii', 'Tayo Ogedengbe']
+  Away: Bristol Flyers - ['Cameron Holden', 'Joseph Anderson', 'Owen Mccormack', 'William Yoakum', 'Zachary Anderson']
+  Score: 2-0 (Total: 37-26)
+
+Stint 11:
+  Period: 2
+  Time: 1043s - 1158s (Duration: 115s)
+  Home: Surrey 89ers - ['Isiah Small', 'Kino Lily Jr', 'Nedas Cholevinskas', 'Ronald Polite Iii', 'Tayo Ogedengbe']
+  Away: Bristol Flyers - ['Cameron Holden', 'Jonathan Brown', 'Joseph Anderson', 'Owen Mccormack', 'Zachary Anderson']
+  Score: 8-4 (Total: 45-30)
+
+Stint 12:
+  Period: 2
+  Time: 1158s - 1200s (Duration: 42s)
+  Home: Surrey 89ers - ['Isiah Small', 'Kino Lily Jr', 'Michael Graham', 'Nedas Cholevinskas', 'Ronald Polite Iii']
+  Away: Bristol Flyers - ['Cameron Holden', 'Darnell Brodie', 'Jonathan Brown', 'Joseph Anderson', 'Zachary Anderson']
+  Score: 3-5 (Total: 48-35)
+
+Stint 13:
+  Period: 3
+  Time: 1200s - 1415s (Duration: 215s)
+  Home: Surrey 89ers - ['Isiah Small', 'Kino Lily Jr', 'Michael Graham', 'Ronald Polite Iii', 'Tyrin Lawrence']
+  Away: Bristol Flyers - ['Cameron Holden', 'Joseph Anderson', 'Marcus Delpeche', 'William Yoakum', 'Zachary Anderson']
+  Score: 6-4 (Total: 54-39)
+
+Stint 14:
+  Period: 3
+  Time: 1415s - 1434s (Duration: 19s)
+  Home: Surrey 89ers - ['Isiah Small', 'Kino Lily Jr', 'Michael Graham', 'Nedas Cholevinskas', 'Ronald Polite Iii']
+  Away: Bristol Flyers - ['Cameron Holden', 'Darnell Brodie', 'Joseph Anderson', 'William Yoakum', 'Zachary Anderson']
+  Score: 0-2 (Total: 54-41)
+
+Stint 15:
+  Period: 3
+  Time: 1434s - 1448s (Duration: 14s)
+  Home: Surrey 89ers - ['Isiah Small', 'Kino Lily Jr', 'Michael Graham', 'Nedas Cholevinskas', 'Ronald Polite Iii']
+  Away: Bristol Flyers - ['Cameron Holden', 'Darnell Brodie', 'Joseph Anderson', 'Owen Mccormack', 'William Yoakum']
+  Score: 0-0 (Total: 54-41)
+
+Stint 16:
+  Period: 3
+  Time: 1448s - 1470s (Duration: 22s)
+  Home: Surrey 89ers - ['Kino Lily Jr', 'Michael Graham', 'Nedas Cholevinskas', 'Ronald Polite Iii', 'Tayo Ogedengbe']
+  Away: Bristol Flyers - ['Cameron Holden', 'Darnell Brodie', 'Joseph Anderson', 'Owen Mccormack', 'William Yoakum']
+  Score: 0-2 (Total: 54-43)
+
+Stint 17:
+  Period: 3
+  Time: 1470s - 1507s (Duration: 37s)
+  Home: Surrey 89ers - ['Kino Lily Jr', 'Michael Graham', 'Nedas Cholevinskas', 'Ronald Polite Iii', 'Tayo Ogedengbe']
+  Away: Bristol Flyers - ['Darnell Brodie', 'Evan Walshe', 'Joseph Anderson', 'Owen Mccormack', 'William Yoakum']
+  Score: 6-0 (Total: 60-43)
+
+Stint 18:
+  Period: 3
+  Time: 1507s - 1564s (Duration: 57s)
+  Home: Surrey 89ers - ['Andrew Lawrence', 'Kino Lily Jr', 'Michael Graham', 'Nedas Cholevinskas', 'Tayo Ogedengbe']
+  Away: Bristol Flyers - ['Darnell Brodie', 'Evan Walshe', 'Joseph Anderson', 'Owen Mccormack', 'William Yoakum']
+  Score: 3-2 (Total: 63-45)
+
+Stint 19:
+  Period: 3
+  Time: 1564s - 1619s (Duration: 55s)
+  Home: Surrey 89ers - ['Andrew Lawrence', 'Haydn Ling', 'Kino Lily Jr', 'Nedas Cholevinskas', 'Tayo Ogedengbe']
+  Away: Bristol Flyers - ['Darnell Brodie', 'Evan Walshe', 'Joseph Anderson', 'Owen Mccormack', 'William Yoakum']
+  Score: 7-2 (Total: 70-47)
+
+Stint 20:
+  Period: 3
+  Time: 1619s - 1722s (Duration: 103s)
+  Home: Surrey 89ers - ['Andrew Lawrence', 'Haydn Ling', 'Isiah Small', 'Nedas Cholevinskas', 'Tyrin Lawrence']
+  Away: Bristol Flyers - ['Darnell Brodie', 'Evan Walshe', 'Jonathan Brown', 'Joseph Anderson', 'Owen Mccormack']
+  Score: 5-4 (Total: 75-51)
+
+Stint 21:
+  Period: 3
+  Time: 1722s - 1785s (Duration: 63s)
+  Home: Surrey 89ers - ['Andrew Lawrence', 'Haydn Ling', 'Isiah Small', 'Nedas Cholevinskas', 'Tyrin Lawrence']
+  Away: Bristol Flyers - ['Cameron Holden', 'Darnell Brodie', 'Evan Walshe', 'Jonathan Brown', 'Owen Mccormack']
+  Score: 0-0 (Total: 75-51)
+
+Stint 22:
+  Period: 3
+  Time: 1785s - 1965s (Duration: 180s)
+  Home: Surrey 89ers - ['Isiah Small', 'Michael Graham', 'Nedas Cholevinskas', 'Ronald Polite Iii', 'Tyrin Lawrence']
+  Away: Bristol Flyers - ['Cameron Holden', 'Evan Walshe', 'Jonathan Brown', 'Owen Mccormack', 'Zachary Anderson']
+  Score: 7-10 (Total: 82-61)
+
+Stint 23:
+  Period: 4
+  Time: 1965s - 1984s (Duration: 19s)
+  Home: Surrey 89ers - ['Kino Lily Jr', 'Michael Graham', 'Nedas Cholevinskas', 'Ronald Polite Iii', 'Tayo Ogedengbe']
+  Away: Bristol Flyers - ['Cameron Holden', 'Jonathan Brown', 'Owen Mccormack', 'William Yoakum', 'Zachary Anderson']
+  Score: 0-1 (Total: 82-62)
+
+Stint 24:
+  Period: 4
+  Time: 1984s - 2081s (Duration: 97s)
+  Home: Surrey 89ers - ['Kino Lily Jr', 'Michael Graham', 'Nedas Cholevinskas', 'Ronald Polite Iii', 'Tayo Ogedengbe']
+  Away: Bristol Flyers - ['Cameron Holden', 'Jonathan Brown', 'Marcus Delpeche', 'William Yoakum', 'Zachary Anderson']
+  Score: 0-2 (Total: 82-64)
+
+Stint 25:
+  Period: 4
+  Time: 2081s - 2127s (Duration: 46s)
+  Home: Surrey 89ers - ['Andrew Lawrence', 'Kino Lily Jr', 'Michael Graham', 'Tayo Ogedengbe', 'Tyrin Lawrence']
+  Away: Bristol Flyers - ['Cameron Holden', 'Jonathan Brown', 'Marcus Delpeche', 'William Yoakum', 'Zachary Anderson']
+  Score: 5-0 (Total: 87-64)
+
+Stint 26:
+  Period: 4
+  Time: 2127s - 2191s (Duration: 64s)
+  Home: Surrey 89ers - ['Andrew Lawrence', 'Haydn Ling', 'Kino Lily Jr', 'Tayo Ogedengbe', 'Tyrin Lawrence']
+  Away: Bristol Flyers - ['Cameron Holden', 'Joseph Anderson', 'Owen Mccormack', 'William Yoakum', 'Zachary Anderson']
+  Score: 2-4 (Total: 89-68)
+
+Stint 27:
+  Period: 4
+  Time: 2191s - 2262s (Duration: 71s)
+  Home: Surrey 89ers - ['Haydn Ling', 'Isiah Small', 'Kino Lily Jr', 'Ronald Polite Iii', 'Tyrin Lawrence']
+  Away: Bristol Flyers - ['Cameron Holden', 'Joseph Anderson', 'Owen Mccormack', 'William Yoakum', 'Zachary Anderson']
+  Score: 0-3 (Total: 89-71)
+
+Stint 28:
+  Period: 4
+  Time: 2262s - 2288s (Duration: 26s)
+  Home: Surrey 89ers - ['Haydn Ling', 'Isiah Small', 'Kino Lily Jr', 'Ronald Polite Iii', 'Tyrin Lawrence']
+  Away: Bristol Flyers - ['Cameron Holden', 'Darnell Brodie', 'Jonathan Brown', 'Owen Mccormack', 'William Yoakum']
+  Score: 2-2 (Total: 91-73)
+
+Stint 29:
+  Period: 4
+  Time: 2288s - 2372s (Duration: 84s)
+  Home: Surrey 89ers - ['Haydn Ling', 'Kino Lily Jr', 'Ronald Polite Iii', 'Tayo Ogedengbe', 'Tyrin Lawrence']
+  Away: Bristol Flyers - ['Cameron Holden', 'Darnell Brodie', 'Jonathan Brown', 'Owen Mccormack', 'William Yoakum']
+  Score: 2-7 (Total: 93-80)
+
+
+================================================================================
+BOXSCORE COMPARISON
+================================================================================
+
+Surrey 89ers:
+  Players with minutes from boxscore:
+    #0  Isiah Small                   :   25.8 min
+    #7  Ronald Polite Iii             :   29.9 min
+    #10 Tyrin Lawrence                :   26.8 min
+    #12 Kino Lily Jr                  :   30.3 min
+    #21 Michael Graham                :   25.1 min
+    #4  Andrew Lawrence               :   10.0 min
+    #15 Tayo Ogedengbe                :   17.1 min
+    #17 Nedas Cholevinskas            :   21.9 min
+    #55 Haydn Ling                    :   12.9 min
+
+  Boxscore total minutes: 200.0
+  Expected minutes: 40.0
+
+Bristol Flyers:
+  Players with minutes from boxscore:
+    #3  William Yoakum                :   26.9 min
+    #4  Zachary Anderson              :   26.8 min
+    #7  Cameron Holden                :   32.0 min
+    #21 Marcus Delpeche               :   14.4 min
+    #22 Joseph Anderson               :   28.4 min
+    #9  Jonathan Brown                :   20.9 min
+    #13 Owen Mccormack                :   24.6 min
+    #51 Darnell Brodie                :   16.0 min
+    #77 Evan Walshe                   :   10.1 min
+
+  Boxscore total minutes: 200.0
+  Expected minutes: 40.0
+
