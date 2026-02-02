@@ -1,0 +1,5 @@
+{"folders":[
+  {"path":"adult/data_2026-02-02T16-03_BBE","folder_name":"data_2026-02-02T16-03_BBE","timestamp":"2026-02-02T16-03","competition_code":"BBE"},
+  {"path":"adult/data_2026-02-02T14-25_SLB","folder_name":"data_2026-02-02T14-25_SLB","timestamp":"2026-02-02T14-25","competition_code":"SLB"},
+  {"path":"data","folder_name":"data","timestamp":"legacy","competition_code":"DEFAULT"}
+]}
