@@ -1,0 +1,84 @@
+name: Update folders.json
+
+on:
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - 'data_*/**'
+      - 'data/**'
+
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  update-manifest:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate folders.json
+        run: |
+          echo "Scanning for data folders..."
+
+          # Find all folders matching data_YYYYMMDD_HHMM_CODE pattern
+          # Also include legacy 'data' folder if it exists
+
+          echo '{"folders":[' > folders.json
+
+          first=true
+
+          # Find timestamped data folders (data_YYYYMMDD_HHMM_CODE)
+          for dir in $(find . -maxdepth 2 -type d -name "data_*" | sort -r); do
+            folder_name=$(basename "$dir")
+
+            # Extract parts from folder name: data_YYYYMMDD_HHMM_CODE
+            if [[ $folder_name =~ ^data_([0-9]{8})_([0-9]{4})_(.+)$ ]]; then
+              date_part="${BASH_REMATCH[1]}"
+              time_part="${BASH_REMATCH[2]}"
+              code_part="${BASH_REMATCH[3]}"
+              timestamp="${date_part}_${time_part}"
+
+              # Check if folder has stints.csv (valid data folder)
+              if [ -f "$dir/stints.csv" ]; then
+                if [ "$first" = true ]; then
+                  first=false
+                else
+                  echo ',' >> folders.json
+                fi
+
+                echo "  {\"path\":\"${dir#./}\",\"folder_name\":\"$folder_name\",\"timestamp\":\"$timestamp\",\"competition_code\":\"$code_part\"}" >> folders.json
+                echo "Found: $folder_name"
+              fi
+            fi
+          done
+
+          # Check for legacy 'data' folder
+          if [ -d "./data" ] && [ -f "./data/stints.csv" ]; then
+            if [ "$first" = true ]; then
+              first=false
+            else
+              echo ',' >> folders.json
+            fi
+            echo '  {"path":"data","folder_name":"data","timestamp":"legacy","competition_code":"DEFAULT"}' >> folders.json
+            echo "Found: legacy data folder"
+          fi
+
+          echo '' >> folders.json
+          echo ']}' >> folders.json
+
+          echo "Generated folders.json:"
+          cat folders.json
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add folders.json
+          git diff --staged --quiet || git commit -m "Auto-update folders.json"
+          git push
