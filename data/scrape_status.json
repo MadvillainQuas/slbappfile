@@ -1,13 +1,6 @@
 {
-  "status": "idle",
-  "last_run": "2026-02-02T16:11:57.192277",
-  "last_result": {
-    "success": 2,
-    "failed": 0,
-    "competitions": [
-      "SLB",
-      "BBE"
-    ]
-  },
-  "updated_at": "2026-02-02T16:11:57.646713"
+  "status": "running",
+  "current_request": "monday_auto_1770050367753",
+  "started_at": "2026-02-02T16:39:27.754Z",
+  "updated_at": "2026-02-02T16:39:29.492Z"
 }
