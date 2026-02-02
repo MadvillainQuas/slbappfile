@@ -1,5 +1,10 @@
 {
   "status": "running",
-  "current_request": "manual_all",
-  "updated_at": "2026-02-02T12:11:52.863Z"
+  "mode": "all",
+  "competitions": [
+    "SLB",
+    "BBE"
+  ],
+  "started_at": "2026-02-02T12:34:44.532174",
+  "updated_at": "2026-02-02T12:34:45.998394"
 }
