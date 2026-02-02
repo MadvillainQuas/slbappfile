@@ -1,4 +1,6 @@
 {
+  "version": 1,
+  "updated_at": "2026-02-02T08:53:04.787591100+00:00",
   "users": [
     {
       "id": "admin_1",
@@ -6,8 +8,12 @@
       "password_hash": "8ea4d57a9609bc2ae5c98f73bb4b95eccac2a4cef382d29edbfbd978a6b8c1f6",
       "display_name": "Administrator",
       "role": "admin",
-      "allowed_apps": ["*"],
-      "allowed_comp_codes": ["*"],
+      "allowed_apps": [
+        "*"
+      ],
+      "allowed_comp_codes": [
+        "*"
+      ],
       "leagues": [],
       "created_at": "2026-02-01T00:00:00Z",
       "updated_at": null,
@@ -19,8 +25,25 @@
       "code": "SLB",
       "name": "SLB League",
       "enabled": true,
-      "schedule_urls": ["https://www.superleaguebasketballm.co.uk/competitions/?WHurl=%2Fschedule%3FphaseName%3DRegular%20season%26poolNumber%3D0%26matchType%3DREGULAR%26roundNumber%3D-1%26", "https://www.superleaguebasketballm.co.uk/competitions/?WHurl=%2Fcompetition%2F47714%2Fschedule%3FphaseName%3DQualifier%26", "https://www.superleaguebasketballm.co.uk/competitions/?WHurl=%2Fcompetition%2F47714%2Fschedule%3FphaseName%3DQuarter%20Finals%26", "https://www.superleaguebasketballm.co.uk/competitions/?WHurl=%2Fcompetition%2F47714%2Fschedule", "https://www.superleaguebasketballm.co.uk/competitions/?WHurl=%2Fcompetition%2F42212%2Fschedule", "https://www.superleaguebasketballm.co.uk/competitions/?WHurl=%2Fcompetition%2F42212%2Fschedule%3FphaseName%3DGroup%201%26", "https://www.superleaguebasketballm.co.uk/competitions/?WHurl=%2Fcompetition%2F42212%2Fschedule%3FphaseName%3DGroup%202%26", "https://www.superleaguebasketballm.co.uk/competitions/?WHurl=%2Fcompetition%2F42212%2Fschedule%3FphaseName%3DGroup%203%26", "https://www.superleaguebasketballm.co.uk/competitions/?WHurl=%2Fcompetition%2F42212%2Fschedule%3FphaseName%3DSemi-Finals%26"]
+      "schedule_urls": [
+        "https://www.superleaguebasketballm.co.uk/competitions/?WHurl=%2Fschedule%3FphaseName%3DRegular%20season%26poolNumber%3D0%26matchType%3DREGULAR%26roundNumber%3D-1%26",
+        "https://www.superleaguebasketballm.co.uk/competitions/?WHurl=%2Fcompetition%2F47714%2Fschedule%3FphaseName%3DQualifier%26",
+        "https://www.superleaguebasketballm.co.uk/competitions/?WHurl=%2Fcompetition%2F47714%2Fschedule%3FphaseName%3DQuarter%20Finals%26",
+        "https://www.superleaguebasketballm.co.uk/competitions/?WHurl=%2Fcompetition%2F47714%2Fschedule",
+        "https://www.superleaguebasketballm.co.uk/competitions/?WHurl=%2Fcompetition%2F42212%2Fschedule",
+        "https://www.superleaguebasketballm.co.uk/competitions/?WHurl=%2Fcompetition%2F42212%2Fschedule%3FphaseName%3DGroup%201%26",
+        "https://www.superleaguebasketballm.co.uk/competitions/?WHurl=%2Fcompetition%2F42212%2Fschedule%3FphaseName%3DGroup%202%26",
+        "https://www.superleaguebasketballm.co.uk/competitions/?WHurl=%2Fcompetition%2F42212%2Fschedule%3FphaseName%3DGroup%203%26",
+        "https://www.superleaguebasketballm.co.uk/competitions/?WHurl=%2Fcompetition%2F42212%2Fschedule%3FphaseName%3DSemi-Finals%26"
+      ]
+    },
+    {
+      "code": "BBE",
+      "name": "NBLD1",
+      "enabled": true,
+      "schedule_urls": [
+        "https://be.web.geniussports.com/competitions/?cu=BBE/schedule"
+      ]
     }
-  ],
-  "updated_at": "2026-02-01T00:00:00Z"
+  ]
 }
