@@ -1,13 +1,10 @@
 {
-  "status": "idle",
-  "last_run": "2026-02-02T12:34:47.145016",
-  "last_result": {
-    "success": 0,
-    "failed": 2,
-    "competitions": [
-      "SLB",
-      "BBE"
-    ]
-  },
-  "updated_at": "2026-02-02T12:34:47.783581"
+  "status": "running",
+  "mode": "all",
+  "competitions": [
+    "SLB",
+    "BBE"
+  ],
+  "started_at": "2026-02-02T12:37:37.873208",
+  "updated_at": "2026-02-02T12:37:38.341981"
 }
