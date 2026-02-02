@@ -8,6 +8,8 @@ on:
     paths:
       - 'data_*/**'
       - 'data/**'
+      - 'adult/**'
+      - 'Adult/**'
 
   # Allow manual trigger
   workflow_dispatch:
@@ -23,40 +25,71 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate folders.json
+        shell: bash
         run: |
           echo "Scanning for data folders..."
+          echo "Current directory: $(pwd)"
+          echo "Directory listing:"
+          ls -la
+          echo ""
+          echo "Adult directory contents (if exists):"
+          ls -la adult/ 2>/dev/null || echo "No adult directory"
+          echo ""
 
-          # Find all folders matching data_YYYYMMDD_HHMM_CODE pattern
-          # Also include legacy 'data' folder if it exists
+          # Find all data_* folders
+          echo "Finding all data_* folders..."
+          find . -maxdepth 3 -type d -name "data_*" -print
+          echo ""
 
+          # Start JSON
           echo '{"folders":[' > folders.json
 
           first=true
 
-          # Find timestamped data folders (data_YYYYMMDD_HHMM_CODE)
-          for dir in $(find . -maxdepth 2 -type d -name "data_*" | sort -r); do
+          # Use while loop with process substitution for safer handling
+          while IFS= read -r dir; do
+            [ -z "$dir" ] && continue
+
             folder_name=$(basename "$dir")
+            dir_path="${dir#./}"
 
-            # Extract parts from folder name: data_YYYYMMDD_HHMM_CODE
-            if [[ $folder_name =~ ^data_([0-9]{8})_([0-9]{4})_(.+)$ ]]; then
-              date_part="${BASH_REMATCH[1]}"
-              time_part="${BASH_REMATCH[2]}"
-              code_part="${BASH_REMATCH[3]}"
-              timestamp="${date_part}_${time_part}"
+            echo "Checking: $dir_path (folder: $folder_name)"
 
-              # Check if folder has stints.csv (valid data folder)
-              if [ -f "$dir/stints.csv" ]; then
-                if [ "$first" = true ]; then
-                  first=false
-                else
-                  echo ',' >> folders.json
-                fi
-
-                echo "  {\"path\":\"${dir#./}\",\"folder_name\":\"$folder_name\",\"timestamp\":\"$timestamp\",\"competition_code\":\"$code_part\"}" >> folders.json
-                echo "Found: $folder_name"
-              fi
+            # Check if folder has stints.csv (valid data folder)
+            if [ ! -f "$dir/stints.csv" ]; then
+              echo "  -> No stints.csv, skipping"
+              continue
             fi
-          done
+
+            echo "  -> Has stints.csv"
+
+            timestamp=""
+            code_part=""
+
+            # Try new ISO-like format: data_YYYY-MM-DDTHH-MM_CODE
+            if [[ $folder_name =~ ^data_([0-9]{4}-[0-9]{2}-[0-9]{2}T[0-9]{2}-[0-9]{2})_(.+)$ ]]; then
+              timestamp="${BASH_REMATCH[1]}"
+              code_part="${BASH_REMATCH[2]}"
+              echo "  -> Matched new format: timestamp=$timestamp, code=$code_part"
+            # Try old format: data_YYYYMMDD_HHMM_CODE
+            elif [[ $folder_name =~ ^data_([0-9]{8})_([0-9]{4})_(.+)$ ]]; then
+              timestamp="${BASH_REMATCH[1]}_${BASH_REMATCH[2]}"
+              code_part="${BASH_REMATCH[3]}"
+              echo "  -> Matched old format: timestamp=$timestamp, code=$code_part"
+            else
+              echo "  -> No pattern match for: $folder_name"
+            fi
+
+            if [ -n "$timestamp" ] && [ -n "$code_part" ]; then
+              if [ "$first" = true ]; then
+                first=false
+              else
+                echo ',' >> folders.json
+              fi
+              echo "  {\"path\":\"$dir_path\",\"folder_name\":\"$folder_name\",\"timestamp\":\"$timestamp\",\"competition_code\":\"$code_part\"}" >> folders.json
+              echo "  -> Added to manifest"
+            fi
+          done < <(find . -maxdepth 3 -type d -name "data_*" | sort -r)
 
           # Check for legacy 'data' folder
           if [ -d "./data" ] && [ -f "./data/stints.csv" ]; then
@@ -72,8 +105,10 @@ jobs:
           echo '' >> folders.json
           echo ']}' >> folders.json
 
-          echo "Generated folders.json:"
+          echo ""
+          echo "========== Generated folders.json =========="
           cat folders.json
+          echo "============================================="
 
       - name: Commit and push if changed
         run: |
