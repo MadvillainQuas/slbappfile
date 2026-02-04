@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-02-04T06:20:25.586918400+00:00",
+  "updated_at": "2026-02-04T06:21:03.353826800+00:00",
   "users": [
     {
       "id": "admin_1",
@@ -35,6 +35,24 @@
       "leagues": [],
       "created_at": "2026-02-03T15:11:40.976458900+00:00",
       "updated_at": "2026-02-04T06:20:25.586894100+00:00",
+      "enabled": true,
+      "app_passwords": {}
+    },
+    {
+      "id": "user_1770186063352",
+      "email": "yah",
+      "password_hash": "aa58b21b01d6b8a99c1a5856962dbac36c758a79dc0a77c2e013ce2c39ecdc8a",
+      "display_name": "lol",
+      "role": "user",
+      "allowed_apps": [
+        "lineup-analyzer"
+      ],
+      "allowed_comp_codes": [
+        "BBE"
+      ],
+      "leagues": [],
+      "created_at": "2026-02-04T06:21:03.353808900+00:00",
+      "updated_at": null,
       "enabled": true,
       "app_passwords": {}
     }
