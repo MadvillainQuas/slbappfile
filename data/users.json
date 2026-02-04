@@ -5,7 +5,7 @@
     {
       "id": "admin_1",
       "email": "crankyoldfart77@gmail.com",
-      "password_hash": "8ea4d57a9609bc2ae5c98f73bb4b95eccac2a4cef382d29edbfbd978a6b8c1f6",
+      "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$eijnYSneyPYUMR3yt4LgIQ$H2T8YNW0Fdesp94P8xlErCtpAiuZknvCnI1bQ08BncM",
       "display_name": "Administrator",
       "role": "admin",
       "allowed_apps": [
@@ -16,7 +16,7 @@
       ],
       "leagues": [],
       "created_at": "2026-02-01T00:00:00Z",
-      "updated_at": "2026-02-02T17:43:14.485770600+00:00",
+      "updated_at": "2026-02-04T18:32:27.968739500+00:00",
       "enabled": true,
       "app_passwords": {}
     },
