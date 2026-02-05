@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-02-05T14:50:53.717751600+00:00",
+  "updated_at": "2026-02-05T14:52:13.211535800+00:00",
   "users": [
     {
       "id": "admin_1",
@@ -82,11 +82,17 @@
       "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$J5eOWLTbqCMESVLTzzMkCg$cHGYwJ6bqL2/UGUmB21GCzpB083t7ahEKGKOo3jdbGU",
       "display_name": "Dude",
       "role": "user",
-      "allowed_apps": [],
-      "allowed_comp_codes": [],
+      "allowed_apps": [
+        "gamevis",
+        "lineup-analyzer"
+      ],
+      "allowed_comp_codes": [
+        "SLB",
+        "BBE"
+      ],
       "leagues": [],
       "created_at": "2026-02-05T14:03:26.214801100+00:00",
-      "updated_at": null,
+      "updated_at": "2026-02-05T14:52:13.211533800+00:00",
       "enabled": true,
       "app_passwords": {}
     }
