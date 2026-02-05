@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-02-05T09:36:07.819294400+00:00",
+  "updated_at": "2026-02-05T12:56:40.960906200+00:00",
   "users": [
     {
       "id": "admin_1",
@@ -52,6 +52,24 @@
       ],
       "leagues": [],
       "created_at": "2026-02-04T06:21:03.353808900+00:00",
+      "updated_at": null,
+      "enabled": true,
+      "app_passwords": {}
+    },
+    {
+      "id": "user_1770296200770",
+      "email": "LeBron@gmail.com",
+      "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$Pkur+DDIR1dRtZ0HhjycPg$rO/6Jb2vymh6xVr9LgU2H25H6i8uaaPyd5baUlH5HuM",
+      "display_name": "LeB",
+      "role": "user",
+      "allowed_apps": [
+        "lineup-analyzer"
+      ],
+      "allowed_comp_codes": [
+        "SLB"
+      ],
+      "leagues": [],
+      "created_at": "2026-02-05T12:56:40.960881800+00:00",
       "updated_at": null,
       "enabled": true,
       "app_passwords": {}
