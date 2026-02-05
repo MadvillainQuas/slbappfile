@@ -1,0 +1,155 @@
+{
+  "started": "2026-01-10T18:28:13.615177",
+  "countries": [
+    "Albania",
+    "Armenia",
+    "Azerbaijan",
+    "Croatia",
+    "Czech Republic",
+    "Finland",
+    "Germany",
+    "Hungary",
+    "Iceland",
+    "Israel",
+    "Italy",
+    "Luxembourg",
+    "Malta",
+    "Poland",
+    "Portugal",
+    "Spain",
+    "Switzerland",
+    "United Kingdom",
+    "Argentina",
+    "Uruguay",
+    "Iran",
+    "Japan",
+    "Mongolia",
+    "Taiwan"
+  ],
+  "selected_league_names": {
+    "Albania": [
+      "Superliga"
+    ],
+    "Armenia": [
+      "A-League"
+    ],
+    "Azerbaijan": [
+      "ABL"
+    ],
+    "Croatia": [
+      "Prva Liga"
+    ],
+    "Czech Republic": [
+      "1Liga"
+    ],
+    "Finland": [
+      "1st Division A"
+    ],
+    "Germany": [
+      "Regionalliga",
+      "NBBL"
+    ],
+    "Hungary": [
+      "B Red",
+      "B Green"
+    ],
+    "Iceland": [
+      "Subway League",
+      "Division I"
+    ],
+    "Israel": [
+      "National League"
+    ],
+    "Italy": [
+      "Serie B Nazionale"
+    ],
+    "Luxembourg": [
+      "LBBL"
+    ],
+    "Malta": [
+      "BOV League D1"
+    ],
+    "Poland": [
+      "1Liga"
+    ],
+    "Portugal": [
+      "Proliga"
+    ],
+    "Spain": [
+      "Tercera FEB"
+    ],
+    "Switzerland": [
+      "NLB"
+    ],
+    "United Kingdom": [
+      "BCB",
+      "NBL D1"
+    ],
+    "Argentina": [
+      "La Liga Argentina"
+    ],
+    "Uruguay": [
+      "LUB"
+    ],
+    "Japan": [
+      "B2 League",
+      "B3 League"
+    ],
+    "Iran": [
+      "Superleague"
+    ],
+    "Mongolia": [
+      "MBL"
+    ],
+    "Taiwan": [
+      "TPBL",
+      "PLeague+"
+    ]
+  },
+  "team_stats_urls": {
+    "Albania|Superliga": "https://www.eurobasket.com/team-stats.aspx?sectionid=161&League=1&season=2025-2026&Type=Total",
+    "Armenia|A-League": "https://www.eurobasket.com/team-stats.aspx?sectionid=176&League=1&season=2025-2026&Type=Total",
+    "Azerbaijan|ABL": "https://www.eurobasket.com/team-stats.aspx?sectionid=187&League=1&season=2025-2026&Type=Total",
+    "Croatia|Prva Liga": "https://www.eurobasket.com/team-stats.aspx?sectionid=47&League=2&season=2025-2026&Type=Total",
+    "Czech Republic|1Liga": "https://www.eurobasket.com/team-stats.aspx?sectionid=46&League=2&season=2025-2026&Type=Total",
+    "Finland|1st Division A": "https://www.eurobasket.com/team-stats.aspx?sectionid=70&League=2&season=2025-2026&Type=Total",
+    "Germany|Regionalliga": "https://www.eurobasket.com/team-stats.aspx?sectionid=52&League=4&season=2025-2026&Type=Total",
+    "Germany|NBBL": "https://www.eurobasket.com/team-stats.aspx?sectionid=52&League=8&season=2025-2026&Type=Total",
+    "Hungary|B Red": "https://www.eurobasket.com/team-stats.aspx?sectionid=67&League=2&season=2025-2026&Type=Total",
+    "Hungary|B Green": "https://www.eurobasket.com/team-stats.aspx?sectionid=67&League=3&season=2025-2026&Type=Total",
+    "Iceland|Subway League": "https://www.eurobasket.com/team-stats.aspx?sectionid=64&League=1&season=2025-2026&Type=Total",
+    "Iceland|Division I": "https://www.eurobasket.com/team-stats.aspx?sectionid=64&League=2&season=2025-2026&Type=Total",
+    "Israel|National League": "https://www.eurobasket.com/team-stats.aspx?sectionid=7&League=2&season=2025-2026&Type=Total",
+    "Italy|Serie B Nazionale": "https://www.eurobasket.com/team-stats.aspx?sectionid=1&League=3&season=2025-2026&Type=Total",
+    "Luxembourg|LBBL": "https://www.eurobasket.com/team-stats.aspx?sectionid=61&League=1&season=2025-2026&Type=Total",
+    "Malta|BOV League D1": "https://www.eurobasket.com/team-stats.aspx?sectionid=185&League=1&season=2025-2026&Type=Total",
+    "Poland|1Liga": "https://www.eurobasket.com/team-stats.aspx?sectionid=10&League=2&season=2025-2026&Type=Total",
+    "Portugal|Proliga": "https://www.eurobasket.com/team-stats.aspx?sectionid=69&League=2&season=2025-2026&Type=Total",
+    "Spain|Tercera FEB": "https://www.eurobasket.com/team-stats.aspx?sectionid=2&League=4&season=2025-2026&Type=Total",
+    "Switzerland|NLB": "https://www.eurobasket.com/team-stats.aspx?sectionid=57&League=2&season=2025-2026&Type=Total",
+    "United Kingdom|BCB": "https://www.eurobasket.com/team-stats.aspx?sectionid=62&League=2&season=2025-2026&Type=Total",
+    "United Kingdom|NBL D1": "https://www.eurobasket.com/team-stats.aspx?sectionid=62&League=3&season=2025-2026&Type=Total",
+    "Argentina|La Liga Argentina": "https://www.latinbasket.com/team-stats.aspx?sectionid=31&League=2&season=2025-2026&Type=Total",
+    "Uruguay|LUB": "https://www.latinbasket.com/team-stats.aspx?sectionid=39&League=1&season=2025-2026&Type=Total",
+    "Japan|B2 League": "https://www.asia-basket.com/team-stats.aspx?sectionid=23&League=2&season=2025-2026&Type=Total",
+    "Japan|B3 League": "https://www.asia-basket.com/team-stats.aspx?sectionid=23&League=3&season=2025-2026&Type=Total",
+    "Iran|Superleague": "https://www.asia-basket.com/team-stats.aspx?sectionid=83&League=1&season=2025-2026&Type=Total",
+    "Mongolia|MBL": "https://www.asia-basket.com/team-stats.aspx?sectionid=129&League=1&season=2025-2026&Type=Total",
+    "Taiwan|TPBL": "https://www.asia-basket.com/team-stats.aspx?sectionid=28&League=1&season=2025-2026&Type=Total",
+    "Taiwan|PLeague+": "https://www.asia-basket.com/team-stats.aspx?sectionid=28&League=2&season=2025-2026&Type=Total"
+  },
+  "config": {
+    "requests_per_minute": 25,
+    "page_load_delay": 15.0,
+    "simulate_human_behavior": true
+  },
+  "rate_limiter_stats": {
+    "total_requests": 622,
+    "requests_last_minute": 0,
+    "consecutive_errors": 0,
+    "blocked_count": 0,
+    "in_backoff": false
+  },
+  "session_duration_minutes": 393.2832061449687,
+  "pages_scraped": 529
+}
