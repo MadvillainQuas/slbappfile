@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-02-05T12:56:40.960906200+00:00",
+  "updated_at": "2026-02-05T14:01:15.836394600+00:00",
   "users": [
     {
       "id": "admin_1",
@@ -63,6 +63,7 @@
       "display_name": "LeB",
       "role": "user",
       "allowed_apps": [
+        "gamevis",
         "lineup-analyzer"
       ],
       "allowed_comp_codes": [
@@ -70,9 +71,11 @@
       ],
       "leagues": [],
       "created_at": "2026-02-05T12:56:40.960881800+00:00",
-      "updated_at": null,
+      "updated_at": "2026-02-05T14:01:15.836142900+00:00",
       "enabled": true,
-      "app_passwords": {}
+      "app_passwords": {
+        "lineup-analyzer": "ABS-CBN2024!"
+      }
     }
   ],
   "competition_codes": [
