@@ -1,6 +1,6 @@
 {
-  "status": "running",
-  "current_request": "req_1770303207209_user_177",
-  "started_at": "2026-02-05T15:36:04.976Z",
-  "updated_at": "2026-02-05T15:36:05.164Z"
+  "status": "idle",
+  "last_completed": "req_1770303207209_user_177",
+  "completed_at": "2026-02-05T15:45:21.750Z",
+  "updated_at": "2026-02-05T15:45:21.980Z"
 }
