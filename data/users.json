@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-02-05T14:03:26.214812500+00:00",
+  "updated_at": "2026-02-05T14:50:53.717751600+00:00",
   "users": [
     {
       "id": "admin_1",
@@ -8,15 +8,14 @@
       "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$eijnYSneyPYUMR3yt4LgIQ$H2T8YNW0Fdesp94P8xlErCtpAiuZknvCnI1bQ08BncM",
       "display_name": "Administrator",
       "role": "admin",
-      "allowed_apps": [
-        "*"
-      ],
+      "allowed_apps": [],
       "allowed_comp_codes": [
-        "*"
+        "SLB",
+        "BBE"
       ],
       "leagues": [],
       "created_at": "2026-02-01T00:00:00Z",
-      "updated_at": "2026-02-04T18:32:27.968739500+00:00",
+      "updated_at": "2026-02-05T14:50:53.717743200+00:00",
       "enabled": true,
       "app_passwords": {}
     },
