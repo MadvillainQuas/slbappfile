@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "generatedAt": "2025-01-15T00:00:00Z",
+  "generatedAt": "2026-02-05T00:00:00Z",
   "apps": {
     "lineup-analyzer": {
       "currentVersion": "1.0.0",
@@ -27,6 +27,38 @@
       "releaseDate": "2025-01-15",
       "displayName": "Game Visualizer",
       "description": "Visualize game data with interactive shot charts",
+      "thumbnailUrl": null,
+      "passwordHash": null,
+      "passwordVersion": 0,
+      "dataFiles": [],
+      "leagueId": null,
+      "leagueName": null
+    },
+    "international-bart-torvik": {
+      "currentVersion": "1.0.0",
+      "minimumAppVersion": "1.0.0",
+      "files": [],
+      "totalSize": 0,
+      "changelog": "International player statistics viewer",
+      "releaseDate": "2026-02-05",
+      "displayName": "International Stats Viewer",
+      "description": "International player statistics with advanced metrics and team totals",
+      "thumbnailUrl": null,
+      "passwordHash": null,
+      "passwordVersion": 0,
+      "dataFiles": [],
+      "leagueId": null,
+      "leagueName": null
+    },
+    "advanced-player-view": {
+      "currentVersion": "1.0.0",
+      "minimumAppVersion": "1.0.0",
+      "files": [],
+      "totalSize": 0,
+      "changelog": "Advanced player breakdown analyzer",
+      "releaseDate": "2026-02-05",
+      "displayName": "Advanced Player View",
+      "description": "Detailed player breakdown with percentile rankings and offensive/defensive analysis",
       "thumbnailUrl": null,
       "passwordHash": null,
       "passwordVersion": 0,
