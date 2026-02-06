@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-02-05T14:52:13.211535800+00:00",
+  "updated_at": "2026-02-06T16:40:59.988678951+00:00",
   "users": [
     {
       "id": "admin_1",
@@ -93,6 +93,20 @@
       "leagues": [],
       "created_at": "2026-02-05T14:03:26.214801100+00:00",
       "updated_at": "2026-02-05T14:52:13.211533800+00:00",
+      "enabled": true,
+      "app_passwords": {}
+    },
+    {
+      "id": "user_1770396059643",
+      "email": "bobb@gmail.com",
+      "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$kdFNCDzqK5UDoyRrV+IuDg$nREuupra+M10NHNUszBQvOBE5PtIkqexPglgC5wgJmI",
+      "display_name": "Bob",
+      "role": "user",
+      "allowed_apps": [],
+      "allowed_comp_codes": [],
+      "leagues": [],
+      "created_at": "2026-02-06T16:40:59.987147857+00:00",
+      "updated_at": null,
       "enabled": true,
       "app_passwords": {}
     }
