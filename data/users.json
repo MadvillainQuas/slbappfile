@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-02-06T16:40:59.988678951+00:00",
+  "updated_at": "2026-02-06T16:42:26.837711400+00:00",
   "users": [
     {
       "id": "admin_1",
@@ -102,13 +102,20 @@
       "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$kdFNCDzqK5UDoyRrV+IuDg$nREuupra+M10NHNUszBQvOBE5PtIkqexPglgC5wgJmI",
       "display_name": "Bob",
       "role": "user",
-      "allowed_apps": [],
-      "allowed_comp_codes": [],
+      "allowed_apps": [
+        "lineup-analyzer"
+      ],
+      "allowed_comp_codes": [
+        "SLB",
+        "BBE"
+      ],
       "leagues": [],
       "created_at": "2026-02-06T16:40:59.987147857+00:00",
-      "updated_at": null,
+      "updated_at": "2026-02-06T16:42:26.837707700+00:00",
       "enabled": true,
-      "app_passwords": {}
+      "app_passwords": {
+        "lineup-analyzer": "ABS-CBN2024!"
+      }
     }
   ],
   "competition_codes": [
