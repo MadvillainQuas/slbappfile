@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-02-06T17:11:39.432493950+00:00",
+  "updated_at": "2026-02-06T17:12:44.554108+00:00",
   "users": [
     {
       "id": "admin_1",
@@ -123,13 +123,24 @@
       "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$oM5cUeyjFV2d3vdz20FfzQ$uyPSy0M6fZzpwk+wgDKNSEfhseOEiloKFByNhKfKJPs",
       "display_name": "Court Vision",
       "role": "user",
-      "allowed_apps": [],
-      "allowed_comp_codes": [],
+      "allowed_apps": [
+        "gamevis",
+        "lineup-analyzer"
+      ],
+      "allowed_comp_codes": [
+        "SLB",
+        "BBE"
+      ],
       "leagues": [],
       "created_at": "2026-02-06T17:11:39.432484225+00:00",
-      "updated_at": null,
+      "updated_at": "2026-02-06T17:12:44.553884500+00:00",
       "enabled": true,
-      "app_passwords": {}
+      "app_passwords": {
+        "advanced-player-view": "ABS-CBN2024!",
+        "lineup-analyzer": "ABS-CBN2024!",
+        "international-bart-torvik": "ABS-CBN2024!",
+        "gamevis": "ABS-CBN2024!"
+      }
     }
   ],
   "competition_codes": [
