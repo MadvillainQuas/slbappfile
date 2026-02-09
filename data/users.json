@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-02-09T09:44:08.160582500+00:00",
+  "updated_at": "2026-02-09T09:48:07.947365300+00:00",
   "users": [
     {
       "id": "admin_1",
@@ -58,7 +58,7 @@
     {
       "id": "user_1770296200770",
       "email": "LeBron@gmail.com",
-      "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$Pkur+DDIR1dRtZ0HhjycPg$rO/6Jb2vymh6xVr9LgU2H25H6i8uaaPyd5baUlH5HuM",
+      "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$uMwnyWP84m1bS0F0Jq5ahg$s8ZWxwXXCstTeYvZsf0m06+g9beq5iKyLXzVlI8YMqA",
       "display_name": "LeB",
       "role": "user",
       "allowed_apps": [
@@ -70,11 +70,9 @@
       ],
       "leagues": [],
       "created_at": "2026-02-05T12:56:40.960881800+00:00",
-      "updated_at": "2026-02-05T14:01:15.836142900+00:00",
+      "updated_at": "2026-02-09T09:48:07.947356900+00:00",
       "enabled": true,
-      "app_passwords": {
-        "lineup-analyzer": "ABS-CBN2024!"
-      }
+      "app_passwords": {}
     },
     {
       "id": "user_1770396059643",
@@ -117,9 +115,9 @@
       "enabled": true,
       "app_passwords": {
         "international-bart-torvik": "ABS-CBN2024!",
-        "advanced-player-view": "ABS-CBN2024!",
+        "lineup-analyzer": "ABS-CBN2024!",
         "gamevis": "ABS-CBN2024!",
-        "lineup-analyzer": "ABS-CBN2024!"
+        "advanced-player-view": "ABS-CBN2024!"
       }
     },
     {
