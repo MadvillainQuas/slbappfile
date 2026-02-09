@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-02-09T09:21:43.367274200+00:00",
+  "updated_at": "2026-02-09T09:44:08.160582500+00:00",
   "users": [
     {
       "id": "admin_1",
@@ -116,11 +116,25 @@
       "updated_at": "2026-02-06T17:12:44.553884500+00:00",
       "enabled": true,
       "app_passwords": {
-        "lineup-analyzer": "ABS-CBN2024!",
+        "international-bart-torvik": "ABS-CBN2024!",
         "advanced-player-view": "ABS-CBN2024!",
         "gamevis": "ABS-CBN2024!",
-        "international-bart-torvik": "ABS-CBN2024!"
+        "lineup-analyzer": "ABS-CBN2024!"
       }
+    },
+    {
+      "id": "user_1770630247949",
+      "email": "A@gmail.com",
+      "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$TuyeX7n9k+wkLww3Ax/unw$GJLRVN6+SwDAGE7qshoI3sOIIF5s7aaUEHWE1PjvVVo",
+      "display_name": "Dude",
+      "role": "user",
+      "allowed_apps": [],
+      "allowed_comp_codes": [],
+      "leagues": [],
+      "created_at": "2026-02-09T09:44:08.160577+00:00",
+      "updated_at": null,
+      "enabled": true,
+      "app_passwords": {}
     }
   ],
   "competition_codes": [
