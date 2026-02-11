@@ -1,6 +1,11 @@
 {
-  "status": "idle",
-  "last_completed": "monday_auto_1770621142880",
-  "completed_at": "2026-02-09T07:13:40.149Z",
-  "updated_at": "2026-02-09T07:13:40.396Z"
+  "status": "running",
+  "mode": "all",
+  "competitions": [
+    "SLB",
+    "BBE",
+    "BCB"
+  ],
+  "started_at": "2026-02-11T12:29:31.800594",
+  "updated_at": "2026-02-11T12:29:32.346919"
 }
