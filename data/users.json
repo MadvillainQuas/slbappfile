@@ -161,7 +161,7 @@
       ]
     },
     {
-  "code": "BCB",
+  "code": "HBBC",
   "enabled": true,
   "schedule_type": "date_picker",
   "base_url": "https://britishchampionship.basketball/pages/stats",
