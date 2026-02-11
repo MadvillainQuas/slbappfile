@@ -1,0 +1,249 @@
+Team,Lineup,Lineup_Key,Games,Clutch_Minutes,Clutch_Seconds,PTS,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,OREB,DREB,REB,AST,STL,BLK,TOV,PF,PTS_ALLOWED,POSS,OFF_RTG,DEF_RTG,NET_RTG,PTS/MIN,DIFF
+Newcastle Knights,"B. Dean, S. Trunley, J. Thames, H. Abdul, M. Jones","Newcastle Knights|1,10,11,3,5",4,32.4,1946.0,68,27,62,43.5,10,30,33.3,4,6,66.7,0,0,0,13,0,0,7,0,62,68.8,98.9,79.7,19.2,2.1,6
+Newcastle Knights,"S. Trunley, J. Thames, H. Abdul, M. Jones, M. Matthews","Newcastle Knights|10,11,3,5,8",1,18.2,1090.0,48,16,38,42.1,8,23,34.8,8,11,72.7,0,0,0,10,0,0,5,0,48,45.9,104.5,116.5,-12.0,2.64,0
+Birmingham Rockets,"R. Blain, O. Jackman, Z. Powell, E. Donaldson, L. Mcgregor","Birmingham Rockets|0,13,14,3,6",7,14.8,891.0,32,13,33,39.4,1,15,6.7,5,10,50.0,0,0,0,6,0,0,5,0,35,40.7,78.6,97.0,-18.3,2.15,-3
+Loughborough Riders,"J. Campbell, M. Joiner, J. Cook, M. Gordon, B. Woog","Loughborough Riders|0,11,12,22,7",3,14.2,851.0,24,8,24,33.3,0,7,0.0,8,13,61.5,0,0,0,6,0,0,5,0,21,33.3,72.0,73.6,-1.6,1.69,3
+Milton Keynes Breakers,"D. Jackson, J. Dietrich, X. Wilson, J. Spencer, C. Thompson","Milton Keynes Breakers|1,12,21,23,8",4,12.7,763.0,36,12,28,42.9,5,13,38.5,7,9,77.8,0,0,0,7,0,0,5,0,36,35.5,101.5,119.0,-17.5,2.83,0
+Reading Rockets,"M. Bryant, C. Creek, J. Bouknight, E. Poorman, V. Olarerin","Reading Rockets|10,14,4,6,8",5,12.6,753.0,33,13,21,61.9,5,7,71.4,2,2,100.0,0,0,0,10,0,0,5,0,31,25.8,127.9,96.0,31.9,2.63,2
+Derby Trailblazers,"J. Pathmarajah, S. Walker, H. Beverley Jr, E. Oliver, R. May-Thompson","Derby Trailblazers|22,3,5,6,7",2,12.6,756.0,21,9,21,42.9,2,4,50.0,1,2,50.0,0,0,0,4,0,0,4,0,25,24.8,84.5,93.8,-9.3,1.67,-4
+Newcastle Knights,"B. Dean, S. Trunley, J. Thames, W. Neighbour, M. Jones","Newcastle Knights|1,10,11,15,5",3,11.0,662.0,41,15,24,62.5,4,6,66.7,7,7,100.0,0,0,0,5,0,0,4,0,24,29.8,137.4,93.4,44.0,3.72,17
+Essex Rebels,"K. Martin, M. Brown, A. Idiata-Mendez, T. Child, H. Gent","Essex Rebels|10,2,20,22,36",2,10.0,599.0,27,8,15,53.3,3,6,50.0,8,11,72.7,0,0,0,4,0,0,3,0,26,21.9,123.1,99.6,23.6,2.7,1
+Newcastle Knights,"S. Trunley, J. Thames, H. Abdul, M. Hendry, M. Jones","Newcastle Knights|10,11,3,4,5",1,9.6,577.0,24,9,14,64.3,4,6,66.7,2,3,66.7,0,0,0,3,0,0,5,0,19,19.5,123.0,111.4,11.6,2.5,5
+London Cavaliers,"J. Manning, M. Collins, M. Beasley, D. Braster, A. Roberts","London Cavaliers|10,13,15,23,4",5,9.0,540.0,27,10,14,71.4,3,4,75.0,4,5,80.0,0,0,0,3,0,0,6,0,27,21.3,126.7,114.1,12.5,3.0,0
+Birmingham Rockets,"R. Blain, Z. Powell, L. Okosieme, E. Donaldson, L. Mcgregor","Birmingham Rockets|0,14,21,3,6",2,8.5,511.0,16,5,14,35.7,1,5,20.0,5,10,50.0,0,0,0,3,0,0,3,0,15,20.5,77.9,80.9,-3.0,1.88,1
+Worthing Thunder,"D. Evans, J. Hopkins, E. Maynard, B. Adeluola, E. Dadds","Worthing Thunder|0,15,22,5,7",2,8.2,489.0,9,4,17,23.5,1,6,16.7,0,0,0,0,0,0,1,0,0,1,0,11,17.3,52.1,80.7,-28.6,1.1,-2
+Bristol Hurricanes,"D. Edozie, E. Dusha, K. Hill, D. Ubiaro, C. Samuels","Bristol Hurricanes|1,12,2,31,4",1,8.1,488.0,11,3,14,21.4,0,3,0.0,5,9,55.6,0,0,0,0,0,0,0,0,14,17.2,63.8,71.1,-7.3,1.35,-3
+Nottingham Hoods,"T. Williams, B. Johnson, D. Nixon Ii, E. Bailey, S. Akano","Nottingham Hoods|1,21,24,6,7",1,7.6,454.0,21,8,15,53.3,3,9,33.3,2,6,33.3,0,0,0,2,0,0,2,0,13,18.9,111.4,82.4,29.0,2.78,8
+Essex Rebels,"M. Amako, K. Martin, M. Brown, T. Child, T. Hudson","Essex Rebels|1,10,2,22,9",3,7.5,453.0,18,4,9,44.4,1,4,25.0,9,10,90.0,0,0,0,3,0,0,4,0,20,16.7,107.8,96.8,10.9,2.38,-2
+Yorkshire Dragons,"J. Whelan, L. Rooney, J. Melke, A. Lycoudis, C. Johnson","Yorkshire Dragons|23,3,5,7,9",1,7.5,453.0,20,8,14,57.1,2,6,33.3,2,2,100.0,0,0,0,4,0,0,3,0,20,17.2,116.5,119.5,-2.9,2.65,0
+Derby Trailblazers,"C. Washington, J. Pathmarajah, S. Walker, R. Marsden, C. Brown","Derby Trailblazers|13,22,3,30,4",2,7.4,446.0,18,8,11,72.7,0,0,0,2,3,66.7,0,0,0,6,0,0,3,0,9,14.7,122.4,67.5,54.8,2.42,9
+Derby Trailblazers,"J. Pathmarajah, S. Walker, C. Brown, R. May-Thompson, M. Smith","Derby Trailblazers|22,3,4,7,9",2,7.3,436.0,19,5,11,45.5,2,4,50.0,7,7,100.0,0,0,0,5,0,0,0,0,17,13.5,140.6,112.4,28.2,2.61,2
+Worthing Thunder,"D. Evans, M. Bryan-Amaning, J. Hopkins, E. Maynard, B. Adeluola","Worthing Thunder|0,11,15,22,5",4,7.1,427.0,15,6,12,50.0,1,5,20.0,2,4,50.0,0,0,0,5,0,0,1,0,20,14.2,105.9,118.1,-12.2,2.11,-5
+Bristol Hurricanes,"D. Edozie, D. Forsyth, D. Ubiaro, H. Bligen, C. Taylor","Bristol Hurricanes|1,11,31,33,9",1,7.0,421.0,9,4,11,36.4,0,1,0.0,1,2,50.0,0,0,0,3,0,0,2,0,7,13.3,67.5,42.4,25.1,1.28,2
+Yorkshire Dragons,"R. Ani, D. Ulph, J. Whelan, J. Melke, N. Lewis","Yorkshire Dragons|1,10,23,5,93",2,6.9,415.0,16,5,12,41.7,2,5,40.0,4,8,50.0,0,0,0,3,0,0,0,0,12,14.9,107.4,73.2,34.2,2.31,4
+Reading Rockets,"L. Sayles, C. Creek, J. Bouknight, E. Poorman, V. Olarerin","Reading Rockets|11,14,4,6,8",1,6.7,404.0,18,8,18,44.4,2,6,33.3,0,1,0.0,0,0,0,3,0,0,3,0,17,20.6,87.5,126.5,-39.0,2.67,1
+Bristol Hurricanes,"D. Edozie, D. Ubiaro, C. Samuels, V. Dilys, C. Taylor","Bristol Hurricanes|1,31,4,55,9",2,6.4,386.0,16,6,14,42.9,1,3,33.3,3,4,75.0,0,0,0,6,0,0,3,0,19,18.0,88.8,116.4,-27.6,2.49,-3
+London Cavaliers,"J. Manning, M. Collins, D. Braster, D. Ainembabazi, A. Roberts","London Cavaliers|10,13,23,3,4",2,6.3,381.0,11,5,11,45.5,1,4,25.0,0,2,0.0,0,0,0,2,0,0,0,0,7,11.4,96.5,56.6,39.8,1.73,4
+Worthing Thunder,"D. Evans, J. Hopkins, E. Maynard, A. Scarborough, B. Adeluola","Worthing Thunder|0,15,22,4,5",2,6.3,381.0,12,4,9,44.4,1,2,50.0,3,6,50.0,0,0,0,2,0,0,0,0,12,11.2,107.4,97.0,10.3,1.89,0
+Derby Trailblazers,"C. Washington, J. Pathmarajah, S. Walker, C. Brown, R. May-Thompson","Derby Trailblazers|13,22,3,4,7",2,6.0,363.0,18,6,11,54.5,0,2,0.0,6,7,85.7,0,0,0,3,0,0,2,0,6,15.4,116.6,58.1,58.5,2.98,12
+Bristol Hurricanes,"E. Dusha, K. Hill, D. Ubiaro, V. Dilys","Bristol Hurricanes|12,2,31,55",1,6.0,359.0,18,7,11,63.6,4,6,66.7,0,0,0,0,0,0,5,0,0,3,0,13,13.4,133.9,97.6,36.4,3.01,5
+London Cavaliers,"J. Manning, M. Collins, M. Beasley, D. Braster, D. Ainembabazi","London Cavaliers|10,13,15,23,3",2,5.8,348.0,7,3,8,37.5,1,4,25.0,0,1,0.0,0,0,0,2,0,0,3,0,16,11.0,63.7,124.0,-60.3,1.21,-9
+Reading Rockets,"M. Bryant, C. Creek, J. Bouknight, M. Allman, V. Olarerin","Reading Rockets|10,14,4,5,8",1,5.8,350.0,15,4,10,40.0,1,6,16.7,6,8,75.0,0,0,0,2,0,0,0,0,16,13.0,115.6,106.6,9.0,2.57,-1
+Bristol Hurricanes,"A. Pearce, D. Edozie, D. Ubiaro, C. Samuels, V. Dilys","Bristol Hurricanes|0,1,31,4,55",1,5.7,340.0,6,3,7,42.9,0,0,0,0,1,0.0,0,0,0,0,0,0,2,0,6,9.1,66.2,79.3,-13.1,1.06,0
+Milton Keynes Breakers,"D. Jackson, J. Dietrich, M. New Jr., J. Spencer, C. Thompson","Milton Keynes Breakers|1,12,15,23,8",2,5.2,309.0,9,2,7,28.6,1,5,20.0,4,4,100.0,0,0,0,1,0,0,4,0,16,12.2,73.5,118.4,-44.9,1.75,-7
+Milton Keynes Breakers,"D. Jackson, B. Baker-Mccann, J. Dietrich, X. Wilson, C. Thompson","Milton Keynes Breakers|1,11,12,21,8",1,5.2,310.0,2,1,9,11.1,0,4,0.0,0,0,0,0,0,0,0,0,0,2,0,6,10.6,18.9,52.1,-33.1,0.39,-4
+Reading Rockets,"M. Bryant, T. Nsangu, Y. Salih, E. Poorman, V. Olarerin","Reading Rockets|10,12,5,6,8",2,4.9,296.0,8,3,5,60.0,0,2,0.0,2,3,66.7,0,0,0,2,0,0,2,0,6,8.0,100.2,69.4,30.7,1.62,2
+Loughborough Riders,"J. Campbell, P. Karras, M. Gordon, J. Cook, T. Akinsuku","Loughborough Riders|0,15,22,31,36",1,4.8,287.0,4,2,5,40.0,0,2,0.0,0,2,0.0,0,0,0,0,0,0,3,0,5,8.5,46.9,43.4,3.5,0.84,-1
+Birmingham Rockets,"O. Jackman, E. Donaldson, L. Mcgregor, F. Mughaal, M. Gayle","Birmingham Rockets|13,3,6,7,8",1,4.8,290.0,8,3,6,50.0,1,3,33.3,1,1,100.0,0,0,0,3,0,0,1,0,7,7.1,112.0,81.0,31.0,1.66,1
+Yorkshire Dragons,"D. Ulph, J. Whelan, J. Melke, A. Lycoudis, C. Johnson","Yorkshire Dragons|10,23,5,7,9",2,4.7,279.0,3,1,5,20.0,0,4,0.0,1,2,50.0,0,0,0,1,0,0,2,0,12,7.6,39.7,114.9,-75.2,0.65,-9
+London Cavaliers,"J. Manning, J. Richards, D. Delsol-Lowry, D. Braster, A. Roberts","London Cavaliers|10,11,21,23,4",1,4.7,279.0,11,4,7,57.1,3,4,75.0,0,0,0,0,0,0,3,0,0,2,0,4,8.6,127.3,31.0,96.3,2.37,7
+Derby Trailblazers,"C. Washington, J. Pathmarajah, R. Marsden, C. Brown, M. Smith","Derby Trailblazers|13,22,30,4,9",1,4.7,281.0,11,4,6,66.7,0,1,0.0,3,5,60.0,0,0,0,3,0,0,1,0,8,8.8,124.5,95.1,29.4,2.35,3
+Loughborough Riders,"M. Joiner, P. Karras, M. Gordon, J. Cook, L. Campbell","Loughborough Riders|11,15,22,31,4",1,4.6,277.0,11,4,6,66.7,2,3,66.7,1,1,100.0,0,0,0,1,0,0,2,0,10,8.1,135.8,95.7,40.0,2.38,1
+London Cavaliers,"J. Manning, J. Richards, M. Collins, A. Roberts, A. Pyne","London Cavaliers|10,11,13,4,7",1,4.6,274.0,10,3,6,50.0,1,2,50.0,3,4,75.0,0,0,0,0,0,0,1,0,6,8.4,118.9,70.4,48.5,2.19,4
+London Cavaliers,"J. Manning, M. Collins, M. Beasley, D. Braster, O. Pond-Mckenzie","London Cavaliers|10,13,15,23,5",1,4.5,267.0,6,3,9,33.3,0,3,0.0,0,0,0,0,0,0,1,0,0,0,0,9,8.6,69.4,100.6,-31.1,1.35,-3
+Birmingham Rockets,"R. Blain, O. Jackman, Z. Powell, F. Mughaal, M. Gayle","Birmingham Rockets|0,13,14,7,8",1,4.5,273.0,16,7,9,77.8,1,3,33.3,1,3,33.3,0,0,0,3,0,0,3,0,9,12.8,125.1,72.8,52.3,3.52,7
+Worthing Thunder,"M. Bryan-Amaning, J. Hopkins, E. Maynard, A. Scarborough, B. Adeluola","Worthing Thunder|11,15,22,4,5",1,4.4,262.0,8,4,8,50.0,0,2,0.0,0,0,0,0,0,0,2,0,0,2,0,6,9.6,83.3,89.3,-6.0,1.83,2
+Birmingham Rockets,"R. Blain, O. Jackman, E. Donaldson, L. Mcgregor, F. Mughaal","Birmingham Rockets|0,13,3,6,7",2,4.2,252.0,7,3,7,42.9,0,1,0.0,1,2,50.0,0,0,0,3,0,0,1,0,1,8.5,82.1,12.5,69.6,1.67,6
+Reading Rockets,"M. Bryant, T. Nsangu, J. Bouknight, Y. Salih, E. Poorman","Reading Rockets|10,12,4,5,6",1,4.2,249.0,8,2,7,28.6,0,2,0.0,4,6,66.7,0,0,0,1,0,0,0,0,7,9.3,86.4,62.0,24.4,1.93,1
+Worthing Thunder,"M. Bryan-Amaning, J. Hopkins, E. Maynard, J. Lashley, E. Dadds","Worthing Thunder|11,15,22,35,7",1,4.0,243.0,9,3,9,33.3,1,3,33.3,2,2,100.0,0,0,0,0,0,0,0,0,8,9.5,94.9,98.7,-3.8,2.22,1
+Hemel Storm,"D. Nelson-Henry, K. Walker, M. Norman, B. Inger, S. Newman","Hemel Storm|10,11,2,3,4",1,3.9,231.0,11,4,8,50.0,1,2,50.0,2,4,50.0,0,0,0,0,0,0,1,0,10,10.3,106.5,99.0,7.5,2.86,1
+Loughborough Riders,"J. Campbell, M. Joiner, J. Cook, T. Akinsuku, M. Gordon","Loughborough Riders|0,11,12,13,22",3,3.9,234.0,9,3,6,50.0,0,3,0.0,3,5,60.0,0,0,0,1,0,0,2,0,18,9.8,91.9,146.9,-55.0,2.31,-9
+Birmingham Rockets,"R. Blain, Z. Powell, L. Okosieme, L. Mcgregor, M. Gayle","Birmingham Rockets|0,14,21,6,8",1,3.9,236.0,12,6,9,66.7,0,2,0.0,0,0,0,0,0,0,2,0,0,1,0,6,9.6,125.0,57.4,67.6,3.05,6
+Essex Rebels,"M. Amako, K. Martin, M. Brown, A. Idiata-Mendez, T. Child","Essex Rebels|1,10,2,20,22",2,3.6,218.0,9,3,8,37.5,1,2,50.0,2,4,50.0,0,0,0,3,0,0,1,0,5,10.3,87.1,104.2,-17.0,2.48,4
+Essex Rebels,"K. Martin, R. Udeh, M. Brown, T. Child, T. Hudson","Essex Rebels|10,14,2,22,9",4,3.5,213.0,16,6,10,60.0,2,2,100.0,2,2,100.0,0,0,0,4,0,0,0,0,5,10.4,153.2,55.2,98.0,4.51,11
+Yorkshire Dragons,"R. Ani, D. Ulph, J. Whelan, J. Melke, C. Johnson","Yorkshire Dragons|1,10,23,5,9",1,3.5,210.0,4,1,6,16.7,0,3,0.0,2,3,66.7,0,0,0,0,0,0,2,0,4,8.9,44.7,69.4,-24.7,1.14,0
+Reading Rockets,"M. Bryant, T. Nsangu, C. Creek, J. Bouknight, V. Olarerin","Reading Rockets|10,12,14,4,8",1,3.5,213.0,10,3,8,37.5,0,2,0.0,4,5,80.0,0,0,0,1,0,0,1,0,3,10.8,93.0,39.7,53.3,2.82,7
+Worthing Thunder,"J. Hopkins, E. Maynard, J. Lashley, B. Adeluola, E. Dadds","Worthing Thunder|15,22,35,5,7",1,3.5,211.0,10,4,7,57.1,2,3,66.7,0,0,0,0,0,0,0,0,0,0,0,8,6.7,148.8,105.8,43.1,2.84,2
+Birmingham Rockets,"R. Blain, L. Okosieme, E. Donaldson, L. Mcgregor, F. Mughaal","Birmingham Rockets|0,21,3,6,7",2,3.5,211.0,2,1,6,16.7,0,1,0.0,0,0,0,0,0,0,1,0,0,2,0,4,7.7,26.0,52.1,-26.0,0.57,-2
+Newcastle Knights,"B. Dean, S. Trunley, J. Thames, M. Jones, T. Riley","Newcastle Knights|1,10,11,5,9",1,3.5,210.0,6,2,5,40.0,0,2,0.0,2,2,100.0,0,0,0,0,0,0,1,0,6,6.6,90.8,100.8,-10.0,1.71,0
+Nottingham Hoods,"D. Nixon Ii, E. Bailey, S. Akano, M. Savery-Richards, T. Williams","Nottingham Hoods|12,6,7,8,9",2,3.4,205.0,9,3,8,37.5,2,4,50.0,1,3,33.3,0,0,0,2,0,0,1,0,7,9.9,90.8,65.1,25.7,2.63,2
+Milton Keynes Breakers,"K. Williams, D. Jackson, M. New Jr., X. Wilson, B. Freckleton","Milton Keynes Breakers|0,1,15,21,7",1,3.4,204.0,7,3,7,42.9,1,3,33.3,0,0,0,0,0,0,1,0,0,0,0,4,6.7,104.2,93.8,10.3,2.06,3
+Derby Trailblazers,"J. Pathmarajah, R. Marsden, C. Brown, E. Oliver, R. May-Thompson","Derby Trailblazers|22,30,4,6,7",1,3.3,196.0,6,2,3,66.7,1,2,50.0,1,1,100.0,0,0,0,1,0,0,2,0,3,5.2,114.9,39.1,75.8,1.84,3
+Newcastle Knights,"B. Dean, S. Trunley, J. Thames, M. Jones, M. Matthews","Newcastle Knights|1,10,11,5,8",2,3.2,190.0,5,1,6,16.7,0,3,0.0,3,4,75.0,0,0,0,1,0,0,2,0,7,9.4,53.4,72.9,-19.6,1.58,-2
+Worthing Thunder,"J. Hopkins, E. Maynard, A. Scarborough, B. Adeluola, E. Dadds","Worthing Thunder|15,22,4,5,7",2,3.2,190.0,6,1,5,20.0,1,2,50.0,3,6,50.0,0,0,0,0,0,0,1,0,0,8.3,72.3,0.0,72.3,1.89,6
+Derby Trailblazers,"J. Pathmarajah, S. Walker, C. Brown, E. Oliver, R. May-Thompson","Derby Trailblazers|22,3,4,6,7",1,3.2,192.0,11,4,6,66.7,1,1,100.0,2,2,100.0,0,0,0,2,0,0,1,0,4,7.6,145.4,60.6,84.8,3.44,7
+Nottingham Hoods,"D. Nixon Ii, L. Maitland, E. Bailey, M. Savery-Richards, T. Williams","Nottingham Hoods|12,55,6,8,9",2,3.2,193.0,2,0,5,0.0,0,0,0,2,2,100.0,0,0,0,2,0,0,1,0,4,6.6,30.3,53.7,-23.4,0.62,-2
+London Cavaliers,"J. Manning, M. Collins, M. Beasley, D. Ainembabazi, A. Roberts","London Cavaliers|10,13,15,3,4",1,3.2,191.0,3,1,2,50.0,0,1,0.0,1,1,100.0,0,0,0,0,0,0,1,0,0,3.3,90.8,0.0,90.8,0.94,3
+Hemel Storm,"K. Walker, M. Norman, B. Inger, S. Newman, J. Burnell","Hemel Storm|11,2,3,4,7",1,3.2,193.0,4,1,4,25.0,1,2,50.0,1,2,50.0,0,0,0,2,0,0,4,0,12,8.5,46.9,138.9,-92.0,1.24,-8
+Milton Keynes Breakers,"C. Thompson, B. Baker-Mccann, M. New Jr, B. Freckleton, D. Jackson","Milton Keynes Breakers|10,11,15,7,9",1,3.1,187.0,8,2,4,50.0,2,2,100.0,2,2,100.0,0,0,0,2,0,0,1,0,4,5.6,141.7,59.5,82.2,2.57,4
+Loughborough Riders,"J. Campbell, M. Joiner, P. Karras, M. Gordon, J. Cook","Loughborough Riders|0,11,15,22,31",1,3.1,187.0,4,1,3,33.3,1,3,33.3,1,6,16.7,0,0,0,1,0,0,1,0,3,6.4,62.8,57.4,5.3,1.28,1
+London Cavaliers,"J. Manning, M. Collins, D. Braster, A. Roberts, O. Pond-Mckenzie","London Cavaliers|10,13,23,4,5",1,3.0,180.0,4,2,4,50.0,0,1,0.0,0,0,0,0,0,0,1,0,0,1,0,6,4.8,83.3,128.1,-44.7,1.33,-2
+Hemel Storm,"D. Nelson-Henry, K. Walker, T. Johnson, M. Norman, S. Newman","Hemel Storm|10,11,12,2,4",1,3.0,178.0,0,0,4,0.0,0,2,0.0,0,0,0,0,0,0,1,0,0,0,0,10,3.8,0.0,154.1,-154.1,0.0,-10
+Birmingham Rockets,"R. Blain, O. Jackman, L. Okosieme, E. Donaldson, L. Mcgregor","Birmingham Rockets|0,13,21,3,6",1,3.0,177.0,4,2,5,40.0,0,1,0.0,0,2,0.0,0,0,0,1,0,0,1,0,3,6.6,60.6,64.0,-3.5,1.36,1
+Yorkshire Dragons,"D. Ulph, L. Rooney, J. Melke, C. Johnson, N. Lewis","Yorkshire Dragons|10,14,5,9,93",1,2.9,171.0,3,1,5,20.0,1,3,33.3,0,3,0.0,0,0,0,1,0,0,1,0,6,7.0,42.7,125.0,-82.3,1.05,-3
+Essex Rebels,"K. Martin, M. Brown, A. Idiata-Mendez, T. Child, T. Hudson","Essex Rebels|10,2,20,22,9",2,2.9,174.0,3,1,7,14.3,1,4,25.0,0,0,0,0,0,0,1,0,0,1,0,11,7.7,39.1,145.4,-106.3,1.03,-8
+Bristol Flyers II,"R. Eigbe, N. Ladjimi, A. Bhebhe, W. Simba, G. Landolfi","Bristol Flyers II|13,24,4,6,7",1,2.9,173.0,2,1,5,20.0,0,1,0.0,0,0,0,0,0,0,1,0,0,2,0,10,6.7,29.8,148.8,-119.0,0.69,-8
+Milton Keynes Breakers,"B. Baker-Mccann, M. New Jr, X. Wilson, B. Freckleton, D. Jackson","Milton Keynes Breakers|11,15,21,7,9",1,2.8,167.0,4,2,3,66.7,0,1,0.0,0,0,0,0,0,0,2,0,0,1,0,4,3.8,104.2,83.3,20.8,1.44,0
+Newcastle Knights,"B. Dean, S. Trunley, J. Thames, H. Abdul, T. Riley","Newcastle Knights|1,10,11,3,9",1,2.8,169.0,10,4,5,80.0,2,3,66.7,0,0,0,0,0,0,3,0,0,0,0,7,4.8,208.3,86.4,121.9,3.55,3
+Newcastle Knights,"B. Dean, S. Trunley, J. Thames, F. Cork, M. Jones","Newcastle Knights|1,10,11,13,5",1,2.7,160.0,6,2,4,50.0,0,0,0,2,2,100.0,0,0,0,1,0,0,1,0,7,5.6,106.3,149.4,-43.1,2.25,-1
+Yorkshire Dragons,"D. Ulph, E. Brownell, J. Whelan, C. Johnson, N. Lewis","Yorkshire Dragons|10,2,23,6,93",1,2.6,154.0,0,0,4,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,1,0,5,4.8,0.0,77.0,-77.0,0.0,-5
+Nottingham Hoods,"D. Nixon Ii, B. Johnson, A. Sandu-Nelson, L. Maitland, M. Savery-Richards","Nottingham Hoods|12,25,5,55,8",1,2.6,156.0,3,1,4,25.0,1,1,100.0,0,0,0,0,0,0,1,0,0,0,0,4,3.8,78.1,83.3,-5.2,1.15,-1
+Milton Keynes Breakers,"D. Jackson, M. New Jr., X. Wilson, J. Spencer, C. Thompson","Milton Keynes Breakers|1,15,21,23,8",1,2.6,157.0,5,2,4,50.0,1,1,100.0,0,0,0,0,0,0,1,0,0,0,0,6,3.8,130.2,125.0,5.2,1.91,-1
+Worthing Thunder,"M. Bryan-Amaning, J. Hopkins, E. Maynard, B. Adeluola, E. Dadds","Worthing Thunder|11,15,22,5,7",2,2.6,155.0,12,2,3,66.7,0,0,0,8,12,66.7,0,0,0,0,0,0,1,0,6,8.9,134.7,76.2,58.5,4.65,6
+Worthing Thunder,"D. Evans, M. Bryan-Amaning, J. Hopkins, A. Scarborough, E. Dadds","Worthing Thunder|0,11,15,4,7",2,2.5,149.0,8,3,4,75.0,1,1,100.0,1,2,50.0,0,0,0,1,0,0,1,0,2,5.6,141.7,29.8,112.0,3.22,6
+Worthing Thunder,"M. Bryan-Amaning, J. Hopkins, E. Maynard, A. Scarborough, E. Dadds","Worthing Thunder|11,15,22,4,7",2,2.5,147.0,6,2,7,28.6,0,4,0.0,2,2,100.0,0,0,0,2,0,0,0,0,7,7.6,79.3,126.6,-47.3,2.45,-1
+Hemel Storm,"D. Nelson-Henry, K. Walker, T. Johnson, V. Eze, S. Newman","Hemel Storm|10,11,12,21,4",1,2.5,153.0,8,4,4,100.0,0,0,0,0,2,0.0,0,0,0,2,0,0,1,0,8,5.6,141.7,166.7,-24.9,3.14,0
+Derby Trailblazers,"C. Washington, J. Pathmarajah, S. Walker, C. Brown, M. Smith","Derby Trailblazers|13,22,3,4,9",1,2.5,150.0,4,2,2,100.0,0,0,0,0,2,0.0,0,0,0,2,0,0,3,0,6,5.6,70.9,114.9,-44.0,1.6,-2
+Essex Rebels,"M. Wol-Cummings, K. Martin, M. Brown, A. Idiata-Mendez, T. Hudson","Essex Rebels|0,10,2,20,9",1,2.4,142.0,4,2,3,66.7,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,6,2.9,138.9,140.8,-1.9,1.69,-2
+Reading Rockets,"M. Bryant, T. Nsangu, J. Bouknight, E. Poorman, V. Olarerin","Reading Rockets|10,12,4,6,8",3,2.4,142.0,2,0,3,0.0,0,1,0.0,2,2,100.0,0,0,0,2,0,0,0,0,5,3.7,53.7,88.6,-34.9,0.85,-3
+Bristol Hurricanes,"E. Dusha, K. Hill, D. Ubiaro, C. Samuels, V. Dilys","Bristol Hurricanes|12,2,31,4,55",1,2.4,141.0,7,3,5,60.0,1,1,100.0,0,0,0,0,0,0,2,0,0,0,0,3,4.8,145.8,42.7,103.1,2.98,4
+Bristol Hurricanes,"D. Forsyth, E. Dusha, J. Dang-Okodo, D. Ubiaro, V. Dilys","Bristol Hurricanes|11,12,23,31,55",1,2.4,144.0,2,1,5,20.0,0,3,0.0,0,0,0,0,0,0,1,0,0,0,0,3,4.8,41.7,62.5,-20.8,0.83,-1
+Yorkshire Dragons,"P. Tew, L. Rooney, J. Melke, A. Lycoudis, C. Johnson","Yorkshire Dragons|14,3,5,7,9",1,2.4,144.0,3,1,4,25.0,1,2,50.0,0,0,0,0,0,0,1,0,0,1,0,2,4.8,62.5,41.7,20.8,1.25,1
+Milton Keynes Breakers,"B. Baker-Mccann, J. Dietrich, X. Wilson, B. Freckleton, C. Thompson","Milton Keynes Breakers|11,12,21,7,8",1,2.4,144.0,6,1,6,16.7,0,3,0.0,4,6,66.7,0,0,0,1,0,0,0,0,7,8.3,72.3,85.6,-13.2,2.5,-1
+Derby Trailblazers,"R. Marsden, C. Brown, H. Beverley Jr, E. Oliver, R. May-Thompson","Derby Trailblazers|30,4,5,6,7",1,2.3,138.0,5,1,3,33.3,0,2,0.0,3,5,60.0,0,0,0,0,0,0,2,0,6,6.9,72.3,92.5,-20.1,2.17,-1
+Bristol Flyers II,"Y. Hafid, J. Craggs, R. Eigbe, N. Ladjimi, G. Landolfi","Bristol Flyers II|0,12,13,24,7",1,2.3,137.0,4,1,2,50.0,1,1,100.0,1,2,50.0,0,0,0,1,0,0,1,0,3,3.7,107.4,108.5,-1.1,1.75,1
+Newcastle Knights,"S. Trunley, J. Thames, M. Hendry, S. Angus, M. Matthews","Newcastle Knights|10,11,2,7,8",1,2.3,137.0,2,1,5,20.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,3,4.8,41.7,62.5,-20.8,0.88,-1
+Worthing Thunder,"J. Hopkins, E. Maynard, J. Lashley, A. Scarborough, E. Dadds","Worthing Thunder|15,22,35,4,7",1,2.3,140.0,3,1,3,33.3,0,0,0,1,2,50.0,0,0,0,0,0,0,2,0,3,5.6,53.1,53.1,0.0,1.29,0
+Bristol Hurricanes,"E. Dusha, J. Claar, D. Ubiaro, C. Samuels, V. Dilys","Bristol Hurricanes|12,24,31,4,55",1,2.2,134.0,6,2,6,33.3,0,1,0.0,2,4,50.0,0,0,0,1,0,0,0,0,2,7.4,80.5,69.4,11.1,2.69,4
+Derby Trailblazers,"C. Burr, C. Washington, J. Pathmarajah, R. Marsden, M. Smith","Derby Trailblazers|0,13,22,30,9",1,2.2,130.0,0,0,4,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3.8,0.0,83.3,-83.3,0.0,-4
+Hemel Storm,"K. Walker, T. Johnson, M. Norman, B. Inger, S. Newman","Hemel Storm|11,12,2,3,4",1,2.1,129.0,6,2,2,100.0,2,2,100.0,0,0,0,0,0,0,2,0,0,2,0,3,3.8,156.2,72.3,83.9,2.79,3
+Nottingham Hoods,"D. Nixon Ii, M. Sokoli, L. Maitland, E. Bailey, T. Williams","Nottingham Hoods|12,2,55,6,9",1,2.1,124.0,7,3,4,75.0,1,1,100.0,0,0,0,0,0,0,1,0,0,0,0,5,3.8,182.3,130.2,52.1,3.39,2
+Nottingham Hoods,"T. Williams, M. Savery-Richards, B. Johnson, L. Maitland, S. Akano","Nottingham Hoods|1,14,21,23,7",1,2.1,128.0,2,1,2,50.0,0,1,0.0,0,0,0,0,0,0,0,0,0,2,0,2,3.8,52.1,53.7,-1.6,0.94,0
+London Cavaliers,"J. Manning, J. Richards, M. Collins, M. Beasley, A. Roberts","London Cavaliers|10,11,13,15,4",1,2.1,125.0,3,1,6,16.7,0,3,0.0,1,2,50.0,0,0,0,0,0,0,1,0,5,7.6,39.7,90.4,-50.8,1.44,-2
+Birmingham Rockets,"R. Blain, O. Jackman, Z. Powell, E. Donaldson, F. Mughaal","Birmingham Rockets|0,13,14,3,7",1,2.1,127.0,6,2,6,33.3,1,2,50.0,1,1,100.0,0,0,0,1,0,0,0,0,4,6.2,97.0,83.3,13.7,2.83,2
+Reading Rockets,"M. Bryant, C. Creek, E. Poorman, L. Champion, V. Olarerin","Reading Rockets|10,14,6,7,8",1,2.0,122.0,3,1,4,25.0,1,2,50.0,0,0,0,0,0,0,1,0,0,0,0,5,3.8,78.1,134.2,-56.1,1.48,-2
+Worthing Thunder,"D. Evans, J. Hopkins, A. Scarborough, B. Adeluola, E. Dadds","Worthing Thunder|0,15,4,5,7",1,2.0,121.0,7,3,3,100.0,1,1,100.0,0,0,0,0,0,0,2,0,0,1,0,5,3.8,182.3,130.2,52.1,3.47,2
+Nottingham Hoods,"D. Nixon Ii, M. Sokoli, L. Maitland, M. Savery-Richards, T. Williams","Nottingham Hoods|12,2,55,8,9",1,1.9,112.0,0,0,3,0.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,4.8,0.0,42.7,-42.7,0.0,-1
+Essex Rebels,"M. Wol-Cummings, K. Martin, M. Brown, A. Idiata-Mendez, H. Gent","Essex Rebels|0,10,2,20,36",1,1.9,116.0,6,2,2,100.0,1,1,100.0,1,1,100.0,0,0,0,1,0,0,1,0,3,3.3,181.7,104.2,77.5,3.1,3
+Hemel Storm,"K. Walker, M. Norman, V. Eze, B. Inger, S. Newman","Hemel Storm|11,2,21,3,4",1,1.9,112.0,2,1,3,33.3,0,2,0.0,0,0,0,0,0,0,0,0,0,2,0,3,4.8,41.7,90.8,-49.2,1.07,-1
+Loughborough Riders,"J. Campbell, J. Cook, T. Akinsuku, L. Campbell, V. Ndoukou","Loughborough Riders|0,12,13,4,7",1,1.9,116.0,3,1,3,33.3,1,3,33.3,0,0,0,0,0,0,1,0,0,0,0,4,2.9,104.2,83.3,20.8,1.55,-1
+Derby Trailblazers,"J. Pathmarajah, S. Walker, R. Marsden, C. Brown, E. Oliver","Derby Trailblazers|22,3,30,4,6",1,1.8,110.0,2,1,3,33.3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,3.8,52.1,104.2,-52.1,1.09,-2
+Loughborough Riders,"M. Joiner, M. Gordon, T. Akinsuku, D. Hadley, C. Keys","Loughborough Riders|11,22,36,5,8",1,1.8,110.0,2,1,2,50.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1.9,104.2,138.9,-34.7,1.09,-2
+Reading Rockets,"M. Bryant, T. Nsangu, J. Bouknight, V. Olarerin, S. Chamberlain","Reading Rockets|10,12,4,8,9",1,1.8,105.0,0,0,2,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,1,0,6,2.9,0.0,208.3,-208.3,0.0,-6
+Newcastle Knights,"B. Dean, S. Trunley, J. Thames, S. Angus, M. Matthews","Newcastle Knights|1,10,11,7,8",1,1.8,105.0,2,1,3,33.3,0,0,0,0,1,0.0,0,0,0,0,0,0,1,0,3,4.3,46.9,104.2,-57.2,1.14,-1
+Worthing Thunder,"D. Evans, M. Bryan-Amaning, J. Hopkins, B. Adeluola, E. Dadds","Worthing Thunder|0,11,15,5,7",1,1.7,104.0,3,1,2,50.0,1,1,100.0,0,0,0,0,0,0,1,0,0,0,0,5,1.9,156.2,130.2,26.0,1.73,-2
+Yorkshire Dragons,"J. Whelan, J. Melke, A. Lycoudis, C. Johnson, N. Lewis","Yorkshire Dragons|23,5,7,9,93",1,1.7,100.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4,2.9,0.0,104.2,-104.2,0.0,-4
+Milton Keynes Breakers,"C. Thompson, B. Baker-Mccann, M. New Jr, J. Spencer, B. Freckleton","Milton Keynes Breakers|10,11,15,23,7",1,1.6,97.0,3,0,3,0.0,0,2,0.0,3,3,100.0,0,0,0,0,0,0,0,0,2,4.1,72.3,69.4,2.9,1.86,1
+Hemel Storm,"D. Nelson-Henry, K. Walker, M. Norman, V. Eze, S. Newman","Hemel Storm|10,11,2,21,4",1,1.6,98.0,3,1,2,50.0,1,1,100.0,0,0,0,0,0,0,0,0,0,1,0,5,2.9,104.2,130.2,-26.0,1.84,-2
+Essex Rebels,"M. Wol-Cummings, K. Martin, M. Brown, T. Child, T. Hudson","Essex Rebels|0,10,2,22,9",1,1.6,93.0,4,1,1,100.0,0,0,0,2,2,100.0,0,0,0,0,0,0,1,0,5,2.8,144.7,106.7,37.9,2.58,-1
+Derby Trailblazers,"J. Pathmarajah, R. Marsden, C. Brown, R. May-Thompson, M. Smith","Derby Trailblazers|22,30,4,7,9",1,1.6,93.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,10,2.9,0.0,180.8,-180.8,0.0,-10
+Essex Rebels,"M. Wol-Cummings, M. Amako, M. Brown, T. Child, T. Hudson","Essex Rebels|0,1,2,22,9",1,1.5,88.0,6,2,2,100.0,0,0,0,2,3,66.7,0,0,0,0,0,0,1,0,0,4.1,144.7,0.0,144.7,4.09,6
+Birmingham Rockets,"R. Blain, O. Jackman, Z. Powell, E. Donaldson, M. Gayle","Birmingham Rockets|0,13,14,3,8",1,1.5,92.0,3,1,2,50.0,0,0,0,1,3,33.3,0,0,0,3,0,0,1,0,7,4.1,72.3,145.8,-73.5,1.96,-4
+Hemel Storm,"D. Nelson-Henry, M. Norman, V. Eze, B. Inger, S. Newman","Hemel Storm|10,2,21,3,4",1,1.5,92.0,0,0,2,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,1,0,2,2.9,0.0,53.7,-53.7,0.0,-2
+Nottingham Hoods,"T. Williams, J. Griffith, D. Nixon Ii, E. Bailey, S. Akano","Nottingham Hoods|1,15,24,6,7",1,1.5,92.0,2,0,1,0.0,0,0,0,2,2,100.0,0,0,0,1,0,0,1,0,6,2.8,72.3,166.2,-93.9,1.3,-4
+Hemel Storm,"K. Walker, M. Norman, V. Eze, D. Parkinson, S. Newman","Hemel Storm|11,2,21,23,4",1,1.5,90.0,2,1,2,50.0,0,1,0.0,0,0,0,0,0,0,1,0,0,0,0,2,1.9,104.2,104.2,0.0,1.33,0
+Hemel Storm,"D. Nelson-Henry, V. Eze, D. Parkinson, B. Inger, J. Burnell","Hemel Storm|10,21,23,3,7",1,1.4,81.0,5,2,2,100.0,0,0,0,1,1,100.0,0,0,0,2,0,0,0,0,2,2.3,213.5,104.2,109.3,3.7,3
+Hemel Storm,"D. Nelson-Henry, M. Norman, V. Eze, D. Parkinson, S. Newman","Hemel Storm|10,2,21,23,4",1,1.4,83.0,2,0,1,0.0,0,1,0.0,2,4,50.0,0,0,0,0,0,0,0,0,2,2.6,75.5,72.3,3.1,1.45,0
+Reading Rockets,"T. Nsangu, J. Bouknight, E. Poorman, L. Champion, V. Olarerin","Reading Rockets|12,4,6,7,8",1,1.4,84.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,3,1.9,104.2,312.5,-208.3,1.43,-1
+Nottingham Hoods,"T. Williams, M. Savery-Richards, B. Johnson, E. Bailey, S. Akano","Nottingham Hoods|1,14,21,6,7",2,1.4,84.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,2,0,0,0,0,9,1.0,0.0,162.8,-162.8,0.0,-9
+Derby Trailblazers,"C. Washington, J. Pathmarajah, R. Marsden, C. Brown, R. May-Thompson","Derby Trailblazers|13,22,30,4,7",1,1.4,85.0,5,2,2,100.0,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,2,1.9,260.4,110.8,149.6,3.53,3
+Yorkshire Dragons,"R. Ani, J. Whelan, L. Rooney, J. Melke, A. Lycoudis","Yorkshire Dragons|1,23,3,5,7",1,1.4,85.0,2,0,0,0,0,0,0,2,2,100.0,0,0,0,0,0,0,1,0,5,1.8,110.8,260.4,-149.6,1.41,-3
+Bristol Hurricanes,"D. Forsyth, E. Dusha, K. Hill, D. Ubiaro, V. Dilys","Bristol Hurricanes|11,12,2,31,55",1,1.4,87.0,2,1,3,33.3,0,1,0.0,0,1,0.0,0,0,0,1,0,0,0,0,7,3.3,60.6,182.3,-121.7,1.38,-5
+Milton Keynes Breakers,"K. Williams, D. Jackson, B. Baker-Mccann, M. New Jr., B. Freckleton","Milton Keynes Breakers|0,1,11,15,7",1,1.4,86.0,0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1.9,0.0,138.9,-138.9,0.0,-4
+Reading Rockets,"M. Bryant, T. Nsangu, J. Bouknight, Y. Salih, V. Olarerin","Reading Rockets|10,12,4,5,8",1,1.4,85.0,4,2,5,40.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,3,4.8,83.3,104.2,-20.8,2.82,1
+Reading Rockets,"M. Bryant, J. Bouknight, M. Allman, V. Olarerin, S. Chamberlain","Reading Rockets|10,4,5,8,9",1,1.3,80.0,2,0,2,0.0,0,1,0.0,2,2,100.0,0,0,0,0,0,0,1,0,2,3.7,53.7,104.2,-50.5,1.5,0
+Loughborough Riders,"J. Campbell, B. Woog, M. Joiner, P. Karras, M. Gordon","Loughborough Riders|0,10,11,15,22",1,1.3,77.0,0,0,4,0.0,0,3,0.0,0,0,0,0,0,0,0,0,0,0,0,0,3.8,0.0,0.0,0.0,0.0,0
+Derby Trailblazers,"C. Washington, J. Pathmarajah, R. Marsden, R. May-Thompson, M. Smith","Derby Trailblazers|13,22,30,7,9",2,1.3,79.0,1,0,3,0.0,0,2,0.0,1,1,100.0,0,0,0,1,0,0,0,0,2,3.3,30.3,52.1,-21.8,0.76,-1
+Bristol Hurricanes,"D. Edozie, E. Dusha, D. Ubiaro, C. Samuels, V. Dilys","Bristol Hurricanes|1,12,31,4,55",1,1.2,74.0,3,1,2,50.0,1,1,100.0,0,0,0,0,0,0,1,0,0,0,0,4,1.9,156.2,121.1,35.1,2.43,-1
+London Cavaliers,"J. Manning, M. Beasley, D. Braster, D. Ainembabazi, A. Roberts","London Cavaliers|10,15,23,3,4",1,1.2,70.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1.9,0.0,0.0,0.0,0.0,0
+Derby Trailblazers,"C. Washington, S. Walker, C. Brown, R. May-Thompson, M. Smith","Derby Trailblazers|13,3,4,7,9",1,1.2,73.0,4,2,3,66.7,0,0,0,0,0,0,0,0,0,2,0,0,1,0,2,3.8,104.2,72.3,31.8,3.29,2
+Birmingham Rockets,"R. Blain, Z. Powell, E. Donaldson, L. Mcgregor, F. Mughaal","Birmingham Rockets|0,14,3,6,7",1,1.2,75.0,4,0,2,0.0,0,2,0.0,4,5,80.0,0,0,0,0,0,0,0,0,0,4.0,99.2,0.0,99.2,3.2,4
+Newcastle Knights,"B. Dean, S. Trunley, J. Thames, M. Jones, S. Angus","Newcastle Knights|1,10,11,5,7",1,1.2,71.0,0,0,2,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,2,1.9,0.0,69.4,-69.4,0.0,-2
+Yorkshire Dragons,"D. Ulph, J. Whelan, J. Melke, C. Johnson, N. Lewis","Yorkshire Dragons|10,23,5,9,93",2,1.1,68.0,12,5,5,100.0,2,2,100.0,0,0,0,0,0,0,0,0,0,0,0,0,4.8,250.0,0.0,250.0,10.59,12
+Reading Rockets,"M. Bryant, T. Nsangu, J. Bouknight, Y. Salih, S. Chamberlain","Reading Rockets|10,12,4,5,9",1,1.1,65.0,3,1,2,50.0,1,2,50.0,0,0,0,0,0,0,1,0,0,0,0,1,1.9,156.2,36.2,120.1,2.77,2
+Reading Rockets,"M. Bryant, J. Bouknight, Y. Salih, E. Poorman, V. Olarerin","Reading Rockets|10,4,5,6,8",1,1.1,64.0,2,1,2,50.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2.9,69.4,42.7,26.8,1.88,1
+Loughborough Riders,"J. Campbell, M. Joiner, M. Wallace, J. Cook, T. Akinsuku","Loughborough Riders|0,11,22,31,36",1,1.1,64.0,1,0,1,0.0,0,1,0.0,1,1,100.0,0,0,0,0,0,0,1,0,2,2.3,42.7,69.4,-26.8,0.94,-1
+Worthing Thunder,"D. Evans, J. Hopkins, J. Lashley, A. Scarborough, E. Dadds","Worthing Thunder|0,15,35,4,7",1,1.1,63.0,0,0,2,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,1,1.9,0.0,31.4,-31.4,0.0,-1
+Birmingham Rockets,"R. Blain, O. Jackman, L. Okosieme, L. Mcgregor, F. Mughaal","Birmingham Rockets|0,13,21,6,7",1,1.1,65.0,4,1,1,100.0,1,1,100.0,1,2,50.0,0,0,0,2,0,0,0,0,2,1.8,221.6,208.3,13.3,3.69,2
+Reading Rockets,"M. Bryant, E. Poorman, L. Champion, V. Olarerin, S. Chamberlain","Reading Rockets|10,6,7,8,9",1,1.0,62.0,2,1,2,50.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,1.9,104.2,217.0,-112.8,1.94,-1
+Hemel Storm,"K. Walker, M. Norman, D. Parkinson, B. Inger, S. Newman","Hemel Storm|11,2,23,3,4",2,1.0,60.0,3,1,3,33.3,1,2,50.0,0,0,0,0,0,0,0,0,0,0,0,4,2.9,104.2,138.9,-34.7,3.0,-1
+Bristol Hurricanes,"D. Edozie, E. Dusha, J. Claar, H. Bligen, C. Samuels","Bristol Hurricanes|1,12,24,33,4",1,1.0,61.0,0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,2.9,0.0,138.9,-138.9,0.0,-4
+Hemel Storm,"K. Walker, T. Johnson, M. Norman, V. Eze, S. Newman","Hemel Storm|11,12,2,21,4",1,1.0,58.0,5,1,4,25.0,1,4,25.0,2,3,66.7,0,0,0,1,0,0,0,0,2,5.1,97.9,57.2,40.7,5.17,3
+Birmingham Rockets,"R. Blain, L. Okosieme, E. Donaldson, L. Mcgregor, M. Gayle","Birmingham Rockets|0,21,3,6,8",1,1.0,60.0,0,0,2,0.0,0,2,0.0,0,0,0,0,0,0,0,0,0,1,0,0,2.9,0.0,0.0,0.0,0.0,0
+Hemel Storm,"K. Walker, D. Parkinson, B. Inger, S. Newman, J. Burnell","Hemel Storm|11,23,3,4,7",1,1.0,59.0,2,1,2,50.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1.9,104.2,0.0,104.2,2.03,2
+Bristol Hurricanes,"D. Edozie, D. Ubiaro, H. Bligen, C. Samuels, V. Dilys","Bristol Hurricanes|1,31,33,4,55",1,0.9,57.0,1,0,1,0.0,0,1,0.0,1,2,50.0,0,0,0,0,0,0,0,0,3,1.8,55.4,217.0,-161.6,1.05,-2
+Nottingham Hoods,"M. Sokoli, T. Williams, B. Johnson, S. Akano, M. Savery-Richards","Nottingham Hoods|0,1,25,7,8",1,0.9,52.0,2,0,1,0.0,0,0,0,2,2,100.0,0,0,0,0,0,0,0,0,0,1.8,110.8,0.0,110.8,2.31,2
+Loughborough Riders,"M. Joiner, M. Wallace, J. Cook, T. Akinsuku, D. Hadley","Loughborough Riders|11,22,31,36,5",1,0.9,52.0,0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,0,0,0,0,5,0.4,0.0,260.4,-260.4,0.0,-5
+London Cavaliers,"J. Manning, J. Richards, D. Braster, A. Roberts, O. Pond-Mckenzie","London Cavaliers|10,11,23,4,5",1,0.9,53.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,1,0,2,1.9,0.0,208.3,-208.3,0.0,-2
+Derby Trailblazers,"C. Washington, S. Walker, H. Beverly, E. Oliver, R. May-Thompson","Derby Trailblazers|13,3,5,6,7",1,0.8,49.0,2,0,0,0,0,0,0,2,4,50.0,0,0,0,0,0,0,1,0,1,2.6,75.5,26.8,48.6,2.45,1
+Milton Keynes Breakers,"D. Jackson, J. Dietrich, M. New Jr., X. Wilson, C. Thompson","Milton Keynes Breakers|1,12,15,21,8",1,0.8,45.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1.9,0.0,104.2,-104.2,0.0,-2
+Milton Keynes Breakers,"D. Jackson, B. Baker-Mccann, M. New Jr., X. Wilson, J. Spencer","Milton Keynes Breakers|1,11,15,21,23",1,0.8,49.0,2,0,2,0.0,0,2,0.0,2,2,100.0,0,0,0,1,0,0,1,0,3,3.7,53.7,53.1,0.5,2.45,-1
+Bristol Flyers II,"Y. Hafid, L. Ayinla, R. Eigbe, N. Ladjimi, G. Landolfi","Bristol Flyers II|0,10,13,24,7",1,0.8,47.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,1.9,0.0,144.7,-144.7,0.0,-4
+Milton Keynes Breakers,"D. Jackson, B. Baker-Mccann, J. Dietrich, J. Spencer, C. Thompson","Milton Keynes Breakers|1,11,12,23,8",1,0.8,50.0,2,1,2,50.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2.9,69.4,0.0,69.4,2.4,2
+Derby Trailblazers,"C. Burr, C. Washington, J. Pathmarajah, S. Walker, R. May-Thompson","Derby Trailblazers|0,13,22,3,7",1,0.8,45.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,2,1.0,0.0,104.2,-104.2,0.0,-2
+Newcastle Knights,"S. Trunley, J. Thames, N. Saa, M. Jones, T. Riley","Newcastle Knights|10,11,14,5,9",1,0.8,45.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1.9,104.2,0.0,104.2,2.67,2
+Derby Trailblazers,"C. Washington, J. Pathmarajah, S. Walker, R. May-Thompson, M. Smith","Derby Trailblazers|13,22,3,7,9",1,0.8,47.0,4,1,1,100.0,1,1,100.0,1,1,100.0,0,0,0,1,0,0,0,0,1,1.4,289.4,72.3,217.0,5.11,3
+London Cavaliers,"J. Manning, M. Collins, D. Delsol-Lowry, D. Braster, A. Roberts","London Cavaliers|10,13,21,23,4",1,0.8,49.0,2,1,4,25.0,0,1,0.0,0,0,0,0,0,0,0,0,0,1,0,0,4.8,41.7,0.0,41.7,2.45,2
+Hemel Storm,"M. Sokoli, K. Walker, M. Norman, V. Eze, S. Newman","Hemel Storm|0,11,2,21,4",1,0.8,45.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,1.9,0.0,128.1,-128.1,0.0,-3
+Birmingham Rockets,"R. Blain, Z. Powell, E. Donaldson, L. Mcgregor, M. Gayle","Birmingham Rockets|0,14,3,6,8",3,0.7,44.0,1,0,1,0.0,0,0,0,1,3,33.3,0,0,0,2,0,0,0,0,0,2.2,44.9,0.0,44.9,1.36,1
+Hemel Storm,"D. Nelson-Henry, T. Johnson, M. Norman, B. Inger, S. Newman","Hemel Storm|10,12,2,3,4",1,0.7,42.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1.0,0.0,0.0,0.0,0.0,0
+Reading Rockets,"M. Bryant, C. Creek, J. Bouknight, E. Poorman, L. Champion","Reading Rockets|10,14,4,6,7",1,0.7,41.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,2,0,0,2.9,0.0,0.0,0.0,0.0,0
+Milton Keynes Breakers,"B. Baker-Mccann, J. Dietrich, X. Wilson, J. Spencer, C. Thompson","Milton Keynes Breakers|11,12,21,23,8",1,0.7,39.0,5,2,2,100.0,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,0,1.9,260.4,0.0,260.4,7.69,5
+Milton Keynes Breakers,"B. Baker-Mccann, M. New Jr., X. Wilson, B. Freckleton, C. Thompson","Milton Keynes Breakers|11,15,21,7,8",1,0.7,39.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,1.0,208.3,312.5,-104.2,3.08,-1
+Nottingham Hoods,"T. Williams, M. Savery-Richards, B. Johnson, D. Nixon Ii, E. Bailey","Nottingham Hoods|1,14,21,24,6",1,0.7,40.0,5,2,2,100.0,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,0,1.9,260.4,0.0,260.4,7.5,5
+Nottingham Hoods,"D. Nixon Ii, B. Johnson, L. Maitland, E. Bailey, T. Williams","Nottingham Hoods|12,25,55,6,9",1,0.6,33.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,2,1.0,0.0,104.2,-104.2,0.0,-2
+Yorkshire Dragons,"D. Ulph, L. Rooney, J. Whelan, C. Johnson, N. Lewis","Yorkshire Dragons|10,14,23,9,93",1,0.6,38.0,2,0,2,0.0,0,1,0.0,2,2,100.0,0,0,0,0,0,0,0,0,0,2.8,72.3,0.0,72.3,3.16,2
+Yorkshire Dragons,"D. Ulph, J. Whelan, L. Rooney, J. Melke, A. Lycoudis","Yorkshire Dragons|10,23,3,5,7",1,0.6,38.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0.1,0.0,128.1,-128.1,0.0,-3
+Worthing Thunder,"D. Evans, J. Hopkins, J. Lashley, B. Adeluola, E. Dadds","Worthing Thunder|0,15,35,5,7",1,0.6,36.0,1,0,0,0,0,0,0,1,2,50.0,0,0,0,0,0,0,0,0,0,0.8,118.4,0.0,118.4,1.67,1
+Milton Keynes Breakers,"B. Baker-Mccann, J. Dietrich, M. New Jr., X. Wilson, C. Thompson","Milton Keynes Breakers|11,12,15,21,8",1,0.6,36.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1.0,0.0,118.4,-118.4,0.0,-1
+Newcastle Knights,"B. Dean, S. Trunley, J. Thames, M. Jones, R. Reed","Newcastle Knights|1,10,11,5,6",1,0.6,33.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1.0,0.0,72.3,-72.3,0.0,-1
+Hemel Storm,"D. Nelson-Henry, T. Johnson, M. Norman, D. Parkinson, B. Inger","Hemel Storm|10,12,2,23,3",1,0.5,28.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1.0,0.0,208.3,-208.3,0.0,-4
+Yorkshire Dragons,"D. Ulph, L. Rooney, J. Melke, A. Lycoudis, C. Johnson","Yorkshire Dragons|10,14,5,7,9",1,0.5,32.0,2,0,1,0.0,0,1,0.0,2,2,100.0,0,0,0,0,0,0,0,0,2,1.8,110.8,53.7,57.1,3.75,0
+Worthing Thunder,"D. Evans, M. Bryan-Amaning, J. Hopkins, A. Scarborough, B. Adeluola","Worthing Thunder|0,11,15,4,5",1,0.5,27.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1.0,0.0,0.0,0.0,0.0,0
+Essex Rebels,"K. Martin, R. Udeh, M. Brown, T. Child, H. Gent","Essex Rebels|10,14,2,22,36",1,0.5,32.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1.0,0.0,0.0,0.0,0.0,0
+Milton Keynes Breakers,"J. Dietrich, X. Wilson, J. Spencer, B. Freckleton, C. Thompson","Milton Keynes Breakers|12,21,23,7,8",1,0.5,29.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,208.3,0.0,208.3,4.14,2
+Hemel Storm,"M. Sokoli, V. Eze, B. Inger, S. Newman, J. Rai","Hemel Storm|0,21,3,4,5",1,0.5,28.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0.1,0.0,208.3,-208.3,0.0,-2
+Birmingham Rockets,"O. Jackman, Z. Powell, L. Mcgregor, F. Mughaal, M. Gayle","Birmingham Rockets|13,14,6,7,8",1,0.5,28.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,208.3,0.0,208.3,4.29,2
+Hemel Storm,"D. Nelson-Henry, M. Norman, D. Parkinson, B. Inger, S. Newman","Hemel Storm|10,2,23,3,4",1,0.4,22.0,0,0,3,0.0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,0,2.9,0.0,0.0,0.0,0.0,0
+Bristol Hurricanes,"D. Edozie, J. Claar, D. Ubiaro, C. Samuels, V. Dilys","Bristol Hurricanes|1,24,31,4,55",1,0.4,24.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0.1,0.0,312.5,-312.5,0.0,-3
+Reading Rockets,"M. Bryant, T. Nsangu, C. Creek, E. Poorman, L. Champion","Reading Rockets|10,12,14,6,7",1,0.4,23.0,4,0,0,0,0,0,0,4,5,80.0,0,0,0,0,0,0,1,0,2,3.1,130.2,42.7,87.5,10.43,2
+Yorkshire Dragons,"D. Ulph, L. Rooney, J. Whelan, J. Melke, C. Johnson","Yorkshire Dragons|10,14,23,5,9",1,0.4,26.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1.0,0.0,0.0,0.0,0.0,0
+Essex Rebels,"K. Martin, R. Udeh, M. Brown, A. Idiata-Mendez, H. Gent","Essex Rebels|10,14,2,20,36",1,0.4,24.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,1.0,0.0,208.3,-208.3,0.0,-4
+Nottingham Hoods,"T. Williams, B. Johnson, T. Walker, E. Bailey, S. Akano","Nottingham Hoods|0,25,4,6,7",1,0.4,24.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0.1,0.0,312.5,-312.5,0.0,-3
+Hemel Storm,"D. Nelson-Henry, T. Johnson, M. Norman, V. Eze, S. Newman","Hemel Storm|10,12,2,21,4",1,0.4,23.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1.9,0.0,118.4,-118.4,0.0,-1
+Loughborough Riders,"J. Campbell, B. Woog, M. Joiner, C. Nyarko, D. Hadley","Loughborough Riders|0,10,11,3,5",1,0.4,26.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0.1,0.0,208.3,-208.3,0.0,-2
+Reading Rockets,"C. Creek, J. Bouknight, Y. Salih, E. Poorman, V. Olarerin","Reading Rockets|14,4,5,6,8",1,0.4,26.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,208.3,0.0,208.3,4.62,2
+Yorkshire Dragons,"R. Ani, D. Ulph, E. Brownell, J. Melke, C. Johnson","Yorkshire Dragons|1,10,2,5,9",1,0.4,22.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0.1,0.0,208.3,-208.3,0.0,-2
+Milton Keynes Breakers,"D. Jackson, L. Gregory, M. New Jr., J. Spencer, B. Freckleton","Milton Keynes Breakers|1,13,15,23,7",1,0.4,22.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,208.3,0.0,208.3,5.45,2
+Newcastle Knights,"B. Dean, S. Trunley, J. Thames, M. Jones, R. Reed, S. Angus","Newcastle Knights|1,10,11,5,6,7",1,0.4,23.0,2,0,0,0,0,0,0,2,2,100.0,0,0,0,0,0,0,0,0,0,0.8,236.7,0.0,236.7,5.22,2
+Reading Rockets,"M. Bryant, M. Allman, L. Champion, V. Olarerin, S. Chamberlain","Reading Rockets|10,5,7,8,9",1,0.3,19.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.1,0.0,208.3,-208.3,0.0,-2
+Newcastle Knights,"B. Dean, S. Trunley, J. Thames, J. Soodeen, M. Jones","Newcastle Knights|1,10,11,12,5",1,0.3,20.0,3,1,1,100.0,1,1,100.0,0,0,0,0,0,0,1,0,0,0,0,1,1.0,312.5,36.2,276.3,9.0,2
+Hemel Storm,"D. Nelson-Henry, T. Johnson, M. Norman, V. Eze, D. Parkinson","Hemel Storm|10,12,2,21,23",1,0.3,18.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0.1,0.0,208.3,-208.3,0.0,-2
+Essex Rebels,"M. Wol-Cummings, M. Amako, K. Martin, T. Child, T. Hudson","Essex Rebels|0,1,10,22,9",1,0.3,17.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+Milton Keynes Breakers,"D. Jackson, J. Dietrich, L. Gregory, J. Spencer, C. Thompson","Milton Keynes Breakers|1,12,13,23,8",1,0.3,20.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.1,0.0,118.4,-118.4,0.0,-1
+Loughborough Riders,"J. Campbell, B. Woog, P. Karras, M. Gordon, J. Cook","Loughborough Riders|0,10,15,22,31",1,0.3,21.0,1,0,0,0,0,0,0,1,2,50.0,0,0,0,1,0,0,0,0,0,0.8,118.4,0.0,118.4,2.86,1
+Birmingham Rockets,"Z. Powell, L. Okosieme, E. Donaldson, L. Mcgregor, M. Gayle","Birmingham Rockets|14,21,3,6,8",1,0.3,16.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+Hemel Storm,"K. Walker, S. Lewis, B. Inger, S. Newman, J. Burnell","Hemel Storm|11,24,3,4,7",1,0.3,19.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0.1,0.0,312.5,-312.5,0.0,-3
+Milton Keynes Breakers,"B. Baker-Mccann, L. Gregory, M. New Jr., J. Spencer, B. Freckleton","Milton Keynes Breakers|11,13,15,23,7",1,0.3,19.0,3,1,1,100.0,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,312.5,0.0,312.5,9.47,3
+Loughborough Riders,"V. Ndukou, T. Akinsuku, L. Campbell, S. Wylie, C. Keys","Loughborough Riders|21,36,4,43,8",1,0.3,21.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0.1,0.0,312.5,-312.5,0.0,-3
+Loughborough Riders,"J. Campbell, V. Ndukou, J. Cook, T. Akinsuku, C. Keys","Loughborough Riders|0,21,31,36,8",1,0.3,19.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0.1,0.0,208.3,-208.3,0.0,-2
+Yorkshire Dragons,"D. Ulph, J. Whelan, J. Mielke, C. Johnson, N. Lewis","Yorkshire Dragons|10,23,5,9,93",1,0.3,20.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0.1,0.0,312.5,-312.5,0.0,-3
+Birmingham Rockets,"O. Jackman, Z. Powell, E. Donaldson, L. Mcgregor, F. Mughaal","Birmingham Rockets|13,14,3,6,7",1,0.3,20.0,3,1,1,100.0,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,312.5,0.0,312.5,9.0,3
+Birmingham Rockets,"O. Jackman, Z. Powell, E. Donaldson, F. Mughal, M. Gayle","Birmingham Rockets|13,14,3,7,8",1,0.2,10.0,0,0,2,0.0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,1,1.9,0.0,118.4,-118.4,0.0,-1
+Essex Rebels,"M. Amako, K. Martin, M. Brown, A. Idiata-Mendez, H. Gent","Essex Rebels|1,10,2,20,36",1,0.2,10.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0.1,0.0,208.3,-208.3,0.0,-2
+Worthing Thunder,"D. Evans, J. Hopkins, T. Mcindoe, A. Scarborough, B. Adeluola","Worthing Thunder|0,15,23,4,5",1,0.2,10.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,208.3,0.0,208.3,12.0,2
+Bristol Flyers II,"Y. Hafid, N. Sagkovits, N. Ladjimi, W. Simba, G. Landolfi","Bristol Flyers II|0,21,24,6,7",1,0.2,14.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0.1,0.0,217.0,-217.0,0.0,-3
+Milton Keynes Breakers,"B. Baker-Mccann, J. Dietrich, M. New Jr., J. Spencer, C. Thompson","Milton Keynes Breakers|11,12,15,23,8",1,0.2,15.0,1,0,0,0,0,0,0,1,1,100.0,0,0,0,0,0,0,0,0,0,0.4,236.7,0.0,236.7,4.0,1
+Essex Rebels,"M. Wol-Cummings, M. Amako, K. Martin, M. Brown, T. Hudson","Essex Rebels|0,1,10,2,9",1,0.2,12.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1.0,0.0,110.8,-110.8,0.0,-2
+Derby Trailblazers,"C. Washington, R. Marsden, C. Brown, R. May-Thompson, M. Smith","Derby Trailblazers|13,30,4,7,9",1,0.2,10.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0
+Bristol Hurricanes,"E. Dusha, D. Ubiaro, V. Dilys","Bristol Hurricanes|12,31,55",1,0.2,10.0,1,0,0,0,0,0,0,1,2,50.0,0,0,0,0,0,0,0,0,0,0.8,118.4,0.0,118.4,6.0,1
+London Cavaliers,"J. Manning, J. Richards, M. Beasley, D. Braster, O. Pond-Mckenzie","London Cavaliers|10,11,15,23,5",1,0.2,12.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+Loughborough Riders,"J. Campbell, J. Cook, M. Gordon, B. Woog, C. Keys","Loughborough Riders|0,12,22,7,8",1,0.2,15.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,4,1.0,0.0,221.6,-221.6,0.0,-4
+Newcastle Knights,"B. Dean, S. Trunley, J. Thames, W. Neighbour, M. Matthews","Newcastle Knights|1,10,11,15,8",1,0.2,13.0,2,0,2,0.0,0,0,0,2,2,100.0,0,0,0,0,0,0,0,0,0,2.8,72.3,0.0,72.3,9.23,2
+Essex Rebels,"M. Amako, K. Martin, D. Johnson-Thompson, M. Brown, T. Child","Essex Rebels|1,10,13,2,22",1,0.2,13.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.1,0.0,72.3,-72.3,0.0,-2
+London Cavaliers,"M. Collins, M. Beasley, D. Braster, A. Roberts, O. Pond-Mckenzie","London Cavaliers|13,15,23,4,5",1,0.1,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1.0,0.0,0.0,0.0,0.0,0
+Birmingham Rockets,"Z. Powell, E. Donaldson, L. Mcgregor, F. Mughal, M. Gayle","Birmingham Rockets|14,3,6,7,8",1,0.1,6.0,1,0,0,0,0,0,0,1,2,50.0,0,0,0,0,0,0,0,0,1,0.8,118.4,118.4,0.0,10.0,0
+Milton Keynes Breakers,"J. Dietrich, M. New Jr., J. Spencer, B. Freckleton, C. Thompson","Milton Keynes Breakers|12,15,23,7,8",1,0.1,3.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+Nottingham Hoods,"B. Johnson, A. Sandu-Nelson, L. Maitland, S. Akano, M. Savery-Richards","Nottingham Hoods|25,5,55,7,8",1,0.1,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+Nottingham Hoods,"D. Nixon Ii, L. Maitland, E. Bailey, S. Akano, M. Savery-Richards","Nottingham Hoods|12,55,6,7,8",1,0.1,4.0,0,0,0,0,0,0,0,0,2,0.0,0,0,0,0,0,0,0,0,1,0.8,0.0,118.4,-118.4,0.0,-1
+Loughborough Riders,"J. Campbell, M. Joiner, J. Cook, T. Akinsuku, S. Wylie","Loughborough Riders|0,11,31,36,43",1,0.1,8.0,0,0,2,0.0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,2,1.9,0.0,236.7,-236.7,0.0,-2
+Nottingham Hoods,"M. Sokoli, T. Williams, B. Johnson, L. Maitland, S. Akano","Nottingham Hoods|0,1,25,55,7",1,0.1,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.1,0.0,236.7,-236.7,0.0,-2
+Nottingham Hoods,"M. Sokoli, T. Williams, L. Maitland, E. Bailey, S. Akano","Nottingham Hoods|0,1,55,6,7",1,0.1,9.0,0,0,2,0.0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1.9,0.0,0.0,0.0,0.0,0
+Birmingham Rockets,"R. Blain, E. Donaldson, L. Mcgregor, F. Mughaal, M. Gayle","Birmingham Rockets|0,3,6,7,8",1,0.1,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.1,0.0,104.2,-104.2,0.0,-2
+Essex Rebels,"K. Martin, M. Brown, T. Child, H. Gent, T. Hudson","Essex Rebels|10,2,22,36,9",1,0.1,3.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.1,0.0,236.7,-236.7,0.0,-2
+Worthing Thunder,"D. Evans, M. Bryan-Amaning, J. Hopkins, E. Maynard, E. Dadds","Worthing Thunder|0,11,15,22,7",1,0.1,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1.0,0.0,236.7,-236.7,0.0,-2
+Loughborough Riders,"J. Campbell, M. Joiner, T. Akinsuku, S. Wylie, C. Keys","Loughborough Riders|0,11,36,43,8",1,0.1,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+Nottingham Hoods,"T. Williams, J. Griffith, B. Johnson, S. Akano, M. Savery-Richards","Nottingham Hoods|0,15,25,7,8",1,0.1,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0.1,0.0,236.7,-236.7,0.0,-2
+Essex Rebels,"K. Martin, D. Johnson-Thompson, R. Udeh, M. Brown, T. Child","Essex Rebels|10,13,14,2,22",1,0.1,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+Newcastle Knights,"B. Dean, J. Thames, H. Abdul, M. Jones, M. Matthews","Newcastle Knights|1,11,3,5,8",1,0.1,8.0,1,0,0,0,0,0,0,1,2,50.0,0,0,0,0,0,0,0,0,0,0.8,118.4,0.0,118.4,7.5,1
+Essex Rebels,"M. Amako, R. Udeh, A. Idiata-Mendez, T. Child, T. Hudson","Essex Rebels|1,14,20,22,9",1,0.1,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+Nottingham Hoods,"T. Williams, A. Thomson, M. Savery-Richards, B. Johnson, S. Akano","Nottingham Hoods|1,11,14,21,7",1,0.1,3.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+Yorkshire Dragons,"R. Ani, P. Tew, J. Whelan, J. Melke, C. Johnson","Yorkshire Dragons|1,14,23,5,9",1,0.1,3.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,1,1.0,0.0,118.4,-118.4,0.0,-1
+Milton Keynes Breakers,"D. Jackson, J. Dietrich, X. Wilson, B. Freckleton, C. Thompson","Milton Keynes Breakers|1,12,21,7,8",1,0.1,3.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0.1,0.0,236.7,-236.7,0.0,-2
+Reading Rockets,"M. Bryant, T. Nsangu, C. Creek, Y. Salih, V. Olarerin","Reading Rockets|10,12,14,5,8",1,0.1,3.0,1,0,1,0.0,0,1,0.0,1,2,50.0,0,0,0,0,0,0,0,0,3,1.8,55.4,177.6,-122.1,20.0,-2
+Milton Keynes Breakers,"C. Thompson, M. New Jr, X. Wilson, J. Spencer, B. Freckleton","Milton Keynes Breakers|10,15,21,23,7",1,0.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+Loughborough Riders,"M. Joiner, P. Karras, M. Gordon, L. Campbell, D. Hadley","Loughborough Riders|11,15,22,4,5",1,0.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+Milton Keynes Breakers,"D. Jackson, J. Dietrich, M. New Jr., X. Wilson, J. Spencer","Milton Keynes Breakers|1,12,15,21,23",1,0.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+Bristol Flyers II,"J. Craggs, R. Eigbe, N. Ladjimi, A. Bhebhe, G. Landolfi","Bristol Flyers II|12,13,24,4,7",1,0.0,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+Reading Rockets,"M. Bryant, T. Nsangu, C. Creek, E. Poorman, V. Olarerin","Reading Rockets|10,12,14,6,8",1,0.0,2.0,2,0,0,0,0,0,0,2,2,100.0,0,0,0,0,0,0,0,0,0,0.8,236.7,0.0,236.7,60.0,2
+Hemel Storm,"D. Nelson-Henry, V. Eze, D. Parkinson, B. Inger, S. Newman","Hemel Storm|10,21,23,3,4",1,0.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
