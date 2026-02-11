@@ -160,5 +160,14 @@
         "https://be.web.geniussports.com/competitions/?cu=BBE/schedule"
       ]
     }
+    {
+  "code": "BCB",
+  "enabled": true,
+  "schedule_type": "date_picker",
+  "base_url": "https://britishchampionship.basketball/pages/stats",
+  "phase_name": "BCB+2025-2026",
+  "start_date": "2025-10-01",
+  "end_date": "2026-06-30"
+  }
   ]
 }
