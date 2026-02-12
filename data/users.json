@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-02-12T13:26:00.085697+00:00",
+  "updated_at": "2026-02-12T13:26:21.947151200+00:00",
   "users": [
     {
       "id": "admin_1",
@@ -76,10 +76,10 @@
       "updated_at": "2026-02-12T13:26:00.085182100+00:00",
       "enabled": true,
       "app_passwords": {
-        "lineup-analyzer": "ABS-CBN2024!",
+        "international-bart-torvik": "ABS-CBN2024!",
         "advanced-player-view": "ABS-CBN2024!",
         "gamevis": "ABS-CBN2024!",
-        "international-bart-torvik": "ABS-CBN2024!"
+        "lineup-analyzer": "ABS-CBN2024!"
       }
     },
     {
@@ -122,8 +122,8 @@
       "updated_at": "2026-02-06T17:12:44.553884500+00:00",
       "enabled": true,
       "app_passwords": {
-        "gamevis": "ABS-CBN2024!",
         "advanced-player-view": "ABS-CBN2024!",
+        "gamevis": "ABS-CBN2024!",
         "international-bart-torvik": "ABS-CBN2024!",
         "lineup-analyzer": "ABS-CBN2024!"
       }
@@ -170,7 +170,7 @@
     },
     {
       "code": "HBBC",
-      "name": "HBBC League",
+      "name": "BCB",
       "enabled": true,
       "schedule_urls": []
     }
