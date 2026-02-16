@@ -1,0 +1,22 @@
+# RAPM - Regularized Adjusted Plus/Minus
+# Regularization parameter (alpha/lambda): 800
+# Minimum possessions filter: 250
+# Total players in calculation: 104
+# Qualified players exported: 14
+# Total stints used: 623
+# Garbage time stints excluded: 18
+Team,Player_Number,Player_Name,Possessions,ORAPM,DRAPM,RAPM
+London Lions,22,Tarik Phillip,346,-0.17,4.15,3.98
+Cheshire Phoenix,5,Frankie Policelli,277,1.92,0.6,2.53
+London Lions,31,Deane Williams,343,-0.49,2.24,1.75
+London Lions,21,Aaryn Rai,352,1.16,-0.17,0.99
+London Lions,5,Amin Adamu,265,-0.24,1.05,0.81
+Newcastle Eagles,14,Maceo Jack,303,-0.05,0.37,0.32
+London Lions,33,Shavar Reynolds Jr,273,0.94,-1.07,-0.14
+Surrey 89ers,12,Kino Lily Jr,269,1.26,-2.07,-0.82
+Cheshire Phoenix,3,Laquincy Rideau,256,-0.91,-0.21,-1.12
+Newcastle Eagles,15,Cole Long,298,-0.44,-0.82,-1.25
+Cheshire Phoenix,23,Jaxon Brenchley,304,0.33,-1.9,-1.57
+Cheshire Phoenix,13,Patrick Robinson,275,0.35,-1.95,-1.6
+Newcastle Eagles,8,Deion Hammond,250,-0.34,-1.39,-1.73
+Newcastle Eagles,3,Ray'sean Taylor,260,-1.75,-1.41,-3.16
