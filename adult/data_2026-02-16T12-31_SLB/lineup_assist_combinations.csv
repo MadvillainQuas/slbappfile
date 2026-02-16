@@ -1,0 +1,540 @@
+Team,Lineup,Lineup_Key,Assister_Num,Assister_Name,Scorer_Num,Scorer_Name,Assists,Points_Created,Threes_Assisted,Twos_Assisted,Games,AST/G,PTS_Created/G
+Leicester Riders,"Donald Carey Jr, Marc Loving, Spencer Johnson, Raequan Battle, Nathaniel Martin","Leicester Riders|13,2,20,21,41",13,Donald Carey Jr,21,Raequan Battle,5,14,4,1,2,2.5,7.0
+Leicester Riders,"Donald Carey Jr, Marc Loving, Spencer Johnson, Raequan Battle, Nathaniel Martin","Leicester Riders|13,2,20,21,41",13,Donald Carey Jr,20,Spencer Johnson,3,7,1,2,2,1.5,3.5
+Surrey 89ers,"Isiah Small, Tyrin Lawrence, Kino Lily Jr, Michael Graham, Ronald Polite Iii","Surrey 89ers|0,10,12,21,7",12,Kino Lily Jr,0,Isiah Small,3,7,1,2,1,3.0,7.0
+Leicester Riders,"Donald Carey Jr, Marc Loving, Spencer Johnson, Raequan Battle, Nathaniel Martin","Leicester Riders|13,2,20,21,41",20,Spencer Johnson,2,Marc Loving,3,7,1,2,2,1.5,3.5
+Caledonia Gladiators,"Daniel Carr, Charles Jet Speelman, Matthew Ragsdale, Kyle Jimenez, Fraser Malcolm","Caledonia Gladiators|14,22,24,6,7",6,Kyle Jimenez,22,Charles Jet Speelman,3,7,1,2,1,3.0,7.0
+Newcastle Eagles,"Cole Long, Ray'sean Taylor, Mitch Clarke, Deion Hammond, Gus Okafor","Newcastle Eagles|15,3,41,8,99",41,Mitch Clarke,8,Deion Hammond,2,6,2,0,2,1.0,3.0
+London Lions,"Chaundee Brown Jr, Karolis Lukosiunas, Tarik Phillip, Deane Williams, Shavar Reynolds Jr","London Lions|15,16,22,31,33",33,Shavar Reynolds Jr,31,Deane Williams,2,6,2,0,1,2.0,6.0
+Cheshire Phoenix,"Patrick Robinson, Michael Diggins, Laquincy Rideau, Frankie Policelli, Skyler White","Cheshire Phoenix|13,2,3,5,99",13,Patrick Robinson,5,Frankie Policelli,2,6,2,0,1,2.0,6.0
+B. Braun Sheffield Sharks,"Dirk Williams, Jalen Deloach, Rodney Chatman Iii, Mervin James, Jordan Ratinho","B. Braun Sheffield Sharks|1,23,3,5,9",5,Mervin James,1,Dirk Williams,2,6,2,0,1,2.0,6.0
+Cheshire Phoenix,"Patrick Robinson, Jaxon Brenchley, Matthew Zona, Frankie Policelli, Damiri Lindo","Cheshire Phoenix|13,23,24,5,9",13,Patrick Robinson,5,Frankie Policelli,2,6,2,0,1,2.0,6.0
+Cheshire Phoenix,"Michael Diggins, Jaxon Brenchley, Laquincy Rideau, Frankie Policelli, Skyler White","Cheshire Phoenix|2,23,3,5,99",3,Laquincy Rideau,5,Frankie Policelli,2,6,2,0,1,2.0,6.0
+Cheshire Phoenix,"Michael Diggins, Jaxon Brenchley, Laquincy Rideau, Frankie Policelli, Skyler White","Cheshire Phoenix|2,23,3,5,99",3,Laquincy Rideau,99,Skyler White,2,6,2,0,1,2.0,6.0
+B. Braun Sheffield Sharks,"Dirk Williams, Jalen Deloach, Rodney Chatman Iii, Mervin James, Jordan Ratinho","B. Braun Sheffield Sharks|1,23,3,5,9",1,Dirk Williams,23,Jalen Deloach,3,6,0,3,2,1.5,3.0
+B. Braun Sheffield Sharks,"Rodney Glasgow Jr, Mike Ochereobia, Prentiss Nixon, Rodney Chatman Iii, William Lee","B. Braun Sheffield Sharks|11,15,2,3,4",2,Prentiss Nixon,3,Rodney Chatman Iii,2,6,2,0,1,2.0,6.0
+Caledonia Gladiators,"Totonitoluwa Fagbenle, Charles Jet Speelman, Matthew Ragsdale, Lloyd Alvin Bryan Jr, Kyle Jimenez","Caledonia Gladiators|11,22,24,56,6",6,Kyle Jimenez,56,Lloyd Alvin Bryan Jr,3,6,0,3,1,3.0,6.0
+Caledonia Gladiators,"Totonitoluwa Fagbenle, Charles Jet Speelman, Matthew Ragsdale, Lloyd Alvin Bryan Jr, Kyle Jimenez","Caledonia Gladiators|11,22,24,56,6",6,Kyle Jimenez,24,Matthew Ragsdale,2,6,2,0,1,2.0,6.0
+Caledonia Gladiators,"Daniel Carr, Charles Jet Speelman, Matthew Ragsdale, Kyle Jimenez, Fraser Malcolm","Caledonia Gladiators|14,22,24,6,7",6,Kyle Jimenez,7,Fraser Malcolm,2,6,2,0,1,2.0,6.0
+Cheshire Phoenix,"Tobias Cameron, Jaxon Brenchley, Matthew Zona, Laquincy Rideau, Frankie Policelli","Cheshire Phoenix|11,23,24,3,5",3,Laquincy Rideau,5,Frankie Policelli,2,6,2,0,1,2.0,6.0
+London Lions,"Jonathan Williams, Aaryn Rai, Deane Williams, Shavar Reynolds Jr, Amin Adamu","London Lions|13,21,31,33,5",33,Shavar Reynolds Jr,31,Deane Williams,2,6,2,0,1,2.0,6.0
+Bristol Flyers,"Owen Mccormack, Joseph Anderson, William Yoakum, Pasquale Landolfi, Darnell Brodie","Bristol Flyers|13,22,3,40,51",22,Joseph Anderson,13,Owen Mccormack,2,6,2,0,2,1.0,3.0
+London Lions,"Ethan Price, Chasson Jermar Randle, Aaryn Rai, Deane Williams, Shavar Reynolds Jr","London Lions|10,2,21,31,33",31,Deane Williams,2,Chasson Jermar Randle,2,6,2,0,1,2.0,6.0
+Leicester Riders,"Donald Carey Jr, Marc Loving, Spencer Johnson, Raequan Battle, Nathaniel Martin","Leicester Riders|13,2,20,21,41",41,Nathaniel Martin,21,Raequan Battle,2,5,1,1,2,1.0,2.5
+Leicester Riders,"Donald Carey Jr, Marc Loving, Spencer Johnson, Raequan Battle, Nathaniel Martin","Leicester Riders|13,2,20,21,41",13,Donald Carey Jr,2,Marc Loving,2,5,1,1,2,1.0,2.5
+B. Braun Sheffield Sharks,"Dirk Williams, Jalen Deloach, Rodney Chatman Iii, Mervin James, Jordan Ratinho","B. Braun Sheffield Sharks|1,23,3,5,9",3,Rodney Chatman Iii,1,Dirk Williams,2,5,1,1,1,2.0,5.0
+Cheshire Phoenix,"Patrick Robinson, Jaxon Brenchley, Matthew Zona, Frankie Policelli, Damiri Lindo","Cheshire Phoenix|13,23,24,5,9",13,Patrick Robinson,24,Matthew Zona,2,5,1,1,1,2.0,5.0
+London Lions,"Chaundee Brown Jr, Aaryn Rai, Tarik Phillip, Deane Williams, Amin Adamu","London Lions|15,21,22,31,5",31,Deane Williams,15,Chaundee Brown Jr,2,5,1,1,2,1.0,2.5
+Cheshire Phoenix,"Michael Diggins, Jaxon Brenchley, Laquincy Rideau, Frankie Policelli, Skyler White","Cheshire Phoenix|2,23,3,5,99",99,Skyler White,23,Jaxon Brenchley,2,5,1,1,2,1.0,2.5
+Manchester Basketball,"Patrick Smith Jr, Max Jones, Oluwaseyi Adetukasi, Matthew Nicholson, Kaiyem Cleary","Manchester Basketball|0,2,22,34,9",2,Max Jones,22,Oluwaseyi Adetukasi,2,5,1,1,2,1.0,2.5
+Manchester Basketball,"Patrick Smith Jr, Kyle Carey, Jordan Johnson, Oluwaseyi Adetukasi, Matthew Nicholson","Manchester Basketball|0,1,11,22,34",11,Jordan Johnson,22,Oluwaseyi Adetukasi,2,5,1,1,1,2.0,5.0
+Newcastle Eagles,"Maceo Jack, Cole Long, Emmanuel Kanwei, Ray'sean Taylor, Deion Hammond","Newcastle Eagles|14,15,21,3,8",3,Ray'sean Taylor,15,Cole Long,2,5,1,1,1,2.0,5.0
+Manchester Basketball,"Patrick Smith Jr, Max Jones, Oluwaseyi Adetukasi, Gabriel Osbuhein, Kaiyem Cleary","Manchester Basketball|0,2,22,3,9",2,Max Jones,9,Kaiyem Cleary,2,5,1,1,1,2.0,5.0
+Manchester Basketball,"Patrick Smith Jr, Max Jones, Oluwaseyi Adetukasi, Matthew Nicholson, Kaiyem Cleary","Manchester Basketball|0,2,22,34,9",0,Patrick Smith Jr,2,Max Jones,2,5,1,1,1,2.0,5.0
+Surrey 89ers,"Isiah Small, Owen Koonce, Kino Lily Jr, Michael Graham, Ronald Polite Iii","Surrey 89ers|0,1,12,21,7",7,Ronald Polite Iii,1,Owen Koonce,2,5,1,1,1,2.0,5.0
+Newcastle Eagles,"Terrell Burden, Maceo Jack, Cole Long, Emmanuel Kanwei, Deion Hammond","Newcastle Eagles|1,14,15,21,8",8,Deion Hammond,14,Maceo Jack,2,5,1,1,1,2.0,5.0
+Cheshire Phoenix,"Tobias Cameron, Patrick Robinson, Jaxon Brenchley, Laquincy Rideau, Skyler White","Cheshire Phoenix|11,13,23,3,99",99,Skyler White,13,Patrick Robinson,2,5,1,1,1,2.0,5.0
+Leicester Riders,"Donald Carey Jr, Marc Loving, Spencer Johnson, Raequan Battle, Nathaniel Martin","Leicester Riders|13,2,20,21,41",21,Raequan Battle,20,Spencer Johnson,2,4,0,2,2,1.0,2.0
+Leicester Riders,"Aaron Menzies, Donald Carey Jr, Marc Loving, Raequan Battle, Flynn Boardman-Raffet","Leicester Riders|12,13,2,21,77",13,Donald Carey Jr,12,Aaron Menzies,2,4,0,2,1,2.0,4.0
+Newcastle Eagles,"Terrell Burden Jr, Maceo Jack, Cole Long, Emmanuel Kanwei, Deion Hammond","Newcastle Eagles|1,14,15,21,8",1,Terrell Burden Jr,21,Emmanuel Kanwei,2,4,0,2,2,1.0,2.0
+Bristol Flyers,"Owen Mccormack, Marcus Delpeche, Joseph Anderson, Evan Walshe, Jonathan Brown","Bristol Flyers|13,21,22,77,9",9,Jonathan Brown,21,Marcus Delpeche,2,4,0,2,1,2.0,4.0
+Bristol Flyers,"Zachary Anderson, Darnell Brodie, Cameron Holden, Evan Walshe, Jonathan Brown","Bristol Flyers|4,51,7,77,9",7,Cameron Holden,51,Darnell Brodie,2,4,0,2,1,2.0,4.0
+B. Braun Sheffield Sharks,"Dirk Williams, Jalen Deloach, Rodney Chatman Iii, Mervin James, Jordan Ratinho","B. Braun Sheffield Sharks|1,23,3,5,9",3,Rodney Chatman Iii,5,Mervin James,2,4,0,2,2,1.0,2.0
+Surrey 89ers,"Isiah Small, Tyrin Lawrence, Kino Lily Jr, Nedas Cholevinskas, Haydn Ling","Surrey 89ers|0,10,12,17,55",55,Haydn Ling,12,Kino Lily Jr,2,4,0,2,1,2.0,4.0
+Surrey 89ers,"Isiah Small, Tyrin Lawrence, Tayo Ogedengbe, Nedas Cholevinskas, Ronald Polite Iii","Surrey 89ers|0,10,15,17,7",0,Isiah Small,7,Ronald Polite Iii,2,4,0,2,1,2.0,4.0
+London Lions,"Ethan Price, Aaryn Rai, Deane Williams, Shavar Reynolds Jr, Amin Adamu","London Lions|10,21,31,33,5",33,Shavar Reynolds Jr,10,Ethan Price,2,4,0,2,1,2.0,4.0
+Newcastle Eagles,"Cole Long, Emmanuel Kanwei, Ray'sean Taylor, Mitch Clarke, Deion Hammond","Newcastle Eagles|15,21,3,41,8",41,Mitch Clarke,21,Emmanuel Kanwei,2,4,0,2,2,1.0,2.0
+B. Braun Sheffield Sharks,"Dirk Williams, Prentiss Nixon, Jalen Deloach, Rodney Chatman Iii, William Lee","B. Braun Sheffield Sharks|1,2,23,3,4",3,Rodney Chatman Iii,23,Jalen Deloach,2,4,0,2,2,1.0,2.0
+Caledonia Gladiators,"Totonitoluwa Fagbenle, Charles Jet Speelman, Matthew Ragsdale, Lloyd Alvin Bryan Jr, Kyle Jimenez","Caledonia Gladiators|11,22,24,56,6",24,Matthew Ragsdale,22,Charles Jet Speelman,2,4,0,2,1,2.0,4.0
+Manchester Basketball,"Patrick Smith Jr, Max Jones, Oluwaseyi Adetukasi, Gabriel Osbuhein, Kaiyem Cleary","Manchester Basketball|0,2,22,3,9",3,Gabriel Osbuhein,2,Max Jones,2,4,0,2,1,2.0,4.0
+Leicester Riders,"Donald Carey Jr, Marc Loving, Spencer Johnson, Raequan Battle, Nathaniel Martin","Leicester Riders|13,2,20,21,41",13,Donald Carey Jr,41,Nathaniel Martin,2,4,0,2,1,2.0,4.0
+Leicester Riders,"Olutomiwa Sulaiman, Aaron Menzies, Donald Carey Jr, Travis Evee, Flynn Boardman-Raffet","Leicester Riders|10,12,13,3,77",13,Donald Carey Jr,77,Flynn Boardman-Raffet,2,4,0,2,1,2.0,4.0
+Newcastle Eagles,"Terrell Burden, Maceo Jack, Cole Long, Emmanuel Kanwei, Deion Hammond","Newcastle Eagles|1,14,15,21,8",1,Terrell Burden,21,Emmanuel Kanwei,2,4,0,2,1,2.0,4.0
+Cheshire Phoenix,"Michael Diggins, Jaxon Brenchley, Laquincy Rideau, Damiri Lindo, Skyler White","Cheshire Phoenix|2,23,3,9,99",3,Laquincy Rideau,2,Michael Diggins,2,4,0,2,1,2.0,4.0
+Bristol Flyers,"Owen Mccormack, Marcus Delpeche, William Yoakum, Zachary Anderson, Cameron Holden","Bristol Flyers|13,21,3,4,7",7,Cameron Holden,21,Marcus Delpeche,2,4,0,2,1,2.0,4.0
+London Lions,"Jonathan Williams, Aaryn Rai, Tarik Phillip, Deane Williams, Shavar Reynolds Jr","London Lions|13,21,22,31,33",33,Shavar Reynolds Jr,13,Jonathan Williams,2,4,0,2,1,2.0,4.0
+Leicester Riders,"Donald Carey Jr, Marc Loving, Spencer Johnson, Raequan Battle, Nathaniel Martin","Leicester Riders|13,2,20,21,41",2,Marc Loving,21,Raequan Battle,1,3,1,0,1,1.0,3.0
+Leicester Riders,"Aaron Menzies, Marc Loving, Spencer Johnson, Raequan Battle, Travis Evee","Leicester Riders|12,2,20,21,3",12,Aaron Menzies,3,Travis Evee,1,3,1,0,1,1.0,3.0
+Surrey 89ers,"Tyrin Lawrence, Tayo Ogedengbe, Nedas Cholevinskas, Timothy Nwankwo, Ronald Polite Iii","Surrey 89ers|10,15,17,19,7",7,Ronald Polite Iii,15,Tayo Ogedengbe,1,3,1,0,1,1.0,3.0
+Leicester Riders,"Aaron Menzies, Marc Loving, Spencer Johnson, Travis Evee, Flynn Boardman-Raffet","Leicester Riders|12,2,20,3,77",3,Travis Evee,20,Spencer Johnson,1,3,1,0,1,1.0,3.0
+Leicester Riders,"Olutomiwa Sulaiman, Aaron Menzies, Marc Loving, Travis Evee, Flynn Boardman-Raffet","Leicester Riders|10,12,2,3,77",77,Flynn Boardman-Raffet,2,Marc Loving,1,3,1,0,1,1.0,3.0
+Surrey 89ers,"Tyrin Lawrence, Tayo Ogedengbe, Nedas Cholevinskas, Michael Graham, Ronald Polite Iii","Surrey 89ers|10,15,17,21,7",10,Tyrin Lawrence,7,Ronald Polite Iii,1,3,1,0,1,1.0,3.0
+Leicester Riders,"Olutomiwa Sulaiman, Spencer Johnson, Raequan Battle, Nathaniel Martin, Flynn Boardman-Raffet","Leicester Riders|10,20,21,41,77",20,Spencer Johnson,10,Olutomiwa Sulaiman,1,3,1,0,1,1.0,3.0
+Surrey 89ers,"Isiah Small, Tyrin Lawrence, Kino Lily Jr, Michael Graham, Andrew Lawrence","Surrey 89ers|0,10,12,21,4",10,Tyrin Lawrence,12,Kino Lily Jr,1,3,1,0,1,1.0,3.0
+Surrey 89ers,"Kino Lily Jr, Tayo Ogedengbe, Nedas Cholevinskas, Haydn Ling, Ronald Polite Iii","Surrey 89ers|12,15,17,55,7",12,Kino Lily Jr,17,Nedas Cholevinskas,1,3,1,0,1,1.0,3.0
+Surrey 89ers,"Isiah Small, Tyrin Lawrence, Kino Lily Jr, Haydn Ling, Ronald Polite Iii","Surrey 89ers|0,10,12,55,7",0,Isiah Small,12,Kino Lily Jr,1,3,1,0,1,1.0,3.0
+Leicester Riders,"Donald Carey Jr, Marc Loving, Spencer Johnson, Travis Evee, Nathaniel Martin","Leicester Riders|13,2,20,3,41",3,Travis Evee,13,Donald Carey Jr,1,3,1,0,1,1.0,3.0
+London Lions,"Chaundee Brown Jr, Karolis Lukosiunas, Tarik Phillip, Deane Williams, Shavar Reynolds Jr","London Lions|15,16,22,31,33",16,Karolis Lukosiunas,15,Chaundee Brown Jr,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Darius Defoe, Ray'sean Taylor, Mitch Clarke, Deion Hammond, Gus Okafor","Newcastle Eagles|13,3,41,8,99",41,Mitch Clarke,3,Ray'sean Taylor,1,3,1,0,1,1.0,3.0
+London Lions,"Karolis Lukosiunas, Aaryn Rai, Ciaran Sandy, Matthew Goodwin, Nigel Hawkins","London Lions|16,21,3,55,8",55,Matthew Goodwin,8,Nigel Hawkins,1,3,1,0,1,1.0,3.0
+London Lions,"Chaundee Brown Jr, Karolis Lukosiunas, Tarik Phillip, Deane Williams, Shavar Reynolds Jr","London Lions|15,16,22,31,33",33,Shavar Reynolds Jr,22,Tarik Phillip,1,3,1,0,1,1.0,3.0
+London Lions,"Chaundee Brown Jr, Karolis Lukosiunas, Tarik Phillip, Deane Williams, Shavar Reynolds Jr","London Lions|15,16,22,31,33",33,Shavar Reynolds Jr,16,Karolis Lukosiunas,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Darius Defoe, Ray'sean Taylor, Mitch Clarke, Sauveur Kande, Gus Okafor","Newcastle Eagles|13,3,41,9,99",3,Ray'sean Taylor,9,Sauveur Kande,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Darius Defoe, Ray'sean Taylor, Mitch Clarke, Sauveur Kande, Gus Okafor","Newcastle Eagles|13,3,41,9,99",13,Darius Defoe,9,Sauveur Kande,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Cole Long, Mitch Clarke, Deion Hammond, Sauveur Kande, Gus Okafor","Newcastle Eagles|15,41,8,9,99",99,Gus Okafor,8,Deion Hammond,1,3,1,0,1,1.0,3.0
+Bristol Flyers,"Owen Mccormack, Joseph Anderson, William Yoakum, Zachary Anderson, Cameron Holden","Bristol Flyers|13,22,3,4,7",13,Owen Mccormack,22,Joseph Anderson,1,3,1,0,1,1.0,3.0
+Manchester Basketball,"Kyle Carey, Jordan Johnson, Oluwaseyi Adetukasi, Matthew Nicholson, Kaiyem Cleary","Manchester Basketball|1,11,22,34,9",11,Jordan Johnson,9,Kaiyem Cleary,1,3,1,0,1,1.0,3.0
+Manchester Basketball,"Kyle Carey, Jordan Johnson, Kayne Henry, Duke Shelton, Kaiyem Cleary","Manchester Basketball|1,11,13,30,9",9,Kaiyem Cleary,1,Kyle Carey,1,3,1,0,1,1.0,3.0
+Bristol Flyers,"Zachary Anderson, Darnell Brodie, Cameron Holden, Evan Walshe, Jonathan Brown","Bristol Flyers|4,51,7,77,9",51,Darnell Brodie,77,Evan Walshe,1,3,1,0,1,1.0,3.0
+Manchester Basketball,"Patrick Smith Jr, Max Jones, Oluwaseyi Adetukasi, Matthew Nicholson, Zak Irvin","Manchester Basketball|0,2,22,34,7",22,Oluwaseyi Adetukasi,0,Patrick Smith Jr,1,3,1,0,1,1.0,3.0
+Manchester Basketball,"Patrick Smith Jr, Max Jones, Oluwaseyi Adetukasi, Matthew Nicholson, Zak Irvin","Manchester Basketball|0,2,22,34,7",2,Max Jones,0,Patrick Smith Jr,1,3,1,0,1,1.0,3.0
+Manchester Basketball,"Patrick Smith Jr, Max Jones, Oluwaseyi Adetukasi, Matthew Nicholson, Zak Irvin","Manchester Basketball|0,2,22,34,7",34,Matthew Nicholson,2,Max Jones,1,3,1,0,1,1.0,3.0
+Bristol Flyers,"Joseph Anderson, William Yoakum, Zachary Anderson, Darnell Brodie, Cameron Holden","Bristol Flyers|22,3,4,51,7",7,Cameron Holden,22,Joseph Anderson,1,3,1,0,1,1.0,3.0
+Manchester Basketball,"Jordan Johnson, Max Jones, Oluwaseyi Adetukasi, Matthew Nicholson, Kaiyem Cleary","Manchester Basketball|11,2,22,34,9",11,Jordan Johnson,2,Max Jones,1,3,1,0,1,1.0,3.0
+Manchester Basketball,"Kyle Carey, Jordan Johnson, Matthew Nicholson, Zak Irvin, Kaiyem Cleary","Manchester Basketball|1,11,34,7,9",11,Jordan Johnson,9,Kaiyem Cleary,1,3,1,0,1,1.0,3.0
+Manchester Basketball,"Patrick Smith Jr, Kyle Carey, Oluwaseyi Adetukasi, Duke Shelton, Judson Martindale","Manchester Basketball|0,1,22,30,33",0,Patrick Smith Jr,33,Judson Martindale,1,3,1,0,1,1.0,3.0
+Bristol Flyers,"Owen Mccormack, Joseph Anderson, William Yoakum, Zachary Anderson, Cameron Holden","Bristol Flyers|13,22,3,4,7",13,Owen Mccormack,4,Zachary Anderson,1,3,1,0,1,1.0,3.0
+Manchester Basketball,"Patrick Smith Jr, Kyle Carey, Oluwaseyi Adetukasi, Duke Shelton, Judson Martindale","Manchester Basketball|0,1,22,30,33",22,Oluwaseyi Adetukasi,1,Kyle Carey,1,3,1,0,1,1.0,3.0
+B. Braun Sheffield Sharks,"Dirk Williams, Mike Ochereobia, Prentiss Nixon, Jalen Deloach, William Lee","B. Braun Sheffield Sharks|1,15,2,23,4",2,Prentiss Nixon,4,William Lee,1,3,1,0,1,1.0,3.0
+B. Braun Sheffield Sharks,"Dirk Williams, Nick Kern Jr, Rodney Chatman Iii, William Lee, Mervin James","B. Braun Sheffield Sharks|1,24,3,4,5",4,William Lee,1,Dirk Williams,1,3,1,0,1,1.0,3.0
+Cheshire Phoenix,"Patrick Robinson, Michael Diggins, Laquincy Rideau, Frankie Policelli, Skyler White","Cheshire Phoenix|13,2,3,5,99",3,Laquincy Rideau,5,Frankie Policelli,1,3,1,0,1,1.0,3.0
+Cheshire Phoenix,"Patrick Robinson, Michael Diggins, Laquincy Rideau, Frankie Policelli, Skyler White","Cheshire Phoenix|13,2,3,5,99",13,Patrick Robinson,3,Laquincy Rideau,1,3,1,0,1,1.0,3.0
+Cheshire Phoenix,"Patrick Robinson, Michael Diggins, Laquincy Rideau, Frankie Policelli, Skyler White","Cheshire Phoenix|13,2,3,5,99",3,Laquincy Rideau,99,Skyler White,1,3,1,0,1,1.0,3.0
+B. Braun Sheffield Sharks,"Dirk Williams, Rodney Glasgow Jr, Prentiss Nixon, Jalen Deloach, Jordan Ratinho","B. Braun Sheffield Sharks|1,11,2,23,9",1,Dirk Williams,2,Prentiss Nixon,1,3,1,0,1,1.0,3.0
+Cheshire Phoenix,"Patrick Robinson, Michael Diggins, Laquincy Rideau, Frankie Policelli","Cheshire Phoenix|13,2,3,5",13,Patrick Robinson,99,Skyler White,1,3,1,0,1,1.0,3.0
+London Lions,"Chaundee Brown Jr, Aaryn Rai, Tarik Phillip, Deane Williams, Shavar Reynolds Jr","London Lions|15,21,22,31,33",33,Shavar Reynolds Jr,31,Deane Williams,1,3,1,0,1,1.0,3.0
+Cheshire Phoenix,"Michael Diggins, Jaxon Brenchley, Laquincy Rideau, Damiri Lindo, Skyler White","Cheshire Phoenix|2,23,3,9,99",99,Skyler White,9,Damiri Lindo,1,3,1,0,1,1.0,3.0
+London Lions,"Chaundee Brown Jr, Aaryn Rai, Deane Williams, Shavar Reynolds Jr, Amin Adamu","London Lions|15,21,31,33,5",21,Aaryn Rai,15,Chaundee Brown Jr,1,3,1,0,1,1.0,3.0
+London Lions,"Chaundee Brown Jr, Aaryn Rai, Tarik Phillip, Deane Williams, Amin Adamu","London Lions|15,21,22,31,5",22,Tarik Phillip,5,Amin Adamu,1,3,1,0,1,1.0,3.0
+London Lions,"Joel Scott, Chaundee Brown Jr, Aaryn Rai, Tarik Phillip, Shavar Reynolds Jr","London Lions|1,15,21,22,33",1,Joel Scott,22,Tarik Phillip,1,3,1,0,1,1.0,3.0
+London Lions,"Chaundee Brown Jr, Aaryn Rai, Tarik Phillip, Deane Williams, Shavar Reynolds Jr","London Lions|15,21,22,31,33",22,Tarik Phillip,31,Deane Williams,1,3,1,0,1,1.0,3.0
+London Lions,"Joel Scott, Chaundee Brown Jr, Deane Williams, Shavar Reynolds Jr, Amin Adamu","London Lions|1,15,31,33,5",31,Deane Williams,5,Amin Adamu,1,3,1,0,1,1.0,3.0
+London Lions,"Joel Scott, Karolis Lukosiunas, Deane Williams, Shavar Reynolds Jr, Amin Adamu","London Lions|1,16,31,33,5",5,Amin Adamu,31,Deane Williams,1,3,1,0,1,1.0,3.0
+London Lions,"Chaundee Brown Jr, Aaryn Rai, Tarik Phillip, Deane Williams, Amin Adamu","London Lions|15,21,22,31,5",5,Amin Adamu,22,Tarik Phillip,1,3,1,0,1,1.0,3.0
+London Lions,"Chaundee Brown Jr, Aaryn Rai, Deane Williams, Shavar Reynolds Jr, Amin Adamu","London Lions|15,21,31,33,5",33,Shavar Reynolds Jr,5,Amin Adamu,1,3,1,0,1,1.0,3.0
+Manchester Basketball,"Patrick Smith Jr, Max Jones, Oluwaseyi Adetukasi, Matthew Nicholson, Kaiyem Cleary","Manchester Basketball|0,2,22,34,9",34,Matthew Nicholson,0,Patrick Smith Jr,1,3,1,0,1,1.0,3.0
+Manchester Basketball,"Patrick Smith Jr, Max Jones, Oluwaseyi Adetukasi, Matthew Nicholson, Kaiyem Cleary","Manchester Basketball|0,2,22,34,9",0,Patrick Smith Jr,22,Oluwaseyi Adetukasi,1,3,1,0,1,1.0,3.0
+Manchester Basketball,"Patrick Smith Jr, Kyle Carey, Max Jones, Oluwaseyi Adetukasi, Matthew Nicholson","Manchester Basketball|0,1,2,22,34",0,Patrick Smith Jr,1,Kyle Carey,1,3,1,0,1,1.0,3.0
+Manchester Basketball,"Kyle Carey, Jordan Johnson, Gabriel Osabuohien, Zak Irvin, Kaiyem Cleary","Manchester Basketball|1,11,3,7,9",11,Jordan Johnson,1,Kyle Carey,1,3,1,0,1,1.0,3.0
+Surrey 89ers,"Tyrin Lawrence, Kino Lily Jr, Tayo Ogedengbe, Timothy Nwankwo, Maximilian Coupe","Surrey 89ers|10,12,15,19,33",19,Timothy Nwankwo,15,Tayo Ogedengbe,1,3,1,0,1,1.0,3.0
+Manchester Basketball,"Kyle Carey, Jordan Johnson, Gabriel Osabuohien, Zak Irvin, Kaiyem Cleary","Manchester Basketball|1,11,3,7,9",3,Gabriel Osabuohien,1,Kyle Carey,1,3,1,0,1,1.0,3.0
+Manchester Basketball,"Kyle Carey, Jordan Johnson, Max Jones, Gabriel Osabuohien, Zak Irvin","Manchester Basketball|1,11,2,3,7",3,Gabriel Osabuohien,1,Kyle Carey,1,3,1,0,1,1.0,3.0
+Manchester Basketball,"Patrick Smith Jr, Kyle Carey, Jordan Johnson, Gabriel Osabuohien, Zak Irvin","Manchester Basketball|0,1,11,3,7",3,Gabriel Osabuohien,0,Patrick Smith Jr,1,3,1,0,1,1.0,3.0
+Surrey 89ers,"Isiah Small, Tyrin Lawrence, Kino Lily Jr, Tayo Ogedengbe, Nedas Cholevinskas","Surrey 89ers|0,10,12,15,17",12,Kino Lily Jr,0,Isiah Small,1,3,1,0,1,1.0,3.0
+Manchester Basketball,"Patrick Smith Jr, Jordan Johnson, Max Jones, Oluwaseyi Adetukasi, Zak Irvin","Manchester Basketball|0,11,2,22,7",11,Jordan Johnson,2,Max Jones,1,3,1,0,1,1.0,3.0
+Manchester Basketball,"Patrick Smith Jr, Kyle Carey, Max Jones, Gabriel Osabuohien, Zak Irvin","Manchester Basketball|0,1,2,3,7",2,Max Jones,1,Kyle Carey,1,3,1,0,1,1.0,3.0
+Manchester Basketball,"Kyle Carey, Jordan Johnson, Max Jones, Gabriel Osabuohien, Zak Irvin","Manchester Basketball|1,11,2,3,7",11,Jordan Johnson,1,Kyle Carey,1,3,1,0,1,1.0,3.0
+Manchester Basketball,"Patrick Smith Jr, Max Jones, Oluwaseyi Adetukasi, Matthew Nicholson, Kaiyem Cleary","Manchester Basketball|0,2,22,34,9",34,Matthew Nicholson,2,Max Jones,1,3,1,0,1,1.0,3.0
+Surrey 89ers,"Isiah Small, Tyrin Lawrence, Kino Lily Jr, Haydn Ling, Ronald Polite Iii","Surrey 89ers|0,10,12,55,7",10,Tyrin Lawrence,12,Kino Lily Jr,1,3,1,0,1,1.0,3.0
+Manchester Basketball,"Patrick Smith Jr, Max Jones, Oluwaseyi Adetukasi, Matthew Nicholson, Kaiyem Cleary","Manchester Basketball|0,2,22,34,9",22,Oluwaseyi Adetukasi,0,Patrick Smith Jr,1,3,1,0,1,1.0,3.0
+Surrey 89ers,"Isiah Small, Tyrin Lawrence, Kino Lily Jr, Nedas Cholevinskas, Timothy Nwankwo","Surrey 89ers|0,10,12,17,19",10,Tyrin Lawrence,12,Kino Lily Jr,1,3,1,0,1,1.0,3.0
+Surrey 89ers,"Tyrin Lawrence, Kino Lily Jr, Tayo Ogedengbe, Nedas Cholevinskas, Timothy Nwankwo","Surrey 89ers|10,12,15,17,19",12,Kino Lily Jr,17,Nedas Cholevinskas,1,3,1,0,1,1.0,3.0
+Manchester Basketball,"Kyle Carey, Jordan Johnson, Gabriel Osabuohien, Zak Irvin, Kaiyem Cleary","Manchester Basketball|1,11,3,7,9",9,Kaiyem Cleary,11,Jordan Johnson,1,3,1,0,1,1.0,3.0
+Surrey 89ers,"Isiah Small, Kino Lily Jr, Nedas Cholevinskas, Haydn Ling, Ronald Polite Iii","Surrey 89ers|0,12,17,55,7",17,Nedas Cholevinskas,0,Isiah Small,1,3,1,0,1,1.0,3.0
+Manchester Basketball,"Patrick Smith Jr, Jordan Johnson, Max Jones, Oluwaseyi Adetukasi, Matthew Nicholson","Manchester Basketball|0,11,2,22,34",0,Patrick Smith Jr,2,Max Jones,1,3,1,0,1,1.0,3.0
+Manchester Basketball,"Patrick Smith Jr, Jordan Johnson, Max Jones, Oluwaseyi Adetukasi, Gabriel Osabuohien","Manchester Basketball|0,11,2,22,3",11,Jordan Johnson,2,Max Jones,1,3,1,0,1,1.0,3.0
+Cheshire Phoenix,"Michael Diggins, Jaxon Brenchley, Laquincy Rideau, Frankie Policelli, Skyler White","Cheshire Phoenix|2,23,3,5,99",2,Michael Diggins,5,Frankie Policelli,1,3,1,0,1,1.0,3.0
+London Lions,"Joel Scott, Chaundee Brown Jr, Aaryn Rai, Shavar Reynolds Jr, Amin Adamu","London Lions|1,15,21,33,5",5,Amin Adamu,21,Aaryn Rai,1,3,1,0,1,1.0,3.0
+London Lions,"Joel Scott, Chaundee Brown Jr, Tarik Phillip, Deane Williams, Morayo Soluade","London Lions|1,15,22,31,6",6,Morayo Soluade,1,Joel Scott,1,3,1,0,1,1.0,3.0
+Cheshire Phoenix,"Patrick Robinson, Michael Diggins, Jaxon Brenchley, Frankie Policelli, Skyler White","Cheshire Phoenix|13,2,23,5,99",13,Patrick Robinson,99,Skyler White,1,3,1,0,1,1.0,3.0
+London Lions,"Joel Scott, Chaundee Brown Jr, Tarik Phillip, Deane Williams, Shavar Reynolds Jr","London Lions|1,15,22,31,33",1,Joel Scott,15,Chaundee Brown Jr,1,3,1,0,1,1.0,3.0
+London Lions,"Chaundee Brown Jr, Tarik Phillip, Ciaran Sandy, Deane Williams, Nigel Hawkins","London Lions|15,22,3,31,8",31,Deane Williams,8,Nigel Hawkins,1,3,1,0,1,1.0,3.0
+Cheshire Phoenix,"Patrick Robinson, Michael Diggins, Jaxon Brenchley, Matthew Zona, Frankie Policelli","Cheshire Phoenix|13,2,23,24,5",24,Matthew Zona,2,Michael Diggins,1,3,1,0,1,1.0,3.0
+Cheshire Phoenix,"Patrick Robinson, Michael Diggins, Jaxon Brenchley, Frankie Policelli, Damiri Lindo","Cheshire Phoenix|13,2,23,5,9",13,Patrick Robinson,5,Frankie Policelli,1,3,1,0,1,1.0,3.0
+London Lions,"Ethan Price, Karolis Lukosiunas, Tarik Phillip, Deane Williams, Amin Adamu","London Lions|10,16,22,31,5",31,Deane Williams,5,Amin Adamu,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Terrell Burden Jr, Maceo Jack, Cole Long, Mitch Clarke, Gus Okafor","Newcastle Eagles|1,14,15,41,99",1,Terrell Burden Jr,41,Mitch Clarke,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Maceo Jack, Cole Long, Ray'sean Taylor, Mitch Clarke, Gus Okafor","Newcastle Eagles|14,15,3,41,99",3,Ray'sean Taylor,41,Mitch Clarke,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Terrell Burden Jr, Ray'sean Taylor, Mitch Clarke, Sauveur Kande, Gus Okafor","Newcastle Eagles|1,3,41,9,99",1,Terrell Burden Jr,41,Mitch Clarke,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Terrell Burden Jr, Maceo Jack, Cole Long, Mitch Clarke, Deion Hammond","Newcastle Eagles|1,14,15,41,8",15,Cole Long,8,Deion Hammond,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Terrell Burden Jr, Maceo Jack, Cole Long, Mitch Clarke, Deion Hammond","Newcastle Eagles|1,14,15,41,8",1,Terrell Burden Jr,15,Cole Long,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Maceo Jack, Cole Long, Emmanuel Kanwei, Ray'sean Taylor, Sauveur Kande","Newcastle Eagles|14,15,21,3,9",3,Ray'sean Taylor,15,Cole Long,1,3,1,0,1,1.0,3.0
+B. Braun Sheffield Sharks,"Dirk Williams, Jalen Deloach, Rodney Chatman Iii, Mervin James, Jordan Ratinho","B. Braun Sheffield Sharks|1,23,3,5,9",23,Jalen Deloach,3,Rodney Chatman Iii,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Maceo Jack, Cole Long, Emmanuel Kanwei, Ray'sean Taylor, Sauveur Kande","Newcastle Eagles|14,15,21,3,9",21,Emmanuel Kanwei,9,Sauveur Kande,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Darius Defoe, Cole Long, Ray'sean Taylor, Mitch Clarke, Deion Hammond","Newcastle Eagles|13,15,3,41,8",13,Darius Defoe,15,Cole Long,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Darius Defoe, Cole Long, Ray'sean Taylor, Mitch Clarke, Deion Hammond","Newcastle Eagles|13,15,3,41,8",15,Cole Long,8,Deion Hammond,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Darius Defoe, Maceo Jack, Cole Long, Mitch Clarke, Deion Hammond","Newcastle Eagles|13,14,15,41,8",41,Mitch Clarke,8,Deion Hammond,1,3,1,0,1,1.0,3.0
+B. Braun Sheffield Sharks,"Rodney Glasgow Jr, Mike Ochereobia, Prentiss Nixon, Nick Kern Jr, Mervin James","B. Braun Sheffield Sharks|11,15,2,24,5",24,Nick Kern Jr,5,Mervin James,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Maceo Jack, Cole Long, Emmanuel Kanwei, Ray'sean Taylor, Deion Hammond","Newcastle Eagles|14,15,21,3,8",15,Cole Long,8,Deion Hammond,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Maceo Jack, Cole Long, Emmanuel Kanwei, Ray'sean Taylor, Mitch Clarke","Newcastle Eagles|14,15,21,3,41",3,Ray'sean Taylor,14,Maceo Jack,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Maceo Jack, Cole Long, Emmanuel Kanwei, Ray'sean Taylor, Deion Hammond","Newcastle Eagles|14,15,21,3,8",14,Maceo Jack,8,Deion Hammond,1,3,1,0,1,1.0,3.0
+B. Braun Sheffield Sharks,"Dirk Williams, Jalen Deloach, Rodney Chatman Iii, Mervin James, Jordan Ratinho","B. Braun Sheffield Sharks|1,23,3,5,9",9,Jordan Ratinho,1,Dirk Williams,1,3,1,0,1,1.0,3.0
+B. Braun Sheffield Sharks,"Dirk Williams, Prentiss Nixon, Nick Kern Jr, Mervin James, Jordan Ratinho","B. Braun Sheffield Sharks|1,2,24,5,9",2,Prentiss Nixon,1,Dirk Williams,1,3,1,0,1,1.0,3.0
+Caledonia Gladiators,"Charles Jet Speelman, Matthew Ragsdale, Lloyd Alvin Bryan Jr, Kyle Jimenez, Fraser Malcolm","Caledonia Gladiators|22,24,56,6,7",56,Lloyd Alvin Bryan Jr,22,Charles Jet Speelman,1,3,1,0,1,1.0,3.0
+B. Braun Sheffield Sharks,"Dirk Williams, Prentiss Nixon, Nick Kern Jr, Mervin James, Jordan Ratinho","B. Braun Sheffield Sharks|1,2,24,5,9",24,Nick Kern Jr,2,Prentiss Nixon,1,3,1,0,1,1.0,3.0
+Caledonia Gladiators,"Daniel Carr, Charles Jet Speelman, Matthew Ragsdale, Kyle Jimenez, Fraser Malcolm","Caledonia Gladiators|14,22,24,6,7",7,Fraser Malcolm,24,Matthew Ragsdale,1,3,1,0,1,1.0,3.0
+Caledonia Gladiators,"Daniel Carr, Charles Jet Speelman, Matthew Ragsdale, Kyle Jimenez, Fraser Malcolm","Caledonia Gladiators|14,22,24,6,7",6,Kyle Jimenez,24,Matthew Ragsdale,1,3,1,0,1,1.0,3.0
+B. Braun Sheffield Sharks,"Dirk Williams, Jalen Deloach, Nick Kern Jr, Rodney Chatman Iii, Mervin James","B. Braun Sheffield Sharks|1,23,24,3,5",24,Nick Kern Jr,1,Dirk Williams,1,3,1,0,1,1.0,3.0
+Leicester Riders,"Aaron Menzies, Marc Loving, Spencer Johnson, Raequan Battle, Travis Evee","Leicester Riders|12,2,20,21,3",3,Travis Evee,20,Spencer Johnson,1,3,1,0,1,1.0,3.0
+Manchester Basketball,"Patrick Smith Jr, Max Jones, Gabriel Osbuhein, Judson Martindale, Kaiyem Cleary","Manchester Basketball|0,2,3,33,9",2,Max Jones,0,Patrick Smith Jr,1,3,1,0,1,1.0,3.0
+Manchester Basketball,"Patrick Smith Jr, Max Jones, Oluwaseyi Adetukasi, Duke Shelton, Zak Irvin","Manchester Basketball|0,2,22,30,7",2,Max Jones,22,Oluwaseyi Adetukasi,1,3,1,0,1,1.0,3.0
+Leicester Riders,"Donald Carey Jr, Marc Loving, Spencer Johnson, Raequan Battle, Nathaniel Martin","Leicester Riders|13,2,20,21,41",41,Nathaniel Martin,2,Marc Loving,1,3,1,0,1,1.0,3.0
+Manchester Basketball,"Patrick Smith Jr, Max Jones, Oluwaseyi Adetukasi, Gabriel Osbuhein, Kaiyem Cleary","Manchester Basketball|0,2,22,3,9",0,Patrick Smith Jr,9,Kaiyem Cleary,1,3,1,0,1,1.0,3.0
+Leicester Riders,"Donald Carey Jr, Marc Loving, Spencer Johnson, Raequan Battle, Nathaniel Martin","Leicester Riders|13,2,20,21,41",20,Spencer Johnson,21,Raequan Battle,1,3,1,0,1,1.0,3.0
+Manchester Basketball,"Jordan Johnson, Oluwaseyi Adetukasi, Gabriel Osbuhein, Zak Irvin, Kaiyem Cleary","Manchester Basketball|11,22,3,7,9",11,Jordan Johnson,9,Kaiyem Cleary,1,3,1,0,1,1.0,3.0
+Manchester Basketball,"Jordan Johnson, Max Jones, Duke Shelton, Judson Martindale, Zak Irvin","Manchester Basketball|11,2,30,33,7",11,Jordan Johnson,2,Max Jones,1,3,1,0,1,1.0,3.0
+Manchester Basketball,"Jordan Johnson, Max Jones, Duke Shelton, Judson Martindale, Zak Irvin","Manchester Basketball|11,2,30,33,7",7,Zak Irvin,11,Jordan Johnson,1,3,1,0,1,1.0,3.0
+Leicester Riders,"Olutomiwa Sulaiman, Donald Carey Jr, Raequan Battle, Nathaniel Martin, Flynn Boardman-Raffet","Leicester Riders|10,13,21,41,77",10,Olutomiwa Sulaiman,77,Flynn Boardman-Raffet,1,3,1,0,1,1.0,3.0
+Manchester Basketball,"Patrick Smith Jr, Max Jones, Oluwaseyi Adetukasi, Gabriel Osbuhein, Kaiyem Cleary","Manchester Basketball|0,2,22,3,9",3,Gabriel Osbuhein,9,Kaiyem Cleary,1,3,1,0,1,1.0,3.0
+Leicester Riders,"Olutomiwa Sulaiman, Donald Carey Jr, Raequan Battle, Nathaniel Martin, Flynn Boardman-Raffet","Leicester Riders|10,13,21,41,77",13,Donald Carey Jr,77,Flynn Boardman-Raffet,1,3,1,0,1,1.0,3.0
+Leicester Riders,"Donald Carey Jr, Marc Loving, Spencer Johnson, Raequan Battle, Nathaniel Martin","Leicester Riders|13,2,20,21,41",20,Spencer Johnson,13,Donald Carey Jr,1,3,1,0,1,1.0,3.0
+Manchester Basketball,"Patrick Smith Jr, Max Jones, Oluwaseyi Adetukasi, Duke Shelton, Kaiyem Cleary","Manchester Basketball|0,2,22,30,9",9,Kaiyem Cleary,22,Oluwaseyi Adetukasi,1,3,1,0,1,1.0,3.0
+Manchester Basketball,"Jordan Johnson, Max Jones, Oluwaseyi Adetukasi, Duke Shelton, Kaiyem Cleary","Manchester Basketball|11,2,22,30,9",11,Jordan Johnson,2,Max Jones,1,3,1,0,1,1.0,3.0
+Bristol Flyers,"Owen Mccormack, Joseph Anderson, Milos Dugalic, William Yoakum, Zachary Anderson","Bristol Flyers|13,22,25,3,4",22,Joseph Anderson,13,Owen Mccormack,1,3,1,0,1,1.0,3.0
+London Lions,"Ryan Mikesell, Jonathan Williams, Kameron Mcgusty, Deane Williams, Amin Adamu","London Lions|11,13,23,31,5",11,Ryan Mikesell,23,Kameron Mcgusty,1,3,1,0,1,1.0,3.0
+London Lions,"Ethan Price, Aaryn Rai, Kameron Mcgusty, Deane Williams, Amin Adamu","London Lions|10,21,23,31,5",5,Amin Adamu,31,Deane Williams,1,3,1,0,1,1.0,3.0
+London Lions,"Ovie Soko, Ethan Price, Chasson Jermar Randle, Aaryn Rai, Tarik Phillip","London Lions|0,10,2,21,22",2,Chasson Jermar Randle,2,Chasson Jermar Randle,1,3,1,0,1,1.0,3.0
+Bristol Flyers,"Marcus Delpeche, Joseph Anderson, Milos Dugalic, William Yoakum, Zachary Anderson","Bristol Flyers|21,22,25,3,4",4,Zachary Anderson,3,William Yoakum,1,3,1,0,1,1.0,3.0
+Bristol Flyers,"Marcus Delpeche, Joseph Anderson, Milos Dugalic, William Yoakum, Zachary Anderson","Bristol Flyers|21,22,25,3,4",4,Zachary Anderson,25,Milos Dugalic,1,3,1,0,1,1.0,3.0
+London Lions,"Ethan Price, Aaryn Rai, Kameron Mcgusty, Ciaran Sandy, Amin Adamu","London Lions|10,21,23,3,5",23,Kameron Mcgusty,5,Amin Adamu,1,3,1,0,1,1.0,3.0
+Bristol Flyers,"Owen Mccormack, Joseph Anderson, Milos Dugalic, Zachary Anderson, Cameron Holden","Bristol Flyers|13,22,25,4,7",7,Cameron Holden,22,Joseph Anderson,1,3,1,0,1,1.0,3.0
+Bristol Flyers,"Owen Mccormack, Joseph Anderson, Milos Dugalic, William Yoakum, Zachary Anderson","Bristol Flyers|13,22,25,3,4",4,Zachary Anderson,22,Joseph Anderson,1,3,1,0,1,1.0,3.0
+Bristol Flyers,"Joseph Anderson, William Yoakum, Zachary Anderson, Darnell Brodie, Cameron Holden","Bristol Flyers|22,3,4,51,7",4,Zachary Anderson,3,William Yoakum,1,3,1,0,1,1.0,3.0
+London Lions,"Ovie Soko, Ethan Price, Chasson Jermar Randle, Aaryn Rai, Tarik Phillip","London Lions|0,10,2,21,22",22,Tarik Phillip,2,Chasson Jermar Randle,1,3,1,0,1,1.0,3.0
+London Lions,"Ethan Price, Ryan Mikesell, Tarik Phillip, Kameron Mcgusty, Ciaran Sandy","London Lions|10,11,22,23,3",22,Tarik Phillip,22,Tarik Phillip,1,3,1,0,1,1.0,3.0
+Bristol Flyers,"Owen Mccormack, Joseph Anderson, William Yoakum, Zachary Anderson, Jonathan Brown","Bristol Flyers|13,22,3,4,9",13,Owen Mccormack,22,Joseph Anderson,1,3,1,0,1,1.0,3.0
+Surrey 89ers,"Isiah Small, Owen Koonce, Kino Lily Jr, Haydn Ling, Ronald Polite Iii","Surrey 89ers|0,1,12,55,7",12,Kino Lily Jr,1,Owen Koonce,1,3,1,0,1,1.0,3.0
+London Lions,"Ovie Soko, Karolis Lukosiunas, Aaryn Rai, Tarik Phillip, Matthew Goodwin","London Lions|0,16,21,22,55",0,Ovie Soko,21,Aaryn Rai,1,3,1,0,1,1.0,3.0
+London Lions,"Ethan Price, Karolis Lukosiunas, Deane Williams, Amin Adamu, Matthew Goodwin","London Lions|10,16,31,5,55",5,Amin Adamu,16,Karolis Lukosiunas,1,3,1,0,1,1.0,3.0
+London Lions,"Ethan Price, Karolis Lukosiunas, Deane Williams, Amin Adamu, Matthew Goodwin","London Lions|10,16,31,5,55",10,Ethan Price,16,Karolis Lukosiunas,1,3,1,0,1,1.0,3.0
+London Lions,"Ovie Soko, Ryan Mikesell, Aaryn Rai, Shavar Reynolds Jr, Amin Adamu","London Lions|0,11,21,33,5",11,Ryan Mikesell,5,Amin Adamu,1,3,1,0,1,1.0,3.0
+London Lions,"Ethan Price, Ryan Mikesell, Chasson Jermar Randle, Aaryn Rai, Tarik Phillip","London Lions|10,11,2,21,22",22,Tarik Phillip,11,Ryan Mikesell,1,3,1,0,1,1.0,3.0
+London Lions,"Ethan Price, Karolis Lukosiunas, Chasson Jermar Randle, Deane Williams, Amin Adamu","London Lions|10,16,2,31,5",10,Ethan Price,16,Karolis Lukosiunas,1,3,1,0,1,1.0,3.0
+Surrey 89ers,"Isiah Small, Owen Koonce, Kino Lily Jr, Michael Graham, Ronald Polite Iii","Surrey 89ers|0,1,12,21,7",7,Ronald Polite Iii,12,Kino Lily Jr,1,3,1,0,1,1.0,3.0
+London Lions,"Ovie Soko, Karolis Lukosiunas, Aaryn Rai, Tarik Phillip, Amin Adamu","London Lions|0,16,21,22,5",5,Amin Adamu,16,Karolis Lukosiunas,1,3,1,0,1,1.0,3.0
+Surrey 89ers,"Isiah Small, Owen Koonce, Kino Lily Jr, Michael Graham, Ronald Polite Iii","Surrey 89ers|0,1,12,21,7",0,Isiah Small,12,Kino Lily Jr,1,3,1,0,1,1.0,3.0
+Surrey 89ers,"Isiah Small, Kino Lily Jr, Nedas Cholevinskas, Haydn Ling, Ronald Polite Iii","Surrey 89ers|0,12,17,55,7",7,Ronald Polite Iii,0,Isiah Small,1,3,1,0,1,1.0,3.0
+London Lions,"Ethan Price, Chasson Jermar Randle, Aaryn Rai, Tarik Phillip, Deane Williams","London Lions|10,2,21,22,31",22,Tarik Phillip,21,Aaryn Rai,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Terrell Burden, Maceo Jack, Cole Long, Deion Hammond, Gus Okafor","Newcastle Eagles|1,14,15,8,99",1,Terrell Burden,99,Gus Okafor,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Terrell Burden, Maceo Jack, Cole Long, Deion Hammond, Gus Okafor","Newcastle Eagles|1,14,15,8,99",15,Cole Long,8,Deion Hammond,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Terrell Burden, Maceo Jack, Ray'sean Taylor, Deion Hammond, Gus Okafor","Newcastle Eagles|1,14,3,8,99",14,Maceo Jack,8,Deion Hammond,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Maceo Jack, Emmanuel Kanwei, Ray'sean Taylor, Mitch Clarke, Deion Hammond","Newcastle Eagles|14,21,3,41,8",3,Ray'sean Taylor,8,Deion Hammond,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Darius Defoe, Maceo Jack, Cole Long, Ray'sean Taylor, Mitch Clarke","Newcastle Eagles|13,14,15,3,41",14,Maceo Jack,3,Ray'sean Taylor,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Darius Defoe, Maceo Jack, Cole Long, Ray'sean Taylor, Mitch Clarke","Newcastle Eagles|13,14,15,3,41",15,Cole Long,3,Ray'sean Taylor,1,3,1,0,1,1.0,3.0
+Cheshire Phoenix,"Michael Diggins, Jaxon Brenchley, Laquincy Rideau, Damiri Lindo, Skyler White","Cheshire Phoenix|2,23,3,9,99",23,Jaxon Brenchley,99,Skyler White,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Terrell Burden, Maceo Jack, Cole Long, Emmanuel Kanwei, Deion Hammond","Newcastle Eagles|1,14,15,21,8",21,Emmanuel Kanwei,8,Deion Hammond,1,3,1,0,1,1.0,3.0
+Cheshire Phoenix,"Tobias Cameron, Patrick Robinson, Jaxon Brenchley, Laquincy Rideau, Skyler White","Cheshire Phoenix|11,13,23,3,99",3,Laquincy Rideau,13,Patrick Robinson,1,3,1,0,1,1.0,3.0
+Cheshire Phoenix,"Tobias Cameron, Jaxon Brenchley, Matthew Zona, Laquincy Rideau, Frankie Policelli","Cheshire Phoenix|11,23,24,3,5",24,Matthew Zona,5,Frankie Policelli,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Terrell Burden, Emmanuel Kanwei, Ray'sean Taylor, Mitch Clarke, Gus Okafor","Newcastle Eagles|1,21,3,41,99",1,Terrell Burden,21,Emmanuel Kanwei,1,3,1,0,1,1.0,3.0
+Cheshire Phoenix,"Tobias Cameron, Jaxon Brenchley, Matthew Zona, Laquincy Rideau, Frankie Policelli","Cheshire Phoenix|11,23,24,3,5",3,Laquincy Rideau,24,Matthew Zona,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Maceo Jack, Cole Long, Mitch Clarke, Deion Hammond, Gus Okafor","Newcastle Eagles|14,15,41,8,99",8,Deion Hammond,99,Gus Okafor,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Terrell Burden, Maceo Jack, Mitch Clarke, Deion Hammond, Gus Okafor","Newcastle Eagles|1,14,41,8,99",8,Deion Hammond,14,Maceo Jack,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Maceo Jack, Ray'sean Taylor, Mitch Clarke, Deion Hammond, Gus Okafor","Newcastle Eagles|14,3,41,8,99",3,Ray'sean Taylor,41,Mitch Clarke,1,3,1,0,1,1.0,3.0
+London Lions,"Ethan Price, Karolis Lukosiunas, Chasson Jermar Randle, Tarik Phillip, Deane Williams","London Lions|10,16,2,22,31",22,Tarik Phillip,2,Chasson Jermar Randle,1,3,1,0,1,1.0,3.0
+Bristol Flyers,"Marcus Delpeche, Joseph Anderson, William Yoakum, Zachary Anderson, Cameron Holden","Bristol Flyers|21,22,3,4,7",21,Marcus Delpeche,7,Cameron Holden,1,3,1,0,1,1.0,3.0
+Bristol Flyers,"Joseph Anderson, William Yoakum, Zachary Anderson, Darnell Brodie, Cameron Holden","Bristol Flyers|22,3,4,51,7",7,Cameron Holden,4,Zachary Anderson,1,3,1,0,1,1.0,3.0
+London Lions,"Jonathan Williams, Aaryn Rai, Deane Williams, Shavar Reynolds Jr, Amin Adamu","London Lions|13,21,31,33,5",13,Jonathan Williams,31,Deane Williams,1,3,1,0,1,1.0,3.0
+London Lions,"Jonathan Williams, Aaryn Rai, Deane Williams, Shavar Reynolds Jr, Amin Adamu","London Lions|13,21,31,33,5",21,Aaryn Rai,33,Shavar Reynolds Jr,1,3,1,0,1,1.0,3.0
+Bristol Flyers,"Owen Mccormack, Marcus Delpeche, William Yoakum, Zachary Anderson, Cameron Holden","Bristol Flyers|13,21,3,4,7",21,Marcus Delpeche,3,William Yoakum,1,3,1,0,1,1.0,3.0
+London Lions,"Ethan Price, Jonathan Williams, Chasson Jermar Randle, Aaryn Rai, Tarik Phillip","London Lions|10,13,2,21,22",22,Tarik Phillip,10,Ethan Price,1,3,1,0,1,1.0,3.0
+London Lions,"Ethan Price, Karolis Lukosiunas, Chasson Jermar Randle, Aaryn Rai, Shavar Reynolds Jr","London Lions|10,16,2,21,33",10,Ethan Price,16,Karolis Lukosiunas,1,3,1,0,1,1.0,3.0
+London Lions,"Ethan Price, Karolis Lukosiunas, Aaryn Rai, Shavar Reynolds Jr, Amin Adamu","London Lions|10,16,21,33,5",21,Aaryn Rai,5,Amin Adamu,1,3,1,0,1,1.0,3.0
+London Lions,"Ethan Price, Karolis Lukosiunas, Tarik Phillip, Deane Williams, Shavar Reynolds Jr","London Lions|10,16,22,31,33",31,Deane Williams,16,Karolis Lukosiunas,1,3,1,0,1,1.0,3.0
+Bristol Flyers,"Marcus Delpeche, Joseph Anderson, William Yoakum, Zachary Anderson, Cameron Holden","Bristol Flyers|21,22,3,4,7",4,Zachary Anderson,22,Joseph Anderson,1,3,1,0,1,1.0,3.0
+Bristol Flyers,"Owen Mccormack, Joseph Anderson, William Yoakum, Darnell Brodie, Cameron Holden","Bristol Flyers|13,22,3,51,7",7,Cameron Holden,3,William Yoakum,1,3,1,0,1,1.0,3.0
+London Lions,"Ethan Price, Karolis Lukosiunas, Chasson Jermar Randle, Aaryn Rai, Tarik Phillip","London Lions|10,16,2,21,22",22,Tarik Phillip,16,Karolis Lukosiunas,1,3,1,0,1,1.0,3.0
+London Lions,"Ethan Price, Karolis Lukosiunas, Chasson Jermar Randle, Aaryn Rai, Tarik Phillip","London Lions|10,16,2,21,22",2,Chasson Jermar Randle,16,Karolis Lukosiunas,1,3,1,0,1,1.0,3.0
+London Lions,"Ethan Price, Karolis Lukosiunas, Chasson Jermar Randle, Aaryn Rai, Shavar Reynolds Jr","London Lions|10,16,2,21,33",10,Ethan Price,33,Shavar Reynolds Jr,1,3,1,0,1,1.0,3.0
+Bristol Flyers,"Marcus Delpeche, Joseph Anderson, William Yoakum, Zachary Anderson, Cameron Holden","Bristol Flyers|21,22,3,4,7",7,Cameron Holden,4,Zachary Anderson,1,3,1,0,1,1.0,3.0
+Bristol Flyers,"Marcus Delpeche, Joseph Anderson, William Yoakum, Zachary Anderson, Cameron Holden","Bristol Flyers|21,22,3,4,7",21,Marcus Delpeche,4,Zachary Anderson,1,3,1,0,1,1.0,3.0
+London Lions,"Jonathan Williams, Aaryn Rai, Tarik Phillip, Deane Williams, Shavar Reynolds Jr","London Lions|13,21,22,31,33",33,Shavar Reynolds Jr,21,Aaryn Rai,1,3,1,0,1,1.0,3.0
+London Lions,"Ethan Price, Chasson Jermar Randle, Tarik Phillip, Ciaran Sandy, Deane Williams","London Lions|10,2,22,3,31",31,Deane Williams,22,Tarik Phillip,1,3,1,0,1,1.0,3.0
+Bristol Flyers,"Owen Mccormack, Marcus Delpeche, William Yoakum, Zachary Anderson, Cameron Holden","Bristol Flyers|13,21,3,4,7",13,Owen Mccormack,3,William Yoakum,1,3,1,0,1,1.0,3.0
+Bristol Flyers,"Owen Mccormack, Joseph Anderson, Zachary Anderson, Darnell Brodie, Cameron Holden","Bristol Flyers|13,22,4,51,7",22,Joseph Anderson,22,Joseph Anderson,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Terrell Burden Jr, Maceo Jack, Cole Long, Emmanuel Kanwei, Deion Hammond","Newcastle Eagles|1,14,15,21,8",15,Cole Long,8,Deion Hammond,1,3,1,0,1,1.0,3.0
+Cheshire Phoenix,"Patrick Robinson, Michael Diggins, Laquincy Rideau, Frankie Policelli, Skyler White","Cheshire Phoenix|13,2,3,5,99",13,Patrick Robinson,99,Skyler White,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Cole Long, Emmanuel Kanwei, Ray'sean Taylor, Mitch Clarke, Deion Hammond","Newcastle Eagles|15,21,3,41,8",3,Ray'sean Taylor,15,Cole Long,1,3,1,0,1,1.0,3.0
+Cheshire Phoenix,"Patrick Robinson, Michael Diggins, Jaxon Brenchley, Matthew Zona, Laquincy Rideau","Cheshire Phoenix|13,2,23,24,3",24,Matthew Zona,3,Laquincy Rideau,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Terrell Burden Jr, Cole Long, Emmanuel Kanwei, Mitch Clarke, Deion Hammond","Newcastle Eagles|1,15,21,41,8",1,Terrell Burden Jr,15,Cole Long,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Terrell Burden Jr, Maceo Jack, Cole Long, Mitch Clarke, Gus Okafor","Newcastle Eagles|1,14,15,41,99",1,Terrell Burden Jr,15,Cole Long,1,3,1,0,1,1.0,3.0
+Cheshire Phoenix,"Tobias Cameron, Patrick Robinson, Jaxon Brenchley, Laquincy Rideau, Skyler White","Cheshire Phoenix|11,13,23,3,99",23,Jaxon Brenchley,11,Tobias Cameron,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Terrell Burden Jr, Maceo Jack, Cole Long, Mitch Clarke, Gus Okafor","Newcastle Eagles|1,14,15,41,99",15,Cole Long,99,Gus Okafor,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Maceo Jack, Cole Long, Ray'sean Taylor, Mitch Clarke, Gus Okafor","Newcastle Eagles|14,15,3,41,99",14,Maceo Jack,15,Cole Long,1,3,1,0,1,1.0,3.0
+Newcastle Eagles,"Maceo Jack, Cole Long, Ray'sean Taylor, Mitch Clarke, Gus Okafor","Newcastle Eagles|14,15,3,41,99",3,Ray'sean Taylor,15,Cole Long,1,3,1,0,1,1.0,3.0
+Cheshire Phoenix,"Patrick Robinson, Michael Diggins, Laquincy Rideau, Frankie Policelli, Damiri Lindo","Cheshire Phoenix|13,2,3,5,9",3,Laquincy Rideau,5,Frankie Policelli,1,3,1,0,1,1.0,3.0
+Cheshire Phoenix,"Patrick Robinson, Michael Diggins, Laquincy Rideau, Frankie Policelli, Damiri Lindo","Cheshire Phoenix|13,2,3,5,9",13,Patrick Robinson,2,Michael Diggins,1,3,1,0,1,1.0,3.0
+Cheshire Phoenix,"Patrick Robinson, Michael Diggins, Jaxon Brenchley, Frankie Policelli, Damiri Lindo","Cheshire Phoenix|13,2,23,5,9",13,Patrick Robinson,23,Jaxon Brenchley,1,3,1,0,1,1.0,3.0
+Surrey 89ers,"Isiah Small, Tyrin Lawrence, Kino Lily Jr, Michael Graham, Ronald Polite Iii","Surrey 89ers|0,10,12,21,7",10,Tyrin Lawrence,7,Ronald Polite Iii,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Kino Lily Jr, Nedas Cholevinskas, Haydn Ling, Ronald Polite Iii","Surrey 89ers|0,12,17,55,7",12,Kino Lily Jr,7,Ronald Polite Iii,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Tyrin Lawrence, Kino Lily Jr, Tayo Ogedengbe, Nedas Cholevinskas, Michael Graham","Surrey 89ers|10,12,15,17,21",21,Michael Graham,17,Nedas Cholevinskas,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Tyrin Lawrence, Tayo Ogedengbe, Nedas Cholevinskas, Timothy Nwankwo, Ronald Polite Iii","Surrey 89ers|10,15,17,19,7",12,Kino Lily Jr,19,Timothy Nwankwo,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Kino Lily Jr, Andrew Lawrence, Haydn Ling, Ronald Polite Iii","Surrey 89ers|0,12,4,55,7",12,Kino Lily Jr,55,Haydn Ling,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Kino Lily Jr, Andrew Lawrence, Haydn Ling, Ronald Polite Iii","Surrey 89ers|0,12,4,55,7",7,Ronald Polite Iii,55,Haydn Ling,1,2,0,1,1,1.0,2.0
+Leicester Riders,"Olutomiwa Sulaiman, Marc Loving, Travis Evee, Nathaniel Martin, Flynn Boardman-Raffet","Leicester Riders|10,2,3,41,77",3,Travis Evee,10,Olutomiwa Sulaiman,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Tyrin Lawrence, Tayo Ogedengbe, Nedas Cholevinskas, Michael Graham, Ronald Polite Iii","Surrey 89ers|10,15,17,21,7",15,Tayo Ogedengbe,21,Michael Graham,1,2,0,1,1,1.0,2.0
+Leicester Riders,"Marc Loving, Spencer Johnson, Raequan Battle, Travis Evee, Nathaniel Martin","Leicester Riders|2,20,21,3,41",2,Marc Loving,20,Spencer Johnson,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Tyrin Lawrence, Kino Lily Jr, Michael Graham, Andrew Lawrence","Surrey 89ers|0,10,12,21,4",12,Kino Lily Jr,0,Isiah Small,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Tyrin Lawrence, Kino Lily Jr, Michael Graham, Andrew Lawrence","Surrey 89ers|0,10,12,21,4",0,Isiah Small,12,Kino Lily Jr,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Tyrin Lawrence, Kino Lily Jr, Michael Graham, Ronald Polite Iii","Surrey 89ers|0,10,12,21,7",7,Ronald Polite Iii,21,Michael Graham,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Tyrin Lawrence, Kino Lily Jr, Haydn Ling, Ronald Polite Iii","Surrey 89ers|0,10,12,55,7",7,Ronald Polite Iii,55,Haydn Ling,1,2,0,1,1,1.0,2.0
+Leicester Riders,"Aaron Menzies, Donald Carey Jr, Marc Loving, Spencer Johnson, Raequan Battle","Leicester Riders|12,13,2,20,21",20,Spencer Johnson,13,Donald Carey Jr,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Kino Lily Jr, Tayo Ogedengbe, Nedas Cholevinskas, Haydn Ling, Ronald Polite Iii","Surrey 89ers|12,15,17,55,7",12,Kino Lily Jr,7,Ronald Polite Iii,1,2,0,1,1,1.0,2.0
+Leicester Riders,"Aaron Menzies, Donald Carey Jr, Marc Loving, Raequan Battle, Flynn Boardman-Raffet","Leicester Riders|12,13,2,21,77",13,Donald Carey Jr,21,Raequan Battle,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Kino Lily Jr, Tayo Ogedengbe, Nedas Cholevinskas, Haydn Ling, Ronald Polite Iii","Surrey 89ers|12,15,17,55,7",15,Tayo Ogedengbe,12,Kino Lily Jr,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Tyrin Lawrence, Kino Lily Jr, Michael Graham, Ronald Polite Iii","Surrey 89ers|0,10,12,21,7",10,Tyrin Lawrence,0,Isiah Small,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Tyrin Lawrence, Kino Lily Jr, Tayo Ogedengbe, Haydn Ling, Ronald Polite Iii","Surrey 89ers|10,12,15,55,7",7,Ronald Polite Iii,10,Tyrin Lawrence,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Tyrin Lawrence, Kino Lily Jr, Michael Graham, Ronald Polite Iii","Surrey 89ers|0,10,12,21,7",21,Michael Graham,0,Isiah Small,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Tyrin Lawrence, Kino Lily Jr, Michael Graham, Ronald Polite Iii","Surrey 89ers|0,10,12,21,7",7,Ronald Polite Iii,10,Tyrin Lawrence,1,2,0,1,1,1.0,2.0
+London Lions,"Chaundee Brown Jr, Karolis Lukosiunas, Tarik Phillip, Deane Williams, Shavar Reynolds Jr","London Lions|15,16,22,31,33",31,Deane Williams,22,Tarik Phillip,1,2,0,1,1,1.0,2.0
+London Lions,"Chaundee Brown Jr, Tarik Phillip, Ciaran Sandy, Amin Adamu, Nigel Hawkins","London Lions|15,22,3,5,8",8,Nigel Hawkins,5,Amin Adamu,1,2,0,1,1,1.0,2.0
+London Lions,"Aaryn Rai, Ciaran Sandy, Shavar Reynolds Jr, Amin Adamu, Nigel Hawkins","London Lions|21,3,33,5,8",33,Shavar Reynolds Jr,5,Amin Adamu,1,2,0,1,1,1.0,2.0
+London Lions,"Aaryn Rai, Ciaran Sandy, Shavar Reynolds Jr, Amin Adamu, Nigel Hawkins","London Lions|21,3,33,5,8",33,Shavar Reynolds Jr,21,Aaryn Rai,1,2,0,1,1,1.0,2.0
+London Lions,"Karolis Lukosiunas, Aaryn Rai, Ciaran Sandy, Shavar Reynolds Jr, Nigel Hawkins","London Lions|16,21,3,33,8",16,Karolis Lukosiunas,33,Shavar Reynolds Jr,1,2,0,1,1,1.0,2.0
+London Lions,"Chaundee Brown Jr, Aaryn Rai, Tarik Phillip, Deane Williams, Nigel Hawkins","London Lions|15,21,22,31,8",15,Chaundee Brown Jr,31,Deane Williams,1,2,0,1,1,1.0,2.0
+London Lions,"Chaundee Brown Jr, Aaryn Rai, Tarik Phillip, Ciaran Sandy, Shavar Reynolds Jr","London Lions|15,21,22,3,33",33,Shavar Reynolds Jr,3,Ciaran Sandy,1,2,0,1,1,1.0,2.0
+Newcastle Eagles,"Terrell Burden Jr, Maceo Jack, Cole Long, Emmanuel Kanwei, Deion Hammond","Newcastle Eagles|1,14,15,21,8",8,Deion Hammond,21,Emmanuel Kanwei,1,2,0,1,1,1.0,2.0
+Newcastle Eagles,"Terrell Burden Jr, Maceo Jack, Cole Long, Emmanuel Kanwei, Deion Hammond","Newcastle Eagles|1,14,15,21,8",1,Terrell Burden Jr,14,Maceo Jack,1,2,0,1,1,1.0,2.0
+London Lions,"Chaundee Brown Jr, Karolis Lukosiunas, Tarik Phillip, Deane Williams, Amin Adamu","London Lions|15,16,22,31,5",22,Tarik Phillip,31,Deane Williams,1,2,0,1,1,1.0,2.0
+London Lions,"Aaryn Rai, Ciaran Sandy, Deane Williams, Amin Adamu, Matthew Goodwin","London Lions|21,3,31,5,55",55,Matthew Goodwin,31,Deane Williams,1,2,0,1,1,1.0,2.0
+Newcastle Eagles,"Darius Defoe, Ray'sean Taylor, Mitch Clarke, Sauveur Kande, Gus Okafor","Newcastle Eagles|13,3,41,9,99",41,Mitch Clarke,99,Gus Okafor,1,2,0,1,1,1.0,2.0
+Newcastle Eagles,"Terrell Burden Jr, Maceo Jack, Cole Long, Deion Hammond, Gus Okafor","Newcastle Eagles|1,14,15,8,99",99,Gus Okafor,1,Terrell Burden Jr,1,2,0,1,1,1.0,2.0
+London Lions,"Chaundee Brown Jr, Aaryn Rai, Tarik Phillip, Matthew Goodwin, Nigel Hawkins","London Lions|15,21,22,55,8",21,Aaryn Rai,15,Chaundee Brown Jr,1,2,0,1,1,1.0,2.0
+London Lions,"Aaryn Rai, Ciaran Sandy, Amin Adamu, Matthew Goodwin, Nigel Hawkins","London Lions|21,3,5,55,8",5,Amin Adamu,3,Ciaran Sandy,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Kyle Carey, Jordan Johnson, Kayne Henry, Matthew Nicholson, Kaiyem Cleary","Manchester Basketball|1,11,13,34,9",1,Kyle Carey,34,Matthew Nicholson,1,2,0,1,1,1.0,2.0
+Bristol Flyers,"Owen Mccormack, Marcus Delpeche, Joseph Anderson, Evan Walshe, Jonathan Brown","Bristol Flyers|13,21,22,77,9",13,Owen Mccormack,21,Marcus Delpeche,1,2,0,1,1,1.0,2.0
+Bristol Flyers,"Zachary Anderson, Darnell Brodie, Cameron Holden, Evan Walshe, Jonathan Brown","Bristol Flyers|4,51,7,77,9",7,Cameron Holden,77,Evan Walshe,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Patrick Smith Jr, Max Jones, Oluwaseyi Adetukasi, Matthew Nicholson, Zak Irvin","Manchester Basketball|0,2,22,34,7",7,Zak Irvin,22,Oluwaseyi Adetukasi,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Patrick Smith Jr, Max Jones, Oluwaseyi Adetukasi, Matthew Nicholson, Zak Irvin","Manchester Basketball|0,2,22,34,7",2,Max Jones,22,Oluwaseyi Adetukasi,1,2,0,1,1,1.0,2.0
+Bristol Flyers,"Owen Mccormack, Marcus Delpeche, Joseph Anderson, William Yoakum, Evan Walshe","Bristol Flyers|13,21,22,3,77",22,Joseph Anderson,77,Evan Walshe,1,2,0,1,1,1.0,2.0
+Bristol Flyers,"Owen Mccormack, Marcus Delpeche, Joseph Anderson, William Yoakum, Evan Walshe","Bristol Flyers|13,21,22,3,77",77,Evan Walshe,22,Joseph Anderson,1,2,0,1,1,1.0,2.0
+Bristol Flyers,"Joseph Anderson, William Yoakum, Zachary Anderson, Darnell Brodie, Cameron Holden","Bristol Flyers|22,3,4,51,7",7,Cameron Holden,51,Darnell Brodie,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Patrick Smith Jr, Max Jones, Oluwaseyi Adetukasi, Matthew Nicholson, Zak Irvin","Manchester Basketball|0,2,22,34,7",0,Patrick Smith Jr,7,Zak Irvin,1,2,0,1,1,1.0,2.0
+Bristol Flyers,"Joseph Anderson, Zachary Anderson, Darnell Brodie, Cameron Holden, Evan Walshe","Bristol Flyers|22,4,51,7,77",7,Cameron Holden,51,Darnell Brodie,1,2,0,1,1,1.0,2.0
+Bristol Flyers,"Joseph Anderson, Zachary Anderson, Darnell Brodie, Cameron Holden, Evan Walshe","Bristol Flyers|22,4,51,7,77",22,Joseph Anderson,22,Joseph Anderson,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Patrick Smith Jr, Kyle Carey, Oluwaseyi Adetukasi, Duke Shelton, Judson Martindale","Manchester Basketball|0,1,22,30,33",33,Judson Martindale,30,Duke Shelton,1,2,0,1,1,1.0,2.0
+Cheshire Phoenix,"Patrick Robinson, Jaxon Brenchley, Matthew Zona, Laquincy Rideau, Frankie Policelli","Cheshire Phoenix|13,23,24,3,5",23,Jaxon Brenchley,24,Matthew Zona,1,2,0,1,1,1.0,2.0
+B. Braun Sheffield Sharks,"Dirk Williams, Rodney Chatman Iii, William Lee, Mervin James, Jordan Ratinho","B. Braun Sheffield Sharks|1,3,4,5,9",1,Dirk Williams,5,Mervin James,1,2,0,1,1,1.0,2.0
+Cheshire Phoenix,"Patrick Robinson, Jaxon Brenchley, Matthew Zona, Frankie Policelli, Damiri Lindo","Cheshire Phoenix|13,23,24,5,9",9,Damiri Lindo,24,Matthew Zona,1,2,0,1,1,1.0,2.0
+B. Braun Sheffield Sharks,"Dirk Williams, Prentiss Nixon, Jalen Deloach, Nick Kern Jr, Mervin James","B. Braun Sheffield Sharks|1,2,23,24,5",23,Jalen Deloach,24,Nick Kern Jr,1,2,0,1,1,1.0,2.0
+B. Braun Sheffield Sharks,"Prentiss Nixon, Nick Kern Jr, Rodney Chatman Iii, William Lee, Mervin James","B. Braun Sheffield Sharks|2,24,3,4,5",4,William Lee,3,Rodney Chatman Iii,1,2,0,1,1,1.0,2.0
+B. Braun Sheffield Sharks,"Prentiss Nixon, Nick Kern Jr, Rodney Chatman Iii, William Lee, Mervin James","B. Braun Sheffield Sharks|2,24,3,4,5",2,Prentiss Nixon,24,Nick Kern Jr,1,2,0,1,1,1.0,2.0
+Cheshire Phoenix,"Patrick Robinson, Jaxon Brenchley, Frankie Policelli, Damiri Lindo, Skyler White","Cheshire Phoenix|13,23,5,9,99",5,Frankie Policelli,13,Patrick Robinson,1,2,0,1,1,1.0,2.0
+Cheshire Phoenix,"Patrick Robinson, Michael Diggins, Laquincy Rideau, Frankie Policelli, Skyler White","Cheshire Phoenix|13,2,3,5,99",3,Laquincy Rideau,2,Michael Diggins,1,2,0,1,1,1.0,2.0
+B. Braun Sheffield Sharks,"Dirk Williams, Prentiss Nixon, Jalen Deloach, Rodney Chatman Iii, Mervin James","B. Braun Sheffield Sharks|1,2,23,3,5",1,Dirk Williams,23,Jalen Deloach,1,2,0,1,1,1.0,2.0
+Cheshire Phoenix,"Patrick Robinson, Michael Diggins, Laquincy Rideau, Frankie Policelli, Skyler White","Cheshire Phoenix|13,2,3,5,99",2,Michael Diggins,5,Frankie Policelli,1,2,0,1,1,1.0,2.0
+Cheshire Phoenix,"Patrick Robinson, Jaxon Brenchley, Frankie Policelli, Damiri Lindo, Skyler White","Cheshire Phoenix|13,23,5,9,99",5,Frankie Policelli,23,Jaxon Brenchley,1,2,0,1,1,1.0,2.0
+B. Braun Sheffield Sharks,"Dirk Williams, Rodney Glasgow Jr, Mike Ochereobia, Prentiss Nixon, William Lee","B. Braun Sheffield Sharks|1,11,15,2,4",2,Prentiss Nixon,15,Mike Ochereobia,1,2,0,1,1,1.0,2.0
+Cheshire Phoenix,"Patrick Robinson, Michael Diggins, Laquincy Rideau, Damiri Lindo, Skyler White","Cheshire Phoenix|13,2,3,9,99",3,Laquincy Rideau,99,Skyler White,1,2,0,1,1,1.0,2.0
+B. Braun Sheffield Sharks,"Dirk Williams, Mike Ochereobia, Prentiss Nixon, Mervin James, Jordan Ratinho","B. Braun Sheffield Sharks|1,15,2,5,9",2,Prentiss Nixon,5,Mervin James,1,2,0,1,1,1.0,2.0
+London Lions,"Chaundee Brown Jr, Aaryn Rai, Tarik Phillip, Deane Williams, Shavar Reynolds Jr","London Lions|15,21,22,31,33",31,Deane Williams,21,Aaryn Rai,1,2,0,1,1,1.0,2.0
+London Lions,"Chaundee Brown Jr, Aaryn Rai, Deane Williams, Shavar Reynolds Jr, Amin Adamu","London Lions|15,21,31,33,5",33,Shavar Reynolds Jr,31,Deane Williams,1,2,0,1,1,1.0,2.0
+London Lions,"Ethan Price, Chaundee Brown Jr, Aaryn Rai, Shavar Reynolds Jr, Amin Adamu","London Lions|10,15,21,33,5",1,Joel Scott,21,Aaryn Rai,1,2,0,1,1,1.0,2.0
+London Lions,"Joel Scott, Ethan Price, Karolis Lukosiunas, Tarik Phillip, Amin Adamu","London Lions|1,10,16,22,5",22,Tarik Phillip,1,Joel Scott,1,2,0,1,1,1.0,2.0
+London Lions,"Ethan Price, Karolis Lukosiunas, Tarik Phillip, Deane Williams, Amin Adamu","London Lions|10,16,22,31,5",5,Amin Adamu,31,Deane Williams,1,2,0,1,1,1.0,2.0
+London Lions,"Chaundee Brown Jr, Aaryn Rai, Tarik Phillip, Deane Williams, Amin Adamu","London Lions|15,21,22,31,5",22,Tarik Phillip,31,Deane Williams,1,2,0,1,1,1.0,2.0
+Cheshire Phoenix,"Tobias Cameron, Patrick Robinson, Michael Diggins, Matthew Zona, Laquincy Rideau","Cheshire Phoenix|11,13,2,24,3",2,Michael Diggins,11,Tobias Cameron,1,2,0,1,1,1.0,2.0
+Cheshire Phoenix,"Patrick Robinson, Michael Diggins, Jaxon Brenchley, Laquincy Rideau, Frankie Policelli","Cheshire Phoenix|13,2,23,3,5",3,Laquincy Rideau,13,Patrick Robinson,1,2,0,1,1,1.0,2.0
+Cheshire Phoenix,"Michael Diggins, Jaxon Brenchley, Laquincy Rideau, Frankie Policelli, Skyler White","Cheshire Phoenix|2,23,3,5,99",23,Jaxon Brenchley,2,Michael Diggins,1,2,0,1,1,1.0,2.0
+London Lions,"Joel Scott, Chaundee Brown Jr, Deane Williams, Shavar Reynolds Jr, Amin Adamu","London Lions|1,15,31,33,5",5,Amin Adamu,33,Shavar Reynolds Jr,1,2,0,1,1,1.0,2.0
+London Lions,"Joel Scott, Chaundee Brown Jr, Aaryn Rai, Shavar Reynolds Jr, Amin Adamu","London Lions|1,15,21,33,5",5,Amin Adamu,1,Joel Scott,1,2,0,1,1,1.0,2.0
+Cheshire Phoenix,"Patrick Robinson, Michael Diggins, Jaxon Brenchley, Frankie Policelli, Damiri Lindo","Cheshire Phoenix|13,2,23,5,9",23,Jaxon Brenchley,9,Damiri Lindo,1,2,0,1,1,1.0,2.0
+London Lions,"Karolis Lukosiunas, Aaryn Rai, Tarik Phillip, Deane Williams, Amin Adamu","London Lions|16,21,22,31,5",16,Karolis Lukosiunas,21,Aaryn Rai,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Patrick Smith Jr, Max Jones, Oluwaseyi Adetukasi, Matthew Nicholson, Kaiyem Cleary","Manchester Basketball|0,2,22,34,9",0,Patrick Smith Jr,34,Matthew Nicholson,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Patrick Smith Jr, Kyle Carey, Max Jones, Gabriel Osabuohien, Zak Irvin","Manchester Basketball|0,1,2,3,7",3,Gabriel Osabuohien,1,Kyle Carey,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Tyrin Lawrence, Kino Lily Jr, Tayo Ogedengbe, Nedas Cholevinskas, Timothy Nwankwo","Surrey 89ers|10,12,15,17,19",19,Timothy Nwankwo,10,Tyrin Lawrence,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Tyrin Lawrence, Kino Lily Jr, Tayo Ogedengbe, Nedas Cholevinskas, Maximilian Coupe","Surrey 89ers|10,12,15,17,33",17,Nedas Cholevinskas,15,Tayo Ogedengbe,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Patrick Smith Jr, Jordan Johnson, Oluwaseyi Adetukasi, Gabriel Osabuohien, Zak Irvin","Manchester Basketball|0,11,22,3,7",0,Patrick Smith Jr,7,Zak Irvin,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Patrick Smith Jr, Jordan Johnson, Oluwaseyi Adetukasi, Matthew Nicholson, Zak Irvin","Manchester Basketball|0,11,22,34,7",11,Jordan Johnson,7,Zak Irvin,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Tyrin Lawrence, Kino Lily Jr, Nedas Cholevinskas, Timothy Nwankwo","Surrey 89ers|0,10,12,17,19",0,Isiah Small,19,Timothy Nwankwo,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Patrick Smith Jr, Max Jones, Oluwaseyi Adetukasi, Matthew Nicholson, Zak Irvin","Manchester Basketball|0,2,22,34,7",0,Patrick Smith Jr,34,Matthew Nicholson,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Tyrin Lawrence, Kino Lily Jr, Nedas Cholevinskas, Timothy Nwankwo","Surrey 89ers|0,10,12,17,19",10,Tyrin Lawrence,17,Nedas Cholevinskas,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Patrick Smith Jr, Max Jones, Oluwaseyi Adetukasi, Matthew Nicholson, Kaiyem Cleary","Manchester Basketball|0,2,22,34,9",22,Oluwaseyi Adetukasi,2,Max Jones,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Patrick Smith Jr, Jordan Johnson, Max Jones, Oluwaseyi Adetukasi, Matthew Nicholson","Manchester Basketball|0,11,2,22,34",11,Jordan Johnson,34,Matthew Nicholson,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Tyrin Lawrence, Kino Lily Jr, Tayo Ogedengbe, Timothy Nwankwo","Surrey 89ers|0,10,12,15,19",10,Tyrin Lawrence,12,Kino Lily Jr,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Tyrin Lawrence, Kino Lily Jr, Tayo Ogedengbe, Timothy Nwankwo","Surrey 89ers|0,10,12,15,19",12,Kino Lily Jr,0,Isiah Small,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Patrick Smith Jr, Jordan Johnson, Max Jones, Gabriel Osabuohien, Matthew Nicholson","Manchester Basketball|0,11,2,3,34",3,Gabriel Osabuohien,2,Max Jones,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Tyrin Lawrence, Kino Lily Jr, Nedas Cholevinskas, Timothy Nwankwo","Surrey 89ers|0,10,12,17,19",12,Kino Lily Jr,19,Timothy Nwankwo,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Tyrin Lawrence, Kino Lily Jr, Tayo Ogedengbe, Nedas Cholevinskas","Surrey 89ers|0,10,12,15,17",15,Tayo Ogedengbe,0,Isiah Small,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Tyrin Lawrence, Kino Lily Jr, Tayo Ogedengbe, Nedas Cholevinskas","Surrey 89ers|0,10,12,15,17",0,Isiah Small,15,Tayo Ogedengbe,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Patrick Smith Jr, Kyle Carey, Jordan Johnson, Matthew Nicholson, Zak Irvin","Manchester Basketball|0,1,11,34,7",11,Jordan Johnson,1,Kyle Carey,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Patrick Smith Jr, Kyle Carey, Jordan Johnson, Duke Shelton, Zak Irvin","Manchester Basketball|0,1,11,30,7",0,Patrick Smith Jr,11,Jordan Johnson,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Tyrin Lawrence, Kino Lily Jr, Nedas Cholevinskas, Timothy Nwankwo","Surrey 89ers|0,10,12,17,19",0,Isiah Small,10,Tyrin Lawrence,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Patrick Smith Jr, Kyle Carey, Jordan Johnson, Duke Shelton, Zak Irvin","Manchester Basketball|0,1,11,30,7",11,Jordan Johnson,30,Duke Shelton,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Tyrin Lawrence, Kino Lily Jr, Tayo Ogedengbe, Nedas Cholevinskas","Surrey 89ers|0,10,12,15,17",10,Tyrin Lawrence,0,Isiah Small,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Tyrin Lawrence, Kino Lily Jr, Tayo Ogedengbe, Nedas Cholevinskas","Surrey 89ers|0,10,12,15,17",17,Nedas Cholevinskas,15,Tayo Ogedengbe,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Tyrin Lawrence, Kino Lily Jr, Haydn Ling, Ronald Polite Iii","Surrey 89ers|0,10,12,55,7",0,Isiah Small,7,Ronald Polite Iii,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Tyrin Lawrence, Kino Lily Jr, Haydn Ling, Ronald Polite Iii","Surrey 89ers|0,10,12,55,7",7,Ronald Polite Iii,10,Tyrin Lawrence,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Tyrin Lawrence, Kino Lily Jr, Haydn Ling, Ronald Polite Iii","Surrey 89ers|0,10,12,55,7",0,Isiah Small,55,Haydn Ling,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Kyle Carey, Jordan Johnson, Duke Shelton, Zak Irvin, Kaiyem Cleary","Manchester Basketball|1,11,30,7,9",11,Jordan Johnson,7,Zak Irvin,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Kyle Carey, Jordan Johnson, Duke Shelton, Zak Irvin, Kaiyem Cleary","Manchester Basketball|1,11,30,7,9",11,Jordan Johnson,30,Duke Shelton,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Kino Lily Jr, Tayo Ogedengbe, Nedas Cholevinskas, Maximilian Coupe, Haydn Ling","Surrey 89ers|12,15,17,33,55",17,Nedas Cholevinskas,55,Haydn Ling,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Patrick Smith Jr, Kyle Carey, Max Jones, Oluwaseyi Adetukasi, Matthew Nicholson","Manchester Basketball|0,1,2,22,34",0,Patrick Smith Jr,34,Matthew Nicholson,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Tyrin Lawrence, Tayo Ogedengbe, Nedas Cholevinskas, Haydn Ling","Surrey 89ers|0,10,15,17,55",17,Nedas Cholevinskas,55,Haydn Ling,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Tyrin Lawrence, Kino Lily Jr, Haydn Ling, Ronald Polite Iii","Surrey 89ers|0,10,12,55,7",10,Tyrin Lawrence,0,Isiah Small,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Tyrin Lawrence, Kino Lily Jr, Timothy Nwankwo, Ronald Polite Iii","Surrey 89ers|0,10,12,19,7",12,Kino Lily Jr,10,Tyrin Lawrence,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Patrick Smith Jr, Max Jones, Oluwaseyi Adetukasi, Matthew Nicholson, Kaiyem Cleary","Manchester Basketball|0,2,22,34,9",0,Patrick Smith Jr,9,Kaiyem Cleary,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Kyle Carey, Jordan Johnson, Max Jones, Gabriel Osabuohien, Zak Irvin","Manchester Basketball|1,11,2,3,7",3,Gabriel Osabuohien,7,Zak Irvin,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Kino Lily Jr, Nedas Cholevinskas, Haydn Ling, Ronald Polite Iii","Surrey 89ers|0,12,17,55,7",0,Isiah Small,17,Nedas Cholevinskas,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Kyle Carey, Jordan Johnson, Max Jones, Matthew Nicholson, Zak Irvin","Manchester Basketball|1,11,2,34,7",11,Jordan Johnson,7,Zak Irvin,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Patrick Smith Jr, Jordan Johnson, Oluwaseyi Adetukasi, Matthew Nicholson, Kaiyem Cleary","Manchester Basketball|0,11,22,34,9",22,Oluwaseyi Adetukasi,9,Kaiyem Cleary,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Tyrin Lawrence, Kino Lily Jr, Tayo Ogedengbe, Haydn Ling","Surrey 89ers|0,10,12,15,55",0,Isiah Small,15,Tayo Ogedengbe,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Patrick Smith Jr, Oluwademilade Babalola, Jordan Johnson, Duke Shelton, Judson Martindale","Manchester Basketball|0,10,11,30,33",11,Jordan Johnson,0,Patrick Smith Jr,1,2,0,1,1,1.0,2.0
+Cheshire Phoenix,"Michael Diggins, Jaxon Brenchley, Laquincy Rideau, Frankie Policelli, Skyler White","Cheshire Phoenix|2,23,3,5,99",5,Frankie Policelli,3,Laquincy Rideau,1,2,0,1,1,1.0,2.0
+London Lions,"Joel Scott, Chaundee Brown Jr, Aaryn Rai, Tarik Phillip, Shavar Reynolds Jr","London Lions|1,15,21,22,33",33,Shavar Reynolds Jr,15,Chaundee Brown Jr,1,2,0,1,1,1.0,2.0
+Cheshire Phoenix,"Patrick Robinson, Jaxon Brenchley, Frankie Policelli, Damiri Lindo, Skyler White","Cheshire Phoenix|13,23,5,9,99",13,Patrick Robinson,23,Jaxon Brenchley,1,2,0,1,1,1.0,2.0
+London Lions,"Aaryn Rai, Tarik Phillip, Ciaran Sandy, Deane Williams, Morayo Soluade","London Lions|21,22,3,31,6",3,Ciaran Sandy,22,Tarik Phillip,1,2,0,1,1,1.0,2.0
+London Lions,"Ethan Price, Aaryn Rai, Tarik Phillip, Ciaran Sandy, Deane Williams","London Lions|10,21,22,3,31",21,Aaryn Rai,3,Ciaran Sandy,1,2,0,1,1,1.0,2.0
+London Lions,"Ethan Price, Chaundee Brown Jr, Aaryn Rai, Tarik Phillip, Deane Williams","London Lions|10,15,21,22,31",22,Tarik Phillip,10,Ethan Price,1,2,0,1,1,1.0,2.0
+London Lions,"Ethan Price, Chaundee Brown Jr, Aaryn Rai, Tarik Phillip, Deane Williams","London Lions|10,15,21,22,31",21,Aaryn Rai,31,Deane Williams,1,2,0,1,1,1.0,2.0
+London Lions,"Ethan Price, Chaundee Brown Jr, Tarik Phillip, Ciaran Sandy, Shavar Reynolds Jr","London Lions|10,15,22,3,33",22,Tarik Phillip,15,Chaundee Brown Jr,1,2,0,1,1,1.0,2.0
+London Lions,"Joel Scott, Aaryn Rai, Tarik Phillip, Deane Williams, Nigel Hawkins","London Lions|1,21,22,31,8",8,Nigel Hawkins,21,Aaryn Rai,1,2,0,1,1,1.0,2.0
+London Lions,"Joel Scott, Aaryn Rai, Tarik Phillip, Deane Williams, Nigel Hawkins","London Lions|1,21,22,31,8",8,Nigel Hawkins,1,Joel Scott,1,2,0,1,1,1.0,2.0
+Cheshire Phoenix,"Michael Diggins, Jaxon Brenchley, Laquincy Rideau, Frankie Policelli, Skyler White","Cheshire Phoenix|2,23,3,5,99",2,Michael Diggins,23,Jaxon Brenchley,1,2,0,1,1,1.0,2.0
+London Lions,"Chaundee Brown Jr, Aaryn Rai, Tarik Phillip, Deane Williams, Shavar Reynolds Jr","London Lions|15,21,22,31,33",31,Deane Williams,15,Chaundee Brown Jr,1,2,0,1,1,1.0,2.0
+London Lions,"Aaryn Rai, Tarik Phillip, Ciaran Sandy, Deane Williams, Shavar Reynolds Jr","London Lions|21,22,3,31,33",22,Tarik Phillip,21,Aaryn Rai,1,2,0,1,1,1.0,2.0
+Cheshire Phoenix,"Patrick Robinson, Jaxon Brenchley, Frankie Policelli, Damiri Lindo, Skyler White","Cheshire Phoenix|13,23,5,9,99",13,Patrick Robinson,9,Damiri Lindo,1,2,0,1,1,1.0,2.0
+London Lions,"Chaundee Brown Jr, Aaryn Rai, Tarik Phillip, Ciaran Sandy, Deane Williams","London Lions|15,21,22,3,31",22,Tarik Phillip,31,Deane Williams,1,2,0,1,1,1.0,2.0
+London Lions,"Joel Scott, Chaundee Brown Jr, Deane Williams, Shavar Reynolds Jr, Nigel Hawkins","London Lions|1,15,31,33,8",33,Shavar Reynolds Jr,31,Deane Williams,1,2,0,1,1,1.0,2.0
+Cheshire Phoenix,"Patrick Robinson, Michael Diggins, Jaxon Brenchley, Frankie Policelli, Damiri Lindo","Cheshire Phoenix|13,2,23,5,9",13,Patrick Robinson,2,Michael Diggins,1,2,0,1,1,1.0,2.0
+Cheshire Phoenix,"Patrick Robinson, Michael Diggins, Jaxon Brenchley, Frankie Policelli, Damiri Lindo","Cheshire Phoenix|13,2,23,5,9",5,Frankie Policelli,9,Damiri Lindo,1,2,0,1,1,1.0,2.0
+London Lions,"Ethan Price, Chaundee Brown Jr, Karolis Lukosiunas, Tarik Phillip, Shavar Reynolds Jr","London Lions|10,15,16,22,33",33,Shavar Reynolds Jr,10,Ethan Price,1,2,0,1,1,1.0,2.0
+Newcastle Eagles,"Terrell Burden Jr, Maceo Jack, Cole Long, Deion Hammond, Gus Okafor","Newcastle Eagles|1,14,15,8,99",14,Maceo Jack,15,Cole Long,1,2,0,1,1,1.0,2.0
+London Lions,"Chaundee Brown Jr, Tarik Phillip, Deane Williams, Amin Adamu, Nigel Hawkins","London Lions|15,22,31,5,8",31,Deane Williams,5,Amin Adamu,1,2,0,1,1,1.0,2.0
+London Lions,"Chaundee Brown Jr, Aaryn Rai, Deane Williams, Amin Adamu, Nigel Hawkins","London Lions|15,21,31,5,8",31,Deane Williams,21,Aaryn Rai,1,2,0,1,1,1.0,2.0
+London Lions,"Chaundee Brown Jr, Tarik Phillip, Deane Williams, Amin Adamu, Nigel Hawkins","London Lions|15,22,31,5,8",5,Amin Adamu,31,Deane Williams,1,2,0,1,1,1.0,2.0
+London Lions,"Ethan Price, Chaundee Brown Jr, Aaryn Rai, Tarik Phillip, Amin Adamu","London Lions|10,15,21,22,5",15,Chaundee Brown Jr,22,Tarik Phillip,1,2,0,1,1,1.0,2.0
+London Lions,"Ethan Price, Chaundee Brown Jr, Aaryn Rai, Tarik Phillip, Amin Adamu","London Lions|10,15,21,22,5",10,Ethan Price,15,Chaundee Brown Jr,1,2,0,1,1,1.0,2.0
+London Lions,"Chaundee Brown Jr, Karolis Lukosiunas, Tarik Phillip, Deane Williams, Shavar Reynolds Jr","London Lions|15,16,22,31,33",22,Tarik Phillip,15,Chaundee Brown Jr,1,2,0,1,1,1.0,2.0
+London Lions,"Chaundee Brown Jr, Karolis Lukosiunas, Tarik Phillip, Deane Williams, Shavar Reynolds Jr","London Lions|15,16,22,31,33",31,Deane Williams,33,Shavar Reynolds Jr,1,2,0,1,1,1.0,2.0
+Newcastle Eagles,"Maceo Jack, Emmanuel Kanwei, Ray'sean Taylor, Mitch Clarke, Sauveur Kande","Newcastle Eagles|14,21,3,41,9",41,Mitch Clarke,14,Maceo Jack,1,2,0,1,1,1.0,2.0
+Newcastle Eagles,"Terrell Burden Jr, Maceo Jack, Emmanuel Kanwei, Ray'sean Taylor, Mitch Clarke","Newcastle Eagles|1,14,21,3,41",1,Terrell Burden Jr,21,Emmanuel Kanwei,1,2,0,1,1,1.0,2.0
+London Lions,"Chaundee Brown Jr, Aaryn Rai, Tarik Phillip, Deane Williams, Shavar Reynolds Jr","London Lions|15,21,22,31,33",22,Tarik Phillip,21,Aaryn Rai,1,2,0,1,1,1.0,2.0
+London Lions,"Ethan Price, Chaundee Brown Jr, Aaryn Rai, Tarik Phillip, Shavar Reynolds Jr","London Lions|10,15,21,22,33",22,Tarik Phillip,21,Aaryn Rai,1,2,0,1,1,1.0,2.0
+London Lions,"Ethan Price, Chaundee Brown Jr, Aaryn Rai, Tarik Phillip, Shavar Reynolds Jr","London Lions|10,15,21,22,33",10,Ethan Price,15,Chaundee Brown Jr,1,2,0,1,1,1.0,2.0
+Newcastle Eagles,"Terrell Burden Jr, Maceo Jack, Cole Long, Mitch Clarke, Deion Hammond","Newcastle Eagles|1,14,15,41,8",15,Cole Long,14,Maceo Jack,1,2,0,1,1,1.0,2.0
+London Lions,"Ethan Price, Chaundee Brown Jr, Tarik Phillip, Deane Williams, Shavar Reynolds Jr","London Lions|10,15,22,31,33",22,Tarik Phillip,10,Ethan Price,1,2,0,1,1,1.0,2.0
+Newcastle Eagles,"Terrell Burden Jr, Maceo Jack, Cole Long, Mitch Clarke, Deion Hammond","Newcastle Eagles|1,14,15,41,8",1,Terrell Burden Jr,14,Maceo Jack,1,2,0,1,1,1.0,2.0
+London Lions,"Chaundee Brown Jr, Aaryn Rai, Tarik Phillip, Deane Williams, Shavar Reynolds Jr","London Lions|15,21,22,31,33",22,Tarik Phillip,33,Shavar Reynolds Jr,1,2,0,1,1,1.0,2.0
+B. Braun Sheffield Sharks,"Dirk Williams, Jalen Deloach, Rodney Chatman Iii, Mervin James, Jordan Ratinho","B. Braun Sheffield Sharks|1,23,3,5,9",3,Rodney Chatman Iii,23,Jalen Deloach,1,2,0,1,1,1.0,2.0
+Newcastle Eagles,"Maceo Jack, Cole Long, Emmanuel Kanwei, Ray'sean Taylor, Deion Hammond","Newcastle Eagles|14,15,21,3,8",8,Deion Hammond,21,Emmanuel Kanwei,1,2,0,1,1,1.0,2.0
+B. Braun Sheffield Sharks,"Rodney Glasgow Jr, Mike Ochereobia, Prentiss Nixon, Nick Kern Jr, Mervin James","B. Braun Sheffield Sharks|11,15,2,24,5",5,Mervin James,11,Rodney Glasgow Jr,1,2,0,1,1,1.0,2.0
+B. Braun Sheffield Sharks,"Rodney Glasgow Jr, Mike Ochereobia, Prentiss Nixon, Nick Kern Jr, Mervin James","B. Braun Sheffield Sharks|11,15,2,24,5",2,Prentiss Nixon,5,Mervin James,1,2,0,1,1,1.0,2.0
+Newcastle Eagles,"Maceo Jack, Cole Long, Emmanuel Kanwei, Mitch Clarke, Deion Hammond","Newcastle Eagles|14,15,21,41,8",41,Mitch Clarke,21,Emmanuel Kanwei,1,2,0,1,1,1.0,2.0
+Newcastle Eagles,"Maceo Jack, Cole Long, Emmanuel Kanwei, Ray'sean Taylor, Mitch Clarke","Newcastle Eagles|14,15,21,3,41",3,Ray'sean Taylor,41,Mitch Clarke,1,2,0,1,1,1.0,2.0
+B. Braun Sheffield Sharks,"Prentiss Nixon, Jalen Deloach, Nick Kern Jr, Rodney Chatman Iii, Jordan Ratinho","B. Braun Sheffield Sharks|2,23,24,3,9",9,Jordan Ratinho,2,Prentiss Nixon,1,2,0,1,1,1.0,2.0
+B. Braun Sheffield Sharks,"Prentiss Nixon, Jalen Deloach, Rodney Chatman Iii, William Lee, Jordan Ratinho","B. Braun Sheffield Sharks|2,23,3,4,9",2,Prentiss Nixon,9,Jordan Ratinho,1,2,0,1,1,1.0,2.0
+Newcastle Eagles,"Emmanuel Kanwei, Ray'sean Taylor, Mitch Clarke, Deion Hammond, Sauveur Kande","Newcastle Eagles|21,3,41,8,9",8,Deion Hammond,21,Emmanuel Kanwei,1,2,0,1,1,1.0,2.0
+B. Braun Sheffield Sharks,"Prentiss Nixon, Jalen Deloach, Rodney Chatman Iii, William Lee, Jordan Ratinho","B. Braun Sheffield Sharks|2,23,3,4,9",3,Rodney Chatman Iii,2,Prentiss Nixon,1,2,0,1,1,1.0,2.0
+Newcastle Eagles,"Maceo Jack, Cole Long, Emmanuel Kanwei, Ray'sean Taylor, Deion Hammond","Newcastle Eagles|14,15,21,3,8",3,Ray'sean Taylor,21,Emmanuel Kanwei,1,2,0,1,1,1.0,2.0
+Newcastle Eagles,"Maceo Jack, Cole Long, Emmanuel Kanwei, Ray'sean Taylor, Deion Hammond","Newcastle Eagles|14,15,21,3,8",14,Maceo Jack,21,Emmanuel Kanwei,1,2,0,1,1,1.0,2.0
+B. Braun Sheffield Sharks,"Dirk Williams, Mike Ochereobia, Nick Kern Jr, Rodney Chatman Iii, Mervin James","B. Braun Sheffield Sharks|1,15,24,3,5",24,Nick Kern Jr,1,Dirk Williams,1,2,0,1,1,1.0,2.0
+B. Braun Sheffield Sharks,"Rodney Glasgow Jr, Mike Ochereobia, Prentiss Nixon, Rodney Chatman Iii, William Lee","B. Braun Sheffield Sharks|11,15,2,3,4",3,Rodney Chatman Iii,15,Mike Ochereobia,1,2,0,1,1,1.0,2.0
+Newcastle Eagles,"Maceo Jack, Cole Long, Ray'sean Taylor, Mitch Clarke, Sauveur Kande","Newcastle Eagles|14,15,3,41,9",3,Ray'sean Taylor,41,Mitch Clarke,1,2,0,1,1,1.0,2.0
+B. Braun Sheffield Sharks,"Dirk Williams, Jalen Deloach, Nick Kern Jr, Rodney Chatman Iii, Mervin James","B. Braun Sheffield Sharks|1,23,24,3,5",3,Rodney Chatman Iii,24,Nick Kern Jr,1,2,0,1,1,1.0,2.0
+Newcastle Eagles,"Maceo Jack, Cole Long, Emmanuel Kanwei, Ray'sean Taylor, Mitch Clarke","Newcastle Eagles|14,15,21,3,41",14,Maceo Jack,41,Mitch Clarke,1,2,0,1,1,1.0,2.0
+B. Braun Sheffield Sharks,"Dirk Williams, Nick Kern Jr, Rodney Chatman Iii, William Lee, Jordan Ratinho","B. Braun Sheffield Sharks|1,24,3,4,9",1,Dirk Williams,24,Nick Kern Jr,1,2,0,1,1,1.0,2.0
+Newcastle Eagles,"Maceo Jack, Emmanuel Kanwei, Ray'sean Taylor, Mitch Clarke, Deion Hammond","Newcastle Eagles|14,21,3,41,8",21,Emmanuel Kanwei,14,Maceo Jack,1,2,0,1,1,1.0,2.0
+B. Braun Sheffield Sharks,"Dirk Williams, Jalen Deloach, Rodney Chatman Iii, Mervin James, Jordan Ratinho","B. Braun Sheffield Sharks|1,23,3,5,9",23,Jalen Deloach,9,Jordan Ratinho,1,2,0,1,1,1.0,2.0
+B. Braun Sheffield Sharks,"Dirk Williams, Jalen Deloach, Rodney Chatman Iii, Mervin James, Jordan Ratinho","B. Braun Sheffield Sharks|1,23,3,5,9",9,Jordan Ratinho,5,Mervin James,1,2,0,1,1,1.0,2.0
+B. Braun Sheffield Sharks,"Dirk Williams, Prentiss Nixon, Jalen Deloach, Mervin James, Jordan Ratinho","B. Braun Sheffield Sharks|1,2,23,5,9",5,Mervin James,23,Jalen Deloach,1,2,0,1,1,1.0,2.0
+Caledonia Gladiators,"Totonitoluwa Fagbenle, Daniel Carr, Charles Jet Speelman, Matthew Ragsdale, Kyle Jimenez","Caledonia Gladiators|11,14,22,24,6",6,Kyle Jimenez,22,Charles Jet Speelman,1,2,0,1,1,1.0,2.0
+B. Braun Sheffield Sharks,"Dirk Williams, Prentiss Nixon, Jalen Deloach, Mervin James, Jordan Ratinho","B. Braun Sheffield Sharks|1,2,23,5,9",2,Prentiss Nixon,1,Dirk Williams,1,2,0,1,1,1.0,2.0
+B. Braun Sheffield Sharks,"Dirk Williams, Prentiss Nixon, Nick Kern Jr, Mervin James, Jordan Ratinho","B. Braun Sheffield Sharks|1,2,24,5,9",24,Nick Kern Jr,5,Mervin James,1,2,0,1,1,1.0,2.0
+B. Braun Sheffield Sharks,"Dirk Williams, Prentiss Nixon, Nick Kern Jr, Mervin James, Jordan Ratinho","B. Braun Sheffield Sharks|1,2,24,5,9",1,Dirk Williams,5,Mervin James,1,2,0,1,1,1.0,2.0
+B. Braun Sheffield Sharks,"Dirk Williams, Rodney Glasgow Jr, Mike Ochereobia, Rodney Chatman Iii, William Lee","B. Braun Sheffield Sharks|1,11,15,3,4",1,Dirk Williams,4,William Lee,1,2,0,1,1,1.0,2.0
+B. Braun Sheffield Sharks,"Dirk Williams, Rodney Glasgow Jr, Mike Ochereobia, Rodney Chatman Iii, William Lee","B. Braun Sheffield Sharks|1,11,15,3,4",3,Rodney Chatman Iii,4,William Lee,1,2,0,1,1,1.0,2.0
+B. Braun Sheffield Sharks,"Dirk Williams, Prentiss Nixon, Nick Kern Jr, Mervin James, Jordan Ratinho","B. Braun Sheffield Sharks|1,2,24,5,9",5,Mervin James,24,Nick Kern Jr,1,2,0,1,1,1.0,2.0
+B. Braun Sheffield Sharks,"Dirk Williams, Prentiss Nixon, Nick Kern Jr, Mervin James, Jordan Ratinho","B. Braun Sheffield Sharks|1,2,24,5,9",9,Jordan Ratinho,24,Nick Kern Jr,1,2,0,1,1,1.0,2.0
+B. Braun Sheffield Sharks,"Dirk Williams, Prentiss Nixon, Nick Kern Jr, Mervin James, Jordan Ratinho","B. Braun Sheffield Sharks|1,2,24,5,9",1,Dirk Williams,2,Prentiss Nixon,1,2,0,1,1,1.0,2.0
+B. Braun Sheffield Sharks,"Mike Ochereobia, Prentiss Nixon, Nick Kern Jr, Rodney Chatman Iii, William Lee","B. Braun Sheffield Sharks|15,2,24,3,4",3,Rodney Chatman Iii,4,William Lee,1,2,0,1,1,1.0,2.0
+B. Braun Sheffield Sharks,"Rodney Glasgow Jr, Mike Ochereobia, Prentiss Nixon, Nick Kern Jr, William Lee","B. Braun Sheffield Sharks|11,15,2,24,4",4,William Lee,2,Prentiss Nixon,1,2,0,1,1,1.0,2.0
+B. Braun Sheffield Sharks,"Dirk Williams, Jalen Deloach, Nick Kern Jr, Rodney Chatman Iii, Mervin James","B. Braun Sheffield Sharks|1,23,24,3,5",5,Mervin James,1,Dirk Williams,1,2,0,1,1,1.0,2.0
+Caledonia Gladiators,"Charles Jet Speelman, Matthew Ragsdale, Lloyd Alvin Bryan Jr, Kyle Jimenez, Fraser Malcolm","Caledonia Gladiators|22,24,56,6,7",6,Kyle Jimenez,6,Kyle Jimenez,1,2,0,1,1,1.0,2.0
+Caledonia Gladiators,"Totonitoluwa Fagbenle, Daniel Carr, Matthew Ragsdale, Kyle Jimenez, Fraser Malcolm","Caledonia Gladiators|11,14,24,6,7",24,Matthew Ragsdale,7,Fraser Malcolm,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Patrick Smith Jr, Max Jones, Oluwaseyi Adetukasi, Gabriel Osbuhein, Kaiyem Cleary","Manchester Basketball|0,2,22,3,9",2,Max Jones,22,Oluwaseyi Adetukasi,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Jordan Johnson, Max Jones, Oluwaseyi Adetukasi, Matthew Nicholson, Zak Irvin","Manchester Basketball|11,2,22,34,7",11,Jordan Johnson,22,Oluwaseyi Adetukasi,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Patrick Smith Jr, Jordan Johnson, Oluwaseyi Adetukasi, Duke Shelton, Kaiyem Cleary","Manchester Basketball|0,11,22,30,9",11,Jordan Johnson,30,Duke Shelton,1,2,0,1,1,1.0,2.0
+Leicester Riders,"Olutomiwa Sulaiman, Donald Carey Jr, Raequan Battle, Nathaniel Martin, Flynn Boardman-Raffet","Leicester Riders|10,13,21,41,77",77,Flynn Boardman-Raffet,10,Olutomiwa Sulaiman,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Patrick Smith Jr, Jordan Johnson, Max Jones, Oluwaseyi Adetukasi, Duke Shelton","Manchester Basketball|0,11,2,22,30",2,Max Jones,22,Oluwaseyi Adetukasi,1,2,0,1,1,1.0,2.0
+Leicester Riders,"Donald Carey Jr, Marc Loving, Spencer Johnson, Travis Evee, Nathaniel Martin","Leicester Riders|13,2,20,3,41",13,Donald Carey Jr,3,Travis Evee,1,2,0,1,1,1.0,2.0
+Leicester Riders,"Donald Carey Jr, Marc Loving, Spencer Johnson, Travis Evee, Nathaniel Martin","Leicester Riders|13,2,20,3,41",3,Travis Evee,20,Spencer Johnson,1,2,0,1,1,1.0,2.0
+Leicester Riders,"Donald Carey Jr, Marc Loving, Spencer Johnson, Travis Evee, Nathaniel Martin","Leicester Riders|13,2,20,3,41",13,Donald Carey Jr,2,Marc Loving,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Patrick Smith Jr, Max Jones, Oluwaseyi Adetukasi, Gabriel Osbuhein, Kaiyem Cleary","Manchester Basketball|0,2,22,3,9",3,Gabriel Osbuhein,0,Patrick Smith Jr,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Jordan Johnson, Oluwaseyi Adetukasi, Gabriel Osbuhein, Zak Irvin, Kaiyem Cleary","Manchester Basketball|11,22,3,7,9",11,Jordan Johnson,3,Gabriel Osbuhein,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Jordan Johnson, Oluwaseyi Adetukasi, Gabriel Osbuhein, Zak Irvin, Kaiyem Cleary","Manchester Basketball|11,22,3,7,9",11,Jordan Johnson,7,Zak Irvin,1,2,0,1,1,1.0,2.0
+Leicester Riders,"Aaron Menzies, Marc Loving, Spencer Johnson, Raequan Battle, Travis Evee","Leicester Riders|12,2,20,21,3",3,Travis Evee,2,Marc Loving,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Jordan Johnson, Oluwaseyi Adetukasi, Gabriel Osbuhein, Zak Irvin, Kaiyem Cleary","Manchester Basketball|11,22,3,7,9",3,Gabriel Osbuhein,11,Jordan Johnson,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Jordan Johnson, Max Jones, Duke Shelton, Judson Martindale, Zak Irvin","Manchester Basketball|11,2,30,33,7",11,Jordan Johnson,30,Duke Shelton,1,2,0,1,1,1.0,2.0
+Leicester Riders,"Olutomiwa Sulaiman, Donald Carey Jr, Raequan Battle, Nathaniel Martin, Flynn Boardman-Raffet","Leicester Riders|10,13,21,41,77",21,Raequan Battle,10,Olutomiwa Sulaiman,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Jordan Johnson, Max Jones, Oluwaseyi Adetukasi, Gabriel Osbuhein, Kaiyem Cleary","Manchester Basketball|11,2,22,3,9",3,Gabriel Osbuhein,2,Max Jones,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Patrick Smith Jr, Jordan Johnson, Oluwaseyi Adetukasi, Gabriel Osbuhein, Kaiyem Cleary","Manchester Basketball|0,11,22,3,9",3,Gabriel Osbuhein,9,Kaiyem Cleary,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Patrick Smith Jr, Jordan Johnson, Oluwaseyi Adetukasi, Gabriel Osbuhein, Kaiyem Cleary","Manchester Basketball|0,11,22,3,9",9,Kaiyem Cleary,22,Oluwaseyi Adetukasi,1,2,0,1,1,1.0,2.0
+Manchester Basketball,"Patrick Smith Jr, Jordan Johnson, Oluwaseyi Adetukasi, Matthew Nicholson, Kaiyem Cleary","Manchester Basketball|0,11,22,34,9",0,Patrick Smith Jr,9,Kaiyem Cleary,1,2,0,1,1,1.0,2.0
+London Lions,"Ryan Mikesell, Jonathan Williams, Kameron Mcgusty, Deane Williams, Amin Adamu","London Lions|11,13,23,31,5",5,Amin Adamu,13,Jonathan Williams,1,2,0,1,1,1.0,2.0
+London Lions,"Ethan Price, Aaryn Rai, Kameron Mcgusty, Deane Williams, Amin Adamu","London Lions|10,21,23,31,5",5,Amin Adamu,10,Ethan Price,1,2,0,1,1,1.0,2.0
+Bristol Flyers,"Owen Mccormack, Joseph Anderson, William Yoakum, Zachary Anderson, Cameron Holden","Bristol Flyers|13,22,3,4,7",22,Joseph Anderson,3,William Yoakum,1,2,0,1,1,1.0,2.0
+Bristol Flyers,"Marcus Delpeche, Joseph Anderson, Zachary Anderson, Cameron Holden, Jonathan Brown","Bristol Flyers|21,22,4,7,9",7,Cameron Holden,21,Marcus Delpeche,1,2,0,1,1,1.0,2.0
+London Lions,"Ethan Price, Chasson Jermar Randle, Aaryn Rai, Tarik Phillip, Deane Williams","London Lions|10,2,21,22,31",22,Tarik Phillip,10,Ethan Price,1,2,0,1,1,1.0,2.0
+London Lions,"Ovie Soko, Ryan Mikesell, Tarik Phillip, Ciaran Sandy, Amin Adamu","London Lions|0,11,22,3,5",11,Ryan Mikesell,0,Ovie Soko,1,2,0,1,1,1.0,2.0
+Bristol Flyers,"Marcus Delpeche, Joseph Anderson, Milos Dugalic, William Yoakum, Zachary Anderson","Bristol Flyers|21,22,25,3,4",25,Milos Dugalic,3,William Yoakum,1,2,0,1,1,1.0,2.0
+London Lions,"Ethan Price, Aaryn Rai, Kameron Mcgusty, Ciaran Sandy, Amin Adamu","London Lions|10,21,23,3,5",10,Ethan Price,5,Amin Adamu,1,2,0,1,1,1.0,2.0
+Bristol Flyers,"Owen Mccormack, Joseph Anderson, Milos Dugalic, William Yoakum, Zachary Anderson","Bristol Flyers|13,22,25,3,4",4,Zachary Anderson,3,William Yoakum,1,2,0,1,1,1.0,2.0
+London Lions,"Ovie Soko, Ryan Mikesell, Chasson Jermar Randle, Tarik Phillip, Deane Williams","London Lions|0,11,2,22,31",2,Chasson Jermar Randle,22,Tarik Phillip,1,2,0,1,1,1.0,2.0
+Bristol Flyers,"Owen Mccormack, Marcus Delpeche, Milos Dugalic, William Yoakum, Jonathan Brown","Bristol Flyers|13,21,25,3,9",13,Owen Mccormack,21,Marcus Delpeche,1,2,0,1,1,1.0,2.0
+Bristol Flyers,"Owen Mccormack, Marcus Delpeche, Milos Dugalic, Zachary Anderson, Jonathan Brown","Bristol Flyers|13,21,25,4,9",9,Jonathan Brown,21,Marcus Delpeche,1,2,0,1,1,1.0,2.0
+London Lions,"Ethan Price, Aaryn Rai, Kameron Mcgusty, Deane Williams, Amin Adamu","London Lions|10,21,23,31,5",31,Deane Williams,23,Kameron Mcgusty,1,2,0,1,1,1.0,2.0
+London Lions,"Ethan Price, Ryan Mikesell, Tarik Phillip, Kameron Mcgusty, Ciaran Sandy","London Lions|10,11,22,23,3",23,Kameron Mcgusty,10,Ethan Price,1,2,0,1,1,1.0,2.0
+Bristol Flyers,"Marcus Delpeche, Milos Dugalic, William Yoakum, Zachary Anderson, Jonathan Brown","Bristol Flyers|21,25,3,4,9",9,Jonathan Brown,21,Marcus Delpeche,1,2,0,1,1,1.0,2.0
+London Lions,"Ovie Soko, Chasson Jermar Randle, Aaryn Rai, Ciaran Sandy, Matthew Goodwin","London Lions|0,2,21,3,55",2,Chasson Jermar Randle,0,Ovie Soko,1,2,0,1,1,1.0,2.0
+London Lions,"Ethan Price, Ryan Mikesell, Chasson Jermar Randle, Deane Williams, Amin Adamu","London Lions|10,11,2,31,5",5,Amin Adamu,10,Ethan Price,1,2,0,1,1,1.0,2.0
+London Lions,"Ethan Price, Ryan Mikesell, Chasson Jermar Randle, Deane Williams, Amin Adamu","London Lions|10,11,2,31,5",11,Ryan Mikesell,10,Ethan Price,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Owen Koonce, Kino Lily Jr, Michael Graham, Ronald Polite Iii","Surrey 89ers|0,1,12,21,7",0,Isiah Small,21,Michael Graham,1,2,0,1,1,1.0,2.0
+London Lions,"Ethan Price, Ryan Mikesell, Chasson Jermar Randle, Deane Williams, Amin Adamu","London Lions|10,11,2,31,5",2,Chasson Jermar Randle,31,Deane Williams,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Owen Koonce, Kino Lily Jr, Haydn Ling, Ronald Polite Iii","Surrey 89ers|0,1,12,55,7",7,Ronald Polite Iii,0,Isiah Small,1,2,0,1,1,1.0,2.0
+London Lions,"Ethan Price, Ryan Mikesell, Chasson Jermar Randle, Deane Williams, Amin Adamu","London Lions|10,11,2,31,5",5,Amin Adamu,11,Ryan Mikesell,1,2,0,1,1,1.0,2.0
+London Lions,"Ovie Soko, Karolis Lukosiunas, Aaryn Rai, Tarik Phillip, Shavar Reynolds Jr","London Lions|0,16,21,22,33",33,Shavar Reynolds Jr,0,Ovie Soko,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Owen Koonce, Kino Lily Jr, Michael Graham, Ronald Polite Iii","Surrey 89ers|0,1,12,21,7",12,Kino Lily Jr,21,Michael Graham,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Owen Koonce, Kino Lily Jr, Haydn Ling, Ronald Polite Iii","Surrey 89ers|0,1,12,55,7",55,Haydn Ling,0,Isiah Small,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Owen Koonce, Kino Lily Jr, Tayo Ogedengbe, Timothy Nwanko, Ronald Polite Iii","Surrey 89ers|1,12,15,19,7",1,Owen Koonce,12,Kino Lily Jr,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Owen Koonce, Kino Lily Jr, Tayo Ogedengbe, Haydn Ling, Ronald Polite Iii","Surrey 89ers|1,12,15,55,7",7,Ronald Polite Iii,12,Kino Lily Jr,1,2,0,1,1,1.0,2.0
+London Lions,"Ethan Price, Ryan Mikesell, Chasson Jermar Randle, Aaryn Rai, Tarik Phillip","London Lions|10,11,2,21,22",22,Tarik Phillip,21,Aaryn Rai,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Owen Koonce, Kino Lily Jr, Nedas Cholevinskas, Michael Graham","Surrey 89ers|0,1,12,17,21",0,Isiah Small,1,Owen Koonce,1,2,0,1,1,1.0,2.0
+London Lions,"Ethan Price, Karolis Lukosiunas, Aaryn Rai, Tarik Phillip, Shavar Reynolds Jr","London Lions|10,16,21,22,33",22,Tarik Phillip,10,Ethan Price,1,2,0,1,1,1.0,2.0
+London Lions,"Ethan Price, Karolis Lukosiunas, Aaryn Rai, Tarik Phillip, Shavar Reynolds Jr","London Lions|10,16,21,22,33",22,Tarik Phillip,21,Aaryn Rai,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Owen Koonce, Kino Lily Jr, Michael Graham, Ronald Polite Iii","Surrey 89ers|0,1,12,21,7",1,Owen Koonce,21,Michael Graham,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Owen Koonce, Kino Lily Jr, Timothy Nwanko, Haydn Ling, Ronald Polite Iii","Surrey 89ers|1,12,19,55,7",7,Ronald Polite Iii,55,Haydn Ling,1,2,0,1,1,1.0,2.0
+London Lions,"Ethan Price, Karolis Lukosiunas, Deane Williams, Shavar Reynolds Jr, Amin Adamu","London Lions|10,16,31,33,5",5,Amin Adamu,10,Ethan Price,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Owen Koonce, Kino Lily Jr, Timothy Nwanko, Haydn Ling, Ronald Polite Iii","Surrey 89ers|1,12,19,55,7",55,Haydn Ling,19,Timothy Nwanko,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Owen Koonce, Kino Lily Jr, Tayo Ogedengbe, Michael Graham, Ronald Polite Iii","Surrey 89ers|1,12,15,21,7",15,Tayo Ogedengbe,21,Michael Graham,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Owen Koonce, Kino Lily Jr, Michael Graham, Ronald Polite Iii","Surrey 89ers|0,1,12,21,7",7,Ronald Polite Iii,21,Michael Graham,1,2,0,1,1,1.0,2.0
+London Lions,"Ethan Price, Chasson Jermar Randle, Aaryn Rai, Tarik Phillip, Deane Williams","London Lions|10,2,21,22,31",21,Aaryn Rai,31,Deane Williams,1,2,0,1,1,1.0,2.0
+Surrey 89ers,"Isiah Small, Owen Koonce, Kino Lily Jr, Michael Graham, Ronald Polite Iii","Surrey 89ers|0,1,12,21,7",12,Kino Lily Jr,0,Isiah Small,1,2,0,1,1,1.0,2.0
+Cheshire Phoenix,"Tobias Cameron, Michael Diggins, Jaxon Brenchley, Laquincy Rideau, Skyler White","Cheshire Phoenix|11,2,23,3,99",11,Tobias Cameron,3,Laquincy Rideau,1,2,0,1,1,1.0,2.0
+Cheshire Phoenix,"Patrick Robinson, Michael Diggins, Jaxon Brenchley, Frankie Policelli, Skyler White","Cheshire Phoenix|13,2,23,5,99",99,Skyler White,13,Patrick Robinson,1,2,0,1,1,1.0,2.0
+Cheshire Phoenix,"Patrick Robinson, Jaxon Brenchley, Frankie Policelli, Damiri Lindo, Skyler White","Cheshire Phoenix|13,23,5,9,99",13,Patrick Robinson,99,Skyler White,1,2,0,1,1,1.0,2.0
+Newcastle Eagles,"Cole Long, Emmanuel Kanwei, Ray'sean Taylor, Mitch Clarke, Deion Hammond","Newcastle Eagles|15,21,3,41,8",8,Deion Hammond,21,Emmanuel Kanwei,1,2,0,1,1,1.0,2.0
+Cheshire Phoenix,"Tobias Cameron, Patrick Robinson, Jaxon Brenchley, Damiri Lindo, Skyler White","Cheshire Phoenix|11,13,23,9,99",13,Patrick Robinson,99,Skyler White,1,2,0,1,1,1.0,2.0
+Newcastle Eagles,"Maceo Jack, Emmanuel Kanwei, Ray'sean Taylor, Mitch Clarke, Deion Hammond","Newcastle Eagles|14,21,3,41,8",8,Deion Hammond,21,Emmanuel Kanwei,1,2,0,1,1,1.0,2.0
+Cheshire Phoenix,"Tobias Cameron, Patrick Robinson, Michael Diggins, Matthew Zona, Laquincy Rideau","Cheshire Phoenix|11,13,2,24,3",11,Tobias Cameron,24,Matthew Zona,1,2,0,1,1,1.0,2.0
+Newcastle Eagles,"Darius Defoe, Maceo Jack, Cole Long, Ray'sean Taylor, Mitch Clarke","Newcastle Eagles|13,14,15,3,41",41,Mitch Clarke,3,Ray'sean Taylor,1,2,0,1,1,1.0,2.0
+Cheshire Phoenix,"Michael Diggins, Jaxon Brenchley, Laquincy Rideau, Damiri Lindo, Skyler White","Cheshire Phoenix|2,23,3,9,99",99,Skyler White,23,Jaxon Brenchley,1,2,0,1,1,1.0,2.0
+Newcastle Eagles,"Darius Defoe, Maceo Jack, Ray'sean Taylor, Mitch Clarke, Gus Okafor","Newcastle Eagles|13,14,3,41,99",41,Mitch Clarke,13,Darius Defoe,1,2,0,1,1,1.0,2.0
+Newcastle Eagles,"Terrell Burden, Maceo Jack, Cole Long, Emmanuel Kanwei, Deion Hammond","Newcastle Eagles|1,14,15,21,8",21,Emmanuel Kanwei,15,Cole Long,1,2,0,1,1,1.0,2.0
+Newcastle Eagles,"Maceo Jack, Cole Long, Ray'sean Taylor, Mitch Clarke, Deion Hammond","Newcastle Eagles|14,15,3,41,8",41,Mitch Clarke,14,Maceo Jack,1,2,0,1,1,1.0,2.0
+Cheshire Phoenix,"Tobias Cameron, Jaxon Brenchley, Matthew Zona, Laquincy Rideau, Frankie Policelli","Cheshire Phoenix|11,23,24,3,5",11,Tobias Cameron,5,Frankie Policelli,1,2,0,1,1,1.0,2.0
+Newcastle Eagles,"Cole Long, Ray'sean Taylor, Mitch Clarke, Deion Hammond, Gus Okafor","Newcastle Eagles|15,3,41,8,99",99,Gus Okafor,15,Cole Long,1,2,0,1,1,1.0,2.0
+Newcastle Eagles,"Maceo Jack, Cole Long, Mitch Clarke, Deion Hammond, Gus Okafor","Newcastle Eagles|14,15,41,8,99",99,Gus Okafor,41,Mitch Clarke,1,2,0,1,1,1.0,2.0
+Cheshire Phoenix,"Patrick Robinson, Jaxon Brenchley, Laquincy Rideau, Frankie Policelli, Skyler White","Cheshire Phoenix|13,23,3,5,99",13,Patrick Robinson,23,Jaxon Brenchley,1,2,0,1,1,1.0,2.0
+Cheshire Phoenix,"Patrick Robinson, Jaxon Brenchley, Laquincy Rideau, Frankie Policelli, Skyler White","Cheshire Phoenix|13,23,3,5,99",99,Skyler White,13,Patrick Robinson,1,2,0,1,1,1.0,2.0
+Newcastle Eagles,"Terrell Burden, Maceo Jack, Cole Long, Deion Hammond, Gus Okafor","Newcastle Eagles|1,14,15,8,99",14,Maceo Jack,15,Cole Long,1,2,0,1,1,1.0,2.0
+Newcastle Eagles,"Terrell Burden, Maceo Jack, Cole Long, Ray'sean Taylor, Gus Okafor","Newcastle Eagles|1,14,15,3,99",3,Ray'sean Taylor,1,Terrell Burden,1,2,0,1,1,1.0,2.0
+Bristol Flyers,"Marcus Delpeche, Joseph Anderson, William Yoakum, Zachary Anderson, Cameron Holden","Bristol Flyers|21,22,3,4,7",3,William Yoakum,21,Marcus Delpeche,1,2,0,1,1,1.0,2.0
+Bristol Flyers,"Marcus Delpeche, Joseph Anderson, William Yoakum, Zachary Anderson, Cameron Holden","Bristol Flyers|21,22,3,4,7",7,Cameron Holden,21,Marcus Delpeche,1,2,0,1,1,1.0,2.0
+London Lions,"Ethan Price, Aaryn Rai, Tarik Phillip, Deane Williams, Amin Adamu","London Lions|10,21,22,31,5",21,Aaryn Rai,5,Amin Adamu,1,2,0,1,1,1.0,2.0
+London Lions,"Ethan Price, Aaryn Rai, Tarik Phillip, Deane Williams, Amin Adamu","London Lions|10,21,22,31,5",5,Amin Adamu,22,Tarik Phillip,1,2,0,1,1,1.0,2.0
+Bristol Flyers,"Owen Mccormack, William Yoakum, Zachary Anderson, Darnell Brodie, Cameron Holden","Bristol Flyers|13,3,4,51,7",13,Owen Mccormack,3,William Yoakum,1,2,0,1,1,1.0,2.0
+London Lions,"Ethan Price, Jonathan Williams, Chasson Jermar Randle, Aaryn Rai, Shavar Reynolds Jr","London Lions|10,13,2,21,33",2,Chasson Jermar Randle,21,Aaryn Rai,1,2,0,1,1,1.0,2.0
+Bristol Flyers,"Owen Mccormack, Joseph Anderson, Pasquale Landolfi, Darnell Brodie, Cameron Holden","Bristol Flyers|13,22,40,51,7",51,Darnell Brodie,13,Owen Mccormack,1,2,0,1,1,1.0,2.0
+Bristol Flyers,"Owen Mccormack, Joseph Anderson, William Yoakum, Darnell Brodie, Cameron Holden","Bristol Flyers|13,22,3,51,7",51,Darnell Brodie,7,Cameron Holden,1,2,0,1,1,1.0,2.0
+Bristol Flyers,"Marcus Delpeche, Joseph Anderson, William Yoakum, Zachary Anderson, Cameron Holden","Bristol Flyers|21,22,3,4,7",22,Joseph Anderson,21,Marcus Delpeche,1,2,0,1,1,1.0,2.0
+Bristol Flyers,"Owen Mccormack, Joseph Anderson, William Yoakum, Darnell Brodie, Cameron Holden","Bristol Flyers|13,22,3,51,7",22,Joseph Anderson,3,William Yoakum,1,2,0,1,1,1.0,2.0
+Bristol Flyers,"Owen Mccormack, Joseph Anderson, William Yoakum, Darnell Brodie, Cameron Holden","Bristol Flyers|13,22,3,51,7",7,Cameron Holden,51,Darnell Brodie,1,2,0,1,1,1.0,2.0
+Bristol Flyers,"Owen Mccormack, Zachary Anderson, Pasquale Landolfi, Darnell Brodie, Cameron Holden","Bristol Flyers|13,4,40,51,7",7,Cameron Holden,51,Darnell Brodie,1,2,0,1,1,1.0,2.0
+Bristol Flyers,"Owen Mccormack, Joseph Anderson, William Yoakum, Zachary Anderson, Darnell Brodie","Bristol Flyers|13,22,3,4,51",22,Joseph Anderson,51,Darnell Brodie,1,2,0,1,1,1.0,2.0
+Bristol Flyers,"Owen Mccormack, Joseph Anderson, William Yoakum, Darnell Brodie, Cameron Holden","Bristol Flyers|13,22,3,51,7",3,William Yoakum,22,Joseph Anderson,1,2,0,1,1,1.0,2.0
+Bristol Flyers,"Marcus Delpeche, Joseph Anderson, William Yoakum, Zachary Anderson, Cameron Holden","Bristol Flyers|21,22,3,4,7",4,Zachary Anderson,21,Marcus Delpeche,1,2,0,1,1,1.0,2.0
+Bristol Flyers,"Marcus Delpeche, Joseph Anderson, William Yoakum, Zachary Anderson, Cameron Holden","Bristol Flyers|21,22,3,4,7",21,Marcus Delpeche,22,Joseph Anderson,1,2,0,1,1,1.0,2.0
+London Lions,"Jonathan Williams, Aaryn Rai, Tarik Phillip, Deane Williams, Shavar Reynolds Jr","London Lions|13,21,22,31,33",22,Tarik Phillip,21,Aaryn Rai,1,2,0,1,1,1.0,2.0
+London Lions,"Ethan Price, Jonathan Williams, Tarik Phillip, Ciaran Sandy, Shavar Reynolds Jr","London Lions|10,13,22,3,33",22,Tarik Phillip,13,Jonathan Williams,1,2,0,1,1,1.0,2.0
+Bristol Flyers,"Owen Mccormack, Marcus Delpeche, Joseph Anderson, William Yoakum, Pasquale Landolfi","Bristol Flyers|13,21,22,3,40",40,Pasquale Landolfi,3,William Yoakum,1,2,0,1,1,1.0,2.0
+Bristol Flyers,"Owen Mccormack, Marcus Delpeche, William Yoakum, Zachary Anderson, Cameron Holden","Bristol Flyers|13,21,3,4,7",4,Zachary Anderson,21,Marcus Delpeche,1,2,0,1,1,1.0,2.0
+London Lions,"Jonathan Williams, Chasson Jermar Randle, Aaryn Rai, Shavar Reynolds Jr, Amin Adamu","London Lions|13,2,21,33,5",33,Shavar Reynolds Jr,13,Jonathan Williams,1,2,0,1,1,1.0,2.0
+London Lions,"Ethan Price, Chasson Jermar Randle, Tarik Phillip, Ciaran Sandy, Matthew Goodwin","London Lions|10,2,22,3,55",22,Tarik Phillip,55,Matthew Goodwin,1,2,0,1,1,1.0,2.0
+Bristol Flyers,"Owen Mccormack, Joseph Anderson, William Yoakum, Zachary Anderson, Cameron Holden","Bristol Flyers|13,22,3,4,7",3,William Yoakum,4,Zachary Anderson,1,2,0,1,1,1.0,2.0
+Newcastle Eagles,"Terrell Burden Jr, Maceo Jack, Cole Long, Emmanuel Kanwei, Deion Hammond","Newcastle Eagles|1,14,15,21,8",14,Maceo Jack,1,Terrell Burden Jr,1,2,0,1,1,1.0,2.0
+Newcastle Eagles,"Terrell Burden Jr, Maceo Jack, Cole Long, Emmanuel Kanwei, Deion Hammond","Newcastle Eagles|1,14,15,21,8",1,Terrell Burden Jr,8,Deion Hammond,1,2,0,1,1,1.0,2.0
+Cheshire Phoenix,"Tobias Cameron, Patrick Robinson, Jaxon Brenchley, Laquincy Rideau, Skyler White","Cheshire Phoenix|11,13,23,3,99",3,Laquincy Rideau,11,Tobias Cameron,1,2,0,1,1,1.0,2.0
+Newcastle Eagles,"Cole Long, Ray'sean Taylor, Mitch Clarke, Deion Hammond, Gus Okafor","Newcastle Eagles|15,3,41,8,99",15,Cole Long,3,Ray'sean Taylor,1,2,0,1,1,1.0,2.0
+Cheshire Phoenix,"Tobias Cameron, Patrick Robinson, Jaxon Brenchley, Laquincy Rideau, Skyler White","Cheshire Phoenix|11,13,23,3,99",11,Tobias Cameron,23,Jaxon Brenchley,1,2,0,1,1,1.0,2.0
+Newcastle Eagles,"Terrell Burden Jr, Cole Long, Emmanuel Kanwei, Mitch Clarke, Deion Hammond","Newcastle Eagles|1,15,21,41,8",1,Terrell Burden Jr,21,Emmanuel Kanwei,1,2,0,1,1,1.0,2.0
+Cheshire Phoenix,"Patrick Robinson, Michael Diggins, Matthew Zona, Laquincy Rideau, Damiri Lindo","Cheshire Phoenix|13,2,24,3,9",3,Laquincy Rideau,24,Matthew Zona,1,2,0,1,1,1.0,2.0
+Cheshire Phoenix,"Patrick Robinson, Michael Diggins, Laquincy Rideau, Frankie Policelli, Damiri Lindo","Cheshire Phoenix|13,2,3,5,9",13,Patrick Robinson,9,Damiri Lindo,1,2,0,1,1,1.0,2.0
