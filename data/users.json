@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-02-12T13:26:21.947151200+00:00",
+  "updated_at": "2026-02-19T18:41:32.476064036+00:00",
   "users": [
     {
       "id": "admin_1",
@@ -76,10 +76,10 @@
       "updated_at": "2026-02-12T13:26:00.085182100+00:00",
       "enabled": true,
       "app_passwords": {
-        "international-bart-torvik": "ABS-CBN2024!",
         "advanced-player-view": "ABS-CBN2024!",
-        "gamevis": "ABS-CBN2024!",
-        "lineup-analyzer": "ABS-CBN2024!"
+        "international-bart-torvik": "ABS-CBN2024!",
+        "lineup-analyzer": "ABS-CBN2024!",
+        "gamevis": "ABS-CBN2024!"
       }
     },
     {
@@ -122,10 +122,10 @@
       "updated_at": "2026-02-06T17:12:44.553884500+00:00",
       "enabled": true,
       "app_passwords": {
-        "advanced-player-view": "ABS-CBN2024!",
+        "lineup-analyzer": "ABS-CBN2024!",
         "gamevis": "ABS-CBN2024!",
         "international-bart-torvik": "ABS-CBN2024!",
-        "lineup-analyzer": "ABS-CBN2024!"
+        "advanced-player-view": "ABS-CBN2024!"
       }
     },
     {
@@ -138,6 +138,20 @@
       "allowed_comp_codes": [],
       "leagues": [],
       "created_at": "2026-02-09T09:44:08.160577+00:00",
+      "updated_at": null,
+      "enabled": true,
+      "app_passwords": {}
+    },
+    {
+      "id": "user_1771526492286",
+      "email": "courtvisionuk@gmail.com",
+      "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$jfjm2XITN1Ujq8+MyzU9FQ$FoOqv+/7ux+Ieq0MzNW6nGSrwBBthmDqB9doAa106e8",
+      "display_name": "Joe Whitehead",
+      "role": "user",
+      "allowed_apps": [],
+      "allowed_comp_codes": [],
+      "leagues": [],
+      "created_at": "2026-02-19T18:41:32.474697622+00:00",
       "updated_at": null,
       "enabled": true,
       "app_passwords": {}
