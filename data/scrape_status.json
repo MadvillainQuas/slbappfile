@@ -1,6 +1,9 @@
 {
   "status": "running",
-  "current_request": "monday_auto_1771280788",
-  "started_at": "2026-02-16T22:26:28.584114",
-  "updated_at": "2026-02-16T22:26:29.899207"
+  "mode": "all",
+  "competitions": [
+    "PRO_A"
+  ],
+  "started_at": "2026-02-20T21:55:13.412068",
+  "updated_at": "2026-02-20T21:55:13.852340"
 }
