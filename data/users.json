@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-02-20T21:52:34.154Z",
+  "updated_at": "2026-02-20T22:00:09.468Z",
   "users": [
     {
       "id": "admin_1",
@@ -180,9 +180,7 @@
       "code": "PRO_A",
       "name": "German 2. Basketball Bundesliga (ProA)",
       "enabled": true,
-      "schedule_urls": [
-        "https://www.2basketballbundesliga.de/spielplan/"
-      ]
+      "schedule_urls": []
     }
   ]
 }
