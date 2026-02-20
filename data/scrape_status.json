@@ -1,9 +1,12 @@
 {
-  "status": "running",
-  "mode": "all",
-  "competitions": [
-    "PRO_A"
-  ],
-  "started_at": "2026-02-20T22:07:21.060244",
-  "updated_at": "2026-02-20T22:07:21.491016"
+  "status": "idle",
+  "last_run": "2026-02-20T22:07:22.184286",
+  "last_result": {
+    "success": 0,
+    "failed": 1,
+    "competitions": [
+      "PRO_A"
+    ]
+  },
+  "updated_at": "2026-02-20T22:07:22.666087"
 }
