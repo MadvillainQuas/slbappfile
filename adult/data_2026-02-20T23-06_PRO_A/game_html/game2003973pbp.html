@@ -1,0 +1,819 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" class=""><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>GOT vs BON</title>
+    <link rel="icon" href="/images/favi.png" type="image/png">
+
+    <meta property="og:title" content="Der 2. Basketball-Bundesliga Liveticker">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="http://live.zweite-basketball-bundesliga.de/images/logoliga.png">
+    <meta property="og:description" content="Der 2. Basketball-Bundesliga Liveticker">
+
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/css/lk.css" rel="stylesheet">
+    <link href="/css/animate.min.css" rel="stylesheet">
+    <link href="/css/print.css" media="print" rel="stylesheet">
+    <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-XQ56ZCWB3P&amp;cx=c&amp;gtm=4e62i1"></script><script src="/js/modernizr.min.js"></script>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<style type="text/css">.fancybox-margin{margin-right:15px;}</style><meta name="description" content="2. Basketball Bundesliga Liveticker: BG Göttingen vs Telekom Baskets Bonn"><meta property="og:description" content="2. Basketball Bundesliga Liveticker: BG Göttingen vs Telekom Baskets Bonn"></head>
+
+<body style="">
+
+    
+    <div class="page-header-small">
+        <div class="container">
+            <table class="info-header-small" style="width: 100%">
+                <tbody><tr align="center">
+                    <td width="33%">
+                        <a href="https://2basketballbundesliga.de/kader/477" target="_blank"><img src="https://api.2basketballbundesliga.de/pics2/2025_2026/lo/477" class="logo-table team-1-img"></a>
+                        <div class="team-1-caption">BG Göttingen</div>
+                    </td>
+                    <td width="34%">
+                        <div>
+                            <h1><span class="s1">0</span> <span class="orange quarter">Q1</span> <span class="s2">0</span></h1>
+                        </div>
+                    </td>
+                    <td width="33%">
+                        <a href="https://2basketballbundesliga.de/kader/415" target="_blank"><img src="https://api.2basketballbundesliga.de/pics2/2025_2026/lo/415" class="logo-table team-2-img"></a>
+                        <div class="team-2-caption">Telekom Baskets Bonn</div>
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="alert alert-danger" id="info" style="display: none"></div>
+        <div class="alert alert-danger" id="status" style="display: none">disconnected, trying to reconnect... Bitte
+            nicht refreshen! Bei Reconnect holen wir die verpassten Daten!</div>
+
+        <div class="page-header">
+            <div class="row text-center logo">
+                <img src="/images/ballside.png">
+            </div>
+            <i id="help" class="pointer fa fa-question-circle"></i>
+            <i id="settings-icon" class="pointer fa fa-gear"></i>
+            <div id="settings">
+                <div class="row arrow-box">
+                    
+                    <div class="col-md-4 sound">
+                        <div class="page-header">
+                            <i class="fa fa-volume-up"></i> Sound abspielen
+                        </div>
+                        <table style="width: 100%">
+                            <tbody><tr>
+                                <td>Aktivieren</td>
+                                <td align="right">
+                                    <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-off bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-sound_active"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle" id="sound_active"></div></div>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                        <div class="sound-settings">
+                            <table style="width: 100%">
+                                <tbody><tr>
+                                    <td>Ballbesitz</td>
+                                    <td align="right">
+                                        <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-sound_jumpball"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle" id="sound_jumpball" checked=""></div></div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Sprungball</td>
+                                    <td align="right">
+                                        <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-sound_jumpballs"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle" id="sound_jumpballs" checked=""></div></div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Freiwurf</td>
+                                    <td align="right">
+                                        <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-sound_ft"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle" id="sound_ft" checked=""></div></div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>2Punkte Wurf</td>
+                                    <td align="right">
+                                        <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-sound_2p"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle" id="sound_2p" checked=""></div></div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>3Punkte Wurf</td>
+                                    <td align="right">
+                                        <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-sound_3p"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle" id="sound_3p" checked=""></div></div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Foul</td>
+                                    <td align="right">
+                                        <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-sound_personalfoul"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle" id="sound_personalfoul" checked=""></div></div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Foul Drawn</td>
+                                    <td align="right">
+                                        <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-sound_fouldrawn"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle" id="sound_fouldrawn" checked=""></div></div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Coach Foul</td>
+                                    <td align="right">
+                                        <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-sound_"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle" id="sound_" checked=""></div></div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Rebound</td>
+                                    <td align="right">
+                                        <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-sound_rebound"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle" id="sound_rebound" checked=""></div></div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Team Rebound</td>
+                                    <td align="right">
+                                        <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-sound_teamrebound"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle" id="sound_teamrebound" checked=""></div></div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Turnover</td>
+                                    <td align="right">
+                                        <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-sound_turnover"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle" id="sound_turnover" checked=""></div></div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Team Turnover</td>
+                                    <td align="right">
+                                        <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-sound_teamturnover"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle" id="sound_teamturnover" checked=""></div></div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Steal</td>
+                                    <td align="right">
+                                        <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-sound_steal"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle" id="sound_steal" checked=""></div></div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Block</td>
+                                    <td align="right">
+                                        <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-sound_block"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle" id="sound_block" checked=""></div></div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Timeout</td>
+                                    <td align="right">
+                                        <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-sound_timeout"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle" id="sound_timeout" checked=""></div></div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Spielerwechsel</td>
+                                    <td align="right">
+                                        <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-sound_substitution"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle" id="sound_substitution" checked=""></div></div>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                        </div>
+                    </div>
+                    <div class="col-md-4 filter">
+                        <div class="page-header">
+                            <i class="fa fa-filter"></i> anzuzeigende Events
+                        </div>
+                        <table style="width: 100%">
+                            <tbody><tr>
+                                <td>Ballbesitz</td>
+                                <td align="right">
+                                    <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-filter_jumpball"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle filter" data-filter="jumpball" id="filter_jumpball" checked=""></div></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Sprungball</td>
+                                <td align="right">
+                                    <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-filter_jumpballs"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle filter" data-filter="jumpballs" id="filter_jumpballs" checked=""></div></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Freiwurf</td>
+                                <td align="right">
+                                    <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-filter_ft"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle filter" data-filter="ft" id="filter_ft" checked=""></div></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>2Punkte Wurf</td>
+                                <td align="right">
+                                    <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-filter_2p"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle filter" data-filter="2p" id="filter_2p" checked=""></div></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>3Punkte Wurf</td>
+                                <td align="right">
+                                    <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-filter_3p"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle filter" data-filter="3p" id="filter_3p" checked=""></div></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Foul</td>
+                                <td align="right">
+                                    <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-filter_personalfoul"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle filter" data-filter="personalfoul" id="filter_personalfoul" checked=""></div></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Foul Drawn</td>
+                                <td align="right">
+                                    <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-filter_fouldrawn"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle filter" data-filter="fouldrawn" id="filter_fouldrawn" checked=""></div></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Coach Foul</td>
+                                <td align="right">
+                                    <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-filter_coachfoul"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle filter" data-filter="coachfoul" id="filter_coachfoul" checked=""></div></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Rebound</td>
+                                <td align="right">
+                                    <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-filter_rebound"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle filter" data-filter="rebound" id="filter_rebound" checked=""></div></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Team Rebound</td>
+                                <td align="right">
+                                    <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-filter_teamrebound"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle filter" data-filter="teamrebound" id="filter_teamrebound" checked=""></div></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Turnover</td>
+                                <td align="right">
+                                    <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-filter_turnover"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle filter" data-filter="turnover" id="filter_turnover" checked=""></div></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Team Turnover</td>
+                                <td align="right">
+                                    <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-filter_teamturnover"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle filter" data-filter="teamturnover" id="filter_teamturnover" checked=""></div></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Steal</td>
+                                <td align="right">
+                                    <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-filter_steal"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle filter" data-filter="steal" id="filter_steal" checked=""></div></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Block</td>
+                                <td align="right">
+                                    <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-filter_block"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle filter" data-filter="block" id="filter_block" checked=""></div></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Timeout</td>
+                                <td align="right">
+                                    <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-filter_timeout"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle filter" data-filter="timeout" id="filter_timeout" checked=""></div></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Spielerwechsel</td>
+                                <td align="right">
+                                    <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-filter_substitution"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle filter" data-filter="substitution" id="filter_substitution" checked=""></div></div>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </div>
+                </div>
+            </div>
+
+            <table class="info-header" style="width: 100%">
+                <tbody><tr align="center">
+                    <td width="33%">
+                        <a href="https://2basketballbundesliga.de/kader/477" target="_blank"><img src="https://api.2basketballbundesliga.de/pics2/2025_2026/lo/477" class="logo-table team-1-img"></a>
+                    </td>
+                    <td width="34%" rowspan="2">
+                        <div>
+                            <h1 id="quarter" class="quarter">Q1</h1>
+                        </div>
+                        <div>
+                            <h1><span class="s1">0</span> - <span class="s2">0</span></h1>
+                        </div>
+                    </td>
+                    <td width="33%">
+                        <a href="https://2basketballbundesliga.de/kader/415" target="_blank"><img src="https://api.2basketballbundesliga.de/pics2/2025_2026/lo/415" class="logo-table team-2-img"></a>
+                    </td>
+                </tr>
+                <tr align="center">
+                    <td><span class="team-1-caption">BG Göttingen</span>
+                    </td>
+                    <td><span class="team-2-caption">Telekom Baskets Bonn</span>
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>
+
+        <div class="spielinfo">Liga: BBL-Pokal, Season: 2025/2026, Runde: BBL-Pokal 1. Pokalrunde, Spieltag: 1, Tip-Off: 23.09.2025 20:00 Uhr</div>
+        <div class="livestream" style="display:none">
+            <hr>
+            <a href="#" target="_blank"><img src="/images/livestream.jpg" style="width: 100%"></a>
+            <hr>
+        </div>
+        <div class="slider-nav-temp text-center">
+            <div><span class="menu-entry slide-0 slider-active" data-slide="0">Play-by-Play</span>
+            </div>
+            <div><span class="menu-entry slide-1" data-slide="1">Team-Stats</span>
+            </div>
+            <div><span class="menu-entry slide-2" data-slide="2">Boxscore</span>
+            </div>
+            <div><span class="menu-entry slide-3" data-slide="3">Spiel-Infos</span></div>
+        </div>
+
+        <div class="clear"></div>
+
+        <div class="slider slick-initialized slick-slider">
+            <!-- Slider -->
+
+            <!-- Spiel-Infos -->
+            <div class="slick-list" tabindex="0"><div class="slick-track" style="opacity: 1; width: 7980px; transform: translate3d(-1140px, 0px, 0px);"><div class="page-footer slick-slide slick-cloned show" index="-1" style="width: 1140px;">
+                <div class="footer-container text-center">
+                    <!--            <a href="https://lionkeen.net" target="_blank" style="position: absolute; left: 10px;"><img src="https://www.lionkeen.net/logo_short.png">-->
+                    
+                    <div id=""></div>
+                </div>
+            </div><div id="slide-game-infos" class="slick-slide slick-active" index="0" style="width: 1140px;">
+                <!-- 2 columns -->
+                <div style="width: 50; float: left;">
+                    <div class="page-header">
+                        <i class="fa fa-info-circle"></i> Sporthalle
+                    </div>
+                    <div class="stadium-content">
+                        <div class="stadium-name">Sparkassen Arena Göttingen</div>
+                        <div class="stadium-adress" style="display: none;">Adresse</div>
+                        <div class="stadium-city-zip">37081 Göttingen</div>
+                        <div class="stadium-capacity">3447 Plätze</div>
+                        <div class="stadium-capacity-seated" style="display: none;">davon Sitzplätze</div>
+                        <img src="https://api.2basketballbundesliga.de/pics2/2025_2026/s/20/001" style="width: 100%; height: auto; max-height: 100px; object-fit: cover; object-position: center center; display: none;" onerror="this.style.display='none'">
+                    </div>
+                </div>
+                <div style="width: 50; float: right;">
+                    <div class="page-header">
+                        <i class="fa fa-info&gt;circle"></i> Schiedsrichter
+                    </div>
+<div style="display:flex;align-items:flex-start;gap:1rem;margin-bottom:1.5rem;" class="ref1">
+                        <img style="display: none;">
+                        <p style="margin:0;color:#333;line-height:1.4;font-size:2rem;align-self: center;">1. Schiedsrichter nicht bekannt</p>
+                    </div>
+
+                    <div style="display:flex;align-items:flex-start;gap:1rem;margin-bottom:1.5rem;" class="ref2">
+                        <img style="display: none;">
+                        <p style="margin:0;color:#333;line-height:1.4;font-size:2rem;align-self: center;">2. Schiedsrichter nicht bekannt</p>
+                    </div>
+
+                    <div style="display:flex;align-items:flex-start;gap:1rem;margin-bottom:1.5rem;" class="ref3">
+                        <img style="display: none;"> 
+                        <p style="margin:0;color:#333;line-height:1.4;font-size:2rem;align-self: center;">3. Schiedsrichter nicht bekannt</p>
+                    </div>
+
+                </div>
+
+
+                <!-- Slider -->
+            </div><div id="slide-live" class="slick-slide" index="1" style="width: 1140px;">
+                <!-- Live -->
+                <ul class="timeline"><li id="bubble_10143696" class="turnover timeline-teama bounceInLeft"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001578"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001578);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title">Turnover durch #1 Adam Ramstedt - schlechter Pass</h4><small class="text-muted"><i class="glyphicon glyphicon-time"></i> Q1 03:38 Minute</small></div></div></div></div></li><li id="bubble_10143691" class="rebound timeline-teama bounceInLeft"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001543"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001543);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title">Defensiver Rebound durch #44 Julius Böhmer</h4><small class="text-muted"><i class="glyphicon glyphicon-time"></i> Q1 03:55 Minute</small></div></div></div></div></li><li id="bubble_10143690" class="3p timeline-teamb timeline-inverted bounceInRight"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001785"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001785);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title">3er durch #2 Alijah Comithier verworfen</h4><small class="text-muted"><i class="fa fa-bar-chart orange-pointer stats" id="stats_bubble_10143690" data-playerid="2001785" data-type="3p"></i><i class="fa fa-map-marker orange-pointer" id="map_bubble_10143690" data-position="bubble_10143690"></i><div id="positionbubble_10143690" class="position-container" style="height: 198px;"><img src="/images/Basketball.png" style="top: 136px; left: 194px; height: 20px; opacity: 1;"></div><i class="glyphicon glyphicon-time"></i> Q1 03:55 Minute</small></div></div></div></div></li><li id="bubble_10143686" class="2p timeline-teama bounceInLeft"><div class="timeline-badge-a"><div class="badge-left"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001543"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001543);"></div></a> </div><div class="badge-right"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001586"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001586);"></div></a> </div></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-score left">19</div><div class="timeline-heading"><h4 class="timeline-title">2er - Korbleger durch #44 Julius Böhmer getroffen, Assist von #3 Jordan Sears</h4><small class="text-muted"><i class="fa fa-bar-chart orange-pointer stats" id="stats_bubble_10143686" data-playerid="2001543" data-type="2p"></i><i class="fa fa-map-marker orange-pointer" id="map_bubble_10143686" data-position="bubble_10143686"></i><div id="positionbubble_10143686" class="position-container" style="height: 198px;"><img src="/images/Basketball.png" style="top: 48px; left: 152px; height: 20px; opacity: 1;"></div><i class="glyphicon glyphicon-time"></i> Q1 04:08 Minute</small></div><div class="timeline-score right">19</div></div></div></div></li><li id="bubble_10143683" class="2p timeline-teamb timeline-inverted bounceInRight"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001794"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001794);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-score left">11</div><div class="timeline-heading"><h4 class="timeline-title">2er - Korbleger durch #10 Jorge Mejias getroffen</h4><small class="text-muted"><i class="fa fa-bar-chart orange-pointer stats" id="stats_bubble_10143683" data-playerid="2001794" data-type="2p"></i><i class="fa fa-map-marker orange-pointer" id="map_bubble_10143683" data-position="bubble_10143683"></i><div id="positionbubble_10143683" class="position-container" style="height: 198px;"><img src="/images/Basketball.png" style="top: 37px; left: 107px; height: 20px; opacity: 1;"></div><i class="glyphicon glyphicon-time"></i> Q1 04:22 Minute</small></div><div class="timeline-score right">11</div></div></div></div></li><li id="bubble_10143678" class="fouldrawn timeline-teamb timeline-inverted bounceInRight"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001682"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001682);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title"> Foul an #21 Joel Aminu</h4><small class="text-muted"><i class="glyphicon glyphicon-time"></i> Q1 04:40 Minute</small></div></div></div></div></li><li id="bubble_10143677" class="personalfoul timeline-teama bounceInLeft"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/56406"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/56406);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title"> Foul durch #17 Mathis Mönninghoff</h4><small class="text-muted"><i class="glyphicon glyphicon-time"></i> Q1 04:40 Minute</small></div></div></div></div></li><li id="bubble_10143673" class="substitution timeline-teamb timeline-inverted bounceInRight"><div class="timeline-badge-a"><div class="badge-left"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001787"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001787);"></div></a> </div><div class="badge-right"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001686"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001686);"></div></a> </div></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title">#7 Grayson Murphy geht, #12 Melvin Jostmann kommt ins Spiel</h4><small class="text-muted"><i class="glyphicon glyphicon-time"></i> Q1 04:50 Minute</small></div></div></div></div></li><li id="bubble_10143672" class="substitution timeline-teamb timeline-inverted bounceInRight"><div class="timeline-badge-a"><div class="badge-left"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001685"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001685);"></div></a> </div><div class="badge-right"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001794"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001794);"></div></a> </div></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title">#4 Jeff Garrett geht, #10 Jorge Mejias kommt ins Spiel</h4><small class="text-muted"><i class="glyphicon glyphicon-time"></i> Q1 04:50 Minute</small></div></div></div></div></li><li id="bubble_10143671" class="substitution timeline-teama bounceInLeft"><div class="timeline-badge-a"><div class="badge-left"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001541"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001541);"></div></a> </div><div class="badge-right"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001543"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001543);"></div></a> </div></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title">#11 Robin Lodders geht, #44 Julius Böhmer kommt ins Spiel</h4><small class="text-muted"><i class="glyphicon glyphicon-time"></i> Q1 04:50 Minute</small></div></div></div></div></li><li id="bubble_10143670" class="substitution timeline-teama bounceInLeft"><div class="timeline-badge-a"><div class="badge-left"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001580"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001580);"></div></a> </div><div class="badge-right"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001586"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001586);"></div></a> </div></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title">#21 Zach Jackson geht, #3 Jordan Sears kommt ins Spiel</h4><small class="text-muted"><i class="glyphicon glyphicon-time"></i> Q1 04:50 Minute</small></div></div></div></div></li><li id="bubble_10143669" class="substitution timeline-teama bounceInLeft"><div class="timeline-badge-a"><div class="badge-left"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001540"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001540);"></div></a> </div><div class="badge-right"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001578"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001578);"></div></a> </div></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title">#4 Daniel Kirchner geht, #1 Adam Ramstedt kommt ins Spiel</h4><small class="text-muted"><i class="glyphicon glyphicon-time"></i> Q1 04:50 Minute</small></div></div></div></div></li><li id="bubble_10143664" class="teamrebound timeline-teama bounceInLeft"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/kader_liveticker/?id=477"><div class="circular circular-team" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/llt/477);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title">Defensiver Team-Rebound durch BG Göttingen</h4><small class="text-muted"><i class="glyphicon glyphicon-time"></i> Q1 04:50 Minute</small></div></div></div></div></li><li id="bubble_10143663" class="3p timeline-teamb timeline-inverted bounceInRight"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001787"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001787);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title">3er durch #7 Grayson Murphy verworfen</h4><small class="text-muted"><i class="fa fa-bar-chart orange-pointer stats" id="stats_bubble_10143663" data-playerid="2001787" data-type="3p"></i><i class="fa fa-map-marker orange-pointer" id="map_bubble_10143663" data-position="bubble_10143663"></i><div id="positionbubble_10143663" class="position-container" style="height: 198px;"><img src="/images/Basketball.png" style="top: 145px; left: 181px; height: 20px; opacity: 1;"></div><i class="glyphicon glyphicon-time"></i> Q1 04:53 Minute</small></div></div></div></div></li><li id="bubble_10143662" class="2p timeline-teama bounceInLeft"><div class="timeline-badge-a"><div class="badge-left"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001580"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001580);"></div></a> </div><div class="badge-right"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001540"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001540);"></div></a> </div></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-score left">17</div><div class="timeline-heading"><h4 class="timeline-title">2er - Sprungwurf durch #21 Zach Jackson getroffen, Assist von #4 Daniel Kirchner</h4><small class="text-muted"><i class="fa fa-bar-chart orange-pointer stats" id="stats_bubble_10143662" data-playerid="2001580" data-type="2p"></i><i class="fa fa-map-marker orange-pointer" id="map_bubble_10143662" data-position="bubble_10143662"></i><div id="positionbubble_10143662" class="position-container" style="height: 198px;"><img src="/images/Basketball.png" style="top: 32px; left: 57px; height: 20px; opacity: 1;"></div><i class="glyphicon glyphicon-time"></i> Q1 05:07 Minute</small></div><div class="timeline-score right">17</div></div></div></div></li><li id="bubble_10143657" class="2p timeline-teamb timeline-inverted bounceInRight"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001785"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001785);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-score left">9</div><div class="timeline-heading"><h4 class="timeline-title">2er - Sprungwurf durch #2 Alijah Comithier getroffen</h4><small class="text-muted"><i class="fa fa-bar-chart orange-pointer stats" id="stats_bubble_10143657" data-playerid="2001785" data-type="2p"></i><i class="fa fa-map-marker orange-pointer" id="map_bubble_10143657" data-position="bubble_10143657"></i><div id="positionbubble_10143657" class="position-container" style="height: 198px;"><img src="/images/Basketball.png" style="top: 105px; left: 155px; height: 20px; opacity: 1;"></div><i class="glyphicon glyphicon-time"></i> Q1 05:29 Minute</small></div><div class="timeline-score right">9</div></div></div></div></li><li id="bubble_10143652" class="3p timeline-teama bounceInLeft"><div class="timeline-badge-a"><div class="badge-left"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001540"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001540);"></div></a> </div><div class="badge-right"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001541"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001541);"></div></a> </div></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-score left">15</div><div class="timeline-heading"><h4 class="timeline-title">3er durch #4 Daniel Kirchner getroffen, Assist von #11 Robin Lodders</h4><small class="text-muted"><i class="fa fa-bar-chart orange-pointer stats" id="stats_bubble_10143652" data-playerid="2001540" data-type="3p"></i><i class="fa fa-map-marker orange-pointer" id="map_bubble_10143652" data-position="bubble_10143652"></i><div id="positionbubble_10143652" class="position-container" style="height: 198px;"><img src="/images/Basketball.png" style="top: 23px; left: -2px; height: 20px; opacity: 1;"></div><i class="glyphicon glyphicon-time"></i> Q1 05:42 Minute</small></div><div class="timeline-score right">15</div></div></div></div></li><li id="bubble_10143647" class="turnover timeline-teamb timeline-inverted bounceInRight"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001787"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001787);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title">Turnover durch #7 Grayson Murphy - schlechter Pass</h4><small class="text-muted"><i class="glyphicon glyphicon-time"></i> Q1 05:58 Minute</small></div></div></div></div></li><li id="bubble_10143645" class="substitution timeline-teama bounceInLeft"><div class="timeline-badge-a"><div class="badge-left"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001542"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001542);"></div></a> </div><div class="badge-right"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001579"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001579);"></div></a> </div></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title">#10 Hendrik Helge Drescher geht, #9 Kevin Buckingham kommt ins Spiel</h4><small class="text-muted"><i class="glyphicon glyphicon-time"></i> Q1 06:13 Minute</small></div></div></div></div></li><li id="bubble_10143643" class="ft timeline-teama bounceInLeft"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001580"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001580);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-score left">12</div><div class="timeline-heading"><h4 class="timeline-title">2. Freiwurf durch #21 Zach Jackson getroffen</h4><small class="text-muted"><i class="fa fa-bar-chart orange-pointer stats" id="stats_bubble_10143643" data-playerid="2001580" data-type="ft"></i><i class="glyphicon glyphicon-time"></i> Q1 06:13 Minute</small></div><div class="timeline-score right">12</div></div></div></div></li><li id="bubble_10143641" class="ft timeline-teama bounceInLeft"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001580"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001580);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-score left">11</div><div class="timeline-heading"><h4 class="timeline-title">1. Freiwurf durch #21 Zach Jackson getroffen</h4><small class="text-muted"><i class="fa fa-bar-chart orange-pointer stats" id="stats_bubble_10143641" data-playerid="2001580" data-type="ft"></i><i class="glyphicon glyphicon-time"></i> Q1 06:13 Minute</small></div><div class="timeline-score right">11</div></div></div></div></li><li id="bubble_10143639" class="fouldrawn timeline-teama bounceInLeft"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001580"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001580);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title"> Foul an #21 Zach Jackson</h4><small class="text-muted"><i class="glyphicon glyphicon-time"></i> Q1 06:13 Minute</small></div></div></div></div></li><li id="bubble_10143637" class="personalfoul timeline-teamb timeline-inverted bounceInRight"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001682"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001682);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title"> Foul durch #21 Joel Aminu - 2 Freiwürfe für BG Göttingen</h4><small class="text-muted"><i class="glyphicon glyphicon-time"></i> Q1 06:13 Minute</small></div></div></div></div></li><li id="bubble_10143631" class="steal timeline-teama bounceInLeft"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001580"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001580);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title">Steal durch #21 Zach Jackson</h4><small class="text-muted"><i class="glyphicon glyphicon-time"></i> Q1 06:27 Minute</small></div></div></div></div></li><li id="bubble_10143630" class="turnover timeline-teamb timeline-inverted bounceInRight"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001785"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001785);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title">Turnover durch #2 Alijah Comithier - schlechte Ballbehandlung</h4><small class="text-muted"><i class="glyphicon glyphicon-time"></i> Q1 06:27 Minute</small></div></div></div></div></li><li id="bubble_10143623" class="substitution timeline-teamb timeline-inverted bounceInRight"><div class="timeline-badge-a"><div class="badge-left"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001683"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001683);"></div></a> </div><div class="badge-right"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001789"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001789);"></div></a> </div></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title">#6 Michael Kessens geht, #15 Jongkuch Kur kommt ins Spiel</h4><small class="text-muted"><i class="glyphicon glyphicon-time"></i> Q1 06:40 Minute</small></div></div></div></div></li><li id="bubble_10143622" class="substitution timeline-teamb timeline-inverted bounceInRight"><div class="timeline-badge-a"><div class="badge-left"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001786"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001786);"></div></a> </div><div class="badge-right"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001785"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001785);"></div></a> </div></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title">#5 Tylan Birts geht, #2 Alijah Comithier kommt ins Spiel</h4><small class="text-muted"><i class="glyphicon glyphicon-time"></i> Q1 06:40 Minute</small></div></div></div></div></li><li id="bubble_10143618" class="turnover timeline-teama bounceInLeft"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001542"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001542);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title">Turnover durch #10 Hendrik Helge Drescher - schlechter Pass</h4><small class="text-muted"><i class="glyphicon glyphicon-time"></i> Q1 06:41 Minute</small></div></div></div></div></li><li id="bubble_10143616" class="2p timeline-teamb timeline-inverted bounceInRight"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001787"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001787);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-score left">7</div><div class="timeline-heading"><h4 class="timeline-title">2er - Sprungwurf durch #7 Grayson Murphy getroffen</h4><small class="text-muted"><i class="fa fa-bar-chart orange-pointer stats" id="stats_bubble_10143616" data-playerid="2001787" data-type="2p"></i><i class="fa fa-map-marker orange-pointer" id="map_bubble_10143616" data-position="bubble_10143616"></i><div id="positionbubble_10143616" class="position-container" style="height: 198px;"><img src="/images/Basketball.png" style="top: 95px; left: 141px; height: 20px; opacity: 1;"></div><i class="glyphicon glyphicon-time"></i> Q1 06:51 Minute</small></div><div class="timeline-score right">7</div></div></div></div></li><li id="bubble_10143612" class="2p timeline-teama bounceInLeft"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001541"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001541);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-score left">10</div><div class="timeline-heading"><h4 class="timeline-title">2er - Korbleger durch #11 Robin Lodders getroffen</h4><small class="text-muted"><i class="fa fa-bar-chart orange-pointer stats" id="stats_bubble_10143612" data-playerid="2001541" data-type="2p"></i><i class="fa fa-map-marker orange-pointer" id="map_bubble_10143612" data-position="bubble_10143612"></i><div id="positionbubble_10143612" class="position-container" style="height: 198px;"><img src="/images/Basketball.png" style="top: 35px; left: 143px; height: 20px; opacity: 1;"></div><i class="glyphicon glyphicon-time"></i> Q1 07:08 Minute</small></div><div class="timeline-score right">10</div></div></div></div></li><li id="bubble_10143610" class="rebound timeline-teama bounceInLeft"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001542"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001542);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title">Defensiver Rebound durch #10 Hendrik Helge Drescher</h4><small class="text-muted"><i class="glyphicon glyphicon-time"></i> Q1 07:19 Minute</small></div></div></div></div></li><li id="bubble_10143609" class="3p timeline-teamb timeline-inverted bounceInRight"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001786"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001786);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title">3er durch #5 Tylan Birts verworfen</h4><small class="text-muted"><i class="fa fa-bar-chart orange-pointer stats" id="stats_bubble_10143609" data-playerid="2001786" data-type="3p"></i><i class="fa fa-map-marker orange-pointer" id="map_bubble_10143609" data-position="bubble_10143609"></i><div id="positionbubble_10143609" class="position-container" style="height: 198px;"><img src="/images/Basketball.png" style="top: 148px; left: 156px; height: 20px; opacity: 1;"></div><i class="glyphicon glyphicon-time"></i> Q1 07:19 Minute</small></div></div></div></div></li><li id="bubble_10143606" class="3p timeline-teama bounceInLeft"><div class="timeline-badge-a"><div class="badge-left"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/56406"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/56406);"></div></a> </div><div class="badge-right"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001541"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001541);"></div></a> </div></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-score left">8</div><div class="timeline-heading"><h4 class="timeline-title">3er durch #17 Mathis Mönninghoff getroffen, Assist von #11 Robin Lodders</h4><small class="text-muted"><i class="fa fa-bar-chart orange-pointer stats" id="stats_bubble_10143606" data-playerid="56406" data-type="3p"></i><i class="fa fa-map-marker orange-pointer" id="map_bubble_10143606" data-position="bubble_10143606"></i><div id="positionbubble_10143606" class="position-container" style="height: 198px;"><img src="/images/Basketball.png" style="top: 22px; left: 260px; height: 20px; opacity: 1;"></div><i class="glyphicon glyphicon-time"></i> Q1 07:36 Minute</small></div><div class="timeline-score right">8</div></div></div></div></li><li id="bubble_10143599" class="2p timeline-teamb timeline-inverted bounceInRight"><div class="timeline-badge-a"><div class="badge-left"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001685"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001685);"></div></a> </div><div class="badge-right"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001787"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001787);"></div></a> </div></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-score left">5</div><div class="timeline-heading"><h4 class="timeline-title">2er - Korbleger durch #4 Jeff Garrett getroffen, Assist von #7 Grayson Murphy</h4><small class="text-muted"><i class="fa fa-bar-chart orange-pointer stats" id="stats_bubble_10143599" data-playerid="2001685" data-type="2p"></i><i class="fa fa-map-marker orange-pointer" id="map_bubble_10143599" data-position="bubble_10143599"></i><div id="positionbubble_10143599" class="position-container" style="height: 198px;"><img src="/images/Basketball.png" style="top: 41px; left: 150px; height: 20px; opacity: 1;"></div><i class="glyphicon glyphicon-time"></i> Q1 07:51 Minute</small></div><div class="timeline-score right">5</div></div></div></div></li><li id="bubble_10143596" class="rebound timeline-teamb timeline-inverted bounceInRight"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001787"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001787);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title">Defensiver Rebound durch #7 Grayson Murphy</h4><small class="text-muted"><i class="glyphicon glyphicon-time"></i> Q1 07:57 Minute</small></div></div></div></div></li><li id="bubble_10143595" class="2p timeline-teama bounceInLeft"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001580"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001580);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title">2er - Sprungwurf durch #21 Zach Jackson verworfen</h4><small class="text-muted"><i class="fa fa-bar-chart orange-pointer stats" id="stats_bubble_10143595" data-playerid="2001580" data-type="2p"></i><i class="fa fa-map-marker orange-pointer" id="map_bubble_10143595" data-position="bubble_10143595"></i><div id="positionbubble_10143595" class="position-container" style="height: 198px;"><img src="/images/Basketball.png" style="top: 103px; left: 96px; height: 20px; opacity: 1;"></div><i class="glyphicon glyphicon-time"></i> Q1 07:57 Minute</small></div></div></div></div></li><li id="bubble_10143594" class="3p timeline-teamb timeline-inverted bounceInRight"><div class="timeline-badge-a"><div class="badge-left"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001786"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001786);"></div></a> </div><div class="badge-right"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001685"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001685);"></div></a> </div></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-score left">3</div><div class="timeline-heading"><h4 class="timeline-title">3er durch #5 Tylan Birts getroffen, Assist von #4 Jeff Garrett</h4><small class="text-muted"><i class="fa fa-bar-chart orange-pointer stats" id="stats_bubble_10143594" data-playerid="2001786" data-type="3p"></i><i class="fa fa-map-marker orange-pointer" id="map_bubble_10143594" data-position="bubble_10143594"></i><div id="positionbubble_10143594" class="position-container" style="height: 198px;"><img src="/images/Basketball.png" style="top: 79px; left: 3px; height: 20px; opacity: 1;"></div><i class="glyphicon glyphicon-time"></i> Q1 08:16 Minute</small></div><div class="timeline-score right">3</div></div></div></div></li><li id="bubble_10143592" class="3p timeline-teama bounceInLeft"><div class="timeline-badge-a"><div class="badge-left"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001542"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001542);"></div></a> </div><div class="badge-right"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001540"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001540);"></div></a> </div></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-score left">5</div><div class="timeline-heading"><h4 class="timeline-title">3er durch #10 Hendrik Helge Drescher getroffen, Assist von #4 Daniel Kirchner</h4><small class="text-muted"><i class="fa fa-bar-chart orange-pointer stats" id="stats_bubble_10143592" data-playerid="2001542" data-type="3p"></i><i class="fa fa-map-marker orange-pointer" id="map_bubble_10143592" data-position="bubble_10143592"></i><div id="positionbubble_10143592" class="position-container" style="height: 198px;"><img src="/images/Basketball.png" style="top: 62px; left: 255px; height: 20px; opacity: 1;"></div><i class="glyphicon glyphicon-time"></i> Q1 08:40 Minute</small></div><div class="timeline-score right">5</div></div></div></div></li><li id="bubble_10143587" class="steal timeline-teama bounceInLeft"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001540"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001540);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title">Steal durch #4 Daniel Kirchner</h4><small class="text-muted"><i class="glyphicon glyphicon-time"></i> Q1 08:52 Minute</small></div></div></div></div></li><li id="bubble_10143586" class="turnover timeline-teamb timeline-inverted bounceInRight"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001683"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001683);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title">Turnover durch #6 Michael Kessens - schlechter Pass</h4><small class="text-muted"><i class="glyphicon glyphicon-time"></i> Q1 08:52 Minute</small></div></div></div></div></li><li id="bubble_10143585" class="rebound timeline-teamb timeline-inverted bounceInRight"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001683"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001683);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title">Offensiver Rebound durch #6 Michael Kessens</h4><small class="text-muted"><i class="glyphicon glyphicon-time"></i> Q1 08:58 Minute</small></div></div></div></div></li><li id="bubble_10143584" class="3p timeline-teamb timeline-inverted bounceInRight"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001685"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001685);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title">3er durch #4 Jeff Garrett verworfen</h4><small class="text-muted"><i class="fa fa-bar-chart orange-pointer stats" id="stats_bubble_10143584" data-playerid="2001685" data-type="3p"></i><i class="fa fa-map-marker orange-pointer" id="map_bubble_10143584" data-position="bubble_10143584"></i><div id="positionbubble_10143584" class="position-container" style="height: 198px;"><img src="/images/Basketball.png" style="top: 158px; left: 147px; height: 20px; opacity: 1;"></div><i class="glyphicon glyphicon-time"></i> Q1 08:58 Minute</small></div></div></div></div></li><li id="bubble_10143581" class="2p timeline-teama bounceInLeft"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/56406"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/56406);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-score left">2</div><div class="timeline-heading"><h4 class="timeline-title">2er - Sprungwurf durch #17 Mathis Mönninghoff getroffen</h4><small class="text-muted"><i class="fa fa-bar-chart orange-pointer stats" id="stats_bubble_10143581" data-playerid="56406" data-type="2p"></i><i class="fa fa-map-marker orange-pointer" id="map_bubble_10143581" data-position="bubble_10143581"></i><div id="positionbubble_10143581" class="position-container" style="height: 198px;"><img src="/images/Basketball.png" style="top: 28px; left: 237px; height: 20px; opacity: 1;"></div><i class="glyphicon glyphicon-time"></i> Q1 09:28 Minute</small></div><div class="timeline-score right">2</div></div></div></div></li><li id="bubble_10143569" class="teamrebound timeline-teama bounceInLeft"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/kader_liveticker/?id=477"><div class="circular circular-team" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/llt/477);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title">Defensiver Team-Rebound durch BG Göttingen</h4><small class="text-muted"><i class="glyphicon glyphicon-time"></i> Q1 09:49 Minute</small></div></div></div></div></li><li id="bubble_10143568" class="2p timeline-teamb timeline-inverted bounceInRight"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/spieler_liveticker/2001685"><div class="circular" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/pl/2001685);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title">2er - Sprungwurf durch #4 Jeff Garrett verworfen</h4><small class="text-muted"><i class="fa fa-bar-chart orange-pointer stats" id="stats_bubble_10143568" data-playerid="2001685" data-type="2p"></i><i class="fa fa-map-marker orange-pointer" id="map_bubble_10143568" data-position="bubble_10143568"></i><div id="positionbubble_10143568" class="position-container" style="height: 198px;"><img src="/images/Basketball.png" style="top: 64px; left: 61px; height: 20px; opacity: 1;"></div><i class="glyphicon glyphicon-time"></i> Q1 09:51 Minute</small></div></div></div></div></li><li id="bubble_10143564" class="jumpball timeline-teamb timeline-inverted bounceInRight"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/kader_liveticker/?id=415"><div class="circular circular-team" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/llt/415);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title">Telekom Baskets Bonn hat den Sprungball gewonnen - Ballbesitz</h4><small class="text-muted"><i class="glyphicon glyphicon-time"></i> Q1 10:00 Minute</small></div></div></div></div></li><li id="bubble_10143466" class=""><div class="timeline-badge info">Start<br>Q1</div><div class="spacer"></div></li><li id="bubble_starting_1_1" class="undefined timeline-teama bounceInLeft"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/kader_liveticker/?id=477"><div class="circular circular-team" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/llt/477);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title">Startet mit: #4 Daniel Kirchner, #10 Hendrik Helge Drescher, #11 Robin Lodders, #17 Mathis Mönninghoff, #21 Zach Jackson</h4><small class="text-muted"><i class="glyphicon glyphicon-time"></i> Q1 10:00 Minute</small></div></div></div></div></li><li id="bubble_starting_2_1" class="undefined timeline-teamb timeline-inverted bounceInRight"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/kader_liveticker/?id=415"><div class="circular circular-team" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/llt/415);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title">Startet mit: #4 Jeff Garrett, #5 Tylan Birts, #6 Michael Kessens, #7 Grayson Murphy, #21 Joel Aminu</h4><small class="text-muted"><i class="glyphicon glyphicon-time"></i> Q1 10:00 Minute</small></div></div></div></div></li></ul>
+            </div><div id="slide-stats" class="slick-slide" index="2" style="width: 1140px;">
+
+                <!-- Stats -->
+                <div id="scoreChart" style="height: 250px;" data-highcharts-chart="0"><div class="highcharts-container" id="highcharts-0" style="position: relative; overflow: hidden; width: 1140px; height: 250px; text-align: left; line-height: normal; z-index: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family: &quot;Open Sans&quot;; touch-action: none;"><svg version="1.1" style="font-family:Open Sans;font-size:12px;" xmlns="http://www.w3.org/2000/svg" width="1140" height="250"><desc>Created with Highcharts 4.0.4</desc><defs><clipPath id="highcharts-1"><rect x="0" y="0" width="1098" height="163"></rect></clipPath></defs><rect x="0" y="0" width="1140" height="250" strokeWidth="0" fill="rgba(255, 255, 255, 0.1)" class=" highcharts-background"></rect><path fill="none" d="M 32 131.5 L 1130 131.5" stroke="#808080" stroke-width="1"></path><g class="highcharts-grid" zIndex="1"></g><g class="highcharts-grid" zIndex="1"></g><g class="highcharts-axis" zIndex="2"><path fill="none" d="M 580.5 212 L 580.5 222" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 32 212.5 L 1130 212.5" stroke="#C0D0E0" stroke-width="1" zIndex="7" visibility="visible"></path></g><g class="highcharts-axis" zIndex="2"><path fill="none" d="M 31.5 49 L 31.5 212" stroke="#C0D0E0" stroke-width="1" zIndex="7" visibility="visible"></path></g><g class="highcharts-series-group" zIndex="3"><g class="highcharts-series" visibility="visible" zIndex="0.1" transform="translate(32,49) scale(1 1)" clip-path="url(#highcharts-1)"><path fill="none" d="M 539 81.5 L 559 81.5" stroke-linejoin="round" visibility="visible" stroke="rgba(192,192,192,0.0001)" stroke-width="22" zIndex="2" class=" highcharts-tracker" style=""></path></g><g class="highcharts-markers highcharts-tracker" visibility="visible" zIndex="0.1" transform="translate(32,49) scale(1 1)" clip-path="none" style=""><path fill="#000000" d="M 549 77.5 C 554.328 77.5 554.328 85.5 549 85.5 C 543.672 85.5 543.672 77.5 549 77.5 Z"></path></g><g class="highcharts-series" visibility="visible" zIndex="0.1" transform="translate(32,49) scale(1 1)" clip-path="url(#highcharts-1)"><path fill="none" d="M 539 81.5 L 559 81.5" stroke-linejoin="round" visibility="visible" stroke="rgba(192,192,192,0.0001)" stroke-width="22" zIndex="2" class=" highcharts-tracker" style=""></path></g><g class="highcharts-markers highcharts-tracker" visibility="visible" zIndex="0.1" transform="translate(32,49) scale(1 1)" clip-path="none" style=""><path fill="#84bd00" d="M 549 77.5 L 553 81.5 549 85.5 545 81.5 Z"></path></g></g><text x="570" text-anchor="middle" class="highcharts-title" zIndex="4" style="color:#333333;font-size:18px;fill:#333333;width:1076px;" y="25">Points</text><g class="highcharts-legend" zIndex="7" transform="translate(427,25)"><g zIndex="1"><g><g class="highcharts-legend-item" zIndex="1" transform="translate(8,3)"><path fill="none" d="M 0 11 L 16 11" stroke="#000000" stroke-width="2"></path><path fill="#000000" d="M 8 7 C 13.328 7 13.328 15 8 15 C 2.6719999999999997 15 2.6719999999999997 7 8 7 Z"></path><text x="21" style="color:#333333;font-size:12px;font-weight:bold;cursor:pointer;fill:#333333;" text-anchor="start" zIndex="2" y="15"><tspan>BG Göttingen</tspan></text></g><g class="highcharts-legend-item" zIndex="1" transform="translate(128.82421875,3)"><path fill="none" d="M 0 11 L 16 11" stroke="#84bd00" stroke-width="2"></path><path fill="#84bd00" d="M 8 7 L 12 11 8 15 4 11 Z"></path><text x="21" y="15" style="color:#333333;font-size:12px;font-weight:bold;cursor:pointer;fill:#333333;" text-anchor="start" zIndex="2"><tspan>Telekom Baskets Bonn</tspan></text></g></g></g></g><g class="highcharts-axis-labels highcharts-xaxis-labels" zIndex="7"><text x="581" text-anchor="middle" style="color:#606060;cursor:default;font-size:11px;fill:#606060;" y="232" opacity="1"><tspan>Q1 10:00</tspan></text></g><g class="highcharts-axis-labels highcharts-yaxis-labels" zIndex="7"><text x="17" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="135" opacity="1">0</text></g><g class="highcharts-tooltip" zIndex="8" style="cursor:default;padding:0;white-space:nowrap;" transform="translate(0,-9999)"><path fill="none" d="M 3 0 L 13 0 C 16 0 16 0 16 3 L 16 13 C 16 16 16 16 13 16 L 3 16 C 0 16 0 16 0 13 L 0 3 C 0 0 0 0 3 0" isShadow="true" stroke="black" stroke-opacity="0.049999999999999996" stroke-width="5" transform="translate(1, 1)"></path><path fill="none" d="M 3 0 L 13 0 C 16 0 16 0 16 3 L 16 13 C 16 16 16 16 13 16 L 3 16 C 0 16 0 16 0 13 L 0 3 C 0 0 0 0 3 0" isShadow="true" stroke="black" stroke-opacity="0.09999999999999999" stroke-width="3" transform="translate(1, 1)"></path><path fill="none" d="M 3 0 L 13 0 C 16 0 16 0 16 3 L 16 13 C 16 16 16 16 13 16 L 3 16 C 0 16 0 16 0 13 L 0 3 C 0 0 0 0 3 0" isShadow="true" stroke="black" stroke-opacity="0.15" stroke-width="1" transform="translate(1, 1)"></path><path fill="rgba(249, 249, 249, .85)" d="M 3 0 L 13 0 C 16 0 16 0 16 3 L 16 13 C 16 16 16 16 13 16 L 3 16 C 0 16 0 16 0 13 L 0 3 C 0 0 0 0 3 0"></path><text x="8" zIndex="1" style="font-size:12px;color:#333333;fill:#333333;" y="21"></text></g></svg></div></div>
+                <table id="scoreQ" class="ligatable">
+                    <thead>
+                        <tr>
+                            <th style="text-align: center">Q1</th>
+                            <th style="text-align: center">Q2</th>
+                            <th style="text-align: center">Q3</th>
+                            <th style="text-align: center">Q4</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr style="text-align: center">
+                            <td id="score-Q1">-- : --</td>
+                            <td id="score-Q2">-- : --</td>
+                            <td id="score-Q3">-- : --</td>
+                            <td id="score-Q4">-- : --</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <div id="teamChart" style="height: 500px;" data-highcharts-chart="1"><div class="highcharts-container" id="highcharts-4" style="position: relative; overflow: hidden; width: 1140px; height: 500px; text-align: left; line-height: normal; z-index: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family: &quot;Open Sans&quot;;"><svg version="1.1" style="font-family:Open Sans;font-size:12px;" xmlns="http://www.w3.org/2000/svg" width="1140" height="500"><desc>Created with Highcharts 4.0.4</desc><defs><clipPath id="highcharts-5"><rect x="0" y="0" width="1098" height="382"></rect></clipPath></defs><rect x="0" y="0" width="1140" height="500" strokeWidth="0" fill="rgba(255, 255, 255, 0.1)" class=" highcharts-background"></rect><g class="highcharts-grid" zIndex="1"></g><g class="highcharts-grid" zIndex="1"></g><g class="highcharts-axis" zIndex="2"><path fill="none" d="M 200.5 447 L 200.5 457" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 284.5 447 L 284.5 457" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 369.5 447 L 369.5 457" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 453.5 447 L 453.5 457" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 538.5 447 L 538.5 457" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 622.5 447 L 622.5 457" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 707.5 447 L 707.5 457" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 791.5 447 L 791.5 457" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 876.5 447 L 876.5 457" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 960.5 447 L 960.5 457" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 1045.5 447 L 1045.5 457" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 1129.5 447 L 1129.5 457" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 115.5 447 L 115.5 457" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 31.5 447 L 31.5 457" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 32 447.5 L 1130 447.5" stroke="#C0D0E0" stroke-width="1" zIndex="7" visibility="visible"></path></g><g class="highcharts-axis" zIndex="2"><path fill="none" d="M 31.5 65 L 31.5 447" stroke="#C0D0E0" stroke-width="1" zIndex="7" visibility="visible"></path></g><g class="highcharts-series-group" zIndex="3"><g class="highcharts-series highcharts-tracker" visibility="visible" zIndex="0.1" transform="translate(32,65) scale(1 1)" style="" clip-path="url(#highcharts-5)"><rect x="18.5" y="191.5" width="21" height="0" fill="#000000" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="103.5" y="191.5" width="21" height="0" fill="#000000" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="187.5" y="191.5" width="21" height="0" fill="#000000" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="272.5" y="191.5" width="21" height="0" fill="#000000" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="356.5" y="191.5" width="21" height="0" fill="#000000" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="441.5" y="191.5" width="21" height="0" fill="#000000" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="525.5" y="191.5" width="21" height="0" fill="#000000" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="610.5" y="191.5" width="21" height="0" fill="#000000" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="694.5" y="191.5" width="21" height="0" fill="#000000" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="779.5" y="191.5" width="21" height="0" fill="#000000" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="863.5" y="191.5" width="21" height="0" fill="#000000" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="948.5" y="191.5" width="21" height="0" fill="#000000" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="1032.5" y="191.5" width="21" height="0" fill="#000000" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect></g><g class="highcharts-markers" visibility="visible" zIndex="0.1" transform="translate(32,65) scale(1 1)" clip-path="none"></g><g class="highcharts-series highcharts-tracker" visibility="visible" zIndex="0.1" transform="translate(32,65) scale(1 1)" style="" clip-path="url(#highcharts-5)"><rect x="44.5" y="191.5" width="21" height="0" fill="#84bd00" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="128.5" y="191.5" width="21" height="0" fill="#84bd00" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="213.5" y="191.5" width="21" height="0" fill="#84bd00" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="297.5" y="191.5" width="21" height="0" fill="#84bd00" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="382.5" y="191.5" width="21" height="0" fill="#84bd00" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="466.5" y="191.5" width="21" height="0" fill="#84bd00" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="551.5" y="191.5" width="21" height="0" fill="#84bd00" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="635.5" y="191.5" width="21" height="0" fill="#84bd00" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="719.5" y="191.5" width="21" height="0" fill="#84bd00" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="804.5" y="191.5" width="21" height="0" fill="#84bd00" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="888.5" y="191.5" width="21" height="0" fill="#84bd00" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="973.5" y="191.5" width="21" height="0" fill="#84bd00" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="1057.5" y="191.5" width="21" height="0" fill="#84bd00" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect></g><g class="highcharts-markers" visibility="visible" zIndex="0.1" transform="translate(32,65) scale(1 1)" clip-path="none"></g></g><text x="570" text-anchor="middle" class="highcharts-title" zIndex="4" style="color:#333333;font-size:18px;fill:#333333;width:1076px;" y="25">Teamstats</text><g class="highcharts-data-labels highcharts-tracker" visibility="visible" zIndex="6" transform="translate(32,65) scale(1 1)" opacity="1" style=""><g zIndex="1" style="cursor:default;" transform="translate(23,189)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(108,189)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(192,189)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(277,189)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(361,189)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(446,189)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(530,189)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(615,189)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(699,189)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(784,189)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(868,189)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(953,189)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(1037,189)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g></g><g class="highcharts-data-labels highcharts-tracker" visibility="visible" zIndex="6" transform="translate(32,65) scale(1 1)" opacity="1" style=""><g zIndex="1" style="cursor:default;" transform="translate(49,189)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(133,189)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(218,189)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(302,189)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(387,189)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(471,189)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(556,189)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(640,189)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(724,189)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(809,189)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(893,189)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(978,189)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(1062,189)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g></g><g class="highcharts-legend" zIndex="7" transform="translate(427,25)"><g zIndex="1"><g><g class="highcharts-legend-item" zIndex="1" transform="translate(8,3)"><text x="21" style="color:#333333;font-size:12px;font-weight:bold;cursor:pointer;fill:#333333;" text-anchor="start" zIndex="2" y="15"><tspan>BG Göttingen</tspan></text><rect x="0" y="4" width="16" height="12" zIndex="3" fill="#000000"></rect></g><g class="highcharts-legend-item" zIndex="1" transform="translate(128.82421875,3)"><text x="21" y="15" style="color:#333333;font-size:12px;font-weight:bold;cursor:pointer;fill:#333333;" text-anchor="start" zIndex="2"><tspan>Telekom Baskets Bonn</tspan></text><rect x="0" y="4" width="16" height="12" zIndex="3" fill="#84bd00"></rect></g></g></g></g><g class="highcharts-axis-labels highcharts-xaxis-labels" zIndex="7"><text x="74.23076923076923" text-anchor="middle" style="width:64px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="467" opacity="1"><tspan>FT Made</tspan></text><text x="158.6923076923077" text-anchor="middle" style="width:64px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="467" opacity="1"><tspan>FT Attempts</tspan></text><text x="243.15384615384613" text-anchor="middle" style="width:64px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="467" opacity="1"><tspan>2P Made</tspan></text><text x="327.61538461538464" text-anchor="middle" style="width:64px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="467" opacity="1"><tspan>2P Attempts</tspan></text><text x="412.0769230769231" text-anchor="middle" style="width:64px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="467" opacity="1"><tspan>3P Made</tspan></text><text x="496.5384615384615" text-anchor="middle" style="width:64px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="467" opacity="1"><tspan>3P Attempts</tspan></text><text x="581" text-anchor="middle" style="width:64px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="467" opacity="1">Fouls</text><text x="665.4615384615385" text-anchor="middle" style="width:64px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="467" opacity="1"><tspan>Defensiv</tspan><tspan dy="15" x="665.4615384615385">Rebounds</tspan></text><text x="749.923076923077" text-anchor="middle" style="width:64px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="467" opacity="1"><tspan>Offensiv</tspan><tspan dy="15" x="749.923076923077">Rebounds</tspan></text><text x="834.3846153846155" text-anchor="middle" style="width:64px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="467" opacity="1"><tspan>Total</tspan><tspan dy="15" x="834.3846153846155">Rebounds</tspan></text><text x="918.8461538461539" text-anchor="middle" style="width:64px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="467" opacity="1">Blocks</text><text x="1003.3076923076924" text-anchor="middle" style="width:64px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="467" opacity="1">Steals</text><text x="1087.769230769231" text-anchor="middle" style="width:64px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="467" opacity="1">Turnovers</text></g><g class="highcharts-axis-labels highcharts-yaxis-labels" zIndex="7"><text x="17" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="260.5" opacity="1">0</text></g><g class="highcharts-tooltip" zIndex="8" style="cursor:default;padding:0;white-space:nowrap;" transform="translate(0,-9999)"><path fill="none" d="M 3 0 L 13 0 C 16 0 16 0 16 3 L 16 13 C 16 16 16 16 13 16 L 3 16 C 0 16 0 16 0 13 L 0 3 C 0 0 0 0 3 0" isShadow="true" stroke="black" stroke-opacity="0.049999999999999996" stroke-width="5" transform="translate(1, 1)"></path><path fill="none" d="M 3 0 L 13 0 C 16 0 16 0 16 3 L 16 13 C 16 16 16 16 13 16 L 3 16 C 0 16 0 16 0 13 L 0 3 C 0 0 0 0 3 0" isShadow="true" stroke="black" stroke-opacity="0.09999999999999999" stroke-width="3" transform="translate(1, 1)"></path><path fill="none" d="M 3 0 L 13 0 C 16 0 16 0 16 3 L 16 13 C 16 16 16 16 13 16 L 3 16 C 0 16 0 16 0 13 L 0 3 C 0 0 0 0 3 0" isShadow="true" stroke="black" stroke-opacity="0.15" stroke-width="1" transform="translate(1, 1)"></path><path fill="rgba(249, 249, 249, .85)" d="M 3 0 L 13 0 C 16 0 16 0 16 3 L 16 13 C 16 16 16 16 13 16 L 3 16 C 0 16 0 16 0 13 L 0 3 C 0 0 0 0 3 0"></path><text x="8" zIndex="1" style="font-size:12px;color:#333333;fill:#333333;" y="21"></text></g></svg></div></div>
+                <div id="teamRatesChart" style="height: 500px;" data-highcharts-chart="2"><div class="highcharts-container" id="highcharts-6" style="position: relative; overflow: hidden; width: 1140px; height: 500px; text-align: left; line-height: normal; z-index: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family: &quot;Open Sans&quot;;"><svg version="1.1" style="font-family:Open Sans;font-size:12px;" xmlns="http://www.w3.org/2000/svg" width="1140" height="500"><desc>Created with Highcharts 4.0.4</desc><defs><clipPath id="highcharts-7"><rect x="0" y="0" width="1085" height="397"></rect></clipPath></defs><rect x="0" y="0" width="1140" height="500" strokeWidth="0" fill="rgba(255, 255, 255, 0.1)" class=" highcharts-background"></rect><g class="highcharts-grid" zIndex="1"></g><g class="highcharts-grid" zIndex="1"></g><g class="highcharts-axis" zIndex="2"><path fill="none" d="M 767.5 462 L 767.5 472" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 1130.5 462 L 1130.5 472" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 406.5 462 L 406.5 472" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 44.5 462 L 44.5 472" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 45 462.5 L 1130 462.5" stroke="#C0D0E0" stroke-width="1" zIndex="7" visibility="visible"></path></g><g class="highcharts-axis" zIndex="2"><path fill="none" d="M 44.5 65 L 44.5 462" stroke="#C0D0E0" stroke-width="1" zIndex="7" visibility="visible"></path></g><g class="highcharts-series-group" zIndex="3"><g class="highcharts-series highcharts-tracker" visibility="visible" zIndex="0.1" transform="translate(45,65) scale(1 1)" style="" clip-path="url(#highcharts-7)"><rect x="82.5" y="397.5" width="87" height="0" fill="#000000" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="444.5" y="397.5" width="87" height="0" fill="#000000" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="806.5" y="397.5" width="87" height="0" fill="#000000" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect></g><g class="highcharts-markers" visibility="visible" zIndex="0.1" transform="translate(45,65) scale(1 1)" clip-path="none"></g><g class="highcharts-series highcharts-tracker" visibility="visible" zIndex="0.1" transform="translate(45,65) scale(1 1)" style="" clip-path="url(#highcharts-7)"><rect x="191.5" y="397.5" width="87" height="0" fill="#84bd00" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="552.5" y="397.5" width="87" height="0" fill="#84bd00" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="914.5" y="397.5" width="87" height="0" fill="#84bd00" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect></g><g class="highcharts-markers" visibility="visible" zIndex="0.1" transform="translate(45,65) scale(1 1)" clip-path="none"></g></g><text x="570" text-anchor="middle" class="highcharts-title" zIndex="4" style="color:#333333;font-size:18px;fill:#333333;width:1076px;" y="25">Teamrates</text><g class="highcharts-data-labels highcharts-tracker" visibility="visible" zIndex="6" transform="translate(45,65) scale(1 1)" opacity="1" style=""><g zIndex="1" style="cursor:default;" transform="translate(115,358)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0%</text></g><g zIndex="1" style="cursor:default;" transform="translate(477,358)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0%</text></g><g zIndex="1" style="cursor:default;" transform="translate(839,358)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0%</text></g></g><g class="highcharts-data-labels highcharts-tracker" visibility="visible" zIndex="6" transform="translate(45,65) scale(1 1)" opacity="1" style=""><g zIndex="1" style="cursor:default;" transform="translate(224,358)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0%</text></g><g zIndex="1" style="cursor:default;" transform="translate(585,358)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0%</text></g><g zIndex="1" style="cursor:default;" transform="translate(947,358)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0%</text></g></g><g class="highcharts-legend" zIndex="7" transform="translate(427,25)"><g zIndex="1"><g><g class="highcharts-legend-item" zIndex="1" transform="translate(8,3)"><text x="21" style="color:#333333;font-size:12px;font-weight:bold;cursor:pointer;fill:#333333;" text-anchor="start" zIndex="2" y="15"><tspan>BG Göttingen</tspan></text><rect x="0" y="4" width="16" height="12" zIndex="3" fill="#000000"></rect></g><g class="highcharts-legend-item" zIndex="1" transform="translate(128.82421875,3)"><text x="21" y="15" style="color:#333333;font-size:12px;font-weight:bold;cursor:pointer;fill:#333333;" text-anchor="start" zIndex="2"><tspan>Telekom Baskets Bonn</tspan></text><rect x="0" y="4" width="16" height="12" zIndex="3" fill="#84bd00"></rect></g></g></g></g><g class="highcharts-axis-labels highcharts-xaxis-labels" zIndex="7"><text x="225.83333333333334" text-anchor="middle" style="width:342px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="482" opacity="1"><tspan>FT Rates</tspan></text><text x="587.5" text-anchor="middle" style="width:342px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="482" opacity="1"><tspan>2P Rates</tspan></text><text x="949.1666666666666" text-anchor="middle" style="width:342px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="482" opacity="1"><tspan>3P Rates</tspan></text></g><g class="highcharts-axis-labels highcharts-yaxis-labels" zIndex="7"><text x="30" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="466.5" opacity="1">0</text><text x="30" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="430.40909090909093" opacity="1">10</text><text x="30" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="394.3181818181818" opacity="1">20</text><text x="30" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="358.22727272727275" opacity="1">30</text><text x="30" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="322.1363636363636" opacity="1">40</text><text x="30" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="286.04545454545456" opacity="1">50</text><text x="30" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="249.9545454545455" opacity="1">60</text><text x="30" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="213.86363636363637" opacity="1">70</text><text x="30" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="177.7727272727273" opacity="1">80</text><text x="30" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="141.6818181818182" opacity="1">90</text><text x="30" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="105.59090909090912" opacity="1">100</text><text x="30" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="69.5" opacity="1">110</text></g><g class="highcharts-tooltip" zIndex="8" style="cursor:default;padding:0;white-space:nowrap;" transform="translate(0,-9999)"><path fill="none" d="M 3 0 L 13 0 C 16 0 16 0 16 3 L 16 13 C 16 16 16 16 13 16 L 3 16 C 0 16 0 16 0 13 L 0 3 C 0 0 0 0 3 0" isShadow="true" stroke="black" stroke-opacity="0.049999999999999996" stroke-width="5" transform="translate(1, 1)"></path><path fill="none" d="M 3 0 L 13 0 C 16 0 16 0 16 3 L 16 13 C 16 16 16 16 13 16 L 3 16 C 0 16 0 16 0 13 L 0 3 C 0 0 0 0 3 0" isShadow="true" stroke="black" stroke-opacity="0.09999999999999999" stroke-width="3" transform="translate(1, 1)"></path><path fill="none" d="M 3 0 L 13 0 C 16 0 16 0 16 3 L 16 13 C 16 16 16 16 13 16 L 3 16 C 0 16 0 16 0 13 L 0 3 C 0 0 0 0 3 0" isShadow="true" stroke="black" stroke-opacity="0.15" stroke-width="1" transform="translate(1, 1)"></path><path fill="rgba(249, 249, 249, .85)" d="M 3 0 L 13 0 C 16 0 16 0 16 3 L 16 13 C 16 16 16 16 13 16 L 3 16 C 0 16 0 16 0 13 L 0 3 C 0 0 0 0 3 0"></path><text x="8" zIndex="1" style="font-size:12px;color:#333333;fill:#333333;" y="21"></text></g></svg></div></div>
+
+                <table id="team-table" class="ligatable nomobiletable">
+                    <thead>
+                        <tr>
+                            <th>Team</th>
+                            <th style="text-align: center">
+                                <p class="nomobile">2P-A-R</p>
+                                <p class="mobile">2P-A
+                                    <br>R
+                                </p>
+                            </th>
+                            <th style="text-align: center">
+                                <p class="nomobile">3P-A-R</p>
+                                <p class="mobile">3P-A
+                                    <br>R
+                                </p>
+                            </th>
+                            <th style="text-align: center">
+                                <p class="nomobile">FG-A-R</p>
+                                <p class="mobile">FG-A
+                                    <br>R
+                                </p>
+                            </th>
+                            <th style="text-align: center">
+                                <p class="nomobile">FT-A-R</p>
+                                <p class="mobile">FT-A
+                                    <br>R
+                                </p>
+                            </th>
+                            <th style="text-align: center">P</th>
+                            <th style="text-align: center">As</th>
+                            <th style="text-align: center">
+                                <p class="nomobile">RO-RD-RT</p>
+                                <p class="mobile">RO-RD
+                                    <br>RT
+                                </p>
+                            </th>
+                            <th style="text-align: center">F</th>
+                            <th style="text-align: center">BL</th>
+                            <th style="text-align: center">ST</th>
+                            <th style="text-align: center">TO</th>
+                            <th style="text-align: center">EFF</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr id="team-1-stats">
+                            <td class="teamname">BG Göttingen</td>
+                            <td style="text-align: center" class="td-2p">0</td>
+                            <td style="text-align: center" class="td-3p">0</td>
+                            <td style="text-align: center" class="td-fg">0</td>
+                            <td style="text-align: center" class="td-ft">0</td>
+                            <td style="text-align: center" class="td-pts">0</td>
+                            <td style="text-align: center" class="td-ass">0</td>
+                            <td style="text-align: center" class="td-reb"><p class="nomobile">R: O-D-T</p><p class="mobile">R: O-D<br>T</p></td>
+                            <td style="text-align: center" class="td-fls">0</td>
+                            <td style="text-align: center" class="td-bl">0</td>
+                            <td style="text-align: center" class="td-st">0</td>
+                            <td style="text-align: center" class="td-to">0</td>
+                            <td style="text-align: center" class="td-eff">0</td>
+                        </tr>
+                        <tr id="team-2-stats">
+                            <td class="teamname">Telekom Baskets Bonn</td>
+                            <td style="text-align: center" class="td-2p">0</td>
+                            <td style="text-align: center" class="td-3p">0</td>
+                            <td style="text-align: center" class="td-fg">0</td>
+                            <td style="text-align: center" class="td-ft">0</td>
+                            <td style="text-align: center" class="td-pts">0</td>
+                            <td style="text-align: center" class="td-ass">0</td>
+                            <td style="text-align: center" class="td-reb"><p class="nomobile">R: O-D-T</p><p class="mobile">R: O-D<br>T</p></td>
+                            <td style="text-align: center" class="td-fls">0</td>
+                            <td style="text-align: center" class="td-bl">0</td>
+                            <td style="text-align: center" class="td-st">0</td>
+                            <td style="text-align: center" class="td-to">0</td>
+                            <td style="text-align: center" class="td-eff">0</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p class="mobile-table-text text-center"><i class="fa fa-exclamation-triangle"></i> <b>Bitte das Device
+                        quer drehen um ausführliche Statistiken zu erhalten</b>
+                </p>
+            </div><div id="slide-team" class="slick-slide" index="3" style="width: 1140px;">
+                <!-- Team -->
+                <i id="print-icon" class="pointer fa fa-print pull-right"></i>
+                <div class="row text-center">
+                    <h1 id="team-1-h1"></h1>
+                </div>
+                <div id="team-1">
+                </div>
+
+                <div class="legend">
+                    <div class="legend-starting5"></div>
+                    <p>Starting 5, <b>P: </b>Points, <b>F: </b>Fouls<span class="legend-table">, <b>Min: </b>Spielzeit,
+                            <b>FT: </b>Free Throw, <b>AS: </b>Assists, <b>RB: </b>Rebounds, <b>BL: </b> Blocks, <b>ST:
+                            </b>Steals, <b>TO: </b>Turnover, <b>EF: </b>Effektivität, <b>*-A-R: </b>Punkteart - Attempts
+                            - Rate,</span> <span style="color:#84bd00">Topscorer</span>
+                    </p>
+                </div>
+                <table id="team-1-table" class="ligatable teamtable nomobiletable tablesorter tablesorter-default" role="grid">
+                    <thead>
+                        <tr role="row" class="tablesorter-headerRow">
+                            <th data-column="0" class="tablesorter-header tablesorter-headerAsc" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-1-table" unselectable="on" aria-sort="ascending" aria-label="Spieler: Ascending sort applied, activate to apply a descending sort" style="user-select: none;"><div class="tablesorter-header-inner">Spieler</div></th>
+                            <th style="text-align: center; user-select: none;" data-column="1" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-1-table" unselectable="on" aria-sort="none" aria-label="Min: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">Min</div></th>
+                            <th style="text-align: center; user-select: none;" data-column="2" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-1-table" unselectable="on" aria-sort="none" aria-label="
+                                2P-A-R
+                                2P-A
+                                    R
+                                
+                            : No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">
+                                <p class="nomobile">2P-A-R</p>
+                                <p class="mobile">2P-A
+                                    <br>R
+                                </p>
+                            </div></th>
+                            <th style="text-align: center; user-select: none;" data-column="3" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-1-table" unselectable="on" aria-sort="none" aria-label="
+                                3P-A-R
+                                3P-A
+                                    R
+                                
+                            : No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">
+                                <p class="nomobile">3P-A-R</p>
+                                <p class="mobile">3P-A
+                                    <br>R
+                                </p>
+                            </div></th>
+                            <th style="text-align: center; user-select: none;" data-column="4" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-1-table" unselectable="on" aria-sort="none" aria-label="
+                                FG-A-R
+                                FG-A
+                                    R
+                                
+                            : No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">
+                                <p class="nomobile">FG-A-R</p>
+                                <p class="mobile">FG-A
+                                    <br>R
+                                </p>
+                            </div></th>
+                            <th style="text-align: center; user-select: none;" data-column="5" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-1-table" unselectable="on" aria-sort="none" aria-label="
+                                FT-A-R
+                                FT-A
+                                    R
+                                
+                            : No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">
+                                <p class="nomobile">FT-A-R</p>
+                                <p class="mobile">FT-A
+                                    <br>R
+                                </p>
+                            </div></th>
+                            <th style="text-align: center; user-select: none;" data-column="6" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-1-table" unselectable="on" aria-sort="none" aria-label="P: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">P</div></th>
+                            <th style="text-align: center; user-select: none;" data-column="7" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-1-table" unselectable="on" aria-sort="none" aria-label="AS: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">AS</div></th>
+                            <th style="text-align: center; user-select: none;" class="td-reb tablesorter-header tablesorter-headerUnSorted" data-column="8" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-1-table" unselectable="on" aria-sort="none" aria-label="R: O-D-TR: O-DT: No sort applied, activate to apply an ascending sort"><p class="nomobile">R: O-D-T</p><p class="mobile">R: O-D<br>T</p></th>
+                            <th style="text-align: center; user-select: none;" data-column="9" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-1-table" unselectable="on" aria-sort="none" aria-label="F: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">F</div></th>
+                            <th style="text-align: center; user-select: none;" data-column="10" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-1-table" unselectable="on" aria-sort="none" aria-label="BL: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">BL</div></th>
+                            <th style="text-align: center; user-select: none;" data-column="11" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-1-table" unselectable="on" aria-sort="none" aria-label="ST: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">ST</div></th>
+                            <th style="text-align: center; user-select: none;" data-column="12" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-1-table" unselectable="on" aria-sort="none" aria-label="TO: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">TO</div></th>
+                            <th style="text-align: center; user-select: none;" data-column="13" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-1-table" unselectable="on" aria-sort="none" aria-label="EF: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">EF</div></th>
+                        </tr>
+                    </thead>
+                    <tbody aria-live="polite" aria-relevant="all">
+                    </tbody>
+                    <tfoot>
+                        <tr class="tr-team" role="row">
+                            <td data-column="0" class="tablesorter-headerAsc">Teamaktionen</td>
+                            <td style="text-align: center" class="td-team-min" data-column="1"></td>
+                            <td style="text-align: center" class="td-team-2p" data-column="2"></td>
+                            <td style="text-align: center" class="td-team-3p" data-column="3"></td>
+                            <td style="text-align: center" class="td-team-fg" data-column="4"></td>
+                            <td style="text-align: center" class="td-team-ft" data-column="5"></td>
+                            <td style="text-align: center" class="td-team-pts" data-column="6"></td>
+                            <td style="text-align: center" class="td-team-ass" data-column="7"></td>
+                            <td style="text-align: center" class="td-team-reb" data-column="8">0</td>
+                            <td style="text-align: center" class="td-team-fls" data-column="9">0</td>
+                            <td style="text-align: center" class="td-team-bl" data-column="10"></td>
+                            <td style="text-align: center" class="td-team-st" data-column="11"></td>
+                            <td style="text-align: center" class="td-team-to" data-column="12">0</td>
+                            <td style="text-align: center" class="td-team-eff" data-column="13"></td>
+                        </tr>
+                        <tr class="tr-sum" role="row">
+                            <td data-column="0" class="tablesorter-headerAsc">Gesamt</td>
+                            <td style="text-align: center" class="td-sum-min" data-column="1">0</td>
+                            <td style="text-align: center" class="td-sum-2p" data-column="2">0</td>
+                            <td style="text-align: center" class="td-sum-3p" data-column="3">0</td>
+                            <td style="text-align: center" class="td-sum-fg" data-column="4">0</td>
+                            <td style="text-align: center" class="td-sum-ft" data-column="5">0</td>
+                            <td style="text-align: center" class="td-sum-pts" data-column="6">0</td>
+                            <td style="text-align: center" class="td-sum-ass" data-column="7">0</td>
+                            <td style="text-align: center" class="td-sum-reb" data-column="8">0</td>
+                            <td style="text-align: center" class="td-sum-fls" data-column="9">0</td>
+                            <td style="text-align: center" class="td-sum-bl" data-column="10">0</td>
+                            <td style="text-align: center" class="td-sum-st" data-column="11">0</td>
+                            <td style="text-align: center" class="td-sum-to" data-column="12">0</td>
+                            <td style="text-align: center" class="td-sum-eff" data-column="13">0</td>
+                        </tr>
+                    </tfoot>
+                </table>
+                <p class="mobile-table-text text-center"><i class="fa fa-exclamation-triangle"></i> <b>Bitte das Device
+                        quer drehen um ausführliche Statistiken zu erhalten</b>
+                </p>
+                <div class="row text-center">
+                    <h1 id="team-2-h1"></h1>
+                </div>
+                <div id="team-2">
+                </div>
+                <div class="legend">
+                    <div class="legend-starting5"></div>
+                    <p>Starting 5, <b>P: </b>Points, <b>F: </b>Fouls<span class="legend-table">, <b>Min: </b>Spielzeit,
+                            <b>FT: </b>Free Throw, <b>AS: </b>Assists, <b>RB: </b>Rebounds, <b>BL: </b> Blocks, <b>ST:
+                            </b>Steals, <b>TO: </b>Turnover, <b>EF: </b>Effektivität, <b>*-A-R: </b>Punkteart - Attempts
+                            - Rate,</span> <span style="color:#84bd00">Topscorer</span>
+                    </p>
+                </div>
+                <table id="team-2-table" class="ligatable teamtable nomobiletable tablesorter tablesorter-default" role="grid">
+                    <thead>
+                        <tr role="row" class="tablesorter-headerRow">
+                            <th data-column="0" class="tablesorter-header tablesorter-headerAsc" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-2-table" unselectable="on" aria-sort="ascending" aria-label="Spieler: Ascending sort applied, activate to apply a descending sort" style="user-select: none;"><div class="tablesorter-header-inner">Spieler</div></th>
+                            <th style="text-align: center; user-select: none;" data-column="1" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-2-table" unselectable="on" aria-sort="none" aria-label="Min: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">Min</div></th>
+                            <th style="text-align: center; user-select: none;" data-column="2" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-2-table" unselectable="on" aria-sort="none" aria-label="
+                                2P-A-R
+                                2P-A
+                                    R
+                                
+                            : No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">
+                                <p class="nomobile">2P-A-R</p>
+                                <p class="mobile">2P-A
+                                    <br>R
+                                </p>
+                            </div></th>
+                            <th style="text-align: center; user-select: none;" data-column="3" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-2-table" unselectable="on" aria-sort="none" aria-label="
+                                3P-A-R
+                                3P-A
+                                    R
+                                
+                            : No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">
+                                <p class="nomobile">3P-A-R</p>
+                                <p class="mobile">3P-A
+                                    <br>R
+                                </p>
+                            </div></th>
+                            <th style="text-align: center; user-select: none;" data-column="4" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-2-table" unselectable="on" aria-sort="none" aria-label="
+                                FG-A-R
+                                FG-A
+                                    R
+                                
+                            : No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">
+                                <p class="nomobile">FG-A-R</p>
+                                <p class="mobile">FG-A
+                                    <br>R
+                                </p>
+                            </div></th>
+                            <th style="text-align: center; user-select: none;" data-column="5" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-2-table" unselectable="on" aria-sort="none" aria-label="
+                                FT-A-R
+                                FT-A
+                                    R
+                                
+                            : No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">
+                                <p class="nomobile">FT-A-R</p>
+                                <p class="mobile">FT-A
+                                    <br>R
+                                </p>
+                            </div></th>
+                            <th style="text-align: center; user-select: none;" data-column="6" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-2-table" unselectable="on" aria-sort="none" aria-label="P: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">P</div></th>
+                            <th style="text-align: center; user-select: none;" data-column="7" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-2-table" unselectable="on" aria-sort="none" aria-label="AS: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">AS</div></th>
+                            <th style="text-align: center; user-select: none;" class="td-reb tablesorter-header tablesorter-headerUnSorted" data-column="8" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-2-table" unselectable="on" aria-sort="none" aria-label="R: O-D-TR: O-DT: No sort applied, activate to apply an ascending sort"><p class="nomobile">R: O-D-T</p><p class="mobile">R: O-D<br>T</p></th>
+                            <th style="text-align: center; user-select: none;" data-column="9" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-2-table" unselectable="on" aria-sort="none" aria-label="F: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">F</div></th>
+                            <th style="text-align: center; user-select: none;" data-column="10" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-2-table" unselectable="on" aria-sort="none" aria-label="BL: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">BL</div></th>
+                            <th style="text-align: center; user-select: none;" data-column="11" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-2-table" unselectable="on" aria-sort="none" aria-label="ST: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">ST</div></th>
+                            <th style="text-align: center; user-select: none;" data-column="12" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-2-table" unselectable="on" aria-sort="none" aria-label="TO: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">TO</div></th>
+                            <th style="text-align: center; user-select: none;" data-column="13" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-2-table" unselectable="on" aria-sort="none" aria-label="EF: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">EF</div></th>
+                        </tr>
+                    </thead>
+                    <tbody aria-live="polite" aria-relevant="all">
+                    </tbody>
+                    <tfoot>
+                        <tr class="tr-team" role="row">
+                            <td data-column="0" class="tablesorter-headerAsc">Teamaktionen</td>
+                            <td style="text-align: center" class="td-team-min" data-column="1"></td>
+                            <td style="text-align: center" class="td-team-2p" data-column="2"></td>
+                            <td style="text-align: center" class="td-team-3p" data-column="3"></td>
+                            <td style="text-align: center" class="td-team-fg" data-column="4"></td>
+                            <td style="text-align: center" class="td-team-ft" data-column="5"></td>
+                            <td style="text-align: center" class="td-team-pts" data-column="6"></td>
+                            <td style="text-align: center" class="td-team-ass" data-column="7"></td>
+                            <td style="text-align: center" class="td-team-reb" data-column="8">0</td>
+                            <td style="text-align: center" class="td-team-fls" data-column="9">0</td>
+                            <td style="text-align: center" class="td-team-bl" data-column="10"></td>
+                            <td style="text-align: center" class="td-team-st" data-column="11"></td>
+                            <td style="text-align: center" class="td-team-to" data-column="12">0</td>
+                            <td style="text-align: center" class="td-team-eff" data-column="13"></td>
+                        </tr>
+                        <tr class="tr-sum" role="row">
+                            <td data-column="0" class="tablesorter-headerAsc">Gesamt</td>
+                            <td style="text-align: center" class="td-sum-min" data-column="1">0</td>
+                            <td style="text-align: center" class="td-sum-2p" data-column="2">0</td>
+                            <td style="text-align: center" class="td-sum-3p" data-column="3">0</td>
+                            <td style="text-align: center" class="td-sum-fg" data-column="4">0</td>
+                            <td style="text-align: center" class="td-sum-ft" data-column="5">0</td>
+                            <td style="text-align: center" class="td-sum-pts" data-column="6">0</td>
+                            <td style="text-align: center" class="td-sum-ass" data-column="7">0</td>
+                            <td style="text-align: center" class="td-sum-reb" data-column="8">0</td>
+                            <td style="text-align: center" class="td-sum-fls" data-column="9">0</td>
+                            <td style="text-align: center" class="td-sum-bl" data-column="10">0</td>
+                            <td style="text-align: center" class="td-sum-st" data-column="11">0</td>
+                            <td style="text-align: center" class="td-sum-to" data-column="12">0</td>
+                            <td style="text-align: center" class="td-sum-eff" data-column="13">0</td>
+                        </tr>
+                    </tfoot>
+                </table>
+                <p class="mobile-table-text text-center"><i class="fa fa-exclamation-triangle"></i> <b>Bitte das Device
+                        quer drehen um ausführliche Statistiken zu erhalten</b>
+                </p>
+            </div><div class="page-footer slick-slide show" index="4" style="width: 1140px;">
+                <div class="footer-container text-center">
+                    <!--            <a href="https://lionkeen.net" target="_blank" style="position: absolute; left: 10px;"><img src="https://www.lionkeen.net/logo_short.png">-->
+                    
+                    <div id="commercial-container"></div>
+                </div>
+            </div><div class="slick-slide slick-cloned" index="5" style="width: 1140px;">
+                <!-- 2 columns -->
+                <div style="width: 50; float: left;">
+                    <div class="page-header">
+                        <i class="fa fa-info-circle"></i> Sporthalle
+                    </div>
+                    <div class="stadium-content">
+                        <div class="stadium-name">Sparkassen Arena Göttingen</div>
+                        <div class="stadium-adress" style="display: none;">Adresse</div>
+                        <div class="stadium-city-zip">37081 Göttingen</div>
+                        <div class="stadium-capacity">3447 Plätze</div>
+                        <div class="stadium-capacity-seated" style="display: none;">davon Sitzplätze</div>
+                        <img src="https://api.2basketballbundesliga.de/pics2/2025_2026/s/20/001" style="width: 100%; height: auto; max-height: 100px; object-fit: cover; object-position: center center; display: none;" onerror="this.style.display='none'">
+                    </div>
+                </div>
+                <div style="width: 50; float: right;">
+                    <div class="page-header">
+                        <i class="fa fa-info&gt;circle"></i> Schiedsrichter
+                    </div>
+<div style="display:flex;align-items:flex-start;gap:1rem;margin-bottom:1.5rem;" class="ref1">
+                        <img style="display: none;">
+                        <p style="margin:0;color:#333;line-height:1.4;font-size:2rem;align-self: center;">1. Schiedsrichter nicht bekannt</p>
+                    </div>
+
+                    <div style="display:flex;align-items:flex-start;gap:1rem;margin-bottom:1.5rem;" class="ref2">
+                        <img style="display: none;">
+                        <p style="margin:0;color:#333;line-height:1.4;font-size:2rem;align-self: center;">2. Schiedsrichter nicht bekannt</p>
+                    </div>
+
+                    <div style="display:flex;align-items:flex-start;gap:1rem;margin-bottom:1.5rem;" class="ref3">
+                        <img style="display: none;"> 
+                        <p style="margin:0;color:#333;line-height:1.4;font-size:2rem;align-self: center;">3. Schiedsrichter nicht bekannt</p>
+                    </div>
+
+                </div>
+
+
+                <!-- Slider -->
+            </div></div></div>
+
+            
+            <!-- Live -->
+
+            
+            <!-- Stats -->
+
+            
+            <!-- Team -->
+             
+
+            
+
+            <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+            <script src="/js/jquery.min.js"></script>
+            <script src="/js/bootstrap.min.js"></script>
+            <script src="/js/bootstrap-switch.min.js"></script>
+
+            <script src="/js/slick.min.js"></script>
+            <script src="/js/jquery.scrollUp.js"></script>
+
+            <script src="/js/socket.io.min.js"></script>
+            <!-- Add mousewheel plugin (this is optional) -->
+            <script src="/js/jquery.mousewheel-3.0.6.pack.js"></script>
+            <!-- Add fancyBox main JS and CSS files -->
+            <script src="/js/jquery.fancybox.pack.js"></script>
+            <!-- Add Button helper (this is optional) -->
+            <script src="/js/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
+            <!-- Add Media helper (this is optional) -->
+            <script src="/js/helpers/jquery.fancybox-media.js?v=1.0.6"></script>
+
+            <script src="/js/highcharts.js"></script>
+            <script src="/js/notify.min.js"></script>
+
+            <script src="/js/jquery.tablesorter.min.js"></script>
+            <script src="/js/wow.min.js"></script>
+            <script src="/js/animation.js"></script>
+            <script src="/js/lk.js"></script>
+
+            <script>
+                var gaProperty = 'UA-51769959-3';
+                var disableStr = 'ga-disable-' + gaProperty;
+                if (document.cookie.indexOf(disableStr + '=true') > -1) {
+                    window[disableStr] = true;
+                }
+                function gaOptout() {
+                    document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+                    window[disableStr] = true;
+                    alert('Das Tracking durch Google Analytics wurde in Ihrem Browser für diese Website deaktiviert.');
+                }
+            </script>
+            <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-51769959-3"></script>
+            <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag() { dataLayer.push(arguments); }
+                gtag('js', new Date());
+                gtag('config', 'UA-51769959-3', { 'anonymize_ip': true });
+            </script>
+
+
+
+</div></div><a id="scrollUp" href="#top" style="display: none; position: fixed; z-index: 2147483647;">^</a></body></html>
