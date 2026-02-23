@@ -70,7 +70,8 @@
       "allowed_comp_codes": [
         "SLB",
         "BBE",
-        "HBBC"
+        "HBBC",
+        "PRO_A"
       ],
       "leagues": [],
       "created_at": "2026-02-05T12:56:40.960881800+00:00",
