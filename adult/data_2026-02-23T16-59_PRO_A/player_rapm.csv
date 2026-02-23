@@ -1,0 +1,206 @@
+# RAPM - Regularized Adjusted Plus/Minus
+# Regularization parameter (alpha/lambda): 800
+# Minimum possessions filter: 250
+# Total players in calculation: 459
+# Qualified players exported: 198
+# Total stints used: 8228
+# Garbage time stints excluded: 303
+Team,Player_Number,Player_Name,Possessions,ORAPM,DRAPM,RAPM
+Phoenix Hagen,11,Marvin Omonigho Omuvwie,554,5.65,2.27,7.92
+Artland Dragons,9,Connor Van Anthony,1107,4.15,2.87,7.02
+BBC Bayreuth,22,Leroy Ikenna Ikejiaku,468,1.72,4.74,6.46
+BG Göttingen,44,Julius Böhmer,968,2.41,3.92,6.33
+Bozic Estriche Knights Kirchheim,11,Tyrel Maurice Morgan,789,2.76,3.37,6.13
+HAKRO Merlins Crailsheim,4,Brock Boone Gardner,921,3.76,1.79,5.55
+VfL SparkassenStars Bochum,1,Antonio Deshon Williams,1044,2.27,3.23,5.5
+Tigers Tübingen,21,Connor McDonald Nelson,303,3.68,1.58,5.25
+Phoenix Hagen,19,Marinus Lucas N'Guessan,576,1.7,3.29,4.99
+EPG Baskets Koblenz,0,Decorian Jeffries,892,3.4,1.49,4.89
+Artland Dragons,25,Benjamin Forrest Burnham,1210,3.26,1.14,4.4
+HAKRO Merlins Crailsheim,0,Tyreese Blunt,1070,1.3,2.28,3.57
+BG Göttingen,0,Nils Owen Schmitz,737,2.26,1.25,3.51
+Eisbären Bremerhaven,2,Raphael Falkenthal,511,-0.8,4.18,3.39
+Bayer Giants Leverkusen,3,Luca Finn Kahl,772,0.31,2.97,3.28
+RheinStars Köln,23,Michael Jordan Miller,865,-0.27,3.51,3.24
+GIESSEN 46ers,18,Till Gloger,713,0.82,2.42,3.23
+GIESSEN 46ers,47,Abu Kigab,256,2.37,0.87,3.23
+Eisbären Bremerhaven,7,Adrian Breitlauch,784,2.4,0.73,3.13
+HAKRO Merlins Crailsheim,26,Marvin Ogunsipe,928,0.95,2.05,3.0
+EPG Baskets Koblenz,11,Devonte Jasai McCall,525,2.64,0.36,3.0
+Phoenix Hagen,30,Jeffrey Carroll,841,3.44,-0.49,2.95
+Eisbären Bremerhaven,3,Jacob David Biss,897,1.21,1.73,2.95
+Phoenix Hagen,2,Dennis Nawrocki,725,1.84,1.1,2.94
+BG Göttingen,9,Kevin Buckingham,362,3.49,-0.56,2.93
+PS Karlsruhe LIONS,5,Tyrese Williams,770,1.63,1.23,2.86
+Phoenix Hagen,4,Bjarne Kraushaar,920,2.67,0.15,2.82
+Phoenix Hagen,10,Fabian Bleck,740,-1.5,4.12,2.62
+Bozic Estriche Knights Kirchheim,3,Charles Tyrone Harris Jr.,707,1.76,0.79,2.55
+Bayer Giants Leverkusen,21,John Williams Jr,942,0.77,1.7,2.47
+Bozic Estriche Knights Kirchheim,15,Nil Failenschmid Clavera,840,1.6,0.85,2.45
+HAKRO Merlins Crailsheim,12,Xavier Trent Johnson,412,0.81,1.6,2.42
+PS Karlsruhe LIONS,23,Maurice Marko Pluskota,1004,2.03,0.22,2.25
+Artland Dragons,3,Amir Jabbar Hinton,1185,3.23,-0.98,2.24
+Phoenix Hagen,21,Tim Uhlemann,701,1.39,0.7,2.1
+Paderborn Baskets,2,Branden Michael Maughmer,830,1.8,0.21,2.01
+HAKRO Merlins Crailsheim,22,Antonio Dewane Madlock JR,734,-0.32,2.32,2.01
+BG Göttingen,20,Janis Jünemann,448,-1.99,3.97,1.98
+Phoenix Hagen,0,Marcus Henri Graves,944,1.23,0.74,1.97
+SBB Baskets,28,Alieu Ceesay,621,2.39,-0.43,1.97
+RheinStars Köln,4,Zachary Richard Watson,459,0.67,1.27,1.94
+HAKRO Merlins Crailsheim,10,Gianni Otto,488,1.37,0.57,1.93
+GIESSEN 46ers,7,Kyle Anthony Castlin,1280,-0.03,1.89,1.87
+Nürnberg Falcons BC,2,Carter Dean Whitt,750,2.07,-0.24,1.83
+GIESSEN 46ers,12,Robin Benzing,987,1.55,0.28,1.83
+Bozic Estriche Knights Kirchheim,9,Tylan James Pope,951,2.91,-1.13,1.78
+VfL SparkassenStars Bochum,8,Kilian Dietz,426,-0.8,2.53,1.73
+GIESSEN 46ers,14,Luis Elias König Figge,649,1.1,0.6,1.69
+PS Karlsruhe LIONS,25,David Opowu Ejah,1129,0.83,0.85,1.68
+HAKRO Merlins Crailsheim,1,Jose Gabriel de Oliveira Neto,803,-0.23,1.87,1.65
+RheinStars Köln,11,Timothy Nehemiah Davis,310,-1.21,2.8,1.59
+RheinStars Köln,10,Haris Hujic,585,0.02,1.53,1.55
+Artland Dragons,7,Timo Lanmüller,1096,1.34,0.19,1.54
+Tigers Tübingen,24,JaCobi Allen Wood,552,-0.42,1.95,1.54
+SBB Baskets,24,Nigel Pruitt,408,2.33,-0.8,1.53
+VfL SparkassenStars Bochum,7,Lars Kamp,899,1.19,0.34,1.53
+BG Göttingen,3,Jordan Sears,1086,0.14,1.29,1.43
+Nürnberg Falcons BC,5,Tim Köpple,720,1.98,-0.58,1.41
+Uni Baskets Münster,1,Timetric Jerome Hodges,426,0.9,0.47,1.37
+Eisbären Bremerhaven,90,Jannis von Seckendorff,845,1.77,-0.51,1.26
+Eisbären Bremerhaven,0,Elijah Jahi Miller,1104,1.27,-0.01,1.25
+HAKRO Merlins Crailsheim,9,Anthony Malik Gaines,1045,-0.06,1.31,1.25
+Uni Baskets Münster,22,Cosmo Grühn,664,-0.25,1.48,1.23
+Phoenix Hagen,8,Devin Lawrence Schmidt,860,0.13,1.09,1.21
+BG Göttingen,1,Adam Ramstedt,629,-0.82,2.02,1.2
+GIESSEN 46ers,55,Simon Krajcovic,946,-1.08,2.27,1.19
+VfL SparkassenStars Bochum,11,Dravon Mangum,963,0.7,0.44,1.14
+Paderborn Baskets,71,Jonathan Klussmann,981,3.04,-1.95,1.1
+HAKRO Merlins Crailsheim,99,Vincent Malik Shahid,531,0.82,0.25,1.07
+BG Göttingen,10,Hendrik Helge Drescher,982,-0.23,1.25,1.02
+PS Karlsruhe LIONS,4,Isaiah Rayshaud Hart,818,-0.28,1.26,0.98
+SBB Baskets,6,Martin Bogdanov,848,-1.45,2.39,0.93
+GIESSEN 46ers,5,Devon Goodman,410,-0.43,1.32,0.89
+VfL SparkassenStars Bochum,0,Myreon Lamar Jones JR,1197,0.15,0.73,0.89
+VfL SparkassenStars Bochum,9,Jonas Grof,1065,-0.11,0.96,0.86
+Nürnberg Falcons BC,28,Tom Stoiber,685,-0.26,1.1,0.85
+RheinStars Köln,15,Björn Rohwer,869,2.2,-1.45,0.75
+EPG Baskets Koblenz,9,Jonas Niedermanner,976,-0.83,1.5,0.67
+Bozic Estriche Knights Kirchheim,1,Phillip Montreal Russelll,1184,1.37,-0.74,0.63
+Tigers Tübingen,10,Isaiah Jevon Sanders,394,-0.53,1.08,0.55
+GIESSEN 46ers,25,Viktor Kovacevic,269,-0.67,1.19,0.52
+Bozic Estriche Knights Kirchheim,4,Gian Bahattin Aydinoglu,714,-2.91,3.37,0.45
+BBC Bayreuth,6,Moritz Plescher,845,0.67,-0.23,0.44
+Nürnberg Falcons BC,16,Julius Wolf,740,2.11,-1.71,0.4
+BBC Bayreuth,55,Lenny Liedtke,1040,1.42,-1.03,0.39
+Tigers Tübingen,17,Lukas Max Milner,773,0.52,-0.22,0.3
+Eisbären Bremerhaven,31,Hendrik Warner,706,-2.96,3.24,0.28
+SBB Baskets,91,Michael Hughes II,642,0.46,-0.17,0.28
+EPG Baskets Koblenz,5,Timothy Smith,929,0.03,0.24,0.27
+BG Göttingen,21,Zach Jackson,951,1.5,-1.24,0.26
+Bayer Giants Leverkusen,51,Sören Urbansky,587,0.04,0.18,0.23
+RheinStars Köln,34,Hall B Elisias,347,-0.61,0.8,0.19
+RheinStars Köln,6,Jasper Günther,862,-0.4,0.58,0.18
+GIESSEN 46ers,13,Jonathan Maier,535,-1.52,1.66,0.14
+BBC Bayreuth,2,Tehree Johnathan Horn,1023,0.87,-0.74,0.14
+VfL SparkassenStars Bochum,3,Marios Giotis,523,0.33,-0.25,0.08
+Nürnberg Falcons BC,33,Brandton Dean Chatfield,637,-0.93,1.0,0.08
+HAKRO Merlins Crailsheim,2,Keyshaun Darrius Langley,477,0.36,-0.37,-0.01
+BBC Bayreuth,23,KeVaughn Allen,1151,-0.73,0.7,-0.03
+Uni Baskets Münster,6,Thore Dilschmann,821,-1.16,1.11,-0.05
+BG Göttingen,4,Daniel Kirchner,823,-0.95,0.89,-0.06
+HAKRO Merlins Crailsheim,7,Nico Santana Mojica,339,-1.68,1.58,-0.1
+Artland Dragons,20,Linus Ruf,762,0.76,-0.9,-0.15
+PS Karlsruhe LIONS,22,Mikal Dawson,264,-1.19,1.02,-0.17
+GIESSEN 46ers,3,Aiden Warnholtz,958,1.04,-1.23,-0.19
+Tigers Tübingen,8,Felix Per Edwardsson,615,-0.44,0.24,-0.2
+EPG Baskets Koblenz,3,Calvin Wishart,1184,1.51,-1.72,-0.2
+BBC Bayreuth,39,Willem Brandwijk,584,-2.12,1.82,-0.3
+Artland Dragons,15,Linus Trettin,260,-1.26,0.95,-0.31
+SBB Baskets Wolmirstedt,0,Joshua Bonga,251,-0.98,0.63,-0.34
+Phoenix Hagen,77,Anzac Joseph Dennis Rissetto,407,-0.79,0.44,-0.35
+SBB Baskets Wolmirstedt,1,Trey Thompson Stewart,264,0.53,-0.94,-0.41
+RheinStars Köln,0,Cedric Cezell Russell Jr,850,2.2,-2.64,-0.44
+Artland Dragons,16,Fynn Lastring,577,0.17,-0.61,-0.44
+Eisbären Bremerhaven,6,Carlos Deshawn Carter,924,1.64,-2.13,-0.48
+Nürnberg Falcons BC,22,Trevor James Baskin,933,-0.8,0.28,-0.52
+Paderborn Baskets,13,Jalen Lee Johnson,787,0.31,-0.87,-0.55
+Paderborn Baskets,0,Efosa K Irobun Osawe,960,0.8,-1.39,-0.59
+SBB Baskets,0,Joshua Bonga,301,-0.65,-0.04,-0.69
+Tigers Tübingen,7,Silas Kaan Osezua Oriane,583,-0.15,-0.58,-0.73
+EPG Baskets Koblenz,4,Aleksa Kovacevic,829,-0.86,-0.0,-0.86
+Paderborn Baskets,11,Karl Bühner,814,-0.97,0.06,-0.9
+Tigers Tübingen,1,Bernard Joel Pelote III,1124,-1.3,0.35,-0.95
+Bozic Estriche Knights Kirchheim,19,Aeneas Jung,693,-2.94,1.97,-0.96
+EPG Baskets Koblenz,10,Garrett Hicks,587,-1.18,0.21,-0.97
+Tigers Tübingen,15,Patrick Etienne Fardy Emilien,479,2.03,-3.0,-0.97
+Paderborn Baskets,10,Nicolas Ignacio Marty-Decker,820,-1.83,0.85,-0.98
+Eisbären Bremerhaven,21,Till Isemann,361,-0.65,-0.37,-1.02
+Nürnberg Falcons BC,30,Vincent Friederici,1011,-0.85,-0.21,-1.05
+EPG Baskets Koblenz,22,Alexander Möller,666,0.63,-1.71,-1.08
+Tigers Tübingen,5,Kaya Kaan Hakan Bayram,851,-0.21,-0.95,-1.16
+Paderborn Baskets,22,Aaron Kayser,540,-1.94,0.68,-1.26
+EPG Baskets Koblenz,13,Marko Bacak,840,-0.25,-1.08,-1.33
+SBB Baskets Wolmirstedt,34,Fabien Kondo,255,-1.94,0.58,-1.36
+BG Göttingen,17,Mathis Mönninghoff,874,0.72,-2.09,-1.36
+PS Karlsruhe LIONS,7,Wesley Chima Oba,768,-4.01,2.54,-1.48
+Bozic Estriche Knights Kirchheim,21,Nicolas Bretzel,714,-0.88,-0.62,-1.5
+Nürnberg Falcons BC,7,Christian Feneberg,686,-0.85,-0.69,-1.54
+Bayer Giants Leverkusen,8,Kobe Langley,1101,1.5,-3.13,-1.63
+Artland Dragons,13,Dejan Bruce,264,-0.63,-1.0,-1.64
+Paderborn Baskets,5,Matej Silic,634,0.56,-2.24,-1.68
+BBC Bayreuth,8,Nat Diallo,883,-1.21,-0.54,-1.75
+Bayer Giants Leverkusen,11,Ricardo Lynch,915,-1.28,-0.47,-1.75
+Uni Baskets Münster,3,Paul Viefhues,911,-0.89,-0.94,-1.83
+Bayer Giants Leverkusen,2,Viktor Ziring,357,0.55,-2.52,-1.97
+Eisbären Bremerhaven,4,Jordan Samare,665,-0.51,-1.5,-2.0
+BBC Bayreuth,3,Rayshawn Rene Mart,1138,-0.23,-1.78,-2.01
+Tigers Tübingen,23,Melkisedek Kwaku Moreaux,931,-1.88,-0.2,-2.09
+RheinStars Köln,39,Kenny André Calliste Kéannou Baptiste,275,-0.42,-1.69,-2.12
+Uni Baskets Münster,4,Nicholas Khalil Mc Mullen,1096,-0.24,-1.92,-2.16
+Artland Dragons,12,Elijah Ndi,738,-0.14,-2.05,-2.2
+Nürnberg Falcons BC,44,Lars Lagerpusch,395,-1.25,-1.05,-2.3
+Phoenix Hagen,13,Dominick Jordan von Waaden,541,-1.92,-0.41,-2.33
+VfL SparkassenStars Bochum,4,Niklas Geske,1113,0.22,-2.6,-2.38
+Uni Baskets Münster,0,Andrew O'Brien,923,-1.35,-1.08,-2.43
+BG Göttingen,11,Robin Lodders,475,0.46,-2.9,-2.44
+Nürnberg Falcons BC,10,Evan Derek Taylor,908,-0.79,-1.66,-2.45
+Uni Baskets Münster,17,Oliver Pahnke,287,-0.41,-2.05,-2.47
+Paderborn Baskets,26,Leonard Kröger,289,-0.19,-2.29,-2.48
+Bozic Estriche Knights Kirchheim,8,Lucas Mayer,984,-2.12,-0.44,-2.56
+SBB Baskets,1,Trey Thompson Stewart,732,-2.53,-0.08,-2.61
+Uni Baskets Münster,8,Neil Masnic,955,-2.27,-0.35,-2.62
+PS Karlsruhe LIONS,14,Brandon Angelo Porter,295,-1.76,-0.97,-2.73
+GIESSEN 46ers,17,Domagoj Vukovic,293,-2.88,0.13,-2.76
+PS Karlsruhe LIONS,12,Kilian Binapfl,695,-0.76,-2.05,-2.8
+EPG Baskets Koblenz,14,Jannis Sonnefeld,445,-3.04,0.02,-3.02
+VfL SparkassenStars Bochum,22,Malek Green,578,0.34,-3.55,-3.21
+Eisbären Bremerhaven,8,Jemarl Lemuel Baker Jr.,895,-1.55,-1.71,-3.25
+SBB Baskets,7,Daivien Latrell Williamson,889,-0.09,-3.22,-3.31
+Artland Dragons,8,Dominik Dolic,474,-1.18,-2.16,-3.34
+SBB Baskets,34,Fabien Kondo,626,-2.95,-0.44,-3.4
+BBC Bayreuth,12,Cantia Jevon Rahming,691,-3.03,-0.39,-3.43
+SBB Baskets,4,De'Vondre Malik Perry,665,-3.42,-0.03,-3.45
+Paderborn Baskets,7,Tom Brüggemann,289,-4.09,0.57,-3.52
+Artland Dragons,11,Robert Oehle,287,-1.16,-2.42,-3.58
+Uni Baskets Münster,24,Jesse Chidera Ani,731,-1.83,-1.76,-3.59
+Paderborn Baskets,6,Grant Teichmann,966,-2.46,-1.15,-3.61
+SBB Baskets Wolmirstedt,2,Travis Henson,291,-1.59,-2.1,-3.69
+Bayer Giants Leverkusen,22,Dennis Heinzmann,918,-0.25,-3.45,-3.7
+Artland Dragons,1,Nathan Joseph Petrone,764,-2.02,-1.75,-3.78
+RheinStars Köln,22,Justin Onyejiaka,669,-1.88,-2.04,-3.92
+Uni Baskets Münster,10,Julian Lamont Larry,622,-2.37,-1.61,-3.99
+VfL SparkassenStars Bochum,12,Matthew Douglas Strange,393,0.49,-4.83,-4.34
+RheinStars Köln,13,Adam John Paige,790,-0.84,-3.54,-4.38
+SBB Baskets Wolmirstedt,28,Alieu Ceesay,256,-2.98,-1.48,-4.47
+Bayer Giants Leverkusen,10,Sebastian Brach,1005,-2.97,-1.6,-4.57
+PS Karlsruhe LIONS,6,Gabriel Kuku,689,-2.88,-1.69,-4.58
+Bayer Giants Leverkusen,15,Donte Nicholas,1048,-1.86,-3.08,-4.94
+BBC Bayreuth,35,Artem Kovalov,403,-4.57,-0.44,-5.01
+PS Karlsruhe LIONS,34,David Allan Cohn,702,-1.08,-4.02,-5.1
+RheinStars Köln,9,Maximilian Begue,424,-2.4,-2.91,-5.31
+Bozic Estriche Knights Kirchheim,13,Nicholas Gerard Spinoso,712,-5.96,0.61,-5.35
+EPG Baskets Koblenz,2,Badu Buck,841,-1.62,-3.89,-5.51
+Tigers Tübingen,3,Miles Lamar Tention,937,-4.05,-1.57,-5.62
+GIESSEN 46ers,1,Daniel Alexander Norl,737,-3.24,-2.53,-5.77
+Uni Baskets Münster,55,Philip Anthony Alston,290,-3.85,-1.96,-5.81
+Tigers Tübingen,26,Till-Joscha Jönke,430,-3.63,-2.27,-5.9
+RheinStars Köln,5,Rupert Hennen,433,-3.97,-3.43,-7.4
