@@ -1,12 +1,6 @@
 {
-  "status": "idle",
-  "last_run": "2026-02-20T23:17:36.919094",
-  "last_result": {
-    "success": 1,
-    "failed": 0,
-    "competitions": [
-      "PRO_A"
-    ]
-  },
-  "updated_at": "2026-02-20T23:17:37.355844"
+  "status": "running",
+  "current_request": "monday_auto_1771851114",
+  "started_at": "2026-02-23T12:51:54.407501",
+  "updated_at": "2026-02-23T12:51:54.992043"
 }
