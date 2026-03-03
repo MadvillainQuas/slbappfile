@@ -1,10 +1,10 @@
 {
-  "status": "idle",
-  "last_completed": "monday_auto_1772432452",
-  "completed_at": "2026-03-02T13:10:29.489166",
-  "last_result": {
-    "success": 4,
-    "failed": 0
-  },
-  "updated_at": "2026-03-02T13:10:29.676069"
+  "status": "running",
+  "mode": "all",
+  "competitions": [
+    "PRO_B",
+    "BBL"
+  ],
+  "started_at": "2026-03-03T20:22:39.617246",
+  "updated_at": "2026-03-03T20:22:40.053208"
 }
