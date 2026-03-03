@@ -14,7 +14,8 @@
         "BBE",
         "HBBC",
         "PRO_A",
-        "PRO_B"
+        "PRO_B",
+        "BBL"
       ],
       "leagues": [],
       "created_at": "2026-02-01T00:00:00Z",
@@ -73,7 +74,8 @@
         "BBE",
         "HBBC",
         "PRO_A",
-        "PRO_B"
+        "PRO_B",
+        "BBL"
       ],
       "leagues": [],
       "created_at": "2026-02-05T12:56:40.960881800+00:00",
@@ -186,10 +188,16 @@
       "schedule_urls": []
     },
     {
-    "code": "PRO_B",
-    "name": "ProB Germany",
-    "enabled": true,
-    "schedule_urls": []
-  }
+      "code": "PRO_B",
+      "name": "ProB Germany",
+      "enabled": true,
+      "schedule_urls": []
+    },
+    {
+      "code": "BBL",
+      "name": "German Basketball Bundesliga (BBL)",
+      "enabled": true,
+      "schedule_urls": []
+    }
   ]
 }
