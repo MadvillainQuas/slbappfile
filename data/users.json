@@ -16,7 +16,8 @@
         "PRO_A",
         "PRO_B",
         "BBL",
-        "FBAA"
+        "FBAA",
+        "CBFFE"
       ],
       "leagues": [],
       "created_at": "2026-02-01T00:00:00Z",
@@ -76,7 +77,9 @@
         "HBBC",
         "PRO_A",
         "PRO_B",
-        "BBL"
+        "BBL",
+        "CBFFE",
+        "FBAA"
       ],
       "leagues": [],
       "created_at": "2026-02-05T12:56:40.960881800+00:00",
@@ -137,7 +140,12 @@
       "allowed_comp_codes": [
         "SLB",
         "BBE",
-        "HBBC"
+        "HBBC",
+        "PRO_A",
+        "PRO_B",
+        "BBL",
+        "CBFFE",
+        "FBAA"
       ],
       "leagues": [],
       "created_at": "2026-02-19T18:41:32.474697622+00:00",
@@ -207,6 +215,12 @@
   "schedule_urls": [
     "https://hosted.dcd.shared.geniussports.com/FBAA/en/competition/39440/schedule"
   ]
-  }
+  },
+    {
+  "code": "CBFFE",
+  "name": "Czech NBL",
+  "enabled": true,
+  "schedule_urls": []
+}
   ]
 }
