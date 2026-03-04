@@ -15,7 +15,8 @@
         "HBBC",
         "PRO_A",
         "PRO_B",
-        "BBL"
+        "BBL",
+        "FBAA"
       ],
       "leagues": [],
       "created_at": "2026-02-01T00:00:00Z",
@@ -198,6 +199,14 @@
       "name": "German Basketball Bundesliga (BBL)",
       "enabled": true,
       "schedule_urls": []
-    }
+    },
+    {
+  "code": "FBAA",
+  "name": "Korisliiga",
+  "enabled": true,
+  "schedule_urls": [
+    "https://hosted.dcd.shared.geniussports.com/FBAA/en/competition/39440/schedule"
+  ]
+  }
   ]
 }
