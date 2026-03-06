@@ -1,0 +1,179 @@
+# RAPM - Regularized Adjusted Plus/Minus
+# Regularization parameter (alpha/lambda): 800
+# Minimum possessions filter: 250
+# Total players in calculation: 340
+# Qualified players exported: 171
+# Total stints used: 5112
+# Garbage time stints excluded: 120
+Team,Player_Number,Player_Name,Possessions,ORAPM,DRAPM,RAPM
+FC Bayern München Basketball,5,Giffey N.,564,3.52,3.31,6.83
+Veolia Towers Hamburg,13,Breunig M.,378,2.64,3.12,5.76
+ratiopharm ulm,15,Simon J.,407,1.46,4.04,5.5
+FC Bayern München Basketball,10,Jessup J.,637,4.57,0.69,5.26
+ALBA BERLIN,34,Bean J.,709,0.95,3.86,4.81
+RASTA Vechta,41,Pandi L.,413,3.99,0.67,4.66
+ALBA BERLIN,15,Hermannsson M.,357,0.88,3.76,4.64
+BMA365 Bamberg Baskets,2,Watson I.,881,1.76,2.46,4.22
+FC Bayern München Basketball,13,Obst A.,495,3.49,0.7,4.19
+ALBA BERLIN,13,Roberts J.,539,1.82,2.32,4.14
+ratiopharm ulm,43,Sengfelder C.,473,0.83,3.28,4.11
+MLP Academics Heidelberg,12,Osunniyi O.,309,0.28,3.51,3.79
+Fitness First Würzburg Baskets,32,Thompson C.,494,3.53,0.22,3.75
+Science City Jena,33,Washington E.,587,2.0,1.63,3.62
+SYNTAINICS MBC,44,Planinic J.,524,2.13,1.27,3.4
+MLP Academics Heidelberg,21,Seric M.,529,0.72,2.63,3.36
+Telekom Baskets Bonn,4,Garrett Jr. J.,697,3.38,-0.1,3.28
+EWE Baskets Oldenburg,12,Kyser M.,633,3.03,0.2,3.23
+ratiopharm ulm,21,Anigbata A.,345,1.3,1.91,3.21
+Fitness First Würzburg Baskets,35,Pjanic A.,252,1.44,1.7,3.14
+MHP RIESEN Ludwigsburg,7,Hughes E.,568,0.54,2.56,3.1
+SKYLINERS,1,Swope I.,772,1.05,1.98,3.03
+VET-CONCEPT Gladiators Trier,21,Rapieque E.,504,2.48,0.52,3.0
+Fitness First Würzburg Baskets,11,Ivey B.,568,1.49,1.45,2.95
+MHP RIESEN Ludwigsburg,0,Sane B.,356,0.77,2.16,2.93
+FC Bayern München Basketball,16,Jovic S.,253,3.02,-0.17,2.86
+FC Bayern München Basketball,32,Gabriel W.,380,0.52,2.19,2.71
+Telekom Baskets Bonn,6,Kessens M.,542,2.61,0.08,2.69
+MHP RIESEN Ludwigsburg,13,Polas Bartolo Y.,534,-0.31,2.88,2.57
+ROSTOCK SEAWOLVES,0,Crockett Jr. T.,527,1.36,1.02,2.38
+ratiopharm ulm,10,Osborne M.,538,0.99,1.34,2.33
+ratiopharm ulm,13,Smith M.,600,-0.74,3.0,2.26
+SKYLINERS,19,Pape T.,560,2.16,0.03,2.19
+Veolia Towers Hamburg,34,Williams R.,308,1.53,0.62,2.15
+ROSTOCK SEAWOLVES,5,Schwartz D.,561,0.76,1.31,2.07
+BMA365 Bamberg Baskets,35,Onu E.,691,0.84,1.18,2.02
+Basketball Löwen Braunschweig,13,Njie B.,520,-1.12,3.11,1.99
+ALBA BERLIN,9,Mattisseck J.,547,-0.15,2.1,1.94
+BMA365 Bamberg Baskets,1,Ensminger Z.,761,0.77,1.14,1.92
+Basketball Löwen Braunschweig,5,Scuka L.,411,0.56,1.3,1.86
+RASTA Vechta,10,Brown T.,695,1.29,0.56,1.85
+Telekom Baskets Bonn,3,Cooks Z.,573,-0.72,2.55,1.83
+VET-CONCEPT Gladiators Trier,2,Akanno D.,328,1.11,0.71,1.82
+MLP Academics Heidelberg,43,Reed II E.,309,-0.84,2.58,1.75
+MHP RIESEN Ludwigsburg,32,Kellman K.,280,-0.19,1.82,1.64
+BMA365 Bamberg Baskets,33,Heckmann P.,254,-0.17,1.78,1.61
+VET-CONCEPT Gladiators Trier,9,Hollersbacher M.,780,0.15,1.46,1.6
+Veolia Towers Hamburg,21,Daniels IV D.,349,2.21,-0.63,1.59
+ALBA BERLIN,33,Hundt B.,273,-0.23,1.79,1.55
+Basketball Löwen Braunschweig,6,Zylka F.,417,1.44,0.05,1.49
+ratiopharm ulm,7,Jensen T.,629,0.77,0.66,1.44
+EWE Baskets Oldenburg,7,Tucker D.,391,2.26,-0.83,1.42
+MHP RIESEN Ludwigsburg,3,Smith S.,513,0.71,0.69,1.4
+FC Bayern München Basketball,33,McCormack D.,338,-0.25,1.61,1.36
+SYNTAINICS MBC,0,Thomas K.,405,-0.09,1.41,1.32
+ALBA BERLIN,17,Agbakoko N.,521,1.07,0.13,1.2
+Fitness First Würzburg Baskets,55,Muenkat D.,628,1.06,0.14,1.2
+RASTA Vechta,30,Coplin B.,286,-0.38,1.55,1.17
+RASTA Vechta,11,Verge Jr. A.,716,2.07,-0.98,1.09
+RASTA Vechta,9,Ferner J.,519,1.27,-0.2,1.07
+Veolia Towers Hamburg,52,Perrin Z.,396,1.2,-0.14,1.06
+VET-CONCEPT Gladiators Trier,55,Brooks E.,427,1.62,-0.57,1.05
+ROSTOCK SEAWOLVES,9,Lansdowne D.,560,0.37,0.65,1.02
+Telekom Baskets Bonn,33,Heckmann P.,401,0.02,0.91,0.93
+VET-CONCEPT Gladiators Trier,33,Zirbes M.,472,0.57,0.26,0.83
+Telekom Baskets Bonn,12,Jostmann M.,281,-0.17,0.96,0.79
+SYNTAINICS MBC,40,Welp C.,591,2.06,-1.31,0.75
+EWE Baskets Oldenburg,11,Tischler N.,603,-1.05,1.76,0.71
+SKYLINERS,25,Knauf J.,315,-0.42,1.09,0.68
+MLP Academics Heidelberg,11,Ersek E.,457,-1.9,2.57,0.67
+ROSTOCK SEAWOLVES,8,Nicholson K.,419,0.14,0.53,0.67
+NINERS Chemnitz,9,Newman III J.,305,-0.25,0.9,0.65
+Fitness First Würzburg Baskets,10,Mintz D.,630,-0.88,1.5,0.62
+EWE Baskets Oldenburg,10,Woodard J.,655,0.42,0.18,0.6
+VET-CONCEPT Gladiators Trier,12,Linßen M.,522,1.74,-1.21,0.54
+ratiopharm ulm,0,Weidemann N.,339,-0.51,0.98,0.47
+RASTA Vechta,12,Kuhse T.,422,-1.06,1.49,0.43
+SKYLINERS,3,Zeeb G.,299,1.41,-0.98,0.43
+MHP RIESEN Ludwigsburg,2,Buchanan T.,564,-0.14,0.5,0.36
+FC Bayern München Basketball,21,Hollatz J.,519,-1.45,1.76,0.31
+FC Bayern München Basketball,22,Mike I.,530,-2.26,2.53,0.27
+NINERS Chemnitz,91,Minchev Y.,555,0.17,-0.0,0.17
+BMA365 Bamberg Baskets,24,Williams C.,753,1.09,-0.99,0.1
+VET-CONCEPT Gladiators Trier,15,Roland J.,689,0.85,-0.85,-0.0
+Basketball Löwen Braunschweig,30,Flanigan C.,537,0.04,-0.05,-0.01
+MHP RIESEN Ludwigsburg,24,Tischler B.,471,-1.0,0.95,-0.06
+MHP RIESEN Ludwigsburg,18,Wohlfarth-Bottermann J.,412,0.48,-0.56,-0.08
+VET-CONCEPT Gladiators Trier,8,Yakhchali Dehkordi B.,414,-0.41,0.25,-0.16
+SKYLINERS,16,Caisin R.,561,-0.46,0.29,-0.17
+ALBA BERLIN,3,O'Connell A.,339,-0.08,-0.11,-0.19
+EWE Baskets Oldenburg,4,Fobbs B.,871,1.91,-2.16,-0.24
+BMA365 Bamberg Baskets,8,Demonia D.,837,1.26,-1.52,-0.26
+BMA365 Bamberg Baskets,11,Balint R.,604,0.97,-1.27,-0.29
+Science City Jena,41,Herrera A.,331,-0.84,0.43,-0.41
+Veolia Towers Hamburg,5,Maronka Z.,445,-0.09,-0.4,-0.49
+Science City Jena,13,Braxton JR K.,636,-2.41,1.92,-0.5
+FC Bayern München Basketball,4,Rathan-Mayes X.,459,-1.55,1.05,-0.51
+RASTA Vechta,6,van Slooten L.,415,-1.96,1.45,-0.52
+VET-CONCEPT Gladiators Trier,20,King U.,520,0.59,-1.18,-0.59
+Science City Jena,5,Carter C.,561,1.06,-1.68,-0.62
+RASTA Vechta,5,Bamba T.,654,-0.47,-0.23,-0.7
+ROSTOCK SEAWOLVES,19,Theis S.,346,-1.04,0.29,-0.75
+FC Bayern München Basketball,1,da Silva O.,421,1.54,-2.29,-0.75
+NINERS Chemnitz,11,Mushidi K.,581,-1.4,0.63,-0.77
+EWE Baskets Oldenburg,3,Clemons C.,700,1.25,-2.05,-0.79
+Basketball Löwen Braunschweig,8,Obiesie J.,326,-0.5,-0.3,-0.8
+NINERS Chemnitz,2,Sibande N.,452,0.28,-1.1,-0.82
+Telekom Baskets Bonn,7,Murphy G.,634,0.95,-1.78,-0.83
+NINERS Chemnitz,12,Sow A.,505,-1.04,0.2,-0.84
+ratiopharm ulm,4,Ledlum C.,476,-2.24,1.38,-0.86
+NINERS Chemnitz,15,Brewer T.,415,1.18,-2.05,-0.87
+BMA365 Bamberg Baskets,27,Krimmer M.,366,-0.39,-0.49,-0.88
+FC Bayern München Basketball,11,Lucic V.,307,0.35,-1.29,-0.94
+ALBA BERLIN,7,Kayil J.,650,0.12,-1.07,-0.95
+ALBA BERLIN,5,Griesel S.,668,-2.13,1.16,-0.96
+Telekom Baskets Bonn,21,Aminu J.,452,-0.97,-0.07,-1.04
+Fitness First Würzburg Baskets,22,Stove J.,492,-1.04,-0.02,-1.05
+ALBA BERLIN,6,Delow M.,607,0.84,-1.9,-1.06
+SYNTAINICS MBC,9,Nikic K.,301,1.31,-2.42,-1.1
+SKYLINERS,4,Alleyne N.,659,0.75,-1.95,-1.2
+Veolia Towers Hamburg,25,Ogbe K.,464,0.45,-1.81,-1.36
+SYNTAINICS MBC,5,Foster M.,643,-0.24,-1.21,-1.45
+Science City Jena,25,Bank L.,543,-0.58,-0.9,-1.48
+Telekom Baskets Bonn,2,Comithier A.,925,-0.16,-1.35,-1.52
+Fitness First Würzburg Baskets,1,Herzog L.,344,-1.8,0.25,-1.55
+BMA365 Bamberg Baskets,31,Keppeler D.,558,0.13,-1.76,-1.63
+SKYLINERS,8,Christmas W.,848,-2.04,0.4,-1.64
+NINERS Chemnitz,0,Yebo K.,509,0.43,-2.07,-1.65
+Fitness First Würzburg Baskets,19,Skladanowski C.,346,-2.59,0.89,-1.71
+RASTA Vechta,14,Herkenhoff P.,523,1.32,-3.05,-1.73
+SKYLINERS,33,Hawkins R.,617,-1.68,-0.06,-1.74
+BMA365 Bamberg Baskets,85,Crowley A.,814,-1.73,-0.04,-1.77
+NINERS Chemnitz,10,Kajami-Keane K.,250,0.66,-2.45,-1.78
+BMA365 Bamberg Baskets,15,Petkovic A.,312,-0.29,-1.5,-1.8
+Science City Jena,15,Bohannon N.,611,-3.23,1.4,-1.83
+SYNTAINICS MBC,20,Blomgren P.,398,-0.87,-1.09,-1.96
+EWE Baskets Oldenburg,65,Stanic F.,362,-1.06,-1.03,-2.1
+Veolia Towers Hamburg,8,Grey J.,341,-0.77,-1.35,-2.12
+Fitness First Würzburg Baskets,5,Carr M.,591,0.16,-2.28,-2.12
+EWE Baskets Oldenburg,33,Zubcic T.,343,0.09,-2.24,-2.14
+Science City Jena,0,Dunn-Martin T.,324,-2.06,-0.12,-2.19
+Science City Jena,36,Krause K.,384,-3.06,0.87,-2.19
+RASTA Vechta,21,Thiemann L.,379,-1.22,-1.06,-2.29
+ROSTOCK SEAWOLVES,10,Kolenda L.,569,-2.47,0.12,-2.35
+ALBA BERLIN,11,Wood M.,553,-0.21,-2.19,-2.4
+NINERS Chemnitz,5,Davis C.,719,-1.33,-1.2,-2.53
+EWE Baskets Oldenburg,21,Hinrichs S.,478,-0.53,-2.02,-2.55
+ROSTOCK SEAWOLVES,4,Baggette E.,404,-2.92,0.36,-2.56
+VET-CONCEPT Gladiators Trier,4,Guillozet C.,491,-0.47,-2.18,-2.66
+SKYLINERS,13,LeDee J.,404,-0.71,-2.03,-2.74
+ROSTOCK SEAWOLVES,29,Klassen O.,499,-2.78,0.03,-2.75
+MLP Academics Heidelberg,2,Würzner N.,287,-0.8,-1.99,-2.79
+Science City Jena,8,Christen R.,309,-1.52,-1.5,-3.02
+Veolia Towers Hamburg,17,Wimberg N.,366,-0.64,-2.43,-3.07
+SKYLINERS,0,Johnson L.,545,-1.72,-1.38,-3.1
+Veolia Towers Hamburg,2,Thorpe Jr. L.,448,-0.48,-2.89,-3.37
+Fitness First Würzburg Baskets,27,Edigin Jr E.,379,-3.58,0.0,-3.58
+Basketball Löwen Braunschweig,1,NGuessan D.,666,-1.85,-1.84,-3.7
+Basketball Löwen Braunschweig,25,Sherfield G.,595,-2.47,-1.46,-3.94
+MLP Academics Heidelberg,20,Weathers M.,553,-1.51,-2.46,-3.97
+SYNTAINICS MBC,31,Reaves S.,721,-1.08,-2.97,-4.05
+Telekom Baskets Bonn,5,Birts T.,771,-3.32,-1.04,-4.37
+Science City Jena,10,Wieskamp J.,658,-1.45,-2.92,-4.37
+ratiopharm ulm,23,Garavaglia D.,414,-4.51,0.14,-4.38
+MLP Academics Heidelberg,3,McClain K.,388,-0.79,-3.64,-4.43
+SYNTAINICS MBC,21,Gunn R.,368,-2.12,-2.57,-4.69
+VET-CONCEPT Gladiators Trier,22,Adekunle N.,568,-0.82,-3.9,-4.72
+SYNTAINICS MBC,23,Callison C.,583,-0.95,-3.93,-4.88
+MLP Academics Heidelberg,15,Keßen M.,666,-3.98,-1.23,-5.21
+Basketball Löwen Braunschweig,2,Schröder B.,357,-1.46,-3.76,-5.22
+Telekom Baskets Bonn,15,Jongkuch K.,539,-2.84,-3.33,-6.17
