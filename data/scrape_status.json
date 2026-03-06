@@ -1,12 +1,10 @@
 {
-  "status": "idle",
-  "last_run": "2026-03-06T17:10:45.762593",
-  "last_result": {
-    "success": 1,
-    "failed": 0,
-    "competitions": [
-      "ACB"
-    ]
-  },
-  "updated_at": "2026-03-06T17:10:46.220331"
+  "status": "running",
+  "mode": "all",
+  "competitions": [
+    "BBL",
+    "CBFFE"
+  ],
+  "started_at": "2026-03-06T17:34:19.005872",
+  "updated_at": "2026-03-06T17:34:19.437366"
 }
