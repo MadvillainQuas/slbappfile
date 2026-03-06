@@ -1,9 +1,12 @@
 {
-  "status": "running",
-  "mode": "all",
-  "competitions": [
-    "ACB"
-  ],
-  "started_at": "2026-03-06T01:52:34.940877",
-  "updated_at": "2026-03-06T01:52:35.380763"
+  "status": "idle",
+  "last_run": "2026-03-06T01:52:53.916974",
+  "last_result": {
+    "success": 0,
+    "failed": 1,
+    "competitions": [
+      "ACB"
+    ]
+  },
+  "updated_at": "2026-03-06T01:52:54.357035"
 }
