@@ -1,0 +1,189 @@
+# RAPM - Regularized Adjusted Plus/Minus
+# Regularization parameter (alpha/lambda): 800
+# Minimum possessions filter: 250
+# Total players in calculation: 594
+# Qualified players exported: 181
+# Total stints used: 5321
+# Garbage time stints excluded: 178
+Team,Player_Number,Player_Name,Possessions,ORAPM,DRAPM,RAPM
+Real Madrid,12,Theo Maledon,484,1.55,4.04,5.59
+Dreamland Gran Canaria,2,Isaiah Wong,652,3.18,2.14,5.31
+Real Madrid,1,David Kramer,353,2.9,2.37,5.27
+Bàsquet Girona,4,Pep Busquets,771,3.91,1.06,4.96
+Kosner Baskonia,1,Mamadi Diakite,364,2.21,2.72,4.93
+Recoletas Salud San Pablo Burgos,19,Raul Neto,611,2.37,2.24,4.61
+Hiopos Lleida,2,Corey Walden,639,0.35,4.23,4.58
+Joventut Badalona,12,Ludde Hakanson,521,0.5,3.99,4.49
+Valencia Basket,5,Sergio de Larrea,386,2.03,2.44,4.47
+Joventut Badalona,17,Sam Dekker,323,1.33,3.09,4.42
+Real Madrid,8,Chuma Okeke,376,1.28,2.86,4.13
+Surne Bilbao,10,Martin Krampelj,491,1.63,2.5,4.12
+UCAM Murcia,13,Wilhelm Falk,271,0.74,3.22,3.96
+Barça,8,Darío Brizuela,442,1.38,2.52,3.9
+Valencia Basket,24,Matt Costello,532,0.28,3.59,3.87
+Joventut Badalona,35,Simon Birgander,521,0.14,3.72,3.86
+Barça,14,Willy Hernangómez,549,3.04,0.72,3.76
+Surne Bilbao,32,Tryggvi Hlinason,537,2.01,1.68,3.69
+Hiopos Lleida,1,James Batemon,793,0.65,2.82,3.47
+Valencia Basket,0,Brancou Badio,506,-0.57,4.03,3.46
+Río Breogán,10,Francis Alonso,705,1.68,1.76,3.44
+Real Madrid,6,Alberto Abalde,435,1.28,2.12,3.4
+UCAM Murcia,15,Emanuel Cate,674,-0.08,3.47,3.39
+Barça,5,Miles Norris,315,3.05,0.27,3.31
+Kosner Baskonia,11,Trent Forrest,307,3.84,-0.59,3.26
+Kosner Baskonia,9,Luwawu-Cabarrot,425,0.73,2.49,3.22
+Real Madrid,7,Facu Campazzo,662,1.57,1.46,3.03
+UCAM Murcia,1,Michael Forrest,544,1.39,1.59,2.98
+Valencia Basket,1,Kameron Taylor,528,4.42,-1.47,2.95
+Kosner Baskonia,10,Matteo Spagnolo,395,0.9,1.94,2.83
+UCAM Murcia,12,Jonah Radebaugh,480,0.51,2.16,2.67
+BAXI Manresa,N/A,A. Reyes,648,0.38,2.29,2.66
+Dreamland Gran Canaria,5,Ziga Samar,435,0.23,2.4,2.63
+UCAM Murcia,2,Sander Raieste,717,1.23,1.3,2.53
+Bàsquet Girona,8,Mark Hughes,613,1.86,0.6,2.45
+Bàsquet Girona,25,Nikola Maric,420,-0.14,2.52,2.39
+Kosner Baskonia,7,Rodions Kurucs,390,1.17,1.14,2.31
+La Laguna Tenerife,35,Fran Guerra,486,1.55,0.6,2.16
+Real Madrid,9,Gabriele Procida,334,1.7,0.29,1.98
+Casademont Zaragoza,2,Trae Bell-Haynes,357,-0.05,1.94,1.89
+UCAM Murcia,5,David DeJulius,821,1.0,0.89,1.89
+Recoletas Salud San Pablo Burgos,40,Luke Fischer,510,1.53,0.33,1.85
+Coviran Granada,11,Elias Valtonen,358,1.8,0.03,1.82
+Joventut Badalona,9,Ricky Rubio,611,0.61,1.08,1.7
+MoraBanc Andorra,3,Aaron Best,298,0.88,0.8,1.68
+BAXI Manresa,2,Hugo Benitez,386,1.67,-0.02,1.64
+MoraBanc Andorra,99,Artem Pustovyi,266,0.82,0.82,1.64
+Valencia Basket,12,Neal Sako,372,-1.01,2.55,1.53
+Río Breogán,17,Aleksandar Aranitovic,686,2.23,-0.71,1.52
+Kosner Baskonia,17,Gytis Radzevicius,355,1.98,-0.54,1.44
+La Laguna Tenerife,15,Joan Sastre,392,1.52,-0.08,1.44
+Barça,23,Tornike Shengelia,556,0.18,1.25,1.43
+UCAM Murcia,8,Howard Sant-Roos,682,0.52,0.9,1.42
+Unicaja,4,Tyler Kalinoski,324,1.07,0.31,1.38
+Valencia Basket,3,Nate Reuvers,568,1.95,-0.6,1.36
+Recoletas Salud San Pablo Burgos,27,Ethan Happ,523,-0.88,2.23,1.35
+Bàsquet Girona,29,Mindaugas Susinskas,553,-0.84,2.17,1.33
+Río Breogán,4,DeWayne Russell,720,2.1,-0.93,1.17
+Surne Bilbao,7,Justin Jaworski,485,-0.02,1.14,1.12
+Real Madrid,22,W. Tavares,529,-0.39,1.49,1.1
+Valencia Basket,10,Omari Moore,571,-0.26,1.32,1.06
+La Laguna Tenerife,31,Rokas Giedraitis,557,1.25,-0.32,0.93
+Joventut Badalona,24,Cameron Hunt,836,1.95,-1.05,0.89
+UCAM Murcia,0,Devontae Cacok,565,0.96,-0.1,0.87
+Coviran Granada,7,Babatunde Olumuyiwa,503,0.21,0.61,0.83
+Barça,13,Tomas Satoransky,624,3.76,-2.95,0.81
+Hiopos Lleida,3,Melvin Ejim,773,0.98,-0.21,0.77
+Surne Bilbao,3,Harald Frey,429,0.13,0.62,0.75
+Joventut Badalona,1,Yannick Kraag,632,1.08,-0.37,0.71
+MoraBanc Andorra,5,Rafa Luz,268,1.05,-0.4,0.65
+Barça,2,Juani Marcos,334,-0.96,1.58,0.63
+Valencia Basket,4,Jaime Pradilla,686,2.75,-2.14,0.61
+Casademont Zaragoza,4,Santi Yusta,409,1.61,-1.0,0.6
+Barça,20,Nico Laprovittola,388,-0.75,1.31,0.55
+Kosner Baskonia,18,Khalifa Diop,320,-0.2,0.74,0.54
+Baskonia,9,Luwawu-Cabarrot,320,-0.62,1.12,0.5
+Bàsquet Girona,12,Martinas Geben,647,3.26,-2.77,0.49
+Real Madrid,11,Mario Hezonja,662,2.67,-2.3,0.38
+Unicaja,27,Chris Duarte,358,0.89,-0.53,0.37
+Río Breogán,8,Dragan Apic,305,-0.72,1.09,0.36
+Joventut Badalona,0,Henri Drell,313,-0.1,0.45,0.35
+La Laguna Tenerife,3,Jaime Fernández,521,-0.13,0.47,0.35
+La Laguna Tenerife,21,Tim Abromaitis,544,-0.39,0.71,0.33
+Recoletas Salud San Pablo Burgos,10,Gonzalo Corbalán,819,0.35,-0.03,0.31
+La Laguna Tenerife,6,Bruno Fitipaldo,690,-2.07,2.34,0.27
+Valencia Basket,13,Darius Thompson,549,-0.39,0.65,0.26
+Surne Bilbao,19,Melwin Pantzar,548,-0.6,0.86,0.26
+Hiopos Lleida,12,Atoumane Diagne,441,-0.62,0.79,0.18
+Barça,21,Will Clyburn,515,-0.24,0.41,0.17
+Río Breogán,22,Danko Brankovic,528,1.18,-1.02,0.17
+Dreamland Gran Canaria,13,Pierre Pelos,576,0.6,-0.46,0.14
+Hiopos Lleida,7,G. Golomán,425,-0.98,1.11,0.13
+Real Madrid,16,Usman Garuba,392,1.55,-1.47,0.08
+BAXI Manresa,11,Agustín Ubal,574,0.18,-0.14,0.04
+BAXI Manresa,6,Ferran Bassas,324,1.03,-1.06,-0.03
+Bàsquet Girona,5,Derek Needham,681,-1.4,1.34,-0.05
+Dreamland Gran Canaria,18,Mike Tobey,661,0.3,-0.35,-0.05
+UCAM Murcia,31,Dylan Ennis,831,0.57,-0.75,-0.19
+Valencia Basket,2,Josep Puerto,416,-0.48,0.22,-0.26
+Real Madrid,23,Sergio Llull,582,-0.05,-0.24,-0.29
+Barça,44,Joel Parra,595,-0.13,-0.18,-0.31
+Valencia Basket,8,Jean Montero,535,1.34,-1.66,-0.32
+Recoletas Salud San Pablo Burgos,11,Dani Díez,357,-0.56,0.16,-0.39
+Hiopos Lleida,14,Mikel Sanz,535,-0.75,0.32,-0.43
+Barça,0,Kevin Punter,656,0.06,-0.49,-0.43
+Kosner Baskonia,2,Kobi Simmons,257,-0.99,0.54,-0.45
+Río Breogán,0,Bakary Dibba,558,-0.3,-0.16,-0.46
+La Laguna Tenerife,19,Giorgi Shermadini,726,1.22,-1.7,-0.48
+La Laguna Tenerife,42,Aaron Doornekamp,727,1.13,-1.65,-0.52
+MoraBanc Andorra,11,Stan Okoye,326,0.03,-0.66,-0.63
+Unicaja,55,Kendrick Perry,458,-1.2,0.48,-0.72
+BAXI Manresa,19,Louis Olinde,723,-0.6,-0.13,-0.72
+Recoletas Salud San Pablo Burgos,7,Juan Rubio,272,-1.34,0.61,-0.73
+UCAM Murcia,99,Toni Nakic,670,0.19,-0.94,-0.76
+Coviran Granada,13,Matt Thomas,575,0.03,-0.81,-0.79
+Kosner Baskonia,25,Clement Frisch,299,-0.65,-0.16,-0.81
+Joventut Badalona,16,Guillem Vives,386,-2.24,1.38,-0.86
+La Laguna Tenerife,9,Marcelinho Huertas,655,2.78,-3.67,-0.88
+Coviran Granada,2,Jonathan Rousselle,512,0.33,-1.28,-0.95
+Surne Bilbao,13,Bassala Bagayoko,298,-2.31,1.35,-0.96
+Surne Bilbao,11,Darrun Hilliard,550,-0.57,-0.42,-0.99
+Dreamland Gran Canaria,21,Louis Labeyrie,524,-2.4,1.39,-1.01
+MoraBanc Andorra,24,Kyle Kuric,317,0.32,-1.33,-1.01
+Joventut Badalona,88,Adam Hanga,647,-1.42,0.37,-1.05
+Surne Bilbao,2,Margiris Normantas,500,-0.82,-0.24,-1.06
+Casademont Zaragoza,7,Miguel González,411,-1.76,0.62,-1.14
+Recoletas Salud San Pablo Burgos,56,Jhivvan Jackson,887,-0.47,-0.68,-1.14
+Recoletas Salud San Pablo Burgos,8,Pablo Almazán,297,-1.82,0.63,-1.19
+Real Madrid,24,Andrés Feliz,389,2.52,-3.73,-1.21
+Surne Bilbao Basket,19,Melwin Pantzar,250,-1.12,-0.12,-1.24
+Dreamland Gran Canaria,9,Nico Brussino,776,-0.57,-0.74,-1.31
+Valencia Basket,6,López-Arostegui,308,-3.44,2.12,-1.31
+Recoletas Salud San Pablo Burgos,6,Jon Axel Gudmundsson,623,-2.48,1.15,-1.34
+Real Madrid,0,Trey Lyles,474,0.55,-1.89,-1.34
+Río Breogán,18,Jordan Sakho,503,1.1,-2.46,-1.37
+Real Madrid,14,Gabriel Deck,409,0.51,-2.18,-1.67
+Barça,3,Myles Cale,550,-0.5,-1.17,-1.67
+Río Breogán,1,Keandre Cook,715,0.89,-2.59,-1.7
+BAXI Manresa,29,Pierre Oriola,342,-0.21,-1.52,-1.73
+Kosner Baskonia,0,Markus Howard,282,-2.08,0.32,-1.76
+Río Breogán,37,Mihajlo Andric,576,0.6,-2.36,-1.76
+BAXI Manresa,32,Retin Obasohan,646,-0.35,-1.42,-1.77
+Unicaja,0,Tyson Pérez,290,-0.74,-1.03,-1.77
+La Laguna Tenerife,4,Wesley Van Beck,379,-0.12,-1.69,-1.81
+Joventut Badalona,44,Ante Tomic,634,-0.57,-1.29,-1.86
+Hiopos Lleida,16,Millán Jiménez,449,-3.93,1.85,-2.08
+Unicaja,2,Olek Balcerowski,413,-2.49,0.38,-2.11
+BAXI Manresa,0,Kaodirichi Akobundu,443,-1.63,-0.5,-2.12
+Dreamland Gran Canaria,24,Braian Angola,436,-2.24,0.08,-2.16
+Bàsquet Girona,10,Pepe Vildoza,516,-2.39,0.23,-2.16
+Coviran Granada,35,Zach Hankins,296,-0.98,-1.24,-2.22
+Casademont Zaragoza,0,Marco Spissu,403,-1.82,-0.46,-2.28
+MoraBanc Andorra,0,Morris Udeze,336,-1.42,-1.06,-2.48
+La Laguna Tenerife,11,Thomas Scrubb,595,-0.53,-1.96,-2.48
+Coviran Granada,15,Lluís Costa,421,-0.62,-1.92,-2.54
+Coviran Granada,77,Beqa Burjanadze,288,-0.93,-1.63,-2.56
+Coviran Granada,23,Jovan Kljajic,274,-1.13,-1.46,-2.59
+Casademont Zaragoza,15,Joaquín Rodríguez,339,-0.73,-1.93,-2.66
+BAXI Manresa,33,Grant Golden,413,-1.95,-0.72,-2.67
+Bàsquet Girona,11,Otis Livingston,793,-0.34,-2.34,-2.67
+Recoletas Salud San Pablo Burgos,0,J. Samuels,713,-0.67,-2.12,-2.8
+Dreamland Gran Canaria,10,Miquel Salvó,349,-1.45,-1.66,-3.11
+Dreamland Gran Canaria,23,Kur Kuath,411,-2.91,-0.23,-3.14
+Unicaja,7,Jonathan Barreiro,296,-2.12,-1.15,-3.27
+Bàsquet Girona,21,Juan Fernández,610,-4.2,0.78,-3.42
+Dreamland Gran Canaria,6,Andrew Albicy,703,-1.57,-1.91,-3.48
+Recoletas Salud San Pablo Burgos,23,Leo Meindl,807,-0.58,-3.09,-3.67
+Barça,6,Jan Vesely,344,-1.45,-2.23,-3.68
+Hiopos Lleida,6,Kristers Zoriks,318,-2.11,-1.67,-3.77
+Surne Bilbao,18,Luke Petrasek,478,-1.53,-2.29,-3.81
+Joventut Badalona,23,Michael Ruzic,308,-2.74,-1.11,-3.85
+BAXI Manresa,55,Dani Pérez,312,-4.62,0.76,-3.87
+Hiopos Lleida,25,Cameron Krutwig,389,-2.62,-1.41,-4.03
+Coviran Granada,29,Luka Bozic,760,-1.64,-2.67,-4.31
+Hiopos Lleida,22,John Shurna,578,-2.48,-2.1,-4.58
+Río Breogán,19,Dominik Mavra,590,-2.2,-2.48,-4.68
+Hiopos Lleida,5,Oriol Paulí,635,-3.81,-0.88,-4.69
+Río Breogán,47,Arturs Kurucs,693,-1.39,-3.35,-4.74
+BAXI Manresa,12,Marcis Steinbergs,647,-4.21,-0.57,-4.77
+Bàsquet Girona,23,Sergi Martínez,779,-2.8,-2.2,-5.0
+Hiopos Lleida,4,Caleb Agada,605,-1.08,-4.26,-5.35
