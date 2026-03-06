@@ -2,9 +2,8 @@
   "status": "running",
   "mode": "all",
   "competitions": [
-    "BBL",
-    "CBFFE"
+    "ACB"
   ],
-  "started_at": "2026-03-06T17:34:19.005872",
-  "updated_at": "2026-03-06T17:34:19.437366"
+  "started_at": "2026-03-06T18:08:30.825256",
+  "updated_at": "2026-03-06T18:08:31.280702"
 }
