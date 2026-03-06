@@ -1,0 +1,138 @@
+# RAPM - Regularized Adjusted Plus/Minus
+# Regularization parameter (alpha/lambda): 800
+# Minimum possessions filter: 250
+# Total players in calculation: 198
+# Qualified players exported: 130
+# Total stints used: 6477
+# Garbage time stints excluded: 234
+Team,Player_Number,Player_Name,Possessions,ORAPM,DRAPM,RAPM
+ERA Basketball Nymburk,7,M. Santos - Silva,422,2.45,4.7,7.15
+ERA Basketball Nymburk,77,V. Hruban,803,2.34,4.73,7.07
+ERA Basketball Nymburk,32,J. Shumate,619,3.65,3.29,6.94
+ERA Basketball Nymburk,73,F. Rylich,879,4.09,2.67,6.75
+PUMPA Basket Brno,33,R. Williams,553,3.12,3.56,6.67
+BK Olomoucko,9,O. Šiška,1150,3.71,2.29,6.0
+BK ARMEX ENERGY Děčín,0,P. Alexander,830,4.75,1.02,5.77
+BK KVIS Pardubice,21,L. Kovář,1396,1.6,4.13,5.73
+Sršni Photomate Písek,10,V. Sýkora,907,3.65,1.89,5.54
+Sršni Photomate Písek,41,J. Karlovský,1190,0.74,4.2,4.93
+ERA Basketball Nymburk,40,J. Lawrence,689,1.33,3.5,4.84
+BK Opava,25,M. Vyroubal,911,1.06,3.58,4.64
+ERA Basketball Nymburk,19,O. Sehnal,859,3.99,0.06,4.05
+BK KVIS Pardubice,4,J. Bryant,1427,1.13,2.8,3.93
+ERA Basketball Nymburk,2,J. Brickus,586,1.54,2.11,3.65
+BK Olomoucko,14,K. Filewich,1442,0.84,2.7,3.54
+SLUNETA  Ústí nad Labem,44,L. Pecka,1424,1.08,2.41,3.49
+BK Opava,13,C. Brown Jr,1382,0.58,2.78,3.36
+SK Slavia Praha,16,J. Matušík,938,2.99,0.36,3.35
+BK KVIS Pardubice,98,J. Tůma,1170,2.49,0.83,3.32
+ERA Basketball Nymburk,17,J. Bohačík,815,0.16,3.1,3.26
+ERA Basketball Nymburk,10,S. Rice,901,1.71,1.42,3.13
+USK Praha,21,F. Fuxa,497,0.25,2.43,2.68
+BK ARMEX ENERGY Děčín,13,F. Kroutil,1282,-0.9,3.48,2.58
+NH Ostrava,20,M. Svoboda,1288,1.61,0.88,2.49
+PUMPA Basket Brno,20,J. Groves,645,1.88,0.46,2.33
+ERA Basketball Nymburk,11,M. Svoboda,843,0.55,1.62,2.17
+PUMPA Basket Brno,18,V. Půlpán,813,-0.36,2.46,2.09
+BK KVIS Pardubice,23,Z. Key,1092,1.98,0.05,2.02
+NH Ostrava,14,S. Godwin,633,3.14,-1.13,2.0
+SLUNETA  Ústí nad Labem,10,N. Johnson,1501,-0.78,2.74,1.97
+SK Slavia Praha,15,R. Jones,1552,1.32,0.59,1.92
+PUMPA Basket Brno,13,A. Kejval,938,1.4,0.5,1.9
+BK Opava,8,J. Švandrlík,1075,2.37,-0.52,1.85
+SLUNETA  Ústí nad Labem,2,J. Young,1135,0.41,1.41,1.82
+SLUNETA  Ústí nad Labem,31,J. Potoček,1016,-0.4,2.16,1.76
+BK ARMEX ENERGY Děčín,2,D. Davis,1301,0.45,1.24,1.69
+BK KVIS Pardubice,11,J. Evans Iii,261,-1.28,2.72,1.44
+Sršni Photomate Písek,31,J. Zvolánek,559,1.04,0.37,1.41
+Sršni Photomate Písek,8,P. Šlechta,911,0.35,0.9,1.25
+BK KVIS Pardubice,9,K. Švrdlík,782,-0.21,1.41,1.2
+SLUNETA  Ústí nad Labem,18,I. Davidson,770,1.1,0.1,1.19
+Sršni Photomate Písek,71,M. Svoboda,1564,2.12,-1.02,1.09
+ERA Basketball Nymburk,31,M. Kříž,821,0.71,0.26,0.98
+PUMPA Basket Brno,4,M. Rychtecký,734,1.02,-0.13,0.89
+NH Ostrava,22,P. Novák,360,0.6,0.25,0.85
+Sršni Photomate Písek,13,J. Haiblík,547,-0.94,1.77,0.83
+USK Praha,0,J. Montgomery,1183,1.45,-0.66,0.79
+PUMPA Basket Brno,34,K. Kalu,733,-0.46,1.18,0.72
+USK Praha,13,D. Vlk,1149,2.26,-1.6,0.66
+NH Ostrava,23,L. Palyza,1237,2.1,-1.46,0.64
+BK KVIS Pardubice,13,R. Moffatt,1363,1.2,-0.58,0.62
+BK ARMEX ENERGY Děčín,22,L. Bryan Jr,281,-1.62,2.22,0.6
+NH Ostrava,25,E. Cato,754,0.59,-0.19,0.4
+PUMPA Basket Brno,7,M. Stráněl,780,1.62,-1.38,0.24
+BK Olomoucko,1,K. Elvis,1149,1.45,-1.24,0.2
+SLUNETA  Ústí nad Labem,9,D. Žikla,615,-2.25,2.33,0.08
+BK ARMEX ENERGY Děčín,20,J. Edwards,1381,-0.16,0.23,0.07
+USK Praha,1,T. Henderson Jr.,1064,-0.02,0.05,0.03
+BK Opava,11,K. Kavan,637,0.6,-0.63,-0.03
+Sršni Photomate Písek,55,J. Šurý,435,-0.05,-0.04,-0.09
+BK Opava,21,R. Kouřil,871,0.68,-0.8,-0.12
+SK Slavia Praha,22,R. Mrázek,992,0.59,-0.73,-0.14
+NH Ostrava,7,D. Heinzl,967,-0.32,0.18,-0.14
+PUMPA Basket Brno,19,T. Jansa,393,-0.27,0.06,-0.2
+NH Ostrava,10,M. Snopek,449,0.21,-0.55,-0.34
+BK GAPA Hradec Králové,5,K. Chatman,1288,1.22,-1.59,-0.36
+NH Ostrava,3,L. Greer,1364,1.73,-2.14,-0.4
+BK ARMEX ENERGY Děčín,24,A. Rand,365,-1.47,0.96,-0.5
+NH Ostrava,19,M. Čank,1140,-1.13,0.62,-0.51
+Sršni Photomate Písek,77,J. Svoboda,1085,-0.83,0.27,-0.56
+BK ARMEX ENERGY Děčín,16,J. Štěrba,1320,1.15,-1.8,-0.65
+BK ARMEX ENERGY Děčín,47,M. Šturanović,899,-1.99,1.28,-0.71
+PUMPA Basket Brno,12,P. Křivánek,995,0.07,-0.85,-0.79
+BK ARMEX ENERGY Děčín,5,T. Pomikálek,1232,-0.76,-0.05,-0.81
+BK Opava,24,J. Šiřina,1028,-1.22,0.4,-0.82
+Sršni Photomate Písek,33,K. Týml,1470,0.09,-1.03,-0.94
+BK Opava,9,F. Zbránek,424,-0.91,-0.06,-0.97
+SLUNETA  Ústí nad Labem,4,T. Vyoral,1414,1.55,-2.62,-1.07
+BK Olomoucko,4,A. Goga,918,-1.13,0.06,-1.07
+BK Opava,20,Š. Puršl,1159,0.28,-1.37,-1.09
+BK Opava,33,J. Slavík,836,-0.87,-0.25,-1.12
+SLUNETA  Ústí nad Labem,0,A. Pecháček,1199,-0.9,-0.23,-1.12
+BK Opava,1,W. Person Jr,1214,0.99,-2.13,-1.14
+PUMPA Basket Brno,11,Š. Svoboda,1125,-3.33,2.17,-1.16
+SK Slavia Praha,12,M. Ježek,996,-0.9,-0.26,-1.16
+SK Slavia Praha,24,M. Lufile,524,-1.52,0.26,-1.27
+BK GAPA Hradec Králové,11,L. Nikkarinen,705,-0.51,-0.8,-1.32
+SK Slavia Praha,35,P. Macháč,696,-2.02,0.68,-1.34
+BK KVIS Pardubice,3,R. Bonham,1303,-0.94,-0.48,-1.41
+BK KVIS Pardubice,5,M. Nábělek,338,-1.31,-0.16,-1.47
+ERA Basketball Nymburk,12,W. Dreamer,483,-1.72,0.08,-1.64
+BK GAPA Hradec Králové,2,K. Brewton,1046,-5.04,3.4,-1.64
+USK Praha,16,O. Švec,1314,-1.51,-0.21,-1.72
+SK Slavia Praha,88,M. Dáňa,1048,0.09,-1.84,-1.75
+USK Praha,23,J. Soldán,501,1.56,-3.31,-1.75
+USK Praha,7,C. Eduardo,638,-0.25,-1.66,-1.91
+BK KVIS Pardubice,7,A. Lukeš,796,-1.36,-0.65,-2.01
+BK GAPA Hradec Králové,10,C. John,264,0.08,-2.11,-2.03
+USK Praha,41,E. Edigin,303,-2.11,0.07,-2.04
+BK GAPA Hradec Králové,23,T. Merta,921,-1.07,-1.0,-2.07
+BK GAPA Hradec Králové,12,D. Škranc,1228,-2.33,0.21,-2.12
+BK GAPA Hradec Králové,24,M. Roub,1268,-0.89,-1.24,-2.12
+USK Praha,11,S. Macht,279,-1.86,-0.37,-2.23
+BK GAPA Hradec Králové,44,T. Dvořák,653,0.68,-2.94,-2.26
+BK GAPA Hradec Králové,11,A. Petric,403,1.0,-3.31,-2.31
+SK Slavia Praha,8,T. Bladen,295,-1.55,-0.81,-2.36
+BK ARMEX ENERGY Děčín,7,T. Slowiak,389,-1.73,-0.67,-2.4
+PUMPA Basket Brno,8,R. Farský,959,-0.49,-2.08,-2.57
+PUMPA Basket Brno,25,D. Jelínek,812,-0.1,-2.57,-2.67
+BK Olomoucko,13,J. Holmes,1029,-2.9,0.16,-2.73
+Sršni Photomate Písek,9,M. Burda,853,-1.13,-1.79,-2.93
+SLUNETA  Ústí nad Labem,8,F. Kábrt,889,0.8,-3.73,-2.93
+NH Ostrava,11,A. Číž,1449,-1.7,-1.42,-3.12
+ERA Basketball Nymburk,6,K. Feazell,505,-2.02,-1.12,-3.13
+BK Olomoucko,22,D. Žák,978,-4.91,1.34,-3.57
+NH Ostrava,24,K. Cole,1272,0.3,-4.11,-3.81
+BK GAPA Hradec Králové,16,J. Bubeníček,433,-2.32,-1.53,-3.85
+Sršni Photomate Písek,11,M. Kozák,954,-1.81,-2.05,-3.85
+BK GAPA Hradec Králové,10,M. Popović,571,-3.38,-0.52,-3.91
+BK Opava,14,D. Motyčka,323,-0.76,-3.22,-3.99
+SK Slavia Praha,13,N. Noumeros,575,-3.71,-0.42,-4.13
+USK Praha,5,M. Šafařík,1262,-2.26,-1.87,-4.14
+BK ARMEX ENERGY Děčín,44,L. Feštr,956,-1.63,-3.96,-5.6
+BK Olomoucko,0,M. Nelson,1249,-5.15,-0.6,-5.75
+SK Slavia Praha,9,R. Pumprla,556,-1.67,-4.18,-5.85
+SK Slavia Praha,7,D. Böhm,1569,-3.24,-3.24,-6.48
+BK Olomoucko,10,J. Andre,1259,-0.58,-6.92,-7.5
+USK Praha,25,T. Tainamo,1329,-3.49,-4.12,-7.61
+BK GAPA Hradec Králové,13,A. Johnson,457,-4.77,-2.97,-7.74
