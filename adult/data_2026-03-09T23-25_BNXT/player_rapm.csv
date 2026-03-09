@@ -1,0 +1,8 @@
+# RAPM - Regularized Adjusted Plus/Minus
+# Regularization parameter (alpha/lambda): 800
+# Minimum possessions filter: 250
+# Total players in calculation: 155
+# Qualified players exported: 0
+# Total stints used: 261
+# Garbage time stints excluded: 17
+Team,Player_Number,Player_Name,Possessions,ORAPM,DRAPM,RAPM
