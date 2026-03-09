@@ -1,9 +1,12 @@
 {
-  "status": "running",
-  "mode": "all",
-  "competitions": [
-    "BNXT"
-  ],
-  "started_at": "2026-03-09T21:55:44.124401",
-  "updated_at": "2026-03-09T21:55:44.561420"
+  "status": "idle",
+  "last_run": "2026-03-09T21:56:13.051505",
+  "last_result": {
+    "success": 0,
+    "failed": 1,
+    "competitions": [
+      "BNXT"
+    ]
+  },
+  "updated_at": "2026-03-09T21:56:13.530028"
 }
