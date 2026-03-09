@@ -1,0 +1,104 @@
+# RAPM - Regularized Adjusted Plus/Minus
+# Regularization parameter (alpha/lambda): 800
+# Minimum possessions filter: 250
+# Total players in calculation: 125
+# Qualified players exported: 96
+# Total stints used: 3703
+# Garbage time stints excluded: 95
+Team,Player_Number,Player_Name,Possessions,ORAPM,DRAPM,RAPM
+Manchester Basketball,22,Oluwaseyi Adetukasi,1215,2.97,3.47,6.44
+London Lions,1,Joel Scott,569,3.04,2.66,5.7
+Bristol Flyers,3,William Yoakum,1271,2.24,2.41,4.65
+London Lions,21,Aaryndeep Rai,1018,2.88,1.06,3.94
+Newcastle Eagles,41,Mitch Clarke,1274,1.48,2.4,3.88
+B. Braun Sheffield Sharks,24,Nick Kern Jr,958,1.22,2.59,3.81
+Surrey 89ers,0,Isiah Small,1406,2.85,0.79,3.64
+London Lions,10,Ethan Price,616,0.3,3.09,3.39
+London Lions,31,Deane Williams,976,-0.4,3.7,3.3
+Newcastle Eagles,21,Emmanuel Kanwei,725,0.54,2.33,2.86
+Cheshire Phoenix,5,Frankie Policelli,1400,1.4,1.33,2.73
+Cheshire Phoenix,23,Jaxon Brenchley,1498,4.68,-1.97,2.7
+B. Braun Sheffield Sharks,4,William Lee,978,1.33,1.33,2.66
+Leicester Riders,13,Donald Carey Jr,986,3.01,-0.36,2.66
+Bristol Flyers,7,Cameron Holden,1353,0.86,1.66,2.51
+Leicester Riders,10,Olutomiwa Sulaiman,618,0.61,1.89,2.5
+Caledonia Gladiators,15,Daylen Williams,259,1.29,1.21,2.5
+Cheshire Phoenix,13,Patrick Robinson,1413,4.74,-2.51,2.22
+Manchester Basketball,34,Matthew Nicholson,985,2.49,-0.27,2.21
+London Lions,23,Kameron Mcgusty,451,-0.66,2.87,2.2
+Newcastle Eagles,9,Sauveur Kande,270,1.18,0.79,1.97
+London Lions,33,Shavar Reynolds Jr,689,1.34,0.55,1.89
+Cheshire Phoenix,9,Damiri Lindo,951,0.6,1.29,1.89
+Cheshire Phoenix,99,Skyler White,1403,3.7,-1.82,1.88
+London Lions,3,Ciaran Sandy,422,-0.44,2.15,1.71
+Leicester Riders,12,Aaron Menzies,428,1.01,0.62,1.63
+Manchester Basketball,9,Kaiyem Cleary,972,1.54,0.03,1.56
+London Lions,16,Karolis Lukosiunas,367,-0.9,2.33,1.43
+B. Braun Sheffield Sharks,15,Mike Ochereobia,590,0.67,0.68,1.35
+Newcastle Eagles,25,Marco Anthony,446,-0.69,1.99,1.3
+Leicester Riders,41,Nathaniel Martin,761,3.38,-2.47,0.91
+Newcastle Eagles,14,Maceo Jack,1684,-0.11,1.01,0.9
+London Lions,2,Chasson Jermar Randle,406,0.09,0.8,0.9
+Newcastle Eagles,15,Cole Long,1646,0.04,0.71,0.75
+London Lions,6,Morayo Soluade,323,-0.21,0.92,0.71
+Bristol Flyers,13,Owen Mccormack,979,-0.83,1.5,0.67
+Caledonia Gladiators,15,Malcolm Delpeche,274,-0.93,1.47,0.54
+B. Braun Sheffield Sharks,3,Rodney Chatman Iii,1087,1.02,-0.65,0.37
+Leicester Riders,20,Spencer Johnson,1093,-0.54,0.82,0.29
+London Lions,22,Tarik Phillip,781,-2.15,2.42,0.28
+Surrey 89ers,17,Nedas Cholevinskas,831,0.62,-0.42,0.2
+Surrey 89ers,4,Andrew Lawrence,400,-1.23,1.41,0.19
+Bristol Flyers,25,Milos Dugalic,487,-2.9,3.05,0.15
+Leicester Riders,9,Emmanuel Akot,385,-1.57,1.71,0.14
+B. Braun Sheffield Sharks,5,Mervin James,604,-0.71,0.85,0.13
+Cheshire Phoenix,3,Laquincy Rideau,1482,-2.66,2.72,0.06
+Cheshire Phoenix,11,Tobias Cameron,989,-0.27,0.32,0.04
+Manchester Basketball,11,Jordan Johnson,977,-1.75,1.76,0.01
+London Lions,15,Chaundee Brown Jr,369,1.31,-1.33,-0.01
+London Lions,13,Johnathan Williams,549,-0.45,0.24,-0.2
+Surrey 89ers,12,Kino Lily Jr,1571,-0.13,-0.19,-0.32
+Manchester Basketball,0,Patrick Smith Jr,1125,1.63,-1.96,-0.33
+Bristol Flyers,4,Zachary Anderson,1456,-0.84,0.49,-0.35
+Caledonia Gladiators,5,Dwaine Jones Jr,381,-1.94,1.58,-0.36
+London Lions,5,Mohammad Al-Amin Abdul Adamu,784,-1.09,0.68,-0.41
+B. Braun Sheffield Sharks,2,Prentiss Nixon,934,-0.89,0.14,-0.74
+B. Braun Sheffield Sharks,23,Jalen Deloach,687,-0.92,0.15,-0.77
+Surrey 89ers,7,Ronald Polite Iii,1303,0.18,-1.04,-0.85
+Leicester Riders,7,Raequan Battle,1025,-0.78,-0.1,-0.88
+Bristol Flyers,22,Joseph Anderson,1509,-1.05,0.07,-0.98
+Bristol Flyers,51,Darnell Brodie,862,-0.32,-0.68,-1.0
+Manchester Basketball,1,Kyle Carey,618,-3.17,2.1,-1.07
+Surrey 89ers,11,Kareem Queeley,283,0.55,-1.65,-1.1
+Caledonia Gladiators,11,Totonitoluwa Fagbenle,610,-0.07,-1.04,-1.11
+B. Braun Sheffield Sharks,9,Jordan Ratinho,1152,-0.23,-0.94,-1.18
+Newcastle Eagles,1,Terrell Burden Jr,545,-2.21,0.98,-1.24
+Surrey 89ers,55,Haydn Ling,493,-0.36,-0.94,-1.29
+Surrey 89ers,33,Tyrin Lawrence,609,0.02,-1.35,-1.33
+B. Braun Sheffield Sharks,11,Rodney Glasgow Jr,692,-0.75,-0.67,-1.42
+B. Braun Sheffield Sharks,1,Dirk Williams,1476,-1.4,-0.03,-1.44
+Caledonia Gladiators,40,Ethan Wright,1101,-0.31,-1.19,-1.5
+Manchester Basketball,2,Max Jones,1278,0.69,-2.22,-1.52
+Caledonia Gladiators,6,Kyle Jimenez,672,-1.32,-0.24,-1.56
+Caledonia Gladiators,7,Fraser Malcolm,907,-2.32,0.69,-1.63
+Leicester Riders,2,Marc Loving,686,1.13,-2.97,-1.84
+Caledonia Gladiators,0,Kevin Allen,547,-1.18,-1.0,-2.18
+Surrey 89ers,21,Michael Graham,873,-0.97,-1.42,-2.38
+Caledonia Gladiators,24,Matthew Ragsdale,1196,0.42,-2.91,-2.49
+Leicester Riders,77,Flynn Boardman-Raffet,611,-0.71,-1.94,-2.64
+Newcastle Eagles,8,Deion Hammond,1135,0.55,-3.32,-2.77
+London Lions,11,Ryan Mikesell,254,-2.5,-0.37,-2.87
+Cheshire Phoenix,24,Matthew Zona,728,-2.2,-0.79,-2.99
+Manchester Basketball,7,Zak Irvin,892,-1.92,-1.13,-3.05
+Newcastle Eagles,99,Gus Okafor,885,0.51,-3.57,-3.06
+Manchester Basketball,3,Gabriel Osbuhein,424,-2.03,-1.06,-3.08
+Newcastle Eagles,3,Ray'sean Taylor,1498,-2.87,-0.24,-3.11
+Caledonia Gladiators,10,Ria'n Holland,990,-2.16,-0.96,-3.12
+Bristol Flyers,9,Jonathan Brown,852,-2.77,-0.7,-3.46
+Cheshire Phoenix,2,Michael Diggins,1348,-0.78,-2.69,-3.47
+Newcastle Eagles,13,Darius Defoe,286,-3.01,-0.55,-3.56
+Leicester Riders,3,Travis Evee,885,-2.76,-0.9,-3.67
+Bristol Flyers,21,Marcus Delpeche,629,-3.64,-0.04,-3.68
+Surrey 89ers,1,Owen Koonce,326,-3.23,-0.94,-4.17
+Caledonia Gladiators,56,Lloyd Alvin Bryan Jr,438,-2.88,-1.44,-4.33
+Surrey 89ers,15,Tayo Ogedengbe,837,-1.47,-3.43,-4.9
+Caledonia Gladiators,22,Charles Jett Speelman,1022,-1.28,-4.71,-6.0
