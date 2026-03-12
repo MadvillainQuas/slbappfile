@@ -19,7 +19,8 @@
         "FBAA",
         "CBFFE",
         "ACB",
-        "BNXT"
+        "BNXT",
+        "SBA"
       ],
       "leagues": [],
       "created_at": "2026-02-01T00:00:00Z",
@@ -83,7 +84,8 @@
         "CBFFE",
         "FBAA",
         "ACB",
-        "BNXT"
+        "BNXT",
+        "SBA"
       ],
       "leagues": [],
       "created_at": "2026-02-05T12:56:40.960881800+00:00",
@@ -237,6 +239,12 @@
   "enabled": true,
   "schedule_type": "standard",
   "schedule_urls": ["https://bnxtleague.com/en/calendar"]
+},
+    {
+  "code": "SBA",
+  "name": "Slovakia SBL",
+  "enabled": true,
+  "schedule_urls": []
 }
   ]
 }
