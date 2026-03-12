@@ -1,0 +1,181 @@
+# RAPM - Regularized Adjusted Plus/Minus
+# Regularization parameter (alpha/lambda): 800
+# Minimum possessions filter: 250
+# Total players in calculation: 251
+# Qualified players exported: 173
+# Total stints used: 6050
+# Garbage time stints excluded: 286
+Team,Player_Number,Player_Name,Possessions,ORAPM,DRAPM,RAPM
+Filou Oostende,30,Pierre-Antoine GILLET,1084,5.87,3.11,8.98
+Hubo Limburg United,55,Jalen BLACKMON,1247,4.91,3.27,8.18
+Windrose Giants Antwerp,0,Rasheed BELLO,942,5.24,2.32,7.56
+Brussels Basketball,17,Demetric HORTON,955,4.13,2.19,6.32
+Okapi Aalst,21,Dante Jr MADDOX,1278,5.28,0.66,5.94
+Kangoeroes Basket Mechelen,2,Yannick DAMMEN,948,4.23,1.61,5.85
+Stella Artois Leuven Bears,32,Tytan ANDERSON,1290,0.87,4.63,5.5
+Brussels Basketball,0,Jalen FINCH,941,3.64,1.2,4.84
+House of Talents Spurs Kortrijk,4,Noel COLEMAN,740,4.4,0.25,4.66
+Okapi Aalst,15,Mattias PALINCKX,585,2.05,2.6,4.65
+Windrose Giants Antwerp,32,Vincent KESTELOOT,959,4.18,0.41,4.59
+Windrose Giants Antwerp,10,Andrew FUNK,961,2.2,2.24,4.44
+Hubo Limburg United,10,Aubin GATERETSE,696,2.44,1.94,4.37
+Heroes Den Bosch,35,Jae'lyn WITHERS,654,2.8,1.33,4.13
+Windrose Giants Antwerp,8,Letto VAN DROM,276,2.23,1.89,4.12
+Filou Oostende,4,Simon BUYSSE,921,0.66,3.25,3.91
+Heroes Den Bosch,26,Keevan VEINOT,814,1.62,2.18,3.8
+Kangoeroes Basket Mechelen,30,Joshua HEATH,1218,1.84,1.92,3.76
+Donar Groningen,1,Austin LUKE,750,1.97,1.76,3.74
+Landstede Hammers,6,Coen STOLK,1250,1.53,2.01,3.54
+Zorg en Zekerheid Leiden,5,Tyreek SCOTT-GRAYSON,799,2.33,1.16,3.49
+Windrose Giants Antwerp,24,Kevin TUMBA,479,-0.93,4.41,3.48
+Kangoeroes Basket Mechelen,12,Augustas PECIUKEVICIUS,433,-1.63,4.96,3.33
+Kangoeroes Basket Mechelen,5,Zaba BANGALA,883,1.12,2.2,3.32
+House of Talents Spurs Kortrijk,33,Sam HOFMAN,596,2.41,0.87,3.28
+Hubo Limburg United,3,Marijn VERVERS,1133,1.67,1.59,3.26
+LWD Basket,33,Leo O'BOYLE,913,4.94,-1.71,3.24
+Hubo Limburg United,16,Wout LEEMANS,803,1.69,1.51,3.21
+House of Talents Spurs Kortrijk,21,Ithiel HORTON,482,0.83,2.32,3.14
+Filou Oostende,17,Moussa SYLLA,374,0.6,2.46,3.05
+Filou Oostende,31,Noam YAACOV,918,2.61,0.35,2.96
+Filou Oostende,5,Jordan SCHAKEL,310,3.04,-0.14,2.9
+Heroes Den Bosch,0,Arunas MIKALAUSKAS,875,1.8,0.97,2.77
+Val-Dieu Spirou Basket,2,Zeb JACKSON,367,1.7,0.97,2.67
+Den Helder Suns,3,Thijs BEENS,300,1.65,1.01,2.66
+Windrose Giants Antwerp,26,Niels DE RIDDER,679,1.9,0.73,2.63
+Val-Dieu Spirou Basket,11,Eric NOTTAGE,452,2.6,0.01,2.61
+Landstede Hammers,13,Boyd VAN DER VUURST,949,-1.23,3.73,2.5
+Brussels Basketball,7,Tonko VUKO,856,2.01,0.46,2.47
+Zorg en Zekerheid Leiden,13,Sam HUURMAN,638,-0.83,3.08,2.25
+House of Talents Spurs Kortrijk,0,Darren WILLIAMS,768,2.7,-0.46,2.24
+House of Talents Spurs Kortrijk,13,Kihei CLARK,416,0.36,1.62,1.98
+Heroes Den Bosch,20,Luuk VAN BREE,960,1.68,0.29,1.98
+Windrose Giants Antwerp,5,Enoch CHEEKS,989,0.26,1.63,1.88
+Stella Artois Leuven Bears,7,Guillaume DE MOL,401,0.82,1.03,1.85
+Donar Groningen,5,Evan TAYLOR,511,0.08,1.76,1.84
+Filou Oostende,1,Aaron ESTRADA,482,1.64,0.11,1.75
+Windrose Giants Antwerp,13,Yoeri SCHOEPEN,637,0.75,0.89,1.63
+Union Mons-Hainaut,10,Lual DIING,1031,0.94,0.62,1.56
+Union Mons-Hainaut,7,Malik WHITAKER,664,1.32,0.22,1.53
+Okapi Aalst,11,Ozzy MASSEY,325,0.06,1.41,1.47
+Filou Oostende,22,Andre GUSTAVSON,557,-0.33,1.78,1.45
+Donar Groningen,32,Kjeld ZUIDEMA,405,-1.64,3.08,1.44
+Okapi Aalst,3,Ivan MARAS,1020,0.7,0.7,1.41
+Stella Artois Leuven Bears,2,Wilson PRUITT,1120,0.45,0.92,1.37
+Zorg en Zekerheid Leiden,0,Javian MC COLLUM,819,1.73,-0.37,1.36
+Okapi Aalst,9,Niels VAN DEN EYNDE,1363,2.83,-1.51,1.32
+House of Talents Spurs Kortrijk,14,Servaas BUYSSCHAERT,494,-0.55,1.78,1.24
+House of Talents Spurs Kortrijk,6,Jarne LESUISSE,706,0.13,1.03,1.16
+Okapi Aalst,4,Jasper UNAL,271,-0.59,1.72,1.13
+Zorg en Zekerheid Leiden,12,Jibbe SICKING,823,2.22,-1.09,1.13
+House of Talents Spurs Kortrijk,22,Keon AMBROSE-HYLTON,737,-0.71,1.83,1.12
+Donar Groningen,33,Damian FORREST,711,0.23,0.86,1.1
+Donar Groningen,3,Dane ERIKSTRUP,701,0.93,0.13,1.06
+Stella Artois Leuven Bears,3,Kelton TALFORD,891,0.82,0.23,1.06
+Brussels Basketball,3,Onyeka JOE AGU,503,0.04,0.99,1.02
+Hubo Limburg United,21,Thibault VANDERHAEGEN,743,0.04,0.94,0.99
+Zorg en Zekerheid Leiden,17,Lucas KRUITHOF,1314,-0.13,1.09,0.96
+Landstede Hammers,25,Grayson Alexander CARTER,545,-1.26,2.15,0.89
+Heroes Den Bosch,2,Boy VAN VLIET,786,1.3,-0.57,0.73
+Val-Dieu Spirou Basket,31,Enoch BOAKYE,265,-0.02,0.76,0.73
+Windrose Giants Antwerp,9,Elias LASISI,650,0.62,0.07,0.69
+House of Talents Spurs Kortrijk,55,Joanic GRUTTNER BACOUL,437,0.47,0.17,0.64
+Zorg en Zekerheid Leiden,28,Nate ROBERTS,853,1.73,-1.09,0.63
+Brussels Basketball,6,Jamison OVERTON,806,1.61,-1.09,0.52
+House of Talents Spurs Kortrijk,25,Marvin SMITH,253,-0.46,0.98,0.52
+LWD Basket,4,Christopher MAIDOH,639,-0.2,0.68,0.49
+Stella Artois Leuven Bears,1,James BLACKMON,649,1.61,-1.31,0.3
+Val-Dieu Spirou Basket,19,Lionel COLSON,319,1.88,-1.64,0.24
+Heroes Den Bosch,21,Menno DIJKSTRA,732,-0.02,0.18,0.15
+Filou Oostende,15,Max FIEDLER,495,1.62,-1.5,0.12
+Val-Dieu Spirou Basket,23,Christopher LYKES,499,-1.12,1.23,0.11
+LWD Basket,3,Matt FRIERSON,790,2.08,-2.01,0.07
+Den Helder Suns,7,Carter GILMORE,1271,-0.03,0.09,0.06
+Den Helder Suns,10,Jonas VISSER,601,-2.85,2.9,0.05
+Zorg en Zekerheid Leiden,10,Roeland SCHAFTENAAR,638,-0.31,0.19,-0.12
+Okapi Aalst,6,Glenn TEMMERMAN,659,-0.94,0.78,-0.16
+Stella Artois Leuven Bears,11,Roel BUCUMI,961,-1.12,0.96,-0.16
+Heroes Den Bosch,13,Troy KOEHLER,579,-2.07,1.89,-0.19
+Hubo Limburg United,33,Nicholas MUSZYNSKI,741,-1.0,0.81,-0.2
+PrismaWorx BAL,14,Niels VAN HOLST,535,0.69,-0.93,-0.24
+Val-Dieu Spirou Basket,4,Juwan GARY,1023,0.22,-0.51,-0.29
+PrismaWorx BAL,7,Kenyuoe ONDAAN,834,-1.83,1.39,-0.44
+Union Mons-Hainaut,0,Greg MILTON III,1039,0.34,-0.82,-0.47
+Val-Dieu Spirou Basket,13,Lukijan ZECEVIC,343,-0.22,-0.26,-0.47
+Val-Dieu Spirou Basket,3,Dontrez STYLES,1101,-0.11,-0.43,-0.54
+Okapi Aalst,0,Eddie COLBERT III,1354,0.06,-0.65,-0.59
+Okapi Aalst,10,Siebe LEDEGEN,1202,1.4,-2.03,-0.63
+Filou Oostende,8,Joppe MENNES,875,0.99,-1.66,-0.67
+Den Helder Suns,2,Siem UIJTENDAAL,662,-1.57,0.89,-0.68
+Rotterdam City Basketball,17,Tydus VERHOEVEN,455,-2.25,1.45,-0.8
+Windrose Giants Antwerp,11,Joel MURRAY,561,-1.4,0.6,-0.8
+House of Talents Spurs Kortrijk,7,Jules ISEBAERT,443,-1.42,0.58,-0.84
+Hubo Limburg United,7,Noah BAUMANN,407,0.52,-1.4,-0.88
+PrismaWorx BAL,33,Kjell DE GRAAF,830,-1.12,0.22,-0.9
+Landstede Hammers,11,Troy Drake DOBBS,850,0.65,-1.56,-0.91
+Stella Artois Leuven Bears,17,Stef SCHAUVLIEGER,482,-3.69,2.75,-0.95
+Hubo Limburg United,9,Jonas DELALIEUX,412,0.05,-1.01,-0.95
+Filou Oostende,23,Aleksandre MERKVILADZE,315,0.57,-1.58,-1.01
+Donar Groningen,4,Malik MILLER,664,-1.12,0.05,-1.06
+Landstede Hammers,9,Devin WHITFIELD,1172,-0.77,-0.46,-1.23
+Donar Groningen,21,Tim HOEVE,368,-1.15,-0.15,-1.3
+Heroes Den Bosch,90,Charlon KLOOF,329,-2.03,0.7,-1.33
+Stella Artois Leuven Bears,14,Roby ROGIERS,563,-3.38,1.99,-1.39
+Union Mons-Hainaut,14,Matic MIKUS,657,-0.17,-1.24,-1.42
+Landstede Hammers,20,Nelson Ellis HASKIN,781,-0.31,-1.12,-1.43
+Brussels Basketball,5,Alexandre LIBERT,832,-0.88,-0.59,-1.47
+Filou Oostende,16,Haris BRATANOVIC,767,-0.91,-0.61,-1.52
+Brussels Basketball,10,Louis HAZARD,954,-1.39,-0.31,-1.7
+Kangoeroes Basket Mechelen,22,Leander DEDROOG,836,-0.54,-1.29,-1.82
+Heroes Den Bosch,4,Xavier CORK,461,-1.72,-0.11,-1.83
+Stella Artois Leuven Bears,6,Victor VANDERSTRAETEN,411,-2.8,0.88,-1.92
+Den Helder Suns,42,Drew STOVER,975,0.31,-2.24,-1.93
+Val-Dieu Spirou Basket,12,Maxime BILOLO KATUALA,380,0.34,-2.29,-1.95
+Den Helder Suns,1,Reginald MESIDOR,1324,-0.68,-1.32,-2.0
+LWD Basket,0,Sam MAILLET,792,0.06,-2.2,-2.14
+Landstede Hammers,15,Klavs DUBULTS,602,-1.89,-0.32,-2.21
+LWD Basket,28,Tristan DE ZWART FORSYTH,838,0.65,-2.92,-2.27
+Union Mons-Hainaut,13,Maks KLANJSCEK,1329,2.46,-4.74,-2.28
+House of Talents Spurs Kortrijk,9,Bram BOGAERTS,987,-2.17,-0.12,-2.29
+PrismaWorx BAL,17,Ryan MUHR,775,-1.13,-1.21,-2.34
+Val-Dieu Spirou Basket,22,Quinten SMOUT,456,-0.03,-2.31,-2.34
+Zorg en Zekerheid Leiden,9,Stan VAN DEN ELZEN,967,-0.43,-1.92,-2.35
+Rotterdam City Basketball,4,Nino VRENCKEN,627,-3.02,0.59,-2.43
+Den Helder Suns,33,Nick THRAN,812,-3.44,1.01,-2.43
+Hubo Limburg United,5,Quentin SERRON,676,-0.62,-1.88,-2.5
+Den Helder Suns,0,Bryan ANTOINE,1207,-0.93,-1.58,-2.51
+Rotterdam City Basketball,11,James GRAHAM,1098,-2.24,-0.34,-2.58
+Rotterdam City Basketball,9,Chukwuzinife NWOKEJI,720,-2.12,-0.5,-2.62
+Landstede Hammers,5,Leon WILLIAMS,842,-3.75,1.07,-2.67
+Rotterdam City Basketball,27,Maxime SIGNORONI,268,-0.61,-2.26,-2.87
+Kangoeroes Basket Mechelen,24,Nick STAMPLEY,1229,-0.66,-2.23,-2.89
+Hubo Limburg United,6,Oshean BRATHWAITE,410,-0.7,-2.24,-2.94
+Rotterdam City Basketball,1,Jakari SPENCE,1161,-1.6,-1.36,-2.96
+Hubo Limburg United,25,Nicolas TIMBERLAKE,346,-0.96,-2.0,-2.96
+Brussels Basketball,27,Jared AMBROSE,675,-0.92,-2.1,-3.02
+LWD Basket,1,Kameron HOBBS,266,-0.87,-2.16,-3.02
+Den Helder Suns,77,Noah VAN DER HEIDEN,507,-2.81,-0.27,-3.08
+Heroes Den Bosch,24,Kerwin WALTON,878,-0.19,-2.93,-3.12
+Val-Dieu Spirou Basket,16,Njegos SIKIRAS,784,-3.98,0.85,-3.13
+Brussels Basketball,24,Godwin TSHIMANGA,659,-3.95,0.73,-3.22
+Union Mons-Hainaut,18,Matteo VERSTRAETE,888,-1.59,-1.72,-3.31
+LWD Basket,6,Bram TER WEEME,357,-4.28,0.84,-3.44
+Rotterdam City Basketball,13,Noah SLINGERLAND,705,-2.83,-0.75,-3.58
+LWD Basket,11,Shakael PRYCE,1329,-1.17,-2.44,-3.61
+PrismaWorx BAL,1,Roel VAN OVERBEEK,1237,-3.84,0.13,-3.71
+Val-Dieu Spirou Basket,1,Malcolm MAKWA,288,-3.84,0.06,-3.78
+Rotterdam City Basketball,21,Tjall DE VAAL,705,-0.26,-3.56,-3.82
+Zorg en Zekerheid Leiden,2,Dimitri MACONDA,710,-4.07,0.05,-4.02
+Filou Oostende,11,Silas MELSON,832,-1.37,-2.82,-4.19
+PrismaWorx BAL,13,Lon LICAN,936,-0.56,-3.63,-4.19
+Kangoeroes Basket Mechelen,32,Seppe WILLEMS,421,-4.35,0.13,-4.22
+Landstede Hammers,12,Erik SAJANTILA,1056,-0.81,-3.67,-4.47
+Union Mons-Hainaut,30,Sigfredo CASERO-ORTIZ,980,-1.67,-2.89,-4.56
+Stella Artois Leuven Bears,4,Wen MUKUBU,960,-3.71,-1.06,-4.77
+PrismaWorx BAL,91,Milo HAUTEKEET,477,-4.36,-0.59,-4.94
+LWD Basket,10,Maik BOUWER,1052,-2.34,-2.75,-5.09
+Union Mons-Hainaut,3,Garrett HIEN,1146,-1.09,-4.05,-5.13
+Kangoeroes Basket Mechelen,8,Mojeed EWUOSHO,899,-3.09,-2.15,-5.24
+Val-Dieu Spirou Basket,5,Adedayo POLET,863,-4.44,-1.13,-5.58
+LWD Basket,15,Reinder BRANDSMA,571,-5.27,-0.95,-6.22
+PrismaWorx BAL,81,Kara SENE,923,-6.17,-0.09,-6.26
+Rotterdam City Basketball,3,Lars NILSEN,967,-4.81,-2.25,-7.06
