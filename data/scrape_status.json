@@ -1,12 +1,20 @@
 {
-  "status": "idle",
-  "last_run": "2026-03-12T11:27:02.004383",
-  "last_result": {
-    "success": 1,
-    "failed": 0,
-    "competitions": [
-      "BNXT"
-    ]
-  },
-  "updated_at": "2026-03-12T11:27:02.494536"
+  "status": "running",
+  "mode": "all",
+  "competitions": [
+    "SLB",
+    "BBE",
+    "HBBC",
+    "PRO_A",
+    "PRO_B",
+    "BBL",
+    "FBAA",
+    "CBFFE",
+    "ACB",
+    "BNXT",
+    "SBA",
+    "KOS"
+  ],
+  "started_at": "2026-03-12T11:27:21.132082",
+  "updated_at": "2026-03-12T11:27:21.576532"
 }
