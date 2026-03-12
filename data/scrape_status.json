@@ -2,20 +2,8 @@
   "status": "running",
   "mode": "all",
   "competitions": [
-    "SLB",
-    "BBE",
-    "HBBC",
-    "PRO_A",
-    "PRO_B",
-    "BBL",
-    "FBAA",
-    "CBFFE",
-    "ACB",
-    "BNXT",
-    "SBA",
-    "KOS",
     "SBL_SE"
   ],
-  "started_at": "2026-03-12T12:59:23.682944",
-  "updated_at": "2026-03-12T12:59:24.150082"
+  "started_at": "2026-03-12T13:22:08.829529",
+  "updated_at": "2026-03-12T13:22:09.303416"
 }
