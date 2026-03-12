@@ -20,7 +20,8 @@
         "CBFFE",
         "ACB",
         "BNXT",
-        "SBA"
+        "SBA",
+        "KOS"
       ],
       "leagues": [],
       "created_at": "2026-02-01T00:00:00Z",
@@ -85,7 +86,8 @@
         "FBAA",
         "ACB",
         "BNXT",
-        "SBA"
+        "SBA",
+        "KOS"
       ],
       "leagues": [],
       "created_at": "2026-02-05T12:56:40.960881800+00:00",
@@ -245,6 +247,13 @@
   "name": "Slovakia SBL",
   "enabled": true,
   "schedule_urls": []
+},
+    {
+  "code": "KOS",
+  "name": "Kosovo Superliga",
+  "enabled": true,
+  "schedule_type": "standard",
+  "schedule_urls": ["https://basketbolli.com/Results?leagueId=125"]
 }
   ]
 }
