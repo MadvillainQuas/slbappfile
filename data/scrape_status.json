@@ -1,9 +1,12 @@
 {
-  "status": "running",
-  "mode": "all",
-  "competitions": [
-    "EL"
-  ],
-  "started_at": "2026-03-13T19:06:36.835027",
-  "updated_at": "2026-03-13T19:06:37.272031"
+  "status": "idle",
+  "last_run": "2026-03-13T19:09:03.922260",
+  "last_result": {
+    "success": 0,
+    "failed": 1,
+    "competitions": [
+      "EL"
+    ]
+  },
+  "updated_at": "2026-03-13T19:09:04.445615"
 }
