@@ -22,7 +22,8 @@
         "BNXT",
         "SBA",
         "KOS",
-        "SBL_SE"
+        "SBL_SE",
+        "EL"
       ],
       "leagues": [],
       "created_at": "2026-02-01T00:00:00Z",
@@ -89,7 +90,8 @@
         "BNXT",
         "SBA",
         "KOS",
-        "SBL_SE"
+        "SBL_SE",
+        "EL"
       ],
       "leagues": [],
       "created_at": "2026-02-05T12:56:40.960881800+00:00",
@@ -261,6 +263,12 @@
   "code": "SBL_SE",
   "name": "Sweden SBL Herr",
   "enabled": true
+},
+    {
+  "code": "EL",
+  "name": "EuroLeague",
+  "enabled": true,
+  "schedule_urls": []
 }
   ]
 }
