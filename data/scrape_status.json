@@ -1,6 +1,12 @@
 {
-  "status": "running",
-  "current_request": "monday_auto_1773641015",
-  "started_at": "2026-03-16T06:03:35.886943",
-  "updated_at": "2026-03-16T06:03:36.550224"
+  "status": "idle",
+  "last_run": "2026-03-16T08:11:22.849803",
+  "last_result": {
+    "success": 1,
+    "failed": 0,
+    "competitions": [
+      "EL"
+    ]
+  },
+  "updated_at": "2026-03-16T08:11:23.283468"
 }
