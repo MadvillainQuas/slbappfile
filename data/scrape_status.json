@@ -1,12 +1,13 @@
 {
-  "status": "idle",
-  "last_run": "2026-03-16T08:11:22.849803",
-  "last_result": {
-    "success": 1,
-    "failed": 0,
-    "competitions": [
-      "EL"
-    ]
-  },
-  "updated_at": "2026-03-16T08:11:23.283468"
+  "status": "running",
+  "mode": "all",
+  "competitions": [
+    "SBA",
+    "KOS",
+    "SBL_SE",
+    "CBFFE",
+    "FBAA"
+  ],
+  "started_at": "2026-03-16T11:45:23.247988",
+  "updated_at": "2026-03-16T11:45:23.678088"
 }
