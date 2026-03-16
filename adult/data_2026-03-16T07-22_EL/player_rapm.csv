@@ -1,0 +1,246 @@
+# RAPM - Regularized Adjusted Plus/Minus
+# Regularization parameter (alpha/lambda): 800
+# Minimum possessions filter: 250
+# Total players in calculation: 331
+# Qualified players exported: 238
+# Total stints used: 9302
+# Garbage time stints excluded: 123
+Team,Player_Number,Player_Name,Possessions,ORAPM,DRAPM,RAPM
+Zalgiris Kaunas,3,"FRANCISCO, SYLVAIN",1420,5.24,1.64,6.88
+Maccabi Rapyd Tel Aviv,12,"DIBARTOLOMEO, JOHN",443,3.89,2.5,6.39
+Partizan Mozzart Bet Belgrade,1,"JONES, CARLIK",285,3.97,1.65,5.63
+Hapoel IBI Tel Aviv,3,"BRYANT, ELIJAH",1281,2.68,2.74,5.43
+Paris Basketball,20,"MORGAN, JEREMY",841,4.65,0.69,5.34
+Fenerbahce Beko Istanbul,8,"HORTON TUCKER, TALEN",800,0.57,4.41,4.97
+Valencia Basket,13,"THOMPSON, DARIUS",1036,2.12,2.82,4.94
+EA7 Emporio Armani Milan,10,"BOLMARO, LEANDRO",885,2.89,1.71,4.6
+Olympiacos Piraeus,3,"WARD, TYSON",815,2.53,1.82,4.35
+Valencia Basket,1,"TAYLOR, KAMERON",1210,1.86,2.42,4.28
+FC Barcelona,23,"SHENGELIA, TORNIKE",1081,4.75,-0.7,4.05
+Valencia Basket,24,"COSTELLO, MATTHEW",810,0.41,3.64,4.04
+EA7 Emporio Armani Milan,32,"NEBO, JOSH",675,3.63,0.39,4.02
+Real Madrid,7,"CAMPAZZO, FACUNDO",1239,0.53,3.38,3.91
+Maccabi Rapyd Tel Aviv,11,"RAYMAN, WILLIAM",572,1.28,2.63,3.91
+Olympiacos Piraeus,0,"WALKUP, THOMAS",1034,3.37,0.48,3.85
+AS Monaco,26,"NEDOVIC, NEMANJA",606,1.2,2.61,3.81
+Maccabi Rapyd Tel Aviv,3,"SANTOS, MARCIO",737,3.65,0.07,3.72
+Virtus Bologna,1,"VILDOZA, LUCA",620,3.6,0.11,3.7
+Dubai Basketball,25,"WRIGHT IV, MCKINLEY",1489,2.76,0.94,3.7
+Maccabi Rapyd Tel Aviv,22,"LEAF, TJ",756,0.57,3.0,3.57
+AS Monaco,13,"HAYES, KEVARRIUS",807,0.05,3.35,3.4
+Fenerbahce Beko Istanbul,4,"MELLI, NICOLO",791,-0.24,3.64,3.39
+Real Madrid,14,"DECK, GABRIEL",927,2.3,1.06,3.36
+Panathinaikos AKTOR Athens,10,"SLOUKAS, KOSTAS",978,3.2,0.07,3.27
+AS Monaco,22,"TARPEY, TERRY",315,1.36,1.89,3.25
+Crvena Zvezda Meridianbet Belgrade,95,"MONEKE, CHIMA",1260,3.62,-0.42,3.19
+Real Madrid,22,"TAVARES, WALTER",1189,1.97,1.11,3.08
+Olympiacos Piraeus,14,"VEZENKOV, SASHA",1258,2.36,0.65,3.01
+Crvena Zvezda Meridianbet Belgrade,15,"IZUNDU, EBUKA",687,3.2,-0.3,2.9
+Crvena Zvezda Meridianbet Belgrade,6,"BUTLER, JARED",795,2.44,0.38,2.82
+Dubai Basketball,17,"KABENGELE, MFIONDU",1035,1.97,0.64,2.61
+Partizan Mozzart Bet Belgrade,23,"JEKIRI, TONYE",296,-1.18,3.74,2.56
+Zalgiris Kaunas,10,"TUBELIS, AZUOLAS",1132,1.35,1.2,2.56
+Anadolu Efes Istanbul,24,"OSMANI, ERCAN",1222,-0.01,2.56,2.55
+LDLC ASVEL Villeurbanne,12,"DE COLO, NANDO",430,1.07,1.47,2.54
+Anadolu Efes Istanbul,8,"WEILER-BABB, NICK",1461,0.82,1.67,2.49
+FC Barcelona,13,"SATORANSKY, TOMAS",1227,0.76,1.67,2.43
+AS Monaco,11,"DIALLO, ALPHA",1454,1.66,0.76,2.42
+Hapoel IBI Tel Aviv,2,"BLAKENEY, ANTONIO",1106,1.56,0.85,2.4
+Dubai Basketball,7,"PREPELIC, KLEMEN",547,-0.42,2.78,2.36
+Maccabi Rapyd Tel Aviv,0,"LUNDBERG, IFFE",683,1.36,0.96,2.31
+Dubai Basketball,3,"BACON, DWAYNE",1249,2.63,-0.39,2.25
+Fenerbahce Beko Istanbul,20,"HALL, DEVON",791,-0.64,2.89,2.24
+AS Monaco,33,"MIROTIC, NIKOLA",941,3.12,-0.92,2.21
+EA7 Emporio Armani Milan,17,"RICCI, GIAMPAOLO",856,1.88,0.27,2.15
+Virtus Bologna,30,"MORGAN, MATTHEW",433,0.45,1.67,2.12
+LDLC ASVEL Villeurbanne,30,"WATSON, GLYNN",1214,1.19,0.87,2.06
+FC Bayern Munich,10,"JESSUP, JUSTINIAN",950,-1.05,3.03,1.98
+Paris Basketball,35,"WILLIS, DEREK",616,0.08,1.88,1.96
+EA7 Emporio Armani Milan,2,"BROWN, LORENZO",279,0.74,1.2,1.94
+Virtus Bologna,21,"ALSTON JR. , DERRICK",923,0.48,1.41,1.89
+Panathinaikos AKTOR Athens,6,"OSMAN, CEDI",1104,0.18,1.62,1.8
+FC Bayern Munich,0,"DIMITRIJEVIC, NENO",415,-1.01,2.8,1.78
+EA7 Emporio Armani Milan,12,"BROOKS, ARMONI",1169,1.45,0.28,1.73
+Crvena Zvezda Meridianbet Belgrade,13,"DOBRIC, OGNJEN",415,1.4,0.29,1.69
+Anadolu Efes Istanbul,5,"LEE, SABEN",432,0.43,1.25,1.68
+Zalgiris Kaunas,12,"LO, MAODO",1020,2.77,-1.14,1.63
+Crvena Zvezda Meridianbet Belgrade,20,"MOTIEJUNAS, DONATAS",634,-0.42,2.02,1.6
+FC Bayern Munich,13,"OBST, ANDREAS",1256,1.68,-0.1,1.58
+Partizan Mozzart Bet Belgrade,88,"JONES, TYRIQUE",676,1.26,0.31,1.57
+FC Bayern Munich,7,"VOIGTMANN, JOHANNES",486,0.8,0.76,1.56
+Paris Basketball,4,"CAVALIERE, LEOPOLD",689,-1.52,3.05,1.53
+FC Bayern Munich,1,"DA SILVA, OSCAR",682,0.45,1.07,1.52
+LDLC ASVEL Villeurbanne,24,"NDIAYE, MBAYE",1050,-0.79,2.24,1.46
+FC Barcelona,3,"CALE, MYLES",746,0.06,1.34,1.4
+Real Madrid,16,"GARUBA, USMAN",512,1.93,-0.61,1.32
+Virtus Bologna,9,"SMAILAGIC, ALEN",417,0.93,0.38,1.31
+Hapoel IBI Tel Aviv,25,"OTURU, DAN",1191,0.38,0.92,1.3
+Hapoel IBI Tel Aviv,24,"WAINRIGHT, ISH",1208,1.77,-0.48,1.29
+FC Barcelona,0,"PUNTER, KEVIN",1356,2.47,-1.22,1.25
+Paris Basketball,13,"DOKOSSI, ALLAN",727,-0.34,1.58,1.23
+Panathinaikos AKTOR Athens,8,"HOLMES, RICHAUN",510,0.95,0.15,1.1
+Olympiacos Piraeus,25,"PETERS, ALEC",639,0.03,1.06,1.09
+Anadolu Efes Istanbul,10,"CORDINIER, ISAIA",1085,1.28,-0.26,1.02
+Zalgiris Kaunas,91,"SIRVYDIS, DEIVIDAS",487,-1.22,2.24,1.02
+Paris Basketball,24,"OUATTARA, YAKUBA",813,0.94,0.05,0.99
+Olympiacos Piraeus,22,"DORSEY, TYLER",1304,0.92,0.05,0.97
+Zalgiris Kaunas,9,"GIEDRAITIS, DOVYDAS",269,0.59,0.37,0.95
+LDLC ASVEL Villeurbanne,1,"SELJAAS, ZACHARY",997,-0.15,1.09,0.93
+Kosner Baskonia Vitoria-Gasteiz,6,"DIALLO, HAMIDOU",500,-0.67,1.59,0.92
+Zalgiris Kaunas,8,"BRAZDEIKIS, IGNAS",738,-1.71,2.49,0.79
+FC Barcelona,6,"VESELY, JAN",941,-0.8,1.49,0.69
+Kosner Baskonia Vitoria-Gasteiz,10,"SPAGNOLO, MATTEO",799,-1.1,1.79,0.69
+Virtus Bologna,6,"PAJOLA, ALESSANDRO",415,0.85,-0.25,0.6
+Real Madrid,24,"FELIZ, ANDRES",661,2.06,-1.47,0.59
+Hapoel IBI Tel Aviv,1,"JONES, CHRIS",970,-0.12,0.7,0.58
+Anadolu Efes Istanbul,17,"POIRIER, VINCENT",333,0.99,-0.41,0.58
+Zalgiris Kaunas,14,"SLEVA, DUSTIN",926,0.06,0.5,0.56
+Zalgiris Kaunas,15,"BIRUTIS, LAURYNAS",539,-0.58,1.12,0.55
+Valencia Basket,2,"PUERTO, JOSEP",765,0.69,-0.16,0.53
+Paris Basketball,2,"HIFI, NADIR",1143,0.26,0.25,0.5
+Olympiacos Piraeus,1,"NTILIKINA, FRANK",525,-0.08,0.58,0.5
+Real Madrid,0,"LYLES, TREY",1069,0.81,-0.34,0.47
+Valencia Basket,7,"KEY, BRAXTON",577,-1.44,1.91,0.47
+LDLC ASVEL Villeurbanne,6,"ANGOLA, BRAIAN",343,0.49,-0.03,0.46
+Kosner Baskonia Vitoria-Gasteiz,18,"DIOP, KHALIFA",760,1.84,-1.46,0.38
+Fenerbahce Beko Istanbul,13,"BIBEROVIC, TARIK",897,-1.49,1.82,0.34
+Hapoel IBI Tel Aviv,17,"MALCOLM, COLLIN",1271,1.05,-0.73,0.32
+Valencia Basket,8,"MONTERO, JEAN",969,0.71,-0.42,0.28
+Crvena Zvezda Meridianbet Belgrade,0,"MILLER-MCINTYRE, CODI",1644,0.38,-0.1,0.28
+Kosner Baskonia Vitoria-Gasteiz,25,"FRISCH, CLEMENT",502,-0.62,0.84,0.23
+Partizan Mozzart Bet Belgrade,12,"BROWN, STERLING",1357,1.37,-1.14,0.22
+Real Madrid,11,"HEZONJA, MARIO",1132,0.65,-0.5,0.15
+Kosner Baskonia Vitoria-Gasteiz,17,"RADZEVICIUS, GYTIS",519,1.0,-0.85,0.15
+Olympiacos Piraeus,16,"PAPANIKOLAOU, KOSTAS",532,1.93,-1.78,0.15
+FC Bayern Munich,33,"MCCORMACK, DAVID",539,-1.57,1.7,0.13
+Partizan Mozzart Bet Belgrade,17,"BONGA, ISAAC",1343,-0.35,0.46,0.12
+AS Monaco,4,"BLOSSOMGAME, JARON",1130,-0.94,1.04,0.1
+FC Bayern Munich,26,"DINWIDDIE, SPENCER",408,-0.67,0.76,0.09
+Partizan Mozzart Bet Belgrade,15,"PAYNE, CAMERON",392,-0.52,0.59,0.07
+Panathinaikos AKTOR Athens,22,"GRANT, JERIAN",1198,-0.44,0.5,0.06
+Panathinaikos AKTOR Athens,25,"NUNN, KENDRICK",1064,2.19,-2.16,0.02
+LDLC ASVEL Villeurbanne,3,"HARRISON, SHAQUILLE",682,-1.16,1.18,0.02
+Olympiacos Piraeus,94,"FOURNIER, EVAN",940,-0.29,0.29,0.01
+Panathinaikos AKTOR Athens,41,"HERNANGOMEZ, JUANCHO",1260,-0.44,0.33,-0.11
+Kosner Baskonia Vitoria-Gasteiz,7,"KURUCS, RODIONS",844,-0.66,0.53,-0.13
+Virtus Bologna,35,"DIOUF, MOUHAMET",463,0.24,-0.38,-0.14
+LDLC ASVEL Villeurbanne,94,"TRAORE, ARMEL",743,-1.47,1.32,-0.14
+AS Monaco,32,"STRAZEL, MATTHEW",1149,-1.68,1.46,-0.22
+Kosner Baskonia Vitoria-Gasteiz,1,"DIAKITE, MAMADI",932,-0.8,0.57,-0.23
+Real Madrid,8,"OKEKE, CHUMA",873,0.63,-0.89,-0.26
+Hapoel IBI Tel Aviv,21,"ODIASE, TAI",372,-1.88,1.58,-0.3
+Paris Basketball,15,"FAYE, MOUHAMED",943,-1.11,0.8,-0.31
+Real Madrid,6,"ABALDE, ALBERTO",839,0.15,-0.47,-0.33
+Paris Basketball,5,"ROBINSON, JUSTIN",961,-0.59,0.26,-0.33
+Panathinaikos AKTOR Athens,17,"ROGKAVOPOULOS, NIKOLAOS",437,-0.36,-0.03,-0.39
+Maccabi Rapyd Tel Aviv,45,"BLATT, TAMIR",1075,-0.17,-0.28,-0.45
+EA7 Emporio Armani Milan,42,"DUNSTON, BRYANT",298,-2.42,1.94,-0.48
+EA7 Emporio Armani Milan,1,"MANNION, NICCOLO",343,-1.03,0.52,-0.51
+Paris Basketball,8,"RHODEN, JARED",713,-0.3,-0.23,-0.53
+Olympiacos Piraeus,33,"MILUTINOV, NIKOLA",986,1.09,-1.62,-0.54
+EA7 Emporio Armani Milan,23,"GUDURIC, MARKO",1066,-1.68,1.12,-0.56
+Panathinaikos AKTOR Athens,35,"FARIED, KENNETH",550,0.85,-1.42,-0.57
+Crvena Zvezda Meridianbet Belgrade,33,"NWORA, JORDAN",1271,-1.24,0.65,-0.59
+Kosner Baskonia Vitoria-Gasteiz,3,"NOWELL, MARKQUIS",546,-0.62,-0.01,-0.63
+Maccabi Rapyd Tel Aviv,8,"WALKER IV, LONNIE",854,-0.27,-0.39,-0.65
+FC Bayern Munich,22,"MIKE, ISIAHA",1151,-0.8,0.13,-0.67
+LDLC ASVEL Villeurbanne,10,"MASSA, BODIAN",696,-0.39,-0.29,-0.68
+Zalgiris Kaunas,51,"BUTKEVICIUS, ARNAS",792,0.74,-1.42,-0.68
+LDLC ASVEL Villeurbanne,0,"EBOUA, PAUL",309,0.57,-1.31,-0.74
+Dubai Basketball,8,"BERTANS, DAVIS",694,-1.73,0.95,-0.78
+FC Barcelona,44,"PARRA, JOEL",920,-3.3,2.49,-0.81
+Fenerbahce Beko Istanbul,2,"BALDWIN IV, WADE",803,-2.29,1.48,-0.81
+Maccabi Rapyd Tel Aviv,2,"CLARK III, JIMMY",981,1.17,-2.06,-0.89
+Zalgiris Kaunas,7,"WRIGHT, MOSES",1164,0.75,-1.64,-0.89
+Dubai Basketball,30,"PETRUSEV, FILIP",1239,1.42,-2.34,-0.92
+Partizan Mozzart Bet Belgrade,22,"PARKER, JABARI",496,-0.0,-0.92,-0.92
+AS Monaco,0,"OKOBO, ELIE",1277,0.72,-1.65,-0.93
+Paris Basketball,7,"HERRERA, SEBASTIAN",836,-3.46,2.53,-0.93
+FC Bayern Munich,5,"GIFFEY, NIELS",626,-0.03,-0.97,-1.0
+AS Monaco,55,"JAMES, MIKE",1585,2.29,-3.35,-1.06
+Hapoel IBI Tel Aviv,0,"MOTLEY, JOHNATHAN",780,-0.62,-0.48,-1.1
+Dubai Basketball,5,"ABASS, AWUDU",805,-0.17,-0.99,-1.16
+Panathinaikos AKTOR Athens,44,"MITOGLOU, KONSTANTINOS",574,-1.42,0.16,-1.26
+Maccabi Rapyd Tel Aviv,21,"DOWTIN JR, JEFFREY",489,-0.58,-0.69,-1.27
+Panathinaikos AKTOR Athens,77,"YURTSEVEN, OMER",342,-1.24,-0.04,-1.28
+Partizan Mozzart Bet Belgrade,4,"WASHINGTON, DUANE",787,-1.38,0.07,-1.31
+Valencia Basket,3,"REUVERS, NATHAN",1032,-0.18,-1.14,-1.33
+FC Barcelona,2,"MARCOS, JUANI",295,-1.64,0.21,-1.43
+Dubai Basketball,13,"MUSA, DZANAN",424,1.54,-2.98,-1.44
+Valencia Basket,12,"SAKO, NEAL",652,-0.78,-0.72,-1.5
+Fenerbahce Beko Istanbul,92,"BIRCH, KHEM",690,-2.58,1.07,-1.51
+FC Bayern Munich,21,"HOLLATZ, JUSTUS",509,-2.39,0.87,-1.52
+FC Bayern Munich,11,"LUCIC, VLADIMIR",1051,-2.35,0.81,-1.53
+LDLC ASVEL Villeurbanne,11,"JACKSON, EDWIN",358,1.51,-3.14,-1.62
+Kosner Baskonia Vitoria-Gasteiz,8,"SEDEKERSKIS, TADAS",538,-1.91,0.25,-1.66
+Olympiacos Piraeus,45,"HALL, DONTA",641,-1.06,-0.62,-1.67
+Anadolu Efes Istanbul,11,"SMITS, ROLANDS",903,-0.98,-0.72,-1.7
+Valencia Basket,0,"BADIO, BRANCOU",858,-1.68,-0.08,-1.75
+Anadolu Efes Istanbul,1,"BEAUBOIS, RODRIGUE",337,-1.75,-0.07,-1.82
+Fenerbahce Beko Istanbul,50,"COLSON, BONZIE",527,-0.63,-1.19,-1.83
+FC Barcelona,20,"LAPROVITTOLA, NICOLAS",508,0.78,-2.62,-1.84
+EA7 Emporio Armani Milan,6,"BOOKER, DEVIN",1019,-0.86,-0.99,-1.85
+Partizan Mozzart Bet Belgrade,24,"FERNANDO, BRUNO",668,-2.42,0.57,-1.85
+EA7 Emporio Armani Milan,3,"ELLIS, QUINN",1230,0.27,-2.13,-1.87
+Valencia Basket,5,"DE LARREA, SERGIO",426,-0.55,-1.35,-1.9
+Dubai Basketball,4,"AVRAMOVIC, ALEKSA",503,-2.15,0.2,-1.95
+Panathinaikos AKTOR Athens,0,"SHORTS, TJ",774,-1.04,-0.93,-1.97
+Kosner Baskonia Vitoria-Gasteiz,0,"HOWARD, MARKUS",750,-0.62,-1.36,-1.98
+Valencia Basket,10,"MOORE, OMARI",1049,-2.84,0.85,-1.99
+Virtus Bologna,7,"NIANG, SALIOU",520,-2.52,0.5,-2.02
+Anadolu Efes Istanbul,3,"LOYD, JORDAN",1025,-2.09,0.05,-2.03
+Crvena Zvezda Meridianbet Belgrade,12,"KALINIC, NIKOLA",1309,-1.79,-0.28,-2.07
+Kosner Baskonia Vitoria-Gasteiz,11,"FORREST, TRENT",858,0.26,-2.35,-2.08
+Fenerbahce Beko Istanbul,17,"BITIM, ONURALP",269,-0.82,-1.3,-2.13
+Virtus Bologna,3,"EDWARDS, CARSEN",778,-0.66,-1.47,-2.13
+Valencia Basket,4,"PRADILLA, JAIME",1136,-0.5,-1.65,-2.15
+Kosner Baskonia Vitoria-Gasteiz,9,"LUWAWU-CABARROT, TIMOTHE",1218,-0.03,-2.13,-2.16
+FC Barcelona,8,"BRIZUELA, DARIO",702,-1.44,-0.79,-2.23
+EA7 Emporio Armani Milan,16,"LEDAY, ZACH",1009,-0.15,-2.09,-2.24
+EA7 Emporio Armani Milan,31,"SHIELDS, SHAVON",1279,0.37,-2.66,-2.29
+Olympiacos Piraeus,77,"MCKISSIC, SHAQUIELLE",290,-2.78,0.44,-2.34
+Crvena Zvezda Meridianbet Belgrade,7,"DAVIDOVAC, DEJAN",532,-0.83,-1.55,-2.39
+Dubai Basketball,10,"ANDERSON, JUSTIN",874,-1.47,-0.91,-2.39
+FC Barcelona,21,"CLYBURN, WILL",973,-1.45,-0.95,-2.4
+LDLC ASVEL Villeurbanne,32,"VAUTIER, BASTIEN",665,-2.82,0.42,-2.41
+FC Barcelona,14,"HERNANGOMEZ, WILLY",709,-1.28,-1.14,-2.41
+Partizan Mozzart Bet Belgrade,33,"CALATHES, NICK",702,-2.36,-0.09,-2.45
+Partizan Mozzart Bet Belgrade,5,"OSETKOWSKI, DYLAN",848,-1.24,-1.27,-2.51
+Fenerbahce Beko Istanbul,18,"JANTUNEN, MIKAEL",556,-0.72,-1.85,-2.57
+Anadolu Efes Istanbul,21,"SWIDER, COLE",341,-1.72,-0.86,-2.58
+Kosner Baskonia Vitoria-Gasteiz,5,"OMORUYI, EUGENE",474,1.24,-3.92,-2.69
+Partizan Mozzart Bet Belgrade,19,"LAKIC, ARIJAN",288,-0.76,-2.05,-2.8
+Anadolu Efes Istanbul,0,"LARKIN, SHANE",567,1.14,-3.95,-2.81
+Virtus Bologna,34,"JALLOW, KARIM",633,0.39,-3.25,-2.86
+Crvena Zvezda Meridianbet Belgrade,37,"OJELEYE, SEMI",1211,-4.53,1.61,-2.91
+Partizan Mozzart Bet Belgrade,11,"POKUSEVSKI, ALEKSEJ",349,-1.61,-1.33,-2.94
+Virtus Bologna,23,"HACKETT, DANIEL",273,-2.97,0.03,-2.95
+FC Barcelona,5,"NORRIS, MILES",515,-1.62,-1.41,-3.03
+FC Bayern Munich,32,"GABRIEL, WENYEN",828,-2.32,-0.8,-3.12
+Kosner Baskonia Vitoria-Gasteiz,2,"SIMMONS, KOBI",924,-1.13,-2.14,-3.27
+Maccabi Rapyd Tel Aviv,9,"SORKIN, ROMAN",1206,-1.82,-1.47,-3.29
+Partizan Mozzart Bet Belgrade,2,"MILTON, SHAKE",457,-4.32,0.86,-3.46
+AS Monaco,10,"THEIS, DANIEL",1114,-0.97,-2.49,-3.46
+Maccabi Rapyd Tel Aviv,1,"HOARD, JAYLEN",1394,0.18,-3.71,-3.53
+Anadolu Efes Istanbul,13,"DESSERT, BRICE",263,-4.62,1.01,-3.61
+Hapoel IBI Tel Aviv,22,"MICIC, VASILIJE",1139,-1.16,-2.52,-3.69
+Zalgiris Kaunas,1,"WILLIAMS-GOSS, NIGEL",745,-4.26,0.53,-3.73
+Crvena Zvezda Meridianbet Belgrade,99,"DOS SANTOS, YAGO",427,-2.5,-1.25,-3.75
+Anadolu Efes Istanbul,15,"DOZIER, PJ",751,-1.58,-2.3,-3.88
+LDLC ASVEL Villeurbanne,8,"AJINCA, MELVIN",761,-2.67,-1.4,-4.07
+Maccabi Rapyd Tel Aviv,10,"BRISSETT, O'SHAE J",1266,-1.22,-2.86,-4.07
+Paris Basketball,34,"HOMMES, DAULTON",385,-4.08,0.0,-4.08
+FC Bayern Munich,16,"JOVIC, STEFAN",585,-1.83,-2.32,-4.15
+Dubai Basketball,11,"KONDIC, KOSTA",263,-3.21,-1.01,-4.22
+Real Madrid,23,"LLULL, SERGIO",487,-1.91,-2.73,-4.63
+Partizan Mozzart Bet Belgrade,9,"MARINKOVIC, VANJA",653,-2.61,-2.16,-4.78
+FC Bayern Munich,4,"RATHAN-MAYES, XAVIER",639,-3.5,-1.31,-4.81
+Real Madrid,12,"MALEDON, THEO",764,-1.88,-2.99,-4.87
+LDLC ASVEL Villeurbanne,7,"HEURTEL, THOMAS",690,-3.12,-1.82,-4.94
+Anadolu Efes Istanbul,88,"JONES, KAI",664,-2.77,-2.41,-5.18
+Paris Basketball,22,"M'BAYE, AMATH",896,-1.59,-3.75,-5.34
+Zalgiris Kaunas,92,"ULANOVAS, EDGARAS",1025,-3.12,-2.34,-5.47
+Anadolu Efes Istanbul,2,"HAZER, SEHMUS",486,-2.68,-2.99,-5.67
+Dubai Basketball,34,"KAMENJAS, KENAN",414,-1.88,-3.97,-5.85
+Paris Basketball,9,"STEVENS, LAMAR",579,-2.81,-3.76,-6.57
+LDLC ASVEL Villeurbanne,23,"LIGHTY, DAVID",797,-5.78,-3.44,-9.21
