@@ -1,4 +1,8 @@
 {"folders":[
+  {"path":"adult/data_2026-03-16T07-22_EL","folder_name":"data_2026-03-16T07-22_EL","timestamp":"2026-03-16T07-22","competition_code":"EL"}
+,
+  {"path":"adult/data_2026-03-16T07-19_SLB","folder_name":"data_2026-03-16T07-19_SLB","timestamp":"2026-03-16T07-19","competition_code":"SLB"}
+,
   {"path":"adult/data_2026-03-13T21-37_EL","folder_name":"data_2026-03-13T21-37_EL","timestamp":"2026-03-13T21-37","competition_code":"EL"}
 ,
   {"path":"adult/data_2026-03-12T17-23_SBL_SE","folder_name":"data_2026-03-12T17-23_SBL_SE","timestamp":"2026-03-12T17-23","competition_code":"SBL_SE"}
