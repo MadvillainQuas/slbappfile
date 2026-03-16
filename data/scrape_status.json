@@ -1,11 +1,6 @@
 {
   "status": "running",
-  "mode": "all",
-  "competitions": [
-    "SBA",
-    "KOS",
-    "FBAA"
-  ],
-  "started_at": "2026-03-16T15:13:38.019132",
-  "updated_at": "2026-03-16T15:13:38.454119"
+  "current_request": "monday_auto_1773693889",
+  "started_at": "2026-03-16T20:44:49.997340",
+  "updated_at": "2026-03-16T20:44:50.717290"
 }
