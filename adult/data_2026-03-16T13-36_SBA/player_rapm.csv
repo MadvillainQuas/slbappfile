@@ -1,0 +1,118 @@
+# RAPM - Regularized Adjusted Plus/Minus
+# Regularization parameter (alpha/lambda): 800
+# Minimum possessions filter: 250
+# Total players in calculation: 196
+# Qualified players exported: 110
+# Total stints used: 4754
+# Garbage time stints excluded: 185
+Team,Player_Number,Player_Name,Possessions,ORAPM,DRAPM,RAPM
+Patrioti Levice,5,"Wesson Jr, Keith Andre",1525,3.81,3.68,7.48
+Patrioti Levice,0,"Mc Gill, Rickey Isaiah Justin",1749,5.23,0.96,6.19
+Nitra Blue Wings,0,"Ikpe, Tristan Ekong",1738,1.8,4.34,6.14
+BC Komárno,11,"Volárik, Samuel",1288,0.66,4.81,5.47
+Patrioti Levice,15,"Bojanovský, Boris",683,1.04,4.4,5.45
+BC Slovan Bratislava,8,"Medford Jr, Lester Fezell",1540,3.74,1.61,5.35
+BC Prievidza,23,"Smith, Naje' Abdean",1032,1.02,3.39,4.41
+Nitra Blue Wings,19,"Ragland Jr, Guy Evers Kennedy",1466,1.2,2.8,4.0
+Patrioti Levice,25,"Carius, William Glen",950,0.72,3.11,3.83
+BKM Mimel Lučenec,7,"Beaubrun, Jalil Omar",1700,3.87,-0.24,3.63
+Patrioti Levice,12,"Kivimäki, Aatu Albert",882,3.11,0.41,3.52
+BC Prievidza,4,"Thomas, Davontrey Shauni Zhmere",1517,0.94,2.08,3.02
+Iskra Svit,7,"Jackson, Jasean Jatar",1842,4.45,-1.43,3.02
+BC Komárno,20,"Ormiston, Elijah Gregory",1400,1.87,1.0,2.87
+BC Komárno,30,"Millin, Tyler Terell",985,1.84,0.8,2.64
+BC Komárno,1,"Gray, Aaron Jamal Naseem",1643,0.06,2.55,2.61
+BKM Mimel Lučenec,13,"Beck, Tervell Tyshawn",1350,2.49,0.07,2.56
+BC Slovan Bratislava,20,"Pavelka, Tomáš",704,0.75,1.78,2.53
+BC Prievidza,1,"Tolbert Iii, Anderson Sage",1450,2.5,0.01,2.5
+Iskra Svit,8,"Hines Jr, Samuel Thomas",617,0.84,1.47,2.31
+BC Komárno,2,"Mckeithan, Corey Kaydon",936,2.88,-0.6,2.28
+BC Prievidza,17,"Hlivák, Dalibor",707,0.63,1.56,2.19
+BC Slovan Bratislava,5,"Majerčák, Matej",465,1.85,0.28,2.13
+BC Slovan Bratislava,25,"Kovačević, Viktor",489,-1.16,3.27,2.11
+Nitra Blue Wings,12,"Horvath, Brandon Matthew",304,1.24,0.82,2.05
+Nitra Blue Wings,9,"Bailey, Jeremiah Kenyatta",263,2.0,0.02,2.03
+BC Slovan Bratislava,3,"Thornton, Raynere Zynique",1019,0.21,1.8,2.0
+Nitra Blue Wings,30,"Urban, Ľubomír",388,0.83,1.0,1.83
+BC Prievidza,11,"Zelizňák, Maroš",540,-1.62,3.24,1.62
+BKM Mimel Lučenec,3,"Boone Jr, Eric Dean Lewis",1780,1.5,-0.12,1.38
+Iskra Svit,98,"Atwood, Tyrin Ja´quain",1448,-0.97,2.27,1.29
+Spišskí Rytieri,62,"Stevanović, Marko",1490,3.87,-2.58,1.29
+Spišskí Rytieri,33,"Mrviš, Tomáš",778,-1.26,2.51,1.25
+Spišskí Rytieri,26,"Páleník, Juraj",1405,1.79,-0.57,1.23
+Iskra Svit,1,"Witt, Sevon Marquise",1296,0.2,1.02,1.22
+Košice Wolves,7,"John Jr, Avelon Luke",704,-0.77,1.96,1.19
+BC Prievidza,5,"Bishop Iv, James Edward",570,-1.55,2.62,1.08
+MBK Baník Handlová,3,"Deang, Deng Thowat",467,1.49,-0.47,1.02
+BC Slovan Bratislava,14,"Abrhám, David",1440,2.34,-1.35,0.99
+BC Slovan Bratislava,4,"Stevenson, Shamiel Shawn",1135,-0.47,1.4,0.92
+MBK Baník Handlová,10,"Kováčik, Peter",1092,0.57,0.34,0.92
+Patrioti Levice,8,"Musić, Novak",520,0.87,-0.07,0.81
+BC Prievidza,15,"Toussaint, Joseph",1197,-0.2,0.98,0.78
+MBK Baník Handlová,14,"Gutalj, Marko",464,-2.6,3.29,0.69
+Iskra Svit,98,"Dailey, Maishe Ramel",327,-2.52,3.18,0.67
+MBK Baník Handlová,11,"Harris, Jordan Lamont",1232,-1.21,1.77,0.56
+BC Slovan Bratislava,22,"Howard, Robert Paul",261,0.13,0.36,0.48
+BKM Mimel Lučenec,6,"Willett, Shaun Gregory",281,-0.03,0.48,0.45
+Nitra Blue Wings,4,"Jones, Jordan Lamont",1724,0.02,0.41,0.43
+MBK Baník Handlová,34,"Glover, Jordan Lee",371,-2.04,2.47,0.42
+Nitra Blue Wings,11,"Underwood, Dimitrius Paul",1410,-1.32,1.7,0.38
+Patrioti Levice,55,"Mawein, Akol",884,0.09,0.15,0.24
+Nitra Blue Wings,13,"Belikov, Oleksandr",1153,-0.4,0.61,0.22
+BC Slovan Bratislava,0,"Watson, Jordan Rashaun",748,0.23,-0.09,0.14
+BC Komárno,5,"Olabode, Adeniyi Gabriel",285,-2.29,2.42,0.13
+MBK Baník Handlová,5,"Jones Jr, Curtis Tarell",353,-0.54,0.66,0.12
+MBK Baník Handlová,32,"Petráš, Jakub",1145,-1.47,1.57,0.09
+MBK Baník Handlová,14,"Dragović, Petar",598,-1.34,1.2,-0.14
+BKM Mimel Lučenec,10,"Wright, Atin Carl",490,1.52,-1.68,-0.16
+Spišskí Rytieri,3,"Hill, Isaiah Malik",1689,2.19,-2.4,-0.21
+BC Prievidza,9,"Reynolds, Noah Craig",842,3.11,-3.42,-0.31
+BKM Mimel Lučenec,11,"Smith, Tevin Michael",910,0.47,-0.86,-0.39
+BC Komárno,7,"Pospišil, Martin",647,0.27,-0.82,-0.55
+Nitra Blue Wings,6,"Galko, Adam",254,0.24,-0.87,-0.63
+BC Prievidza,24,"Maring, Bonke Robert",552,0.75,-1.6,-0.85
+BC Slovan Bratislava,2,"James, Christian Tyler",841,-1.07,0.11,-0.96
+Spišskí Rytieri,8,"Kenney, Caleb Jamerson",1756,-0.56,-0.49,-1.06
+Iskra Svit,20,"Turza, Šimon",666,0.46,-1.64,-1.17
+Košice Wolves,11,"Montgomery, Ezekiel La'quan-Abe",401,1.27,-2.55,-1.29
+MBK Baník Handlová,18,"Henson, Djimon Tyler",1375,0.63,-1.92,-1.29
+Iskra Svit,15,"Matušek, Július",1176,0.3,-1.82,-1.51
+BC Komárno,4,"Wiggins, Carrington Roderick",1167,-1.61,0.08,-1.53
+Košice Wolves,32,"Early, David Lee",393,-0.06,-1.68,-1.74
+BC Prievidza,55,"Lewis, Jaaden Allister Luke",485,-2.65,0.84,-1.81
+Košice Wolves,33,"Halada, Filip",1688,-0.83,-0.99,-1.82
+Košice Wolves,3,"Wolfe, Todd Jacob",1299,-4.51,2.52,-1.99
+MBK Baník Handlová,74,"Ďurečko, Viliam",369,-1.45,-0.55,-2.0
+BC Prievidza,25,"Alihodzic, Fahro",472,-1.93,-0.1,-2.02
+BC Slovan Bratislava,21,"Szabó, Milan",922,-1.6,-0.47,-2.07
+MBK Baník Handlová,71,"Mc Laughlin, Jeremy Lamar",1001,1.21,-3.32,-2.11
+MBK Baník Handlová,0,"Johnson, Austin Calvin",326,-2.75,0.64,-2.11
+Patrioti Levice,3,"Pažický, Patrik",709,-1.12,-1.08,-2.2
+Spišskí Rytieri,11,"Jefferson, Joshua Stephen",1453,2.89,-5.14,-2.25
+Iskra Svit,17,"Rožánek, Róbert",1426,1.98,-4.55,-2.57
+BKM Mimel Lučenec,0,"Yap Jr, Donavan Ashley",1210,-1.32,-1.5,-2.83
+MBK Baník Handlová,9,"Nikolić, Nemanja",250,-0.8,-2.08,-2.88
+Košice Wolves,4,"Rupert Iii, Clarence Edward",1099,-3.02,-0.26,-3.28
+BC Komárno,3,"Henry, Tyron Desean",504,-1.28,-2.02,-3.29
+Patrioti Levice,47,"Krajčovič, Alex",331,-2.6,-0.75,-3.35
+Košice Wolves,0,"Carter-Hollinger Iii, Derrick Deshaun",867,-3.03,-0.45,-3.47
+BC Komárno,13,"Koller, Martin",500,-3.78,0.3,-3.48
+MBK Baník Handlová,24,"Láštic, Juraj",925,-3.12,-0.38,-3.51
+BKM Mimel Lučenec,34,"Kulčár, Lukáš",317,-3.92,-0.01,-3.93
+Spišskí Rytieri,16,"Antoni, Adam",266,-3.81,-0.21,-4.02
+Nitra Blue Wings,77,"Bolek, Lukáš",1411,-2.43,-1.74,-4.18
+Košice Wolves,10,"Monček, Adam",1244,-2.88,-1.36,-4.23
+Spišskí Rytieri,42,"Kincel, Samuel",787,-2.57,-1.83,-4.39
+Patrioti Levice,7,"Dorsey, Gabriel Jerome",1366,-2.43,-2.14,-4.56
+BC Slovan Bratislava,6,"Radovanović, Marko",873,-1.57,-3.17,-4.74
+Iskra Svit,5,"Sullivan, Avery Kordell",733,-2.3,-2.45,-4.75
+Iskra Svit,13,"Harabin, Dávid",306,-2.5,-2.59,-5.08
+Košice Wolves,25,"Howard, Myles Derek",458,-4.2,-1.04,-5.24
+Patrioti Levice,31,"Solčánsky, Samuel",587,-1.17,-4.16,-5.34
+BKM Mimel Lučenec,8,"Siládi, Matej",1280,-1.75,-4.14,-5.89
+BC Prievidza,10,"Novák, Dávid",642,-5.52,-0.53,-6.05
+Košice Wolves,8,"Nagy, Alex",424,-3.56,-2.71,-6.27
+BC Komárno,14,"Lawrence, Kimani Esque Tyrone",1088,-1.86,-4.46,-6.31
+Košice Wolves,12,"Gaffney, Jalen Makanaokeakua",1083,-4.77,-1.55,-6.33
+Iskra Svit,6,"Blaško, Daniel",537,-2.6,-4.58,-7.18
+BKM Mimel Lučenec,5,"Brown, Jayden Xavier",797,-6.0,-1.64,-7.64
