@@ -1,6 +1,9 @@
 {
   "status": "running",
-  "current_request": "monday_auto_1773693889",
-  "started_at": "2026-03-16T20:44:49.997340",
-  "updated_at": "2026-03-16T20:44:50.717290"
+  "mode": "all",
+  "competitions": [
+    "SBL_SE"
+  ],
+  "started_at": "2026-03-17T09:39:38.469902",
+  "updated_at": "2026-03-17T09:39:38.918793"
 }
