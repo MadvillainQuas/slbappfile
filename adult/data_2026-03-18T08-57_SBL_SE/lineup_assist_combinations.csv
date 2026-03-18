@@ -1,0 +1,68 @@
+Team,Lineup,Lineup_Key,Assister_Num,Assister_Name,Scorer_Num,Scorer_Name,Assists,Points_Created,Threes_Assisted,Twos_Assisted,Games,AST/G,PTS_Created/G
+Högsbo Basket,"Mario Drazic, Emil Lundstedt, Jesper Hallberg, Alexander Karras, Jan Tratnik","Högsbo Basket|11,3,5,7,9",9,Jan Tratnik,7,Alexander Karras,2,6,2,0,1,2.0,6.0
+Jämtland Basket,"Keaston Willis, André Jonsson Lorentsson, Michael Christmas, Adam Johansson, Brayden Parker","Jämtland Basket|0,13,25,3,7",0,Keaston Willis,7,Brayden Parker,2,6,2,0,1,2.0,6.0
+Jämtland Basket,"Keaston Willis, André Jonsson Lorentsson, Michael Christmas, Samari Curtis, Brayden Parker","Jämtland Basket|0,13,25,41,7",41,Samari Curtis,7,Brayden Parker,2,4,0,2,1,2.0,4.0
+Jämtland Basket,"André Jonsson Lorentsson, Denzel George, Samari Curtis, Brayden Parker, Erik Persson","Jämtland Basket|13,22,41,7,9",22,Denzel George,9,Erik Persson,2,4,0,2,1,2.0,4.0
+Nässjö Basket,"Mirko Djeric, Tyler Patterson, Abdou Medjedoub, Josef Fahrenholtz, Mio Hjalmarsson","Nässjö Basket|1,11,17,24,3",3,Mio Hjalmarsson,24,Josef Fahrenholtz,1,3,1,0,1,1.0,3.0
+Nässjö Basket,"Mirko Djeric, Tyler Patterson, Mass Jonsson Samateh, Abdou Medjedoub, Dartaye Ruffin","Nässjö Basket|1,11,12,17,21",12,Mass Jonsson Samateh,11,Tyler Patterson,1,3,1,0,1,1.0,3.0
+Nässjö Basket,"Mirko Djeric, Mass Jonsson Samateh, Dartaye Ruffin, Josef Fahrenholtz, Max Wirestig","Nässjö Basket|1,12,21,24,7",1,Mirko Djeric,24,Josef Fahrenholtz,1,3,1,0,1,1.0,3.0
+Borås Basket,"Filip Larsson, AJ Clayton, Ludvig Johansson, Albin Ringheim, Fredrik Andersson","Borås Basket|14,23,4,52,8",23,AJ Clayton,4,Ludvig Johansson,1,3,1,0,1,1.0,3.0
+Borås Basket,"Filip Larsson, Justin Vander Baan, Ludvig Johansson, Albin Ringheim, Fredrik Andersson","Borås Basket|14,18,4,52,8",18,Justin Vander Baan,4,Ludvig Johansson,1,3,1,0,1,1.0,3.0
+Nässjö Basket,"Mirko Djeric, Tyler Patterson, Abdou Medjedoub, Dartaye Ruffin, Max Wirestig","Nässjö Basket|1,11,17,21,7",1,Mirko Djeric,17,Abdou Medjedoub,1,3,1,0,1,1.0,3.0
+Borås Basket,"Ali Sow, Justin Vander Baan, AJ Clayton, Ludvig Johansson, John Brändmark","Borås Basket|1,18,23,4,66",1,Ali Sow,4,Ludvig Johansson,1,3,1,0,1,1.0,3.0
+Borås Basket,"Ali Sow, Justin Vander Baan, AJ Clayton, John Brändmark, Fredrik Andersson","Borås Basket|1,18,23,66,8",1,Ali Sow,66,John Brändmark,1,3,1,0,1,1.0,3.0
+Borås Basket,"Ali Sow, Justin Vander Baan, AJ Clayton, John Brändmark, Fredrik Andersson","Borås Basket|1,18,23,66,8",23,AJ Clayton,66,John Brändmark,1,3,1,0,1,1.0,3.0
+Borås Basket,"Ali Sow, Justin Vander Baan, AJ Clayton, John Brändmark, Fredrik Andersson","Borås Basket|1,18,23,66,8",1,Ali Sow,8,Fredrik Andersson,1,3,1,0,1,1.0,3.0
+Nässjö Basket,"Mirko Djeric, Tyler Patterson, Abdou Medjedoub, Josef Fahrenholtz, Mio Hjalmarsson","Nässjö Basket|1,11,17,24,3",1,Mirko Djeric,24,Josef Fahrenholtz,1,3,1,0,1,1.0,3.0
+Nässjö Basket,"Mirko Djeric, Mass Jonsson Samateh, Dartaye Ruffin, Josef Fahrenholtz, Mio Hjalmarsson","Nässjö Basket|1,12,21,24,3",24,Josef Fahrenholtz,21,Dartaye Ruffin,1,3,1,0,1,1.0,3.0
+Borås Basket,"Ali Sow, Justin Vander Baan, AJ Clayton, Ludvig Johansson, John Brändmark","Borås Basket|1,18,23,4,66",23,AJ Clayton,66,John Brändmark,1,3,1,0,1,1.0,3.0
+Borås Basket,"Filip Larsson, AJ Clayton, Ludvig Johansson, Albin Ringheim, Fredrik Andersson","Borås Basket|14,23,4,52,8",14,Filip Larsson,8,Fredrik Andersson,1,3,1,0,1,1.0,3.0
+Borås Basket,"Filip Larsson, AJ Clayton, Ludvig Johansson, Albin Ringheim, Fredrik Andersson","Borås Basket|14,23,4,52,8",4,Ludvig Johansson,8,Fredrik Andersson,1,3,1,0,1,1.0,3.0
+Nässjö Basket,"Tyler Patterson, Mass Jonsson Samateh, Dartaye Ruffin, Josef Fahrenholtz, Mio Hjalmarsson","Nässjö Basket|11,12,21,24,3",12,Mass Jonsson Samateh,21,Dartaye Ruffin,1,3,1,0,1,1.0,3.0
+Nässjö Basket,"Mirko Djeric, Mass Jonsson Samateh, Dartaye Ruffin, Josef Fahrenholtz, Mio Hjalmarsson","Nässjö Basket|1,12,21,24,3",1,Mirko Djeric,12,Mass Jonsson Samateh,1,3,1,0,1,1.0,3.0
+Jämtland Basket,"Keaston Willis, Denzel George, Michael Christmas, Adam Johansson, Brayden Parker","Jämtland Basket|0,22,25,3,7",22,Denzel George,25,Michael Christmas,1,3,1,0,1,1.0,3.0
+Jämtland Basket,"Keaston Willis, Denzel George, Michael Christmas, Adam Johansson, Brayden Parker","Jämtland Basket|0,22,25,3,7",7,Brayden Parker,3,Adam Johansson,1,3,1,0,1,1.0,3.0
+Högsbo Basket,"Amen Jenkins Cheeseman, Isaiah Hill, Tony Vitali, Anes Zekovic, Alexander Karras","Högsbo Basket|0,1,22,6,7",1,Isaiah Hill,6,Anes Zekovic,1,3,1,0,1,1.0,3.0
+Högsbo Basket,"Mario Drazic, Jesper Hallberg, Anes Zekovic, Alexander Karras, Jan Tratnik","Högsbo Basket|11,5,6,7,9",9,Jan Tratnik,7,Alexander Karras,1,3,1,0,1,1.0,3.0
+Jämtland Basket,"Keaston Willis, Michael Christmas, Adam Johansson, Brayden Parker","Jämtland Basket|0,25,3,7",3,Adam Johansson,0,Keaston Willis,1,3,1,0,1,1.0,3.0
+Högsbo Basket,"Amen Jenkins Cheeseman, Isaiah Hill, Tony Vitali, Anes Zekovic, Jan Tratnik","Högsbo Basket|0,1,22,6,9",1,Isaiah Hill,6,Anes Zekovic,1,3,1,0,1,1.0,3.0
+Jämtland Basket,"Keaston Willis, André Jonsson Lorentsson, Michael Christmas, Adam Johansson, Brayden Parker","Jämtland Basket|0,13,25,3,7",13,André Jonsson Lorentsson,7,Brayden Parker,1,3,1,0,1,1.0,3.0
+Högsbo Basket,"Amen Jenkins Cheeseman, Isaiah Hill, Jesper Hallberg, Alexander Karras, Jan Tratnik","Högsbo Basket|0,1,5,7,9",9,Jan Tratnik,1,Isaiah Hill,1,3,1,0,1,1.0,3.0
+Högsbo Basket,"Amen Jenkins Cheeseman, Isaiah Hill, Tony Vitali, Anes Zekovic, Jan Tratnik","Högsbo Basket|0,1,22,6,9",9,Jan Tratnik,1,Isaiah Hill,1,3,1,0,1,1.0,3.0
+Högsbo Basket,"Amen Jenkins Cheeseman, Isaiah Hill, Jesper Hallberg, Anes Zekovic, Jan Tratnik","Högsbo Basket|0,1,5,6,9",9,Jan Tratnik,0,Amen Jenkins Cheeseman,1,3,1,0,1,1.0,3.0
+Jämtland Basket,"Denzel George, Nils Botold, Samari Curtis, Brayden Parker, Erik Persson","Jämtland Basket|22,23,41,7,9",41,Samari Curtis,23,Nils Botold,1,3,1,0,1,1.0,3.0
+Jämtland Basket,"Denzel George, Nils Botold, Michael Christmas, Samari Curtis, Erik Persson","Jämtland Basket|22,23,25,41,9",41,Samari Curtis,9,Erik Persson,1,3,1,0,1,1.0,3.0
+Jämtland Basket,"Denzel George, Nils Botold, Michael Christmas, Samari Curtis, Erik Persson","Jämtland Basket|22,23,25,41,9",23,Nils Botold,9,Erik Persson,1,3,1,0,1,1.0,3.0
+Högsbo Basket,"Amen Jenkins Cheeseman, Isaiah Hill, Jesper Hallberg, Anes Zekovic, Jan Tratnik","Högsbo Basket|0,1,5,6,9",6,Anes Zekovic,0,Amen Jenkins Cheeseman,1,3,1,0,1,1.0,3.0
+Jämtland Basket,"Keaston Willis, André Jonsson Lorentsson, Denzel George, Adam Johansson, Brayden Parker","Jämtland Basket|0,13,22,3,7",0,Keaston Willis,13,André Jonsson Lorentsson,1,3,1,0,1,1.0,3.0
+Borås Basket,"Ali Sow, Justin Vander Baan, Oskar Palmquist, AJ Clayton, John Brändmark","Borås Basket|1,18,2,23,66",18,Justin Vander Baan,2,Oskar Palmquist,1,2,0,1,1,1.0,2.0
+Borås Basket,"Ali Sow, Justin Vander Baan, Oskar Palmquist, AJ Clayton, John Brändmark","Borås Basket|1,18,2,23,66",66,John Brändmark,1,Ali Sow,1,2,0,1,1,1.0,2.0
+Nässjö Basket,"Mirko Djeric, Tyler Patterson, Abdou Medjedoub, Josef Fahrenholtz, Mio Hjalmarsson","Nässjö Basket|1,11,17,24,3",1,Mirko Djeric,17,Abdou Medjedoub,1,2,0,1,1,1.0,2.0
+Borås Basket,"Justin Vander Baan, Oskar Palmquist, AJ Clayton, Ludvig Johansson, Fredrik Andersson","Borås Basket|18,2,23,4,8",2,Oskar Palmquist,18,Justin Vander Baan,1,2,0,1,1,1.0,2.0
+Borås Basket,"Filip Larsson, Justin Vander Baan, AJ Clayton, Ludvig Johansson, Fredrik Andersson","Borås Basket|14,18,23,4,8",4,Ludvig Johansson,23,AJ Clayton,1,2,0,1,1,1.0,2.0
+Borås Basket,"Filip Larsson, AJ Clayton, Ludvig Johansson, Albin Ringheim, Fredrik Andersson","Borås Basket|14,23,4,52,8",23,AJ Clayton,52,Albin Ringheim,1,2,0,1,1,1.0,2.0
+Borås Basket,"Filip Larsson, Justin Vander Baan, Ludvig Johansson, Albin Ringheim, Fredrik Andersson","Borås Basket|14,18,4,52,8",4,Ludvig Johansson,52,Albin Ringheim,1,2,0,1,1,1.0,2.0
+Borås Basket,"Ali Sow, Justin Vander Baan, AJ Clayton, John Brändmark, Fredrik Andersson","Borås Basket|1,18,23,66,8",1,Ali Sow,23,AJ Clayton,1,2,0,1,1,1.0,2.0
+Nässjö Basket,"Mirko Djeric, Mass Jonsson Samateh, Dartaye Ruffin, Josef Fahrenholtz, Mio Hjalmarsson","Nässjö Basket|1,12,21,24,3",1,Mirko Djeric,21,Dartaye Ruffin,1,2,0,1,1,1.0,2.0
+Borås Basket,"Filip Larsson, Justin Vander Baan, AJ Clayton, Ludvig Johansson, John Brändmark","Borås Basket|14,18,23,4,66",4,Ludvig Johansson,23,AJ Clayton,1,2,0,1,1,1.0,2.0
+Nässjö Basket,"Mirko Djeric, Mass Jonsson Samateh, Abdou Medjedoub, Dartaye Ruffin, Max Wirestig","Nässjö Basket|1,12,17,21,7",1,Mirko Djeric,21,Dartaye Ruffin,1,2,0,1,1,1.0,2.0
+Nässjö Basket,"Mirko Djeric, Abdou Medjedoub, Dartaye Ruffin, Mio Hjalmarsson, Max Wirestig","Nässjö Basket|1,17,21,3,7",3,Mio Hjalmarsson,21,Dartaye Ruffin,1,2,0,1,1,1.0,2.0
+Borås Basket,"Filip Larsson, Justin Vander Baan, Ludvig Johansson, Albin Ringheim, Fredrik Andersson","Borås Basket|14,18,4,52,8",14,Filip Larsson,18,Justin Vander Baan,1,2,0,1,1,1.0,2.0
+Borås Basket,"Filip Larsson, AJ Clayton, Ludvig Johansson, John Brändmark, Fredrik Andersson","Borås Basket|14,23,4,66,8",8,Fredrik Andersson,23,AJ Clayton,1,2,0,1,1,1.0,2.0
+Nässjö Basket,"Tyler Patterson, Mass Jonsson Samateh, Abdou Medjedoub, Mio Hjalmarsson, Max Wirestig","Nässjö Basket|11,12,17,3,7",7,Max Wirestig,17,Abdou Medjedoub,1,2,0,1,1,1.0,2.0
+Högsbo Basket,"Amen Jenkins Cheeseman, Isaiah Hill, Tony Vitali, Anes Zekovic, Jan Tratnik","Högsbo Basket|0,1,22,6,9",22,Tony Vitali,6,Anes Zekovic,1,2,0,1,1,1.0,2.0
+Högsbo Basket,"Amen Jenkins Cheeseman, Isaiah Hill, Tony Vitali, Anes Zekovic, Jan Tratnik","Högsbo Basket|0,1,22,6,9",9,Jan Tratnik,22,Tony Vitali,1,2,0,1,1,1.0,2.0
+Högsbo Basket,"Amen Jenkins Cheeseman, Isaiah Hill, Tony Vitali, Anes Zekovic, Jan Tratnik","Högsbo Basket|0,1,22,6,9",1,Isaiah Hill,22,Tony Vitali,1,2,0,1,1,1.0,2.0
+Jämtland Basket,"Keaston Willis, Nils Botold, Michael Christmas, Adam Johansson, Brayden Parker","Jämtland Basket|0,23,25,3,7",3,Adam Johansson,7,Brayden Parker,1,2,0,1,1,1.0,2.0
+Jämtland Basket,"Keaston Willis, André Jonsson Lorentsson, Nils Botold, Michael Christmas, Samari Curtis","Jämtland Basket|0,13,23,25,41",13,André Jonsson Lorentsson,0,Keaston Willis,1,2,0,1,1,1.0,2.0
+Högsbo Basket,"Mario Drazic, Jesper Hallberg, Anes Zekovic, Alexander Karras, Jan Tratnik","Högsbo Basket|11,5,6,7,9",5,Jesper Hallberg,11,Mario Drazic,1,2,0,1,1,1.0,2.0
+Högsbo Basket,"Amen Jenkins Cheeseman, Isaiah Hill, Jesper Hallberg, Anes Zekovic, Alexander Karras","Högsbo Basket|0,1,5,6,7",1,Isaiah Hill,0,Amen Jenkins Cheeseman,1,2,0,1,1,1.0,2.0
+Jämtland Basket,"Keaston Willis, André Jonsson Lorentsson, Michael Christmas, Adam Johansson, Brayden Parker","Jämtland Basket|0,13,25,3,7",3,Adam Johansson,7,Brayden Parker,1,2,0,1,1,1.0,2.0
+Jämtland Basket,"Keaston Willis, André Jonsson Lorentsson, Michael Christmas, Adam Johansson, Brayden Parker","Jämtland Basket|0,13,25,3,7",0,Keaston Willis,13,André Jonsson Lorentsson,1,2,0,1,1,1.0,2.0
+Jämtland Basket,"Denzel George, Nils Botold, Samari Curtis, Brayden Parker, Erik Persson","Jämtland Basket|22,23,41,7,9",7,Brayden Parker,9,Erik Persson,1,2,0,1,1,1.0,2.0
+Jämtland Basket,"Denzel George, Nils Botold, Samari Curtis, Brayden Parker, Erik Persson","Jämtland Basket|22,23,41,7,9",41,Samari Curtis,22,Denzel George,1,2,0,1,1,1.0,2.0
+Högsbo Basket,"Amen Jenkins Cheeseman, Isaiah Hill, Tony Vitali, Anes Zekovic, Jan Tratnik","Högsbo Basket|0,1,22,6,9",9,Jan Tratnik,6,Anes Zekovic,1,2,0,1,1,1.0,2.0
+Högsbo Basket,"Amen Jenkins Cheeseman, Isaiah Hill, Tony Vitali, Anes Zekovic, Jan Tratnik","Högsbo Basket|0,1,22,6,9",0,Amen Jenkins Cheeseman,22,Tony Vitali,1,2,0,1,1,1.0,2.0
+Jämtland Basket,"Keaston Willis, André Jonsson Lorentsson, Denzel George, Adam Johansson, Brayden Parker","Jämtland Basket|0,13,22,3,7",7,Brayden Parker,22,Denzel George,1,2,0,1,1,1.0,2.0
+Högsbo Basket,"Amen Jenkins Cheeseman, Isaiah Hill, Jesper Hallberg, Anes Zekovic, Jan Tratnik","Högsbo Basket|0,1,5,6,9",9,Jan Tratnik,5,Jesper Hallberg,1,2,0,1,1,1.0,2.0
+Jämtland Basket,"Keaston Willis, André Jonsson Lorentsson, Denzel George, Adam Johansson, Brayden Parker","Jämtland Basket|0,13,22,3,7",0,Keaston Willis,7,Brayden Parker,1,2,0,1,1,1.0,2.0
