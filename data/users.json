@@ -25,7 +25,8 @@
         "SBL_SE",
         "EL",
         "NKL",
-        "GREL"
+        "GREL",
+        "USPORTS"
       ],
       "leagues": [],
       "created_at": "2026-02-01T00:00:00Z",
@@ -288,6 +289,14 @@
   "schedule_urls": [
     "https://www.eliteleague.gr/schedule/"
   ]
-}
+},
+    {
+      "code": "USPORTS",
+      "name": "U Sports Canada",
+      "enabled": true,
+      "schedule_urls": [
+        "https://en.usports.ca/sports/mbkb/composite"
+      ]
+    }
   ]
 }
