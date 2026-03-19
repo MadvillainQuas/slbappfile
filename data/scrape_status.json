@@ -2,8 +2,24 @@
   "status": "running",
   "mode": "all",
   "competitions": [
-    "GREL"
+    "SLB",
+    "BBE",
+    "HBBC",
+    "PRO_A",
+    "PRO_B",
+    "BBL",
+    "FBAA",
+    "CBFFE",
+    "ACB",
+    "BNXT",
+    "SBA",
+    "KOS",
+    "SBL_SE",
+    "EL",
+    "NKL",
+    "GREL",
+    "USPORTS"
   ],
-  "started_at": "2026-03-19T07:22:14.301444",
-  "updated_at": "2026-03-19T07:22:14.744911"
+  "started_at": "2026-03-19T10:28:14.078521",
+  "updated_at": "2026-03-19T10:28:14.502086"
 }
