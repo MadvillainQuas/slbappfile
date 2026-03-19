@@ -1,0 +1,422 @@
+# RAPM - Regularized Adjusted Plus/Minus
+# Regularization parameter (alpha/lambda): 800
+# Minimum possessions filter: 250
+# Total players in calculation: 687
+# Qualified players exported: 414
+# Total stints used: 11604
+# Garbage time stints excluded: 373
+Team,Player_Number,Player_Name,Possessions,ORAPM,DRAPM,RAPM
+Toronto Metropolitan,15,Andrejs Silconoks,447,3.83,3.72,7.55
+Alberta,3,Isaac Simon,1041,5.55,1.45,7.0
+Manitoba,14,Ramogi Nyagudi,749,4.55,1.64,6.19
+Carleton,6,Aubrey Dorey-Havens,729,3.86,2.3,6.17
+Brandon,2,Youri Cange,924,2.39,3.57,5.96
+Victoria,4,Cameron Slaymaker,649,5.29,0.47,5.76
+Carleton,22,Tyler Brown,434,3.0,2.75,5.75
+Ottawa,13,Owen Kenney,479,3.45,1.86,5.31
+Toronto Metropolitan,12,Aaron Rhooms,868,2.33,2.9,5.23
+Thompson Rivers,10,Jayden Stephens,968,1.4,3.62,5.02
+Carleton,14,Louth-Mohamed Coulibaly,530,1.03,3.98,5.02
+Bishop's,4,Obi Dike,457,2.84,2.11,4.95
+UNB,14,Mark Tobin,405,1.48,3.36,4.84
+Laval,7,Chris Tshibola,460,2.8,1.9,4.71
+Toronto Metropolitan,4,Maxime Louis-Jean,490,0.43,4.22,4.65
+Lakehead,9,Harold Santacruz,567,2.19,2.4,4.58
+Queen's,8,Ollie Engen,736,3.85,0.62,4.47
+Guelph,42,Eric Armstrong,690,3.68,0.79,4.47
+Brock,20,Michael Matas,414,2.67,1.78,4.44
+UBC,4,Holt Tomie,918,3.27,1.14,4.42
+Manitoba,9,Daren Watts,1120,2.33,2.01,4.34
+Ottawa,4,Alec Phaneuf,544,2.02,2.25,4.27
+Manitoba,1,Mason Kraus,973,2.39,1.79,4.18
+Laval,14,Mohamed Keita,291,2.1,2.08,4.18
+Calgary,23,Dre Francis,1014,1.97,2.14,4.1
+Alberta,10,Nate Waldron,597,2.27,1.77,4.03
+Victoria,14,Renoldo Robinson,775,2.04,1.78,3.82
+Western,0,Matteo Zagar,589,2.38,1.29,3.68
+Winnipeg,10,Ryan Luke,1020,1.36,2.31,3.67
+Thompson Rivers,5,Dami Farinloye,967,2.58,1.09,3.67
+Carleton,11,Dylan Kayijuka,419,-0.1,3.7,3.59
+Queen's,6,Kai Dalen,459,3.38,0.05,3.42
+Victoria,2,Geoffrey James,827,2.03,1.39,3.42
+Guelph,5,Mazen Yagubi,662,3.45,-0.09,3.36
+Bishop's,10,Charles Robert,564,1.51,1.79,3.3
+Queen's,12,Tyson Lama,528,1.23,2.0,3.23
+Dalhousie,4,Spencer Riar,483,0.87,2.34,3.21
+StFX,6,Phoenyx Wyse,530,0.94,2.25,3.19
+UFV,1,Ismael Hernandez,913,1.82,1.33,3.15
+Regina,10,Kaz Dornstauder,878,1.31,1.83,3.14
+Ottawa,11,Brock Newton,552,2.78,0.32,3.1
+Queen's,7,Emre Fisk,514,2.21,0.89,3.1
+Dalhousie,7,Ukiah Best,435,1.81,1.22,3.03
+Ottawa,10,Isaac Pierre-Louis,407,3.48,-0.45,3.03
+Saskatchewan,9,Mohamed Jabateh,540,1.42,1.6,3.03
+Ottawa,0,DeAndray Hamilton,381,0.82,2.21,3.03
+Victoria,5,Tyler Felt,481,1.54,1.45,2.99
+McMaster,3,JACYN TAYLOR,265,-0.02,2.98,2.97
+StFX,1,DJ Jackson,639,2.38,0.58,2.96
+Laval,4,Alec Marchand,468,0.88,2.07,2.95
+Laval,8,Jayden Larosiliere,544,1.19,1.71,2.9
+Toronto Metropolitan,3,Kevin Toth,715,3.22,-0.41,2.82
+Ottawa,8,Louis Daoust,459,3.16,-0.35,2.8
+Ottawa,3,Justin Tounkara,487,1.4,1.37,2.78
+UFV,0,Bennett O'Connor,865,0.76,2.0,2.76
+Toronto,2,Lucas Prekovic,252,1.24,1.5,2.73
+Acadia,4,Kyle Munro,786,1.9,0.83,2.73
+Manitoba,7,Tito Obasoto,772,0.7,1.98,2.68
+Carleton,15,Emanuel Milon,453,3.24,-0.59,2.65
+Western,15,Lucas Sheets,456,0.3,2.32,2.62
+Toronto Metropolitan,21,Gabriel Gutsmore,685,3.34,-0.74,2.6
+Victoria,8,Dylan Gage,706,1.14,1.45,2.58
+Toronto Metropolitan,8,Deandre Goulbourne,690,0.4,2.18,2.58
+UNB,13,Matthias Muscroft,275,1.3,1.28,2.58
+Trinity Western,17,Pearse Long,671,1.5,1.06,2.56
+Mount Royal,8,Sam Barnie,857,1.3,1.26,2.56
+UBC,15,Karan Aujla,669,1.36,1.2,2.55
+UFV,12,Marcus Flores,667,-0.05,2.59,2.54
+Cape Breton,9,Liai Tong,488,-0.19,2.7,2.51
+Carleton,3,Marjok Okado,627,0.4,2.1,2.51
+Lakehead,18,Adrian Nowak,507,0.96,1.45,2.41
+UBC,10,Gus Goerzen,837,-0.32,2.68,2.36
+Thompson Rivers,8,Jayden Green,847,-0.07,2.4,2.33
+UNB,3,Brandon Laryea,562,0.81,1.51,2.32
+Western,3,Imran Armstrong,305,2.09,0.2,2.29
+Concordia,5,Victor Bonsu,308,2.53,-0.26,2.27
+Victoria,7,Ethan Boag,722,3.55,-1.35,2.19
+Victoria,16,Ryan Gallagher,577,2.17,-0.04,2.13
+Brock,11,Isaiah Bujdoso,528,1.18,0.93,2.11
+Ottawa,6,Tesloch Luk,442,2.85,-0.74,2.11
+Western,2,Milan John,618,2.92,-0.81,2.11
+Winnipeg,12,Elijah Mensah,844,0.66,1.4,2.07
+Guelph,6,Amare Hamilton,515,0.38,1.64,2.02
+Lethbridge,5,Lu Dalil,468,2.41,-0.41,2.0
+Guelph,21,Raef Wykes,542,1.41,0.51,1.91
+Cape Breton,4,Tayshaun Thomas,405,0.45,1.46,1.91
+Brock,10,Andrew McKenna,680,0.87,1.03,1.91
+Calgary,8,Daniels Baumanis,1111,2.14,-0.24,1.9
+StFX,3,Matt Pennell,531,0.21,1.62,1.83
+UFV,5,Amari Jones,370,-1.0,2.82,1.81
+Bishop's,23,Reggie Jean seraphin,407,0.9,0.91,1.81
+Ontario Tech,15,Mark Stoop,504,0.28,1.48,1.76
+Victoria,10,Shadynn Smid,768,1.19,0.55,1.73
+StFX,23,Koat Thomas,664,1.52,0.12,1.64
+Laurier,9,Joshua Loblaw,486,3.53,-1.92,1.62
+UBC,7,Raj Dhadda,546,1.36,0.24,1.6
+Acadia,5,Robbie Grant,664,0.51,1.06,1.57
+Laval,20,Chakib Sedoud,292,1.81,-0.27,1.55
+Lakehead,15,Keylian Coulibaly,561,1.37,0.17,1.54
+Dalhousie,10,Giovanni Ajiamah,287,0.59,0.95,1.54
+Guelph,11,Jack Tunstill,659,0.23,1.3,1.53
+Brock,23,Micheal Okeke,482,1.56,-0.04,1.52
+Concordia,10,Yohan Leger,397,-0.41,1.92,1.51
+Laurier,8,Liban Abdalla,552,0.23,1.25,1.48
+Saint Mary's,8,Aaron Barning,258,0.98,0.46,1.44
+Regina,1,Isaiah Bay,707,2.63,-1.22,1.41
+Trinity Western,9,Marcus Shankar,1016,3.44,-2.04,1.41
+UNBC,14,Miller Davies,469,1.91,-0.51,1.4
+Bishop's,11,Yanis Malanda,521,2.35,-0.95,1.4
+UBC,6,Nikola Guzina,867,0.73,0.66,1.39
+Trinity Western,0,Tyler Sipma,335,-1.58,2.96,1.38
+Concordia,3,Anthony Gibson-Maxwell,328,-0.2,1.57,1.37
+Winnipeg,7,Malachi Alexander,1030,2.27,-0.95,1.31
+Dalhousie,2,Isaiah Graham-Roache,358,-1.12,2.37,1.25
+Brock,8,Nemanja Sarkanovic,445,-0.09,1.33,1.24
+StFX,15,Nicolas Niare,543,-0.8,2.04,1.23
+UBC,13,Tobi Akinkunmi,767,-0.67,1.9,1.23
+Toronto Metropolitan,6,Gurdeep Kalsi,474,1.07,0.16,1.23
+Acadia,14,Malko Young,599,0.4,0.79,1.19
+Dalhousie,6,Jacob Christie,284,2.1,-0.91,1.19
+Laurier,6,Ethan Passley,439,1.24,-0.05,1.19
+UNB,2,Eden Otshudi,679,0.35,0.83,1.18
+Western,33,Tye Cotie,429,-1.37,2.53,1.16
+Queen's,9,Ashton Bain,583,2.24,-1.08,1.16
+Waterloo,3,Stefan Prica,672,1.82,-0.66,1.15
+Trinity Western,23,Logan Stewart,454,-0.68,1.81,1.13
+Laurentian,10,Toby Ezenwa,288,0.46,0.65,1.11
+McMaster,13,JEREMIAH FRANCIS,548,-0.69,1.78,1.09
+Alberta,11,Kyle Varner,941,1.44,-0.36,1.08
+Western,5,Emmanuel Akot,626,1.21,-0.16,1.04
+Saskatchewan,1,Emmanuel Bonsu,726,1.29,-0.25,1.04
+Toronto,23,Rohan Scott-Smith,676,-0.3,1.33,1.03
+MacEwan,10,Hugo Alonso,456,-0.23,1.23,1.0
+Winnipeg,9,Alberto Gordo,1085,0.75,0.23,0.98
+Laurier,12,Aidan Whalen,484,4.2,-3.25,0.96
+Mount Royal,3,Jacob McLellan,716,-0.81,1.76,0.95
+Saint Mary's,6,Diego Ramos,264,0.84,0.1,0.94
+Ontario Tech,5,Johan Germain,346,0.68,0.17,0.85
+Thompson Rivers,12,Gavin Reis,286,-0.7,1.55,0.85
+Laurentian,12,Evan Boudreau-Munro,257,1.49,-0.64,0.84
+UBC,11,Edouard Gauthier,739,1.59,-0.75,0.84
+Winnipeg,8,Emmanuel Ugbah,770,0.41,0.43,0.83
+Guelph,31,Emmanuel Black,520,-0.17,0.98,0.81
+Lethbridge,6,Jaxen Perrett,810,-0.89,1.65,0.77
+Ontario Tech,6,Emmanuel Okonkwo,372,-0.81,1.56,0.75
+Queen's,13,Noah Khaja,475,2.12,-1.4,0.72
+Queen's,23,Jakub Dobiech,519,0.93,-0.28,0.65
+Alberta,9,Nash Semeniuk,740,0.9,-0.28,0.63
+Laurier,10,Malik Langenegger,461,2.3,-1.68,0.62
+Thompson Rivers,6,Jaeden Bynoe,395,-1.6,2.2,0.6
+Laurentian,13,Ismael Konate,369,-1.28,1.87,0.59
+Bishop's,14,Etienne Gagnon,522,1.34,-0.75,0.59
+Lakehead,21,Carsen Unrau,535,0.4,0.18,0.59
+UBC,9,Toni Maric,336,-0.35,0.93,0.58
+Queen's,10,Lucas Ponting,623,0.89,-0.33,0.56
+Windsor,32,Luke Grace,478,1.62,-1.07,0.56
+Trinity Western,4,Jack Vandenberg,1054,0.23,0.32,0.56
+Acadia,13,Ryan Regault,721,1.19,-0.66,0.53
+UNBC,1,Tony Kibonge,519,-2.09,2.61,0.52
+Memorial,24,Jodick Moudiandambu,498,0.32,0.19,0.51
+Memorial,9,Josh Reimer,431,0.24,0.26,0.5
+Victoria,9,Griffin Arnattt,446,1.84,-1.35,0.49
+UBC,14,Jacob Antchak,307,0.03,0.45,0.48
+StFX,5,Tariq Armstrong,407,1.07,-0.59,0.48
+Laval,11,Khaly Amadou thiam,296,0.75,-0.28,0.47
+Brandon,1,Travis Hamburger,1174,0.63,-0.16,0.47
+Carleton,10,Cedric Mbiaba,534,-1.9,2.35,0.45
+Brock,24,Cairo Perry,440,-1.92,2.37,0.45
+Regina,4,Ben Kamba,1117,-1.38,1.82,0.44
+UNB,15,Conner Landell,518,-0.06,0.48,0.41
+Calgary,5,Beckett Johnson,311,-1.39,1.8,0.41
+UPEI,10,Tarrence Booker,445,-1.01,1.42,0.41
+UNB,1,Marcus Barnes,642,0.9,-0.51,0.39
+UFV,14,Dario Lopez,461,2.75,-2.39,0.37
+Calgary,10,Hayden Franson,1042,-0.43,0.8,0.36
+Acadia,1,Gabe Davignon,761,0.1,0.25,0.35
+Saint Mary's,1,Ben Dale,263,-1.56,1.88,0.33
+Winnipeg,0,Kato Jaro,1199,-1.71,2.02,0.32
+Toronto,20,Panashe Dumbu,601,0.37,-0.07,0.3
+Laurentian,3,Brice Fandio,520,-0.5,0.8,0.29
+Saskatchewan,0,Mohamed Mahadhi,616,1.86,-1.58,0.28
+Acadia,10,Briawne Wilson,587,0.9,-0.64,0.26
+Western,1,Isaiah Young,283,-1.12,1.35,0.24
+Laval,33,Ibrahima Sanoh,315,-0.65,0.84,0.19
+Regina,13,Drew Ackerman,337,-0.78,0.96,0.18
+Toronto,7,Mikey Ballout,631,0.16,-0.01,0.15
+UQAM,11,Leo Verville,575,-0.74,0.89,0.15
+UBCO,12,Lamine Conde,618,0.91,-0.77,0.14
+UNBC,4,Isaiah Bias,591,0.46,-0.33,0.13
+Regina,8,Cade Mather,760,0.29,-0.18,0.12
+UNB,7,Ben Riley,255,0.65,-0.54,0.11
+Toronto Metropolitan,23,Darnaz Mabanza,313,-1.42,1.53,0.11
+Trinity Western,21,Connor Platz,908,1.67,-1.56,0.11
+UQAM,2,McFadden Jean,538,-1.61,1.69,0.09
+Manitoba,11,Cieran O'Hara,835,-0.52,0.55,0.03
+Mount Royal,2,Desmond Ducheck,545,0.78,-0.76,0.02
+Western,11,Owen Urquhart,364,2.1,-2.09,0.01
+Windsor,11,Andrew Cook,390,0.1,-0.1,0.0
+Queen's,14,Inder Brar,404,0.88,-0.87,0.0
+UPEI,25,Owen Smith,376,-0.68,0.68,-0.0
+Winnipeg,13,Donald Stewart,867,0.46,-0.51,-0.05
+Toronto,35,Ryan Rudnick,474,1.48,-1.59,-0.11
+Waterloo,14,Graham VanDonkersgoed,347,-0.32,0.18,-0.14
+Lakehead,8,Marcos Alonso Hernandez,496,0.18,-0.35,-0.17
+UFV,7,Jaylen Lee,533,-0.62,0.45,-0.17
+Memorial,1,Javian Downey,440,0.58,-0.75,-0.17
+Trinity Western,7,Caleb Gremaud,429,-2.79,2.62,-0.17
+Nipissing,16,Ryan Heim,407,1.7,-1.89,-0.19
+Mount Royal,0,Kuach Gajak,659,-0.1,-0.09,-0.19
+Mount Royal,6,Tag Layton,555,0.26,-0.45,-0.19
+UFV,8,Hayden Sansalone,533,1.0,-1.2,-0.2
+Alberta,4,Matthew Osunde,953,-0.7,0.5,-0.2
+Manitoba,6,Manyang Tong,641,-0.48,0.27,-0.21
+Toronto Metropolitan,22,Aidan Wilson,555,-0.08,-0.15,-0.23
+Carleton,8,Emmanuel Ngo Kana Suzama,362,-1.44,1.21,-0.23
+Toronto,5,Michael Reiss,320,-0.43,0.2,-0.24
+Ottawa,5,Kamil Dia hantchi,302,0.07,-0.31,-0.24
+Brandon,6,Arjun Hehar,785,-0.01,-0.24,-0.25
+Cape Breton,13,Oroma Bongomin,344,-2.82,2.56,-0.26
+UBC,0,Nylan Roberts,971,0.59,-0.9,-0.3
+Thompson Rivers,4,Steve Stinson,881,-2.36,2.04,-0.32
+Nipissing,12,Mateja Vukic,490,-0.21,-0.11,-0.32
+UNBC,6,Milan Pasquale,433,-1.44,1.12,-0.32
+Brock,12,Xavier Fearon,541,0.44,-0.77,-0.34
+Concordia,9,Sami Jahan,264,-1.4,1.01,-0.39
+Mount Royal,12,Daniel Owoeye,537,-0.1,-0.3,-0.39
+UPEI,44,Nicolas Gonzalez Longarela,266,-1.33,0.9,-0.43
+Lethbridge,9,Bryce Solis,949,-0.11,-0.32,-0.43
+Carleton,23,Nelson Cilien,587,-1.7,1.24,-0.46
+Concordia,15,Karam Sahly,298,-1.61,1.15,-0.46
+Guelph,13,Dylan Koffi,433,-1.23,0.75,-0.47
+Regina,5,Gurech Gurech,687,-0.75,0.26,-0.49
+UNB,6,Ben Power,420,-0.94,0.45,-0.49
+Laurentian,32,Keenan Morain,298,-1.29,0.79,-0.5
+Lakehead,74,Jorge Alonso Hernandez,376,0.41,-0.91,-0.5
+Brock,13,Birch Pockar,525,0.53,-1.09,-0.56
+Brock,0,Anthony Heyes,423,1.72,-2.29,-0.57
+Calgary,12,Martynas Sabaliauskas,455,-0.72,0.14,-0.58
+UFV,15,Matthias Klim,416,-2.75,2.16,-0.59
+Toronto,14,Simeon Jeffers,901,1.27,-1.89,-0.62
+Lakehead,11,Nishaan Singh,322,0.96,-1.59,-0.63
+Trinity Western,1,David Mutabazi,602,0.72,-1.38,-0.66
+Nipissing,7,Alexander Blackmore,497,0.27,-0.94,-0.67
+Laurier,7,Isaiah Fisher,531,2.21,-2.91,-0.7
+Brandon,5,Pablo Carvajal,324,0.69,-1.41,-0.72
+Bishop's,6,Zach John,323,-0.84,0.12,-0.72
+Saint Mary's,7,Dawson John,543,-0.83,0.1,-0.73
+Lethbridge,1,Brady Baines,736,-2.13,1.37,-0.76
+UFV,24,Dilveer Randhawa,855,1.23,-2.01,-0.78
+MacEwan,11,Favour Igbinyemi,425,1.45,-2.23,-0.78
+Calgary,1,Eli Djordjevic,897,-0.34,-0.48,-0.82
+Laurier,33,Jeremy Rudnick,351,-0.68,-0.15,-0.83
+York,3,Jordan Nelson,424,-0.81,-0.04,-0.84
+McMaster,25,ISAIAH FLORES,406,-1.33,0.49,-0.85
+Dalhousie,11,Jayden Parker,337,0.54,-1.39,-0.85
+UBCO,13,Anthony Brady,534,0.58,-1.46,-0.88
+Guelph,33,Vito Albanese,452,0.74,-1.62,-0.88
+Alberta,13,Caiden Kushnir,802,-1.04,0.14,-0.9
+Toronto,12,Carl Emmanuel Cleophat,382,-2.22,1.31,-0.91
+Ontario Tech,14,Joakim Gouamba,364,-2.16,1.23,-0.92
+McGill,8,Alex Reinert-Woodfine,300,0.59,-1.53,-0.94
+Brandon,10,Max Winters,563,-0.65,-0.34,-0.98
+Windsor,12,Emanuel Otong,396,0.88,-1.9,-1.02
+Memorial,0,Cameron Stanford,344,1.34,-2.37,-1.03
+Lethbridge,7,Sebastian Perez,426,-0.4,-0.65,-1.05
+Mount Royal,1,Kole Scott,712,-0.76,-0.29,-1.06
+Laval,23,Thierry Tshibola,436,0.41,-1.48,-1.06
+Waterloo,8,Thach Wal Nger,472,0.2,-1.27,-1.07
+UQAM,10,Ahmed Sekou Bah,471,-1.17,0.08,-1.08
+Guelph,44,Jack Gallaway,369,-1.03,-0.06,-1.09
+Waterloo,23,Cristian Craciun,620,0.24,-1.34,-1.1
+UPEI,20,Sam Dyck,449,-1.08,-0.02,-1.1
+Ontario Tech,12,Keon Baker,487,-0.83,-0.28,-1.11
+Dalhousie,8,Lydell Husbands-Browne,282,-0.62,-0.5,-1.12
+Trinity Western,5,Tyus DeVries,665,-0.49,-0.64,-1.13
+Waterloo,6,Isaiah Mcrae,631,0.09,-1.22,-1.13
+Carleton,13,Mark Dike,335,-2.3,1.1,-1.19
+Nipissing,20,Chris-Evrard Malonga,342,-0.76,-0.46,-1.21
+McMaster,5,JAMES KELLY,387,1.31,-2.52,-1.21
+Toronto,13,Nathan Bureau,305,0.57,-1.79,-1.22
+Saint Mary's,4,Jasha'jaun Downey,504,-0.02,-1.21,-1.23
+McMaster,33,RIAZ SALIU,553,0.35,-1.58,-1.23
+Cape Breton,14,Tafarian Black,430,0.51,-1.78,-1.27
+Windsor,8,Marodama Benjamin,349,0.34,-1.62,-1.28
+Thompson Rivers,11,Cason Scott,688,-1.09,-0.25,-1.34
+Windsor,13,Bronson Chambers,513,0.41,-1.78,-1.37
+Dalhousie,9,Caleb Stewart,326,-1.49,0.08,-1.42
+Queen's,5,Gianni Itegeli,395,-0.4,-1.02,-1.42
+Laurentian,9,Angel Castellanos,355,-0.45,-0.98,-1.43
+UNBC,3,Chris Ainsley,382,0.1,-1.54,-1.44
+Windsor,4,Yohann Sam,500,0.48,-1.96,-1.48
+McGill,3,Noah Sincere,302,-2.28,0.77,-1.51
+York,23,Nickele Harris,478,-0.5,-1.03,-1.53
+Western,23,Joe Baggaley-Lacerte,271,-0.81,-0.75,-1.56
+Laurier,34,Julien Binzangi,315,0.27,-1.84,-1.57
+Acadia,9,Donovan Reid,438,0.02,-1.61,-1.58
+Nipissing,11,Douglas Junior Owusu Ansah,343,1.21,-2.8,-1.59
+Nipissing,21,Alvin Icyogere,459,1.18,-2.83,-1.64
+StFX,0,Owen Frayne,556,0.42,-2.07,-1.65
+Saskatchewan,8,Dylan Miller,675,1.13,-2.79,-1.65
+Memorial,8,Andrew Robinson,440,-0.93,-0.73,-1.66
+Waterloo,24,Arshya Ghasemi,431,-1.7,0.03,-1.67
+York,11,Malakai Ayres-Olson,429,0.03,-1.71,-1.68
+Mount Royal,13,Jean Pigoue,451,-1.68,-0.08,-1.76
+Cape Breton,0,Aaron Cunningham,467,0.43,-2.21,-1.77
+Brandon,13,Munroop Gill,1009,0.38,-2.19,-1.8
+Memorial,15,Norm Burry,526,-0.19,-1.63,-1.82
+Saskatchewan,10,Dillyn Morin,283,-4.0,2.18,-1.82
+York,5,Jackson Mackinnon-Metcalf,309,-2.08,0.2,-1.88
+Concordia,22,Jaheem Joseph,287,-1.53,-0.35,-1.88
+Ontario Tech,23,Jesse Okeke,324,-3.64,1.76,-1.88
+Mount Royal,17,DJ Roberts,414,-0.57,-1.33,-1.9
+Bishop's,0,Tiernan McDougall,335,1.66,-3.56,-1.9
+Thompson Rivers,7,Reuben Wright,723,-0.68,-1.23,-1.91
+Ontario Tech,8,TJ Richards,521,-1.47,-0.45,-1.92
+Lakehead,1,Chris Sagl,562,-0.63,-1.33,-1.97
+Regina,11,Tutu Akol,411,-2.0,-0.0,-2.0
+Brandon,9,Sultan Haider-Bhatti,1257,-0.55,-1.45,-2.0
+Lethbridge,3,Kymani Pollard,1106,-0.6,-1.42,-2.02
+Alberta,12,Ethan Egert,427,-0.41,-1.62,-2.03
+Calgary,15,Aidan Smith,867,1.72,-3.76,-2.03
+Cape Breton,1,Stefan Anisko,453,-0.77,-1.32,-2.09
+Cape Breton,14,Mathieu Nader-Kalombo,269,-0.31,-1.8,-2.11
+MacEwan,7,Judson Weir,318,-1.67,-0.47,-2.14
+UPEI,5,Cameron Brown,328,-2.74,0.59,-2.14
+UBC,2,Zeru Abera,591,-0.82,-1.34,-2.15
+UPEI,0,Kyree Thompson,475,-2.16,-0.03,-2.19
+Algoma,30,Logan Whitmell,445,-2.49,0.3,-2.19
+UQAM,14,Yiacovakis Hilaire,414,-1.93,-0.33,-2.25
+UQAM,3,Ousmane Diawara,437,-2.32,0.02,-2.3
+Guelph,4,Bennett Cotton,349,-4.6,2.28,-2.33
+MacEwan,0,Marcus ISO Moore,672,-3.69,1.36,-2.33
+UQAM,15,David Williams,384,-2.18,-0.2,-2.38
+Saskatchewan,12,Freddy Kapinga,267,-2.72,0.32,-2.4
+MacEwan,15,Dami Osuma,542,-4.05,1.62,-2.43
+York,6,Kevin Okeke,617,-1.62,-0.84,-2.45
+Brandon,11,Darko Karac,377,0.49,-2.95,-2.45
+UBCO,8,Mike Adarkwah-Nti,452,-1.85,-0.61,-2.46
+Saint Mary's,2,Jonah Crowther,313,-2.47,0.01,-2.46
+Saint Mary's,5,Devawn White,414,-0.68,-1.78,-2.47
+Nipissing,2,Bryan Oswald-Ayih,251,-1.5,-1.01,-2.51
+Calgary,3,Mrigendra Dhaliwal,1215,-0.68,-1.87,-2.55
+Toronto,0,Nigel Hylton,748,-1.11,-1.44,-2.55
+Lethbridge,4,Joe Lemieux,849,-1.56,-1.0,-2.56
+York,8,Nathan Carr,370,-1.81,-0.79,-2.59
+Acadia,3,Aaron Simmons,481,-1.72,-0.9,-2.62
+UPEI,24,Abilash Surendran,419,-3.12,0.48,-2.64
+Manitoba,10,Samuel Jensen,320,-0.64,-2.01,-2.66
+Algoma,15,Tyson Francisco,348,-0.78,-1.88,-2.66
+Saskatchewan,5,Treyvon Folkes,308,-1.37,-1.3,-2.67
+Nipissing,4,Jeziyah Excell-Johnson,586,-0.36,-2.38,-2.74
+Laurentian,22,Favour Ugbah,369,-0.68,-2.06,-2.74
+Saint Mary's,11,Jahsemar Olembe,386,-2.04,-0.7,-2.74
+Mount Royal,15,Faruq Balarabe,427,-1.5,-1.25,-2.75
+UQAM,9,Guerdy Jean,322,-1.96,-0.86,-2.82
+UFV,3,Isaiah Lee,286,-0.12,-2.73,-2.85
+Dalhousie,12,Riley Stewart,578,-1.49,-1.39,-2.87
+Waterloo,7,Moses Anvari,550,-2.41,-0.51,-2.91
+Regina,6,Ajang Tong,484,-2.84,-0.19,-3.03
+UNB,8,Anthony Sears,406,-0.67,-2.38,-3.04
+UNBC,10,Danilo Gonzalez,441,-2.15,-0.92,-3.07
+MacEwan,13,Milan Jaksic,463,-1.38,-1.79,-3.17
+Laurier,31,Hazara Jawanda,336,-0.24,-3.0,-3.24
+Manitoba,12,Taven Vigilance,541,-2.39,-0.89,-3.28
+Alberta,5,Fahad Yusuf,896,0.74,-4.06,-3.32
+Alberta,1,Logan Powell,671,-3.06,-0.27,-3.32
+Saskatchewan,13,Josiah Roberts,316,-3.65,0.33,-3.33
+MacEwan,12,Job Janda,777,-1.55,-1.81,-3.36
+Lethbridge,22,Karter Fry,609,-1.74,-1.66,-3.41
+StFX,12,Dakoda Lewis,259,-3.29,-0.11,-3.41
+MacEwan,5,Diego Presingular,818,-2.05,-1.48,-3.52
+McGill,11,Miles King,332,-1.77,-1.76,-3.53
+McMaster,8,ARES CULLEY-BREMNER,620,-2.23,-1.36,-3.6
+Saint Mary's,3,Jayrell Diggs,406,-1.63,-2.0,-3.63
+UPEI,2,Sam Chisholm,397,-4.17,0.53,-3.63
+Laurentian,2,To Randriasalama,471,-2.3,-1.33,-3.63
+Cape Breton,10,Josiah McKnight,261,-1.39,-2.29,-3.68
+UBCO,10,Jalen Shirley,830,-1.23,-2.46,-3.68
+Lethbridge,2,Mason Hoffman,537,-2.52,-1.17,-3.69
+Calgary,13,Daniel Chijioke,743,-1.64,-2.07,-3.71
+Brandon,3,Malik Brown,610,-4.08,0.34,-3.73
+Algoma,4,Chance Beaudoin-Skerritt,467,-1.07,-2.68,-3.75
+Western,4,Raequon Pryce,289,-2.17,-1.59,-3.76
+Lethbridge,8,Cole Steele,331,-2.56,-1.21,-3.78
+UBCO,24,Mathias Schertzer,477,-2.0,-1.79,-3.8
+Algoma,11,Biong Deng,410,-4.43,0.64,-3.8
+Saskatchewan,3,Dylan Boughen,383,-2.65,-1.21,-3.87
+Ontario Tech,10,Caleb Kassa,615,-3.79,-0.11,-3.9
+York,1,Jerimiah Kwarteng,550,-1.63,-2.31,-3.94
+McGill,6,Sean Duff,367,-0.84,-3.21,-4.06
+UPEI,7,Hugo Bermejo,458,-4.28,0.11,-4.16
+Thompson Rivers,15,Thomas Olsen,619,-4.63,0.33,-4.31
+Guelph,12,Isaiah Odle-Clarke,310,-2.94,-1.38,-4.32
+Regina,2,Lodie Kenyi,1257,-4.33,-0.02,-4.35
+McGill,22,Saransh Padhy,374,-0.72,-3.8,-4.52
+MacEwan,2,Khushal Shukla,353,-4.07,-0.49,-4.56
+UNBC,12,Haukur Davidsson,486,-1.05,-3.53,-4.58
+Manitoba,5,Brandt Lenz,680,-4.77,0.17,-4.6
+Saskatchewan,2,Easton Thimm,803,-2.49,-2.27,-4.75
+Cape Breton,3,Cardy Jean,370,-3.96,-0.91,-4.87
+McMaster,21,RILEY BLEICH,496,-3.03,-1.93,-4.96
+Memorial,13,Andre Ash,299,-1.65,-3.34,-4.98
+McMaster,22,JACK MCMAHAN,499,-2.5,-2.63,-5.13
+Regina,3,Sufyan Elkannan,835,-2.64,-2.57,-5.2
+York,12,LaDainian James,283,-3.84,-1.58,-5.42
+McMaster,6,TYLER GARCIA,503,-2.84,-2.73,-5.57
+MacEwan,8,Dele Osuma,594,-3.57,-2.12,-5.68
+Algoma,7,Jean-Luc Cubahiro,556,-4.37,-1.77,-6.14
+Algoma,20,Shalom Anyikwa,459,-4.87,-1.72,-6.6
+UQAM,4,Milan Robichaud,252,-3.93,-2.93,-6.86
+Algoma,3,Oliver Kristoffersen,561,-4.12,-3.31,-7.43
+UNBC,2,Justin Sunga,588,-4.4,-3.31,-7.71
+Algoma,1,Kal-El Alejo,632,-7.25,-1.58,-8.83
+UBCO,3,Isaak Moore,797,-3.91,-5.83,-9.74
