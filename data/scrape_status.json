@@ -1,12 +1,9 @@
 {
-  "status": "idle",
-  "last_run": "2026-03-18T08:57:58.525453",
-  "last_result": {
-    "success": 1,
-    "failed": 0,
-    "competitions": [
-      "SBL_SE"
-    ]
-  },
-  "updated_at": "2026-03-18T08:57:58.992770"
+  "status": "running",
+  "mode": "all",
+  "competitions": [
+    "SBL_SE"
+  ],
+  "started_at": "2026-03-19T02:37:07.588187",
+  "updated_at": "2026-03-19T02:37:08.055170"
 }
