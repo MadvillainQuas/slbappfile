@@ -24,7 +24,8 @@
         "KOS",
         "SBL_SE",
         "EL",
-        "NKL"
+        "NKL",
+        "GREL"
       ],
       "leagues": [],
       "created_at": "2026-02-01T00:00:00Z",
@@ -277,6 +278,15 @@
   "enabled": true,
   "schedule_urls": [
     "https://www.nklyga.lt/rungtynes/rezultatai.html"
+  ]
+},
+    {
+  "code": "GREL",
+  "name": "Greek Elite League",
+  "enabled": true,
+  "schedule_type": "standard",
+  "schedule_urls": [
+    "https://www.eliteleague.gr/schedule/"
   ]
 }
   ]
