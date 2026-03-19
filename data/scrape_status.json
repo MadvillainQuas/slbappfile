@@ -1,12 +1,9 @@
 {
-  "status": "idle",
-  "last_run": "2026-03-19T04:03:25.101613",
-  "last_result": {
-    "success": 0,
-    "failed": 1,
-    "competitions": [
-      "NKL"
-    ]
-  },
-  "updated_at": "2026-03-19T04:03:25.581779"
+  "status": "running",
+  "mode": "all",
+  "competitions": [
+    "NKL"
+  ],
+  "started_at": "2026-03-19T04:17:18.888356",
+  "updated_at": "2026-03-19T04:17:19.348758"
 }
