@@ -1,12 +1,10 @@
 {
-  "status": "idle",
-  "last_run": "2026-03-19T15:44:51.864001",
-  "last_result": {
-    "success": 1,
-    "failed": 0,
-    "competitions": [
-      "USPORTS"
-    ]
-  },
-  "updated_at": "2026-03-19T15:44:52.396672"
+  "status": "running",
+  "mode": "all",
+  "competitions": [
+    "NKL",
+    "GREL"
+  ],
+  "started_at": "2026-03-20T04:23:55.314687",
+  "updated_at": "2026-03-20T04:23:55.753019"
 }
