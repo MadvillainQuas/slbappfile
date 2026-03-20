@@ -1,0 +1,198 @@
+# RAPM - Regularized Adjusted Plus/Minus
+# Regularization parameter (alpha/lambda): 800
+# Minimum possessions filter: 250
+# Total players in calculation: 258
+# Qualified players exported: 190
+# Total stints used: 11886
+# Garbage time stints excluded: 340
+Team,Player_Number,Player_Name,Possessions,ORAPM,DRAPM,RAPM
+Marijampolės Sūduva-Mantinga,37,Ernestas Jaškus,1427,4.59,5.13,9.72
+Šakių Vytis-VDU,13,Kajus Leliukas,1639,3.27,4.48,7.76
+Marijampolės Sūduva-Mantinga,24,Aurelijus Pukelis,991,3.89,2.23,6.12
+Marijampolės Sūduva-Mantinga,0,Žygimantas Šimonis,1853,3.47,2.49,5.96
+Šakių Vytis-VDU,24,Gabrielius Čelka,2233,5.54,0.36,5.9
+Vilkaviškio Perlas Go,21,Theodore Kieth Gadsden Jr,2131,1.02,4.57,5.59
+Vilniaus Rytas-2,5,Mantas Liutkevičius,853,1.17,4.41,5.58
+Kauno Žalgiris-2,7,Jokūbas Rudaitis,1801,2.4,3.15,5.55
+Kretingos Kretinga-Rivile,22,Julius Kazakauskas,2126,5.33,-0.31,5.01
+Kauno r. Omega-Tauras-LSU,11,Ignas Juškevičius,488,0.65,3.93,4.58
+Marijampolės Sūduva-Mantinga,13,Marijus Užupis,1184,4.68,-0.19,4.48
+Telšių Telšiai,90,Laurynas Kaveckis,904,0.96,3.44,4.4
+Klaipėdos Neptūnas-Akvaservis,31,Eimantas Žilius,920,0.6,3.57,4.18
+Kauno r. Omega-Tauras-LSU,6,Simas Šliogeris,1278,0.44,3.71,4.14
+Vilkaviškio Perlas Go,5,Titas Pažarauskas,1756,2.45,1.62,4.07
+Kėdainių sporto centras,15,Ignas Lukošius,1638,0.13,3.87,4.0
+Marijampolės Sūduva-Mantinga,14,Ernestas Sederevičius,411,0.5,3.48,3.98
+Jurbarko Jurbarkas-Karys-Manvesta,6,Gintautas Matulis,1605,2.42,1.55,3.97
+Kėdainių sporto centras,37,Rokas Ūzas,2147,3.98,-0.13,3.85
+Vilkaviškio Perlas Go,34,Giedrius Stankevičius,1292,-1.09,4.93,3.83
+Jurbarko Jurbarkas-Karys-Manvesta,10,Karolis Guščikas,1780,-1.13,4.96,3.83
+Klaipėdos Neptūnas-Akvaservis,28,Džiugas Remeikis,1474,2.41,1.24,3.65
+Kauno Žalgiris-2,12,Majus Bulanovas,2054,2.63,0.94,3.57
+Marijampolės Sūduva-Mantinga,88,Domantas Vilys,1481,1.48,1.94,3.42
+Klaipėdos Neptūnas-Akvaservis,13,Rokas Mačiulis,1765,1.72,1.67,3.4
+Telšių Telšiai,1,Ovidijus Kaminskis,1764,0.96,2.44,3.39
+Telšių Telšiai,3,Ignas Razutis,1826,1.8,1.59,3.39
+Plungės Olimpas,1,Najeeb Ali Muhammad,1367,1.46,1.89,3.35
+Šilutės Šilutė-PDS.lt,1,Devin Lavonne Hutchinson,2084,3.59,-0.48,3.11
+Alytaus Alytus,8,Augustinas Venckus,986,3.61,-0.54,3.07
+Mažeikių M Basket,14,Ernestas Naruševičius,1594,1.51,1.51,3.01
+Mažeikių M Basket,13,Pavlo Karasov,1311,2.03,0.98,3.01
+Mažeikių M Basket,7,Jokūbas Stropus,1191,0.26,2.64,2.9
+Marijampolės Sūduva-Mantinga,25,Matas Jucikas,1281,-0.99,3.83,2.84
+Kauno r. Omega-Tauras-LSU,2,Ąžuolas Hopenas,401,1.77,0.99,2.76
+Jurbarko Jurbarkas-Karys-Manvesta,55,Justas Tamulis,1665,-0.9,3.64,2.74
+Ukmergės Stekas,33,Dominykas Bučas,1689,4.21,-1.49,2.72
+Palangos Olimpas,0,Antanas Udras,949,1.76,0.9,2.66
+Vilniaus Rytas-2,14,Gabrielius Bubnys,1281,1.17,1.4,2.58
+Šilutės Šilutė-PDS.lt,5,J'Von McCormick,741,1.81,0.75,2.56
+Kėdainių sporto centras,44,Medas Kuprijanovas,1601,0.47,1.69,2.17
+Šilutės Šilutė-PDS.lt,23,Norbertas Giga,2062,2.39,-0.28,2.11
+Plungės Olimpas,11,Tadas Budrys,2072,0.46,1.63,2.09
+Vilniaus Rytas-2,27,Arminas Vilkas,1366,2.95,-0.87,2.08
+Klaipėdos Neptūnas-Akvaservis,24,Klaidas Metrikis,1257,1.22,0.86,2.08
+Kauno Žalgiris-2,10,Nedas Raupelis,1388,1.78,0.29,2.06
+Vilniaus Rytas-2,19,Nikas Stuknys,918,1.47,0.57,2.04
+Vilkaviškio Perlas Go,4,Armandas Bancevičius,385,1.24,0.8,2.03
+Mažeikių M Basket,1,Gediminas Mokšeckas,2147,-0.47,2.47,1.99
+Kauno Žalgiris-2,4,Kajus Mikalauskas,1395,0.02,1.91,1.93
+Kauno Žalgiris-2,8,Dominykas Daubaris,1043,1.09,0.73,1.82
+Marijampolės Sūduva-Mantinga,7,Ignas Labutis,1376,3.43,-1.64,1.79
+Jurbarko Jurbarkas-Karys-Manvesta,5,Arnas Adomavičius,1381,0.44,1.2,1.64
+Vilniaus Rytas-2,16,Ignas Urbonas,1793,0.17,1.47,1.63
+Vilniaus Rytas-2,22,Gantas Križanauskas,1512,-0.11,1.7,1.58
+Mažeikių M Basket,5,DeAngelo Marquett Epps,1540,0.64,0.87,1.51
+Vilkaviškio Perlas Go,50,Žygimantas Skučas,1689,-0.66,2.12,1.46
+Kretingos Kretinga-Rivile,23,Justin Taylor Young,1250,1.15,0.23,1.38
+Klaipėdos Neptūnas-Akvaservis,10,Aironas Žymantas,712,-1.19,2.54,1.35
+Kėdainių sporto centras,17,Laurynas Bimba,1052,1.51,-0.19,1.33
+Alytaus Alytus,15,Dmytro Tykhonov,467,2.64,-1.33,1.31
+Šakių Vytis-VDU,22,Titas Januševičius,2024,1.75,-0.47,1.28
+Ukmergės Stekas,22,Kipras Urbanavičius,1682,0.34,0.91,1.25
+Šakių Vytis-VDU,11,Rokas Jocys,1572,0.36,0.87,1.23
+Kauno r. Omega-Tauras-LSU,23,Armandas Bancevičius,878,0.84,0.35,1.19
+Ukmergės Stekas,0,Kyliann Rotardier,885,0.63,0.55,1.17
+Vilkaviškio Perlas Go,1,Justinas Ramanauskas,332,1.69,-0.59,1.11
+Šakių Vytis-VDU,12,Augustinas Mikštas,1685,-0.22,1.3,1.08
+Kauno Žalgiris-2,16,Ignas Štombergas,1467,-0.9,1.85,0.96
+Mažeikių M Basket,4,Coltie Keanu Young,2093,0.6,0.32,0.92
+Vilniaus Rytas-2,8,Gabrielius Jokubauskas,1323,0.92,-0.13,0.79
+Plungės Olimpas,4,Colin Gabriel Golson Jr,1856,0.54,0.03,0.57
+Marijampolės Sūduva-Mantinga,22,Tautvydas Kliučinykas,1175,1.01,-0.51,0.5
+Kretingos Kretinga-Rivile,14,Gytis Mačionis,1423,3.23,-2.77,0.46
+Palangos Olimpas,7,Tadas Kymantas,575,-1.76,2.22,0.46
+Plungės Olimpas,22,Thomas Deangelo Miles,1875,1.37,-0.93,0.45
+Alytaus Alytus,1,Robert Charles Waters-Johnson Jr,2260,0.17,0.21,0.38
+Šilutės Šilutė-PDS.lt,10,Frederick Fitzgerald Gates Jr,2382,-0.05,0.37,0.32
+Palangos Olimpas,11,Ernestas Bružas,1401,0.42,-0.12,0.3
+Plungės Olimpas,24,Tautvydas Baltrušaitis,532,1.17,-0.98,0.19
+Šilutės Šilutė-PDS.lt,6,Tadas Kararinas,286,0.93,-0.74,0.18
+Kretingos Kretinga-Rivile,55,Jalen Warren,1691,0.02,0.09,0.11
+Šakių Vytis-VDU,3,Paulius Velutis,443,0.94,-0.84,0.1
+Palangos Olimpas,1,Troy Marshall Barnies,972,0.4,-0.29,0.1
+Palangos Olimpas,3,Paulius Danisevičius,1836,-0.14,0.11,-0.03
+Vilkaviškio Perlas Go,19,Mantvydas Žukauskas,1631,-1.95,1.91,-0.04
+Jurbarko Jurbarkas-Karys-Manvesta,17,Karolis Kokoška,1925,0.87,-0.91,-0.05
+Jurbarko Jurbarkas-Karys-Manvesta,99,Karolis Babušis,1687,-0.8,0.75,-0.05
+Plungės Olimpas,10,Arijus Adomauskas,607,-0.63,0.57,-0.05
+Kauno r. Omega-Tauras-LSU,7,Neidas Linartas,827,-0.23,0.18,-0.05
+Vilniaus Rytas-2,34,Vincentas Adomaitis,948,-0.6,0.54,-0.06
+Alytaus Alytus,13,Ronald Niamke Degray III,1454,1.73,-1.81,-0.07
+Kauno r. Omega-Tauras-LSU,3,Nedas Vydmantas,1080,0.81,-0.91,-0.11
+Kėdainių sporto centras,5,Laurynas Danielius,1981,-2.33,2.21,-0.12
+Klaipėdos Neptūnas-Akvaservis,6,Ernestas Jonkus,1676,-2.4,2.22,-0.18
+Kėdainių sporto centras,7,Vainius Steponavičius,835,0.39,-0.67,-0.28
+Plungės Olimpas,18,Arnas Vaištaras,1155,-1.89,1.54,-0.34
+Telšių Telšiai,10,Pavle Kuzmanovic,603,-1.78,1.41,-0.38
+Palangos Olimpas,40,Daniel Neil Titus,301,-1.49,1.09,-0.39
+Palangos Olimpas,5,Mindaugas Stašys,1502,0.9,-1.33,-0.42
+Kėdainių sporto centras,9,Arminas Kelmelis,1526,-1.14,0.64,-0.5
+Vilniaus Rytas-2,10,Artūras Vilutis,603,-0.81,0.28,-0.53
+Šakių Vytis-VDU,2,Nojus Vaivada,1628,0.43,-0.98,-0.55
+Palangos Olimpas,17,Justas Sadauskas,376,-0.31,-0.27,-0.58
+Šakių Vytis-VDU,1,Rokas Norutis,728,-0.93,0.34,-0.59
+Telšių Telšiai,11,Vytautas Meištas,292,0.89,-1.49,-0.59
+Palangos Olimpas,12,Nojus Pabrieža,1473,-1.01,0.37,-0.63
+Telšių Telšiai,44,Tomas Balčiūnas,867,-0.48,-0.27,-0.75
+Kėdainių sporto centras,30,Augustas Žilinskas,1326,0.66,-1.46,-0.8
+Kauno r. Omega-Tauras-LSU,44,Tauris Aliukonis,695,-0.05,-0.78,-0.83
+Telšių Telšiai,22,Deividas Rasys,1646,-0.41,-0.44,-0.84
+Vilniaus Rytas-2,9,Kornelijus Snitka,747,0.51,-1.39,-0.88
+Vilkaviškio Perlas Go,22,Vytautas Meištas,345,1.36,-2.29,-0.92
+Alytaus Alytus,11,Nathan Lewis Scott,1351,-0.41,-0.56,-0.97
+Jurbarko Jurbarkas-Karys-Manvesta,1,Almantas Liepuonis,250,-2.33,1.27,-1.06
+Šilutės Šilutė-PDS.lt,13,Lukas Kazlauskas,2077,0.71,-1.81,-1.1
+Kauno Žalgiris-2,35,Maksim Brnovič,1248,0.09,-1.21,-1.12
+Klaipėdos Neptūnas-Akvaservis,77,Kristupas Leščiauskas,1662,-1.01,-0.14,-1.15
+Ukmergės Stekas,12,Kostas Jonuška,748,-3.48,2.32,-1.15
+Telšių Telšiai,31,Jared Steven Small,1502,0.89,-2.08,-1.19
+Kėdainių sporto centras,4,Paulius Semaška,2249,-2.84,1.44,-1.4
+Kauno r. Omega-Tauras-LSU,12,Šarūnas Vasiliauskas,2147,1.91,-3.46,-1.55
+Vilkaviškio Perlas Go,23,Jorell Ty Saterfield,1525,-0.26,-1.3,-1.56
+Kauno Žalgiris-2,55,Dominykas Grunkis,1399,-1.72,0.05,-1.67
+Kretingos Kretinga-Rivile,33,Vytautas Saulis,481,-2.77,1.07,-1.7
+Alytaus Alytus,12,Laurynas Klimas,321,-1.43,-0.34,-1.78
+Šilutės Šilutė-PDS.lt,31,Nojus Jankūnas,1836,-0.54,-1.31,-1.85
+Kretingos Kretinga-Rivile,13,Rytis Zabita,1897,-2.93,1.08,-1.85
+Jurbarko Jurbarkas-Karys-Manvesta,7,Arnas Saulėnas,274,-0.68,-1.19,-1.87
+Vilniaus Rytas-2,23,Erikas Sirgedas,821,-1.89,-0.15,-2.04
+Alytaus Alytus,8,Kristupas Smirnov,563,0.82,-2.87,-2.05
+Plungės Olimpas,21,Petras Piekus,347,-1.49,-0.58,-2.07
+Ukmergės Stekas,2,Justas Šukelis,444,-1.45,-0.73,-2.17
+Telšių Telšiai,13,Martynas Gecevičius,1561,1.06,-3.23,-2.17
+Mažeikių M Basket,3,Nickolas Ralpheal Neal,1566,-0.99,-1.19,-2.18
+Kauno Žalgiris-2,3,Dominykas Urbonavičius,652,-1.98,-0.27,-2.25
+Plungės Olimpas,2,Motiejus Maziliauskas,1014,0.22,-2.51,-2.29
+Vilkaviškio Perlas Go,9,Kristupas Smirnov,428,-2.19,-0.13,-2.32
+Klaipėdos Neptūnas-Akvaservis,12,Rytis Šakaitis,1729,-1.46,-0.92,-2.38
+Palangos Olimpas,22,Marius Runkauskas,1200,-1.56,-0.82,-2.38
+Kretingos Kretinga-Rivile,5,Mantvydas Staniulis,2048,1.1,-3.49,-2.39
+Kauno r. Omega-Tauras-LSU,23,Augustas Navickas,315,-0.76,-1.71,-2.46
+Telšių Telšiai,6,Vilius Pocius,1878,-1.87,-0.65,-2.51
+Šilutės Šilutė-PDS.lt,7,Adas Šimonis,1773,-2.66,0.06,-2.6
+Alytaus Alytus,7,Justas Juozaitis,381,-1.29,-1.32,-2.61
+Jurbarko Jurbarkas-Karys-Manvesta,9,Šarūnas Valunta,1635,-3.41,0.79,-2.63
+Plungės Olimpas,8,Modestas Jurkaitis,2017,-0.79,-1.87,-2.66
+Klaipėdos Neptūnas-Akvaservis,7,Simas Šarakauskas,1201,-2.48,-0.28,-2.76
+Alytaus Alytus,90,Tautvydas Baltrušaitis,1447,-1.54,-1.32,-2.85
+Kauno r. Omega-Tauras-LSU,22,Linas Krivickas,882,-2.39,-0.46,-2.86
+Alytaus Alytus,5,Tomas Stankevičius,794,-1.59,-1.27,-2.86
+Ukmergės Stekas,26,Dastinas Morkūnas,730,-2.97,0.07,-2.9
+Kretingos Kretinga-Rivile,6,Edgaras Danys,1442,-3.29,0.38,-2.92
+Vilkaviškio Perlas Go,33,Gabriel Bennett Quillan,1360,0.04,-3.0,-2.95
+Marijampolės Sūduva-Mantinga,4,Martynas Zigmantavičius,1240,-1.25,-1.74,-2.98
+Vilkaviškio Perlas Go,7,Ąžuolas Hopenas,397,-2.44,-0.59,-3.03
+Ukmergės Stekas,3,Rahsaan Amari Edwards,1811,-1.1,-1.99,-3.09
+Telšių Telšiai,4,Arūnas Rimkus,1007,-0.51,-2.71,-3.22
+Vilniaus Rytas-2,2,Adomas Pocius,912,-1.55,-1.71,-3.26
+Jurbarko Jurbarkas-Karys-Manvesta,2,Justas Nausėdas,1321,-2.51,-0.93,-3.44
+Palangos Olimpas,13,Laurynas Mikalauskas,991,-1.67,-2.04,-3.71
+Ukmergės Stekas,13,Aurimas Buškevičius,347,-3.63,-0.11,-3.74
+Alytaus Alytus,30,Martynas Pocevičius,1262,-3.78,0.01,-3.77
+Kretingos Kretinga-Rivile,7,Justas Žiubrys,1189,-4.37,0.56,-3.81
+Ukmergės Stekas,10,Karolis Brusokas,775,-2.79,-1.06,-3.85
+Kauno r. Omega-Tauras-LSU,8,Vytautas Šulskis,1944,0.49,-4.43,-3.94
+Ukmergės Stekas,13,Vytautas Saulis,402,-1.19,-2.84,-4.03
+Palangos Olimpas,1,Jordan Lee Glover,356,-3.48,-0.65,-4.12
+Šakių Vytis-VDU,6,Gabrielius Mažeika,811,-1.58,-2.55,-4.12
+Alytaus Alytus,3,De Angelo William Stewart,634,-1.26,-2.88,-4.14
+Vilniaus Rytas-2,13,Danielius Kasparas,749,-0.95,-3.19,-4.15
+Kretingos Kretinga-Rivile,8,Tautvydas Rudys,1313,-4.14,-0.09,-4.23
+Kauno r. Omega-Tauras-LSU,4,Robertas Keliačius,1292,-5.18,0.92,-4.27
+Alytaus Alytus,23,Otas Vaitulevičius,685,-2.59,-1.86,-4.46
+Kauno r. Omega-Tauras-LSU,5,Tomas Galeckas,1778,0.29,-4.79,-4.5
+Ukmergės Stekas,5,Webster Fredrick Simeus,1240,-3.65,-0.91,-4.56
+Ukmergės Stekas,19,Mantas Šerkšnas,459,-1.52,-3.16,-4.68
+Mažeikių M Basket,12,Mindaugas Motuzas,1927,-1.36,-3.51,-4.86
+Ukmergės Stekas,23,Robert Subotkevič,2163,-0.8,-4.32,-5.12
+Palangos Olimpas,34,Matas Narvilas,1908,-1.36,-3.82,-5.18
+Šakių Vytis-VDU,23,Jokūbas Rubinas,1678,-1.42,-3.91,-5.33
+Plungės Olimpas,12,Christopher Tsamas,463,-2.71,-2.7,-5.41
+Ukmergės Stekas,2,John Okeychukwu Egbuta,912,-3.91,-1.73,-5.64
+Klaipėdos Neptūnas-Akvaservis,16,Matas Mačijauskas,983,-4.14,-2.28,-6.43
+Alytaus Alytus,14,Justinas Norkus,1154,-4.51,-2.04,-6.55
+Šilutės Šilutė-PDS.lt,11,Demetrius Lake,270,-3.9,-2.7,-6.61
+Plungės Olimpas,23,Rokas Kreišmontas,1372,-2.46,-4.6,-7.06
+Kauno Žalgiris-2,2,Sten Markus Adamson,1060,-1.97,-5.2,-7.17
+Vilkaviškio Perlas Go,35,Gustas Kučinskas,725,-4.59,-4.06,-8.65
+Šilutės Šilutė-PDS.lt,27,Julius Jucikas,1190,-6.36,-2.55,-8.91
