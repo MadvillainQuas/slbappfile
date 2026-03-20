@@ -1,4 +1,6 @@
 {"folders":[
+  {"path":"adult/data_2026-03-20T06-36_GREL","folder_name":"data_2026-03-20T06-36_GREL","timestamp":"2026-03-20T06-36","competition_code":"GREL"}
+,
   {"path":"adult/data_2026-03-20T05-27_NKL","folder_name":"data_2026-03-20T05-27_NKL","timestamp":"2026-03-20T05-27","competition_code":"NKL"}
 ,
   {"path":"adult/data_2026-03-19T15-03_USPORTS","folder_name":"data_2026-03-19T15-03_USPORTS","timestamp":"2026-03-19T15-03","competition_code":"USPORTS"}
