@@ -1,13 +1,9 @@
 {
-  "status": "idle",
-  "last_run": "2026-03-20T06:51:52.434866",
-  "last_result": {
-    "success": 2,
-    "failed": 0,
-    "competitions": [
-      "NKL",
-      "GREL"
-    ]
-  },
-  "updated_at": "2026-03-20T06:51:52.886052"
+  "status": "running",
+  "mode": "all",
+  "competitions": [
+    "HBBC"
+  ],
+  "started_at": "2026-03-22T15:23:05.518363",
+  "updated_at": "2026-03-22T15:23:05.941236"
 }
