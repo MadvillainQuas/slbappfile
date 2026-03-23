@@ -1,9 +1,6 @@
 {
   "status": "running",
-  "mode": "all",
-  "competitions": [
-    "HBBC"
-  ],
-  "started_at": "2026-03-22T15:23:05.518363",
-  "updated_at": "2026-03-22T15:23:05.941236"
+  "current_request": "monday_auto_1774246528",
+  "started_at": "2026-03-23T06:15:28.018802",
+  "updated_at": "2026-03-23T06:15:28.542628"
 }
