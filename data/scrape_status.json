@@ -1,10 +1,9 @@
 {
-  "status": "idle",
-  "last_completed": "monday_auto_1774847572",
-  "completed_at": "2026-03-31T03:11:47.457783",
-  "last_result": {
-    "success": 6,
-    "failed": 8
-  },
-  "updated_at": "2026-03-31T03:11:47.623561"
+  "status": "running",
+  "mode": "all",
+  "competitions": [
+    "SLB"
+  ],
+  "started_at": "2026-03-31T19:03:50.363240",
+  "updated_at": "2026-03-31T19:03:50.802899"
 }
