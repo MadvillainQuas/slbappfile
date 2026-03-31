@@ -1,9 +1,12 @@
 {
-  "status": "running",
-  "mode": "all",
-  "competitions": [
-    "SLB"
-  ],
-  "started_at": "2026-03-31T19:03:50.363240",
-  "updated_at": "2026-03-31T19:03:50.802899"
+  "status": "idle",
+  "last_run": "2026-03-31T20:32:30.947919",
+  "last_result": {
+    "success": 1,
+    "failed": 0,
+    "competitions": [
+      "SLB"
+    ]
+  },
+  "updated_at": "2026-03-31T20:32:31.453187"
 }
