@@ -1,6 +1,10 @@
 {
-  "status": "running",
-  "current_request": "monday_auto_1774847572",
-  "started_at": "2026-03-30T06:12:52.811683",
-  "updated_at": "2026-03-30T06:12:53.384194"
+  "status": "idle",
+  "last_completed": "monday_auto_1774847572",
+  "completed_at": "2026-03-31T03:11:47.457783",
+  "last_result": {
+    "success": 6,
+    "failed": 8
+  },
+  "updated_at": "2026-03-31T03:11:47.623561"
 }
