@@ -1,0 +1,88 @@
+# RAPM - Regularized Adjusted Plus/Minus
+# Regularization parameter (alpha/lambda): 800
+# Minimum possessions filter: 250
+# Total players in calculation: 182
+# Qualified players exported: 80
+# Total stints used: 1811
+# Garbage time stints excluded: 69
+Team,Player_Number,Player_Name,Possessions,ORAPM,DRAPM,RAPM
+Kataja Basket,2,De'Vion Harmon,279,3.59,2.75,6.34
+Korihait,50,Mikael Aalto,543,2.94,2.57,5.51
+Korihait,7,Bojan Sarcévic,856,1.81,2.86,4.68
+Kouvot,8,Tobias Rotegård,263,1.32,2.78,4.1
+KTP-Basket,44,Hannes Pöllä,504,0.01,4.05,4.06
+Tapiolan Honka,3,Taye Donald,489,3.05,0.69,3.74
+Kataja Basket,10,Eetu Lähdetniemi,295,1.6,1.9,3.5
+Kauhajoki,22,Christian Davis,389,1.26,1.99,3.25
+Salon Vilpas,22,Eero Innamaa,603,1.56,1.69,3.25
+Salon Vilpas,21,Ze'Rik Onyema,254,3.01,-0.63,2.37
+Korihait,40,Jalen Jackson,965,0.86,1.3,2.16
+Helsinki Seagulls,5,Elias Leskinen,296,1.01,1.15,2.16
+KTP-Basket,8,Jayden Taylor,473,-0.39,2.44,2.05
+Salon Vilpas,5,Jalen Brooks,589,1.02,1.01,2.03
+Tampereen Pyrintö,11,Ahren Freeman,430,1.05,0.93,1.98
+Tampereen Pyrintö,21,Riku Laine,401,0.9,1.02,1.92
+Helsinki Seagulls,0,Chrysostom Chukwuma,388,1.36,0.48,1.85
+Kauhajoki,8,Antti Ahonen,612,2.45,-0.7,1.75
+Korihait,13,Ville Tahvanainen,465,1.09,0.39,1.49
+Tapiolan Honka,35,Isaiah Kelly,462,0.5,0.87,1.37
+Kauhajoki,7,Eemi Luukkonen,741,-0.19,1.36,1.17
+Helsinki Seagulls,55,Christian Keeling,335,0.21,0.96,1.17
+Kouvot,2,Brandon Stroud,406,0.57,0.57,1.15
+Korihait,20,Frank Champion,851,-0.11,1.2,1.1
+Kataja Basket,55,Henri Kantonen,473,-0.09,1.15,1.07
+Salon Vilpas,0,Ansley Almonor,852,1.01,0.05,1.07
+Kataja Basket,45,Henri Permanto,508,1.03,0.02,1.05
+KTP-Basket,2,Koen Sapwell,293,0.19,0.83,1.03
+Kouvot,11,Tuukka Härsilä,298,-0.33,1.33,1.0
+Tampereen Pyrintö,23,Joona Hakamaa,274,1.51,-0.53,0.98
+Kauhajoki,23,Ty Berry,571,-1.5,2.34,0.85
+Salon Vilpas,4,Mikko Koivisto,252,1.79,-1.09,0.7
+Korihait,8,Joni Herrala,294,0.78,-0.31,0.46
+KTP-Basket,11,Hugo Stepanoff,268,0.32,0.12,0.44
+Tapiolan Honka,25,Iiro Tuomi,274,-0.12,0.53,0.41
+Bisons Loimaa,0,Jalin Anderson,382,1.77,-1.36,0.41
+Tampereen Pyrintö,13,Kaleb Warner,319,1.16,-0.76,0.4
+Kouvot,33,Tai Bibbs,253,0.16,0.11,0.28
+Kouvot,3,Teemu Kristeri,289,-0.96,1.21,0.25
+Helsinki Seagulls,40,Justus Kilpinen,266,0.09,0.13,0.22
+Bisons Loimaa,31,Dean Keeler,352,1.34,-1.12,0.22
+Kauhajoki,4,Ike Nweke,599,0.24,-0.14,0.1
+Kouvot,6,Rasmus Lindberg,276,0.16,-0.24,-0.09
+Kauhajoki,25,Kalle Koivunen,393,-1.69,1.42,-0.27
+KTP-Basket,35,Jesper Granlund,416,-2.86,2.52,-0.34
+Tapiolan Honka,33,David Gonzalvez,564,0.97,-1.33,-0.36
+Kataja Basket,3,Jared Kimbrough,288,-1.12,0.54,-0.58
+Kouvot,53,Patrik En,264,-1.81,1.23,-0.58
+Tapiolan Honka,2,Alvar Peltoniemi,855,-0.93,0.32,-0.61
+Lahti Basketball,1,Arttu Saarijärvi,343,-0.01,-0.62,-0.63
+Salon Vilpas,20,Luukas Vaara,374,-1.46,0.83,-0.63
+Kauhajoki,35,Aamos Laavainen,449,-1.71,0.99,-0.72
+Tapiolan Honka,10,Riku Korhonen,505,-0.55,-0.21,-0.76
+Lahti Basketball,95,Kalle Peltonen,348,0.25,-1.14,-0.88
+Lahti Basketball,0,Jehloni James,645,1.06,-1.95,-0.89
+KTP-Basket,24,Aaron Carver,599,-0.77,-0.28,-1.04
+Kauhajoki,14,Oliver Kandén,635,-2.49,1.37,-1.11
+Tampereen Pyrintö,1,Jared Billups,619,-3.24,1.84,-1.39
+Tampereen Pyrintö,5,Valtteri Mervola,395,-2.52,1.02,-1.49
+Korihait,0,Bobby Planutis,295,-0.83,-0.94,-1.76
+Lahti Basketball,34,Max Brooks,275,0.69,-2.48,-1.79
+Kouvot,22,Aarni Korkiatupa,431,-0.43,-1.39,-1.82
+Tapiolan Honka,5,Alvan Laavainen,331,-1.41,-0.48,-1.89
+Tapiolan Honka,7,Aj Ferguson,638,-1.36,-0.56,-1.92
+Tapiolan Honka,14,Emil Uotila,473,-1.63,-0.38,-2.01
+Korihait,13,Jamir Harris,610,0.5,-2.52,-2.02
+Kobrat,3,Juho Lehtoranta,405,-0.55,-2.22,-2.76
+Kobrat,21,Bobby Planutis,313,-0.84,-2.37,-3.21
+Kauhajoki,5,Juuso Salmi,271,-1.99,-1.37,-3.36
+Korihait,21,Brian Goracke,824,-2.2,-1.2,-3.4
+Salon Vilpas,28,Daniel Rantapaju,392,-1.21,-2.28,-3.49
+Kobrat,15,Efton Reid,418,-1.49,-2.04,-3.53
+Salon Vilpas,14,Sebastian Lindberg,300,-2.25,-1.28,-3.53
+Kataja Basket,21,Teemu Knihtinen,279,-0.45,-3.21,-3.66
+KTP-Basket,0,Beon Riley,290,-0.81,-2.88,-3.69
+Kobrat,23,Jaquan Carlos,307,-0.66,-3.23,-3.89
+Lahti Basketball,4,Luerensley Williams III,459,0.39,-4.3,-3.91
+Kobrat,7,Damian Dunn,317,-2.45,-1.71,-4.16
+Tampereen Pyrintö,15,Erik Muhonen,572,-1.78,-2.96,-4.74
+Kataja Basket,5,Joonas Timonen,339,-2.94,-2.32,-5.26
