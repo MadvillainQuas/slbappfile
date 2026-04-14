@@ -1,0 +1,302 @@
+# RAPM - Regularized Adjusted Plus/Minus
+# Regularization parameter (alpha/lambda): 800
+# Minimum possessions filter: 250
+# Total players in calculation: 423
+# Qualified players exported: 294
+# Total stints used: 11903
+# Garbage time stints excluded: 421
+Team,Player_Number,Player_Name,Possessions,ORAPM,DRAPM,RAPM
+ETB Miners,4,Quashawn Tyrese Lane,1331,7.53,0.54,8.06
+TSV Neustadt temps Shooters,7,Elias Marei,1284,2.77,4.11,6.88
+EN BASKETS Schwelm,21,Henning Gustrau,745,2.18,4.38,6.56
+OrangeAcademy,4,Teo Milicic,591,2.43,4.05,6.48
+BG Hessing Leitershofen,33,Tom-Niclas Alte,958,3.98,2.41,6.4
+LOK BERNAU,15,Marco Rahn,1100,2.46,3.2,5.65
+FC Bayern Basketball II,6,Nikolas Sermpezis,776,0.16,5.41,5.58
+Baskets Juniors TSG Westerstede,0,Jon'll Larenz Fugett,1370,5.65,-0.14,5.51
+Dresden Titans,77,Simeon Dimitrov,1283,5.08,0.35,5.43
+Seawolves Academy,11,Jalen Page,1468,3.83,1.51,5.34
+Dresden Titans,24,Wisdom Equere Uboh,383,3.05,2.1,5.15
+Dresden Titans,25,Sebastian Heck,1100,2.18,2.95,5.13
+OrangeAcademy,10,Endurance Aiyamenkhue,972,2.06,2.97,5.03
+Itzehoe Eagles,65,Christopher Herget,743,2.18,2.78,4.96
+SKYLINERS Juniors,9,Leif Zentgraf,923,3.81,1.04,4.85
+ETB Miners,30,Marc William Friederici,1004,3.09,1.67,4.76
+BBC Coburg,13,Darius Dawson,1246,2.36,2.4,4.76
+BSW Sixers,8,Felix Zacharias,627,2.25,2.48,4.73
+SKYLINERS Juniors,6,Moses Pölking,375,4.16,0.5,4.66
+Iserlohn Kangaroos,32,Tyson Leitao,1230,2.41,2.08,4.49
+SV Fellbach Flashers,13,Jonathan Gerlinger,508,4.43,-0.0,4.43
+LOK BERNAU,34,Akim-Jamal Jonah,1034,3.03,1.4,4.43
+BBC Coburg,12,Dylan Fasoyiro,1121,4.13,0.27,4.39
+Dragons Rhöndorf,2,Juhwan Harris-Dyson,1219,1.69,2.68,4.37
+BBC Coburg,5,Nico Höllerl,1133,1.77,2.6,4.37
+TSV Neustadt temps Shooters,10,Matej Jelovcic,1519,2.47,1.59,4.06
+Porsche BBA Ludwigsburg,8,Lukas Modic,504,1.78,2.1,3.88
+BBC Coburg,8,Nico Wenzl,1180,2.37,1.45,3.82
+OrangeAcademy,36,Marko Dordevic,1008,2.03,1.73,3.76
+Hertener Löwen,9,David Ewald,1180,1.99,1.61,3.6
+Dragons Rhöndorf,3,Duje Dujmovic,1217,2.34,1.11,3.45
+SV Fellbach Flashers,0,Mark Adrian Golder,698,2.12,1.26,3.39
+Porsche BBA Ludwigsburg,20,Simon Feneberg,1145,1.49,1.76,3.26
+BBC Coburg,10,Tim Herzog,733,1.36,1.84,3.2
+TSV Oberhaching Tropics,10,Levi Weng,441,1.15,2.02,3.17
+Iserlohn Kangaroos,13,Christopher Schultz,1456,1.39,1.75,3.14
+TV Langen,13,Aminu Abibu,1010,3.15,-0.02,3.13
+CATL Basketball Löwen,5,Luca Förster,613,1.52,1.58,3.1
+BG Hessing Leitershofen,0,Brian Christopher Dawson,1401,1.86,1.19,3.04
+LOK BERNAU,24,Guy Artman Nahmias,1296,1.53,1.46,2.99
+Itzehoe Eagles,42,Tobias Möller,919,2.43,0.52,2.95
+Iserlohn Kangaroos,19,David Pavljak,480,0.79,2.03,2.82
+SV Fellbach Flashers,77,Jeremy Julian Kolev,418,2.6,0.21,2.81
+Baskets Juniors TSG Westerstede,9,Alan Boger,596,4.57,-1.81,2.76
+Ahorn Camp Baskets,2,Joshua Kreilein,289,0.59,2.16,2.75
+Ahorn Camp Baskets,0,Daryl Woodmore,1205,2.22,0.5,2.72
+ETB Miners,26,Jonathan Almstedt,812,1.31,1.36,2.68
+Baskets Juniors TSG Westerstede,8,Beni Fungula,1360,0.7,1.91,2.61
+Ahorn Camp Baskets,11,Christoph Rupp,1101,-0.63,3.17,2.54
+LOK BERNAU,8,Shawn Anthony Scott II,580,1.85,0.68,2.53
+Itzehoe Eagles,13,Toni Nickel,1109,0.28,2.24,2.52
+OrangeAcademy,44,Zoran Milicic,829,1.25,1.28,2.52
+ETB Miners,12,Niclas Jonathan Sperber,1022,1.98,0.52,2.5
+Seawolves Academy,10,Matthes Tilsen,920,2.11,0.38,2.49
+SV Fellbach Flashers,9,Nik Philip Schlipf,1249,1.35,1.07,2.42
+Hertener Löwen,8,Bryant Allen,1120,0.87,1.49,2.37
+FC Bayern Basketball II,13,Marco Frank,898,-0.68,3.04,2.36
+Porsche BBA Ludwigsburg,0,Maxwell Dongmo Temoka,757,0.94,1.35,2.29
+EN BASKETS Schwelm,7,Zyon Ezekiel Patterson,1400,2.52,-0.24,2.28
+TSV Oberhaching Tropics,9,Peter Zeis,630,1.32,0.96,2.28
+ETB Miners,10,Mychael Paulo,1259,0.03,2.23,2.26
+ETB Miners,5,Benjamin Uzoma,956,-0.39,2.63,2.24
+Iserlohn Kangaroos,2,Glynn Hubbard III,916,2.07,0.16,2.23
+OrangeAcademy,1,Joel Cwik,1013,1.17,1.04,2.2
+SV Fellbach Flashers,7,Tyseem Lamel Lyles,1313,0.92,1.25,2.17
+BSW Sixers,11,Robert Joseph Holmes,1437,1.66,0.44,2.1
+LOK BERNAU,18,Meo Martin,859,-0.62,2.69,2.07
+EN BASKETS Schwelm,12,Jascal Niclas Knörig,873,-2.96,4.97,2.01
+Iserlohn Kangaroos,44,Luca Michels,956,2.74,-0.75,1.99
+SC Rist Wedel,29,Linus Hoffmann,1004,2.14,-0.17,1.97
+ETB Miners,2,Jegor Cymbal,613,0.09,1.88,1.97
+LOK BERNAU,3,Leo Döring,370,-1.38,3.26,1.88
+VR-Bank Würzburg Baskets Akademie,11,Jonas März,615,3.12,-1.29,1.83
+TKS 49ers,2,Carl Thure Peters,717,0.85,0.98,1.83
+Seawolves Academy,15,Daniel Lopez Dittert,289,1.02,0.81,1.82
+Itzehoe Eagles,2,Walter J McBride,1393,2.74,-0.95,1.79
+SV Fellbach Flashers,8,Jakob Hanzalek,1014,2.14,-0.44,1.7
+Baskets Juniors TSG Westerstede,16,Johann Helwig,628,1.4,0.28,1.68
+Baskets Juniors TSG Westerstede,29,Colin Schroeder,1075,2.15,-0.47,1.68
+TSV Oberhaching Tropics,20,Nikola Alexander Jekov,1116,4.28,-2.62,1.66
+BSW Sixers,1,Sean William Ludwig,389,2.13,-0.68,1.45
+Itzehoe Eagles,0,Sydnee Ochieng Shaka Bijlsma,680,0.45,0.97,1.42
+Porsche BBA Ludwigsburg,12,Abdulhay Kömürkara,492,-0.32,1.69,1.37
+BBC Coburg,17,Ole Theiß,451,1.89,-0.57,1.32
+BG Hessing Leitershofen,3,Zion Antonio Richardson,1344,0.2,1.1,1.3
+Baskets Juniors TSG Westerstede,7,Fritz Hemschemeier,763,1.8,-0.5,1.3
+OrangeAcademy,11,Meissa Faye,1014,-0.74,2.0,1.26
+TV Langen,22,Alexander Lagerman,811,0.28,0.96,1.25
+SKYLINERS Juniors,4,Desmond Tyson Watson,517,1.92,-0.69,1.22
+EN BASKETS Schwelm,9,Marius Stoll,1337,0.11,1.02,1.13
+Hertener Löwen,11,Christian Matthew Hinckson,944,-0.02,1.13,1.11
+RASTA Vechta II,7,Moritz Dresing,862,-1.73,2.83,1.1
+BG Hessing Leitershofen,1,Brendan Gregori,1004,1.83,-0.76,1.07
+TKS 49ers,20,Jannes Hundt,480,-0.04,1.08,1.04
+SC Rist Wedel,3,Aleksandar Postic,865,0.05,0.97,1.02
+Ahorn Camp Baskets,22,Oskar Humpert,901,-1.03,2.02,0.99
+SC Rist Wedel,4,Tomas Atli Bjarkason,827,0.52,0.4,0.92
+Dresden Titans,11,Duje Putnik,1053,1.04,-0.13,0.91
+Itzehoe Eagles,4,Jonathan Elzie,432,-0.8,1.69,0.89
+BBC Coburg,6,Erik Neunhoeffer,581,0.53,0.36,0.89
+Itzehoe Eagles,11,Finn Fleute,1466,3.05,-2.23,0.82
+Ahorn Camp Baskets,21,Paul Stupperich,270,0.04,0.73,0.77
+SC Rist Wedel,5,Niklas Krause,946,-1.05,1.73,0.68
+FC Bayern Basketball II,24,Andrija Susic,913,-0.1,0.76,0.66
+Hertener Löwen,20,Dario Fiorentino,1186,-1.55,2.19,0.63
+SKYLINERS Juniors,5,Jamie Edoka,995,-1.98,2.58,0.6
+Dresden Titans,55,Georg Kupke,478,-0.61,1.2,0.59
+TSV Neustadt temps Shooters,2,Aimé Olma,1448,0.24,0.35,0.59
+Baskets Juniors TSG Westerstede,12,Simon Kohlhoff,799,0.91,-0.33,0.59
+RASTA Vechta II,24,Roy Krupnikas,1144,-1.23,1.78,0.56
+Hertener Löwen,44,Müslim Akil Özmeral,841,1.23,-0.71,0.53
+VR-Bank Würzburg Baskets Akademie,32,David Gerhard,1031,2.38,-1.93,0.44
+CATL Basketball Löwen,1,Michael Tyrone Mitchell Jr.,942,-1.04,1.48,0.44
+Ahorn Camp Baskets,3,Dennis Diala,1063,-0.37,0.79,0.42
+SKYLINERS Juniors,7,Joscha Zentgraf,680,0.06,0.34,0.4
+Seawolves Academy,5,Jussi Knorr,369,0.8,-0.41,0.4
+TV Langen,5,Niklas Pons,1325,0.09,0.27,0.36
+TKS 49ers,18,Leonard Paul Hampl,1041,-3.87,4.2,0.32
+Porsche BBA Ludwigsburg,11,Yohann Tchouaffe,676,0.4,-0.11,0.29
+BSW Sixers,10,Toby Okwuokei,1537,0.66,-0.42,0.24
+SC Rist Wedel,11,Al-Fayed Alegbe-Issifou,764,1.05,-0.81,0.24
+Iserlohn Kangaroos,3,Sadiq Ajagbe,794,-1.17,1.39,0.22
+CATL Basketball Löwen,8,Musa Abra,1070,-0.57,0.79,0.22
+Dresden Titans,10,Samuel Leonard Schally,317,-1.34,1.5,0.15
+Seawolves Academy,4,Svante Schmundt,872,-0.71,0.84,0.13
+TKS 49ers,8,Yannick Hildebrandt,539,1.41,-1.28,0.13
+ETB Miners,25,Leon Kalinic,690,-1.12,1.18,0.06
+LOK BERNAU,0,Anthony Watkins,1156,-1.06,1.1,0.03
+EN BASKETS Schwelm,8,Robert Peter Merz,928,0.61,-0.59,0.02
+Porsche BBA Ludwigsburg,17,Julis Baumer,712,-0.99,0.97,-0.02
+TV Langen,63,Leon Fertig,289,0.72,-0.78,-0.06
+Baskets Juniors TSG Westerstede,15,Finn Stuehlmeyer,251,0.11,-0.17,-0.06
+OrangeAcademy,6,Felix Kiehlneker,255,0.28,-0.39,-0.11
+FC Bayern Basketball II,25,Gob Makuag Gabriel,307,-0.31,0.18,-0.13
+TSV Neustadt temps Shooters,8,Leonard Toshio Musahl,481,0.86,-1.04,-0.18
+BG Hessing Leitershofen,9,Emmanuel Ansah,327,-1.01,0.82,-0.19
+Baskets Juniors TSG Westerstede,25,Luca Mevius,339,-0.12,-0.08,-0.21
+ETB Miners,11,Gabriel Jung,1138,-3.32,3.11,-0.21
+SC Rist Wedel,10,Nelson Jamal Martin,825,-1.61,1.36,-0.25
+Hertener Löwen,14,Tarik Jakupovic,441,0.0,-0.31,-0.31
+TSV Neustadt temps Shooters,4,Amar Licina,858,-0.42,0.11,-0.32
+FC Bayern Basketball II,23,Desmond Obed Yiamu,921,-0.54,0.18,-0.36
+Dresden Titans,2,Scott Edward Stone,939,1.78,-2.16,-0.38
+TSV Oberhaching Tropics,5,Philipp Bode,1009,0.94,-1.35,-0.41
+LOK BERNAU,7,Anton Nufer,751,0.2,-0.64,-0.44
+VR-Bank Würzburg Baskets Akademie,8,Eduard Rantz,289,-0.69,0.25,-0.44
+Baskets Juniors TSG Westerstede,17,Ore Ewert,464,-1.28,0.83,-0.45
+SKYLINERS Juniors,13,Ivan Crnjac,642,0.9,-1.36,-0.45
+SKYLINERS Juniors,35,Lukas Smazak,832,0.33,-0.78,-0.45
+Porsche BBA Ludwigsburg,13,Kenan Youdom,690,-2.11,1.48,-0.63
+BSW Sixers,2,Max Nwokedi,415,-0.13,-0.51,-0.63
+TV Langen,9,Henk Droste,1159,0.61,-1.26,-0.64
+FC Bayern Basketball II,34,Ágúst Godi Kjartansson,747,1.84,-2.49,-0.65
+Dragons Rhöndorf,16,Benjamin Sadikovic,1126,-0.41,-0.25,-0.66
+TSV Oberhaching Tropics,6,Niklas Schüler,852,1.47,-2.18,-0.71
+FC Bayern Basketball II,1,Niko Jerkic,406,-0.25,-0.46,-0.72
+Baskets Juniors TSG Westerstede,10,Lazar Klaric,344,-2.18,1.45,-0.73
+VR-Bank Würzburg Baskets Akademie,23,Marko Petric,1159,-1.34,0.57,-0.77
+TKS 49ers,9,Alexander Schmidt,494,-2.4,1.6,-0.8
+BG Hessing Leitershofen,7,Emmanuel Timothy Womala,771,0.32,-1.2,-0.88
+TKS 49ers,16,Jenö Pildner,1177,-1.79,0.91,-0.88
+OrangeAcademy,12,Milo Alexander Murray,344,-2.78,1.87,-0.91
+CATL Basketball Löwen,44,Samuel Elias Nellessen,1029,0.51,-1.44,-0.93
+SKYLINERS Juniors,10,Alvin Onyia,1144,-0.3,-0.64,-0.94
+Porsche BBA Ludwigsburg,14,David Engelhart,665,-1.64,0.66,-0.98
+BBC Coburg,7,Julian Günther,367,-3.62,2.59,-1.03
+TSV Neustadt temps Shooters,64,Max Brackmann,540,-1.12,0.09,-1.03
+FC Bayern Basketball II,17,Kilian Maurice Fischer,608,-2.16,1.12,-1.04
+Hertener Löwen,22,Faton Jetullahi,1190,-0.85,-0.21,-1.06
+Seawolves Academy,14,Jonas Zilinskas,1172,-0.1,-0.97,-1.07
+Dresden Titans,14,Osasere Best Otakho,866,-1.16,0.06,-1.1
+OrangeAcademy,21,Barna Buglyó,344,-1.34,0.22,-1.12
+Hertener Löwen,10,Gilbert Kofi Gyamfi,957,-2.18,1.06,-1.12
+BG Hessing Leitershofen,24,Jason George,334,-0.74,-0.41,-1.15
+BG Hessing Leitershofen,15,Jannik Westermeir,1196,-0.75,-0.4,-1.15
+EN BASKETS Schwelm,2,Luka Zajic,880,-1.09,-0.06,-1.15
+RASTA Vechta II,55,Joel Moketo Lungelu,614,-2.01,0.86,-1.16
+TKS 49ers,6,Lukas Daniel Wagner,1019,-0.99,-0.32,-1.3
+SKYLINERS Juniors,14,Dusan Nikolic,702,-0.1,-1.25,-1.35
+Dragons Rhöndorf,14,Fynn Dobiecki,250,-2.08,0.71,-1.38
+BG Hessing Leitershofen,14,Clint Hamann,901,-0.84,-0.55,-1.38
+TSV Oberhaching Tropics,21,Fynn Fischer,871,-0.83,-0.56,-1.39
+CATL Basketball Löwen,17,Noah Kamdem,1006,0.26,-1.68,-1.42
+Baskets Juniors TSG Westerstede,21,Joel Harms,598,-1.35,-0.1,-1.45
+TV Langen,20,Drago Crnjac,1038,2.4,-3.88,-1.48
+Ahorn Camp Baskets,28,David Aichele,837,-1.35,-0.16,-1.51
+RASTA Vechta II,17,Etinosasere Armstrong Ehioghae,339,-1.94,0.42,-1.52
+BSW Sixers,77,Paul Manuel Raabe,363,-3.23,1.69,-1.54
+OrangeAcademy,0,Namori Omog,920,1.48,-3.08,-1.61
+Dragons Rhöndorf,8,Kenan Reinhart,1253,-1.57,-0.06,-1.63
+VR-Bank Würzburg Baskets Akademie,14,Paul Plato,755,-0.52,-1.11,-1.63
+LOK BERNAU,11,Richard Schmitt,550,-1.53,-0.18,-1.71
+VR-Bank Würzburg Baskets Akademie,13,Christoph Philipps,329,-1.56,-0.16,-1.71
+BSW Sixers,12,Emanuel Ozike,1069,-3.1,1.38,-1.72
+LOK BERNAU,22,Nevio Bennefeld,554,-0.97,-0.77,-1.74
+BSW Sixers,13,Paul Schwabe,335,-0.99,-0.78,-1.77
+Ahorn Camp Baskets,14,Oluwadamilola Ade-Eri,653,0.03,-1.8,-1.77
+SC Rist Wedel,12,Jayden Estrus Jr. Fatnassi,579,-1.55,-0.22,-1.77
+VR-Bank Würzburg Baskets Akademie,10,David Pisic,568,-1.1,-0.69,-1.79
+SKYLINERS Juniors,16,Marvin Esser,276,-1.7,-0.1,-1.8
+BSW Sixers,4,Ilias Amin,1215,0.47,-2.29,-1.82
+ETB Miners,32,Reik Simon Gäbler,443,-2.5,0.65,-1.85
+CATL Basketball Löwen,3,Léonar Fliege,325,-2.11,0.26,-1.85
+Porsche BBA Ludwigsburg,7,Marko Masic,948,-1.45,-0.44,-1.89
+Dresden Titans,8,Leo Alban,329,-3.36,1.47,-1.89
+EN BASKETS Schwelm,16,Erik Nyberg,1081,-1.09,-0.81,-1.9
+TSV Oberhaching Tropics,4,Frederik Müller,1257,-0.35,-1.58,-1.93
+BBC Coburg,38,Finn Döntgens,397,-0.23,-1.7,-1.93
+Dragons Rhöndorf,1,Carlo Schmid,775,-2.05,0.05,-2.0
+CATL Basketball Löwen,22,Luke-Johan Kiraly,255,-1.01,-1.01,-2.02
+RASTA Vechta II,3,Tristan Gutersohn,660,-0.15,-1.87,-2.02
+RASTA Vechta II,5,Djairo Bernardina,299,-3.0,0.97,-2.03
+SC Rist Wedel,33,Lincoln James Rosebush,1052,0.93,-2.96,-2.03
+BG Hessing Leitershofen,11,Ferenc Gille,564,-1.67,-0.37,-2.03
+BBC Coburg,77,Leo Cosic,636,-4.33,2.3,-2.04
+OrangeAcademy,17,Tobias Rainer Holbach,523,-1.46,-0.6,-2.06
+Itzehoe Eagles,3,Sven Cikara,1255,0.22,-2.32,-2.09
+CATL Basketball Löwen,9,Paul Albrecht,1264,-1.04,-1.07,-2.11
+TV Langen,4,Jacob Kumal Washington,1187,0.17,-2.31,-2.14
+Dragons Rhöndorf,15,Jorge Mejias Sanchez,1102,2.18,-4.48,-2.3
+FC Bayern Basketball II,45,Giovanni Alessio Calamita,632,-1.53,-0.77,-2.31
+TKS 49ers,7,Carlo Meyer,904,-1.84,-0.49,-2.32
+RASTA Vechta II,2,Epke Kruthaup,1063,-0.96,-1.4,-2.36
+Hertener Löwen,21,Tim Elkenhans,562,-3.37,0.99,-2.38
+RASTA Vechta II,6,Johannes Hellmann,483,-0.46,-1.96,-2.42
+Iserlohn Kangaroos,16,Kevin Strangmeyer,910,-1.5,-0.93,-2.43
+TV Langen,42,Fabian Baumgarten,361,-1.43,-1.04,-2.46
+RASTA Vechta II,0,Aula Maarufu Sumbry,884,0.14,-2.61,-2.47
+RASTA Vechta II,16,Fynn Lastring,652,-0.76,-1.75,-2.51
+SV Fellbach Flashers,4,Mateus Rodrigues Rocha,1058,-0.71,-1.87,-2.58
+VR-Bank Würzburg Baskets Akademie,13,Lucas Veller,327,-0.99,-1.63,-2.62
+SV Fellbach Flashers,22,Thomas Billinger,252,-2.47,-0.24,-2.71
+BSW Sixers,7,Jarne Jürgens,770,-2.5,-0.22,-2.71
+Seawolves Academy,3,Benedict Baumgarth,550,-1.67,-1.06,-2.73
+TKS 49ers,22,Joshua Lübken,828,-1.48,-1.27,-2.75
+Porsche BBA Ludwigsburg,9,Armin Pivac,288,-1.43,-1.34,-2.78
+EN BASKETS Schwelm,4,Fabian Reichstadt,1137,-0.56,-2.24,-2.8
+OrangeAcademy,9,Lenni Kunzewitsch,732,-1.33,-1.56,-2.88
+TSV Neustadt temps Shooters,32,Robin Michael Kniss,756,-2.66,-0.25,-2.91
+SV Fellbach Flashers,21,Nelson Okafor,975,-3.52,0.54,-2.98
+Itzehoe Eagles,9,Lucien Schmikale,1499,-1.03,-1.95,-2.98
+CATL Basketball Löwen,7,Ivan Kucan,549,1.32,-4.32,-3.0
+Ahorn Camp Baskets,18,Leon Geißler,652,0.88,-3.96,-3.08
+TV Langen,6,Luca Justus Eibelshäuser,307,-2.18,-0.91,-3.09
+Seawolves Academy,6,Luis Wulff,432,-1.86,-1.24,-3.09
+CATL Basketball Löwen,13,Friedrich Radefeld,450,-0.54,-2.64,-3.18
+SKYLINERS Juniors,43,Florian Dietrich,712,-1.34,-1.84,-3.18
+BG Hessing Leitershofen,2,Tristan Göbel,272,-1.0,-2.22,-3.22
+TV Langen,11,Risto Vasiljevic,487,-0.17,-3.09,-3.26
+FC Bayern Basketball II,32,Nicolas Neruda Kodjoe,959,-1.59,-1.7,-3.29
+Dragons Rhöndorf,12,David Böning,577,-2.3,-1.03,-3.33
+Ahorn Camp Baskets,44,Felix Angerbauer,1005,-1.6,-1.74,-3.34
+Porsche BBA Ludwigsburg,2,Lars Danziger,820,-2.11,-1.28,-3.39
+TSV Oberhaching Tropics,7,Nedzad Muratovic,1148,-0.36,-3.03,-3.39
+TSV Neustadt temps Shooters,37,Samuel Mpacko,340,-2.8,-0.63,-3.43
+Dresden Titans,13,Kevin Kollmar,1138,-1.16,-2.28,-3.44
+TSV Oberhaching Tropics,3,Jonathan Zeisberger,1448,-1.07,-2.4,-3.47
+Iserlohn Kangaroos,6,Daniel Zacek,931,-1.62,-1.86,-3.47
+VR-Bank Würzburg Baskets Akademie,17,Clemens Sokolov,845,-3.61,0.12,-3.49
+SC Rist Wedel,44,Darren Egbe,818,-2.3,-1.2,-3.5
+Ahorn Camp Baskets,1,Noah Koch,296,-1.51,-2.01,-3.52
+TSV Neustadt temps Shooters,17,Christenvie Kwilu,1336,-2.33,-1.21,-3.54
+VR-Bank Würzburg Baskets Akademie,9,Lukas Roth,910,0.19,-3.78,-3.59
+Iserlohn Kangaroos,4,Jordan Iloanya,562,-1.71,-2.06,-3.77
+SV Fellbach Flashers,6,Travis Davis,480,-3.78,-0.0,-3.79
+SV Fellbach Flashers,10,Brian Butler,378,-4.02,0.19,-3.83
+CATL Basketball Löwen,14,Jeremie Fotso-Sighom,509,-4.17,0.32,-3.85
+Seawolves Academy,9,Mika Freitag,705,-2.88,-1.03,-3.91
+SKYLINERS Juniors,21,Maximilian Peters,305,-2.12,-1.88,-4.0
+FC Bayern Basketball II,0,Caspar David Vossenberg,706,-4.28,0.27,-4.01
+TSV Neustadt temps Shooters,3,Emil Loch,1306,-1.32,-2.73,-4.06
+RASTA Vechta II,8,Moritz Grüß,1217,-1.19,-2.99,-4.18
+Baskets Juniors TSG Westerstede,4,Andre Galler,510,-2.81,-1.38,-4.19
+SC Rist Wedel,6,Janne Müller,629,-0.59,-3.68,-4.27
+CATL Basketball Löwen,21,Jasper Brand,647,-3.62,-0.66,-4.29
+Seawolves Academy,22,Chris Frazier,1039,-1.3,-2.99,-4.29
+BSW Sixers,3,Silver Arun Bieling,724,-2.67,-1.64,-4.32
+Dresden Titans,0,Leonardo Alfonso Benitez Arocha,353,-2.26,-2.06,-4.32
+Dragons Rhöndorf,11,Mamadou Lagui Diallo,788,-2.67,-1.71,-4.38
+EN BASKETS Schwelm,14,Arthur Baheraba Noba,783,-1.19,-3.32,-4.51
+Seawolves Academy,20,Bruno Loll,1010,-2.1,-2.47,-4.57
+Dragons Rhöndorf,7,Vuk Scepanovic,330,-2.25,-2.46,-4.7
+Baskets Juniors TSG Westerstede,24,Noah Wendland,253,-2.88,-1.93,-4.81
+LOK BERNAU,2,Emanuel Schüler,888,-1.8,-3.16,-4.95
+Iserlohn Kangaroos,22,Ruben Dahmen,684,-3.97,-1.01,-4.98
+RASTA Vechta II,44,Ivan Volf,671,-1.24,-3.75,-4.98
+TV Langen,7,Michael Agyemang,362,-2.82,-2.3,-5.12
+LOK BERNAU,14,Anton Kemmer,310,-5.64,0.33,-5.31
+Dragons Rhöndorf,5,Dusan Ilic,1043,-4.05,-1.68,-5.73
+TKS 49ers,14,Benjamin Faatz,907,-1.84,-3.99,-5.83
+BBC Coburg,4,Felix Egger,669,-3.22,-3.51,-6.73
+Dresden Titans,21,Malte Silbermann,581,-6.91,-0.45,-7.37
+TKS 49ers,10,Linus Jannik Briesemeister,745,-3.95,-3.75,-7.7
+VR-Bank Würzburg Baskets Akademie,2,Jervis Scheffs,897,-5.09,-3.12,-8.2
