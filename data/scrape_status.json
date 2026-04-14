@@ -1,12 +1,10 @@
 {
   "status": "idle",
-  "last_run": "2026-04-13T18:35:50.356527",
+  "last_completed": "monday_auto_1776096147",
+  "completed_at": "2026-04-14T17:18:34.176438",
   "last_result": {
-    "success": 1,
-    "failed": 0,
-    "competitions": [
-      "SLB"
-    ]
+    "success": 8,
+    "failed": 6
   },
-  "updated_at": "2026-04-13T18:35:50.821612"
+  "updated_at": "2026-04-14T17:18:34.381588"
 }
