@@ -1,0 +1,819 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" class=""><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>HAG vs HRO</title>
+    <link rel="icon" href="/images/favi.png" type="image/png">
+
+    <meta property="og:title" content="Der 2. Basketball-Bundesliga Liveticker">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="http://live.zweite-basketball-bundesliga.de/images/logoliga.png">
+    <meta property="og:description" content="Der 2. Basketball-Bundesliga Liveticker">
+
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/css/lk.css" rel="stylesheet">
+    <link href="/css/animate.min.css" rel="stylesheet">
+    <link href="/css/print.css" media="print" rel="stylesheet">
+    <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-XQ56ZCWB3P&amp;cx=c&amp;gtm=4e64f1"></script><script src="/js/modernizr.min.js"></script>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<style type="text/css">.fancybox-margin{margin-right:15px;}</style><meta name="description" content="2. Basketball Bundesliga Liveticker: Phoenix Hagen vs ROSTOCK SEAWOLVES"><meta property="og:description" content="2. Basketball Bundesliga Liveticker: Phoenix Hagen vs ROSTOCK SEAWOLVES"></head>
+
+<body style="">
+
+    
+    <div class="page-header-small">
+        <div class="container">
+            <table class="info-header-small" style="width: 100%">
+                <tbody><tr align="center">
+                    <td width="33%">
+                        <a href="https://2basketballbundesliga.de/kader/473" target="_blank"><img src="https://api.2basketballbundesliga.de/pics2/2025_2026/lo/473" class="logo-table team-1-img"></a>
+                        <div class="team-1-caption">Phoenix Hagen</div>
+                    </td>
+                    <td width="34%">
+                        <div>
+                            <h1><span class="s1">0</span> <span class="orange quarter">--</span> <span class="s2">0</span></h1>
+                        </div>
+                    </td>
+                    <td width="33%">
+                        <a href="https://2basketballbundesliga.de/kader/551" target="_blank"><img src="https://api.2basketballbundesliga.de/pics2/2025_2026/lo/551" class="logo-table team-2-img"></a>
+                        <div class="team-2-caption">ROSTOCK SEAWOLVES</div>
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="alert alert-danger" id="info" style="display: none"></div>
+        <div class="alert alert-danger" id="status" style="display: none">disconnected, trying to reconnect... Bitte
+            nicht refreshen! Bei Reconnect holen wir die verpassten Daten!</div>
+
+        <div class="page-header">
+            <div class="row text-center logo">
+                <img src="/images/ballside.png">
+            </div>
+            <i id="help" class="pointer fa fa-question-circle"></i>
+            <i id="settings-icon" class="pointer fa fa-gear"></i>
+            <div id="settings">
+                <div class="row arrow-box">
+                    
+                    <div class="col-md-4 sound">
+                        <div class="page-header">
+                            <i class="fa fa-volume-up"></i> Sound abspielen
+                        </div>
+                        <table style="width: 100%">
+                            <tbody><tr>
+                                <td>Aktivieren</td>
+                                <td align="right">
+                                    <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-off bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-sound_active"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle" id="sound_active"></div></div>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                        <div class="sound-settings">
+                            <table style="width: 100%">
+                                <tbody><tr>
+                                    <td>Ballbesitz</td>
+                                    <td align="right">
+                                        <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-sound_jumpball"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle" id="sound_jumpball" checked=""></div></div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Sprungball</td>
+                                    <td align="right">
+                                        <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-sound_jumpballs"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle" id="sound_jumpballs" checked=""></div></div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Freiwurf</td>
+                                    <td align="right">
+                                        <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-sound_ft"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle" id="sound_ft" checked=""></div></div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>2Punkte Wurf</td>
+                                    <td align="right">
+                                        <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-sound_2p"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle" id="sound_2p" checked=""></div></div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>3Punkte Wurf</td>
+                                    <td align="right">
+                                        <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-sound_3p"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle" id="sound_3p" checked=""></div></div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Foul</td>
+                                    <td align="right">
+                                        <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-sound_personalfoul"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle" id="sound_personalfoul" checked=""></div></div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Foul Drawn</td>
+                                    <td align="right">
+                                        <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-sound_fouldrawn"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle" id="sound_fouldrawn" checked=""></div></div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Coach Foul</td>
+                                    <td align="right">
+                                        <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-sound_"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle" id="sound_" checked=""></div></div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Rebound</td>
+                                    <td align="right">
+                                        <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-sound_rebound"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle" id="sound_rebound" checked=""></div></div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Team Rebound</td>
+                                    <td align="right">
+                                        <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-sound_teamrebound"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle" id="sound_teamrebound" checked=""></div></div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Turnover</td>
+                                    <td align="right">
+                                        <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-sound_turnover"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle" id="sound_turnover" checked=""></div></div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Team Turnover</td>
+                                    <td align="right">
+                                        <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-sound_teamturnover"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle" id="sound_teamturnover" checked=""></div></div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Steal</td>
+                                    <td align="right">
+                                        <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-sound_steal"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle" id="sound_steal" checked=""></div></div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Block</td>
+                                    <td align="right">
+                                        <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-sound_block"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle" id="sound_block" checked=""></div></div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Timeout</td>
+                                    <td align="right">
+                                        <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-sound_timeout"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle" id="sound_timeout" checked=""></div></div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Spielerwechsel</td>
+                                    <td align="right">
+                                        <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-sound_substitution"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle" id="sound_substitution" checked=""></div></div>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                        </div>
+                    </div>
+                    <div class="col-md-4 filter">
+                        <div class="page-header">
+                            <i class="fa fa-filter"></i> anzuzeigende Events
+                        </div>
+                        <table style="width: 100%">
+                            <tbody><tr>
+                                <td>Ballbesitz</td>
+                                <td align="right">
+                                    <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-filter_jumpball"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle filter" data-filter="jumpball" id="filter_jumpball" checked=""></div></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Sprungball</td>
+                                <td align="right">
+                                    <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-filter_jumpballs"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle filter" data-filter="jumpballs" id="filter_jumpballs" checked=""></div></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Freiwurf</td>
+                                <td align="right">
+                                    <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-filter_ft"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle filter" data-filter="ft" id="filter_ft" checked=""></div></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>2Punkte Wurf</td>
+                                <td align="right">
+                                    <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-filter_2p"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle filter" data-filter="2p" id="filter_2p" checked=""></div></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>3Punkte Wurf</td>
+                                <td align="right">
+                                    <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-filter_3p"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle filter" data-filter="3p" id="filter_3p" checked=""></div></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Foul</td>
+                                <td align="right">
+                                    <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-filter_personalfoul"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle filter" data-filter="personalfoul" id="filter_personalfoul" checked=""></div></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Foul Drawn</td>
+                                <td align="right">
+                                    <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-filter_fouldrawn"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle filter" data-filter="fouldrawn" id="filter_fouldrawn" checked=""></div></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Coach Foul</td>
+                                <td align="right">
+                                    <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-filter_coachfoul"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle filter" data-filter="coachfoul" id="filter_coachfoul" checked=""></div></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Rebound</td>
+                                <td align="right">
+                                    <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-filter_rebound"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle filter" data-filter="rebound" id="filter_rebound" checked=""></div></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Team Rebound</td>
+                                <td align="right">
+                                    <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-filter_teamrebound"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle filter" data-filter="teamrebound" id="filter_teamrebound" checked=""></div></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Turnover</td>
+                                <td align="right">
+                                    <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-filter_turnover"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle filter" data-filter="turnover" id="filter_turnover" checked=""></div></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Team Turnover</td>
+                                <td align="right">
+                                    <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-filter_teamturnover"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle filter" data-filter="teamturnover" id="filter_teamturnover" checked=""></div></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Steal</td>
+                                <td align="right">
+                                    <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-filter_steal"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle filter" data-filter="steal" id="filter_steal" checked=""></div></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Block</td>
+                                <td align="right">
+                                    <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-filter_block"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle filter" data-filter="block" id="filter_block" checked=""></div></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Timeout</td>
+                                <td align="right">
+                                    <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-filter_timeout"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle filter" data-filter="timeout" id="filter_timeout" checked=""></div></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Spielerwechsel</td>
+                                <td align="right">
+                                    <div class="bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-mini bootstrap-switch-animate bootstrap-switch-id-filter_substitution"><div class="bootstrap-switch-container"><span class="bootstrap-switch-handle-on bootstrap-switch-primary">ON</span><label class="bootstrap-switch-label">&nbsp;</label><span class="bootstrap-switch-handle-off bootstrap-switch-default">OFF</span><input type="checkbox" class="toggle filter" data-filter="substitution" id="filter_substitution" checked=""></div></div>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </div>
+                </div>
+            </div>
+
+            <table class="info-header" style="width: 100%">
+                <tbody><tr align="center">
+                    <td width="33%">
+                        <a href="https://2basketballbundesliga.de/kader/473" target="_blank"><img src="https://api.2basketballbundesliga.de/pics2/2025_2026/lo/473" class="logo-table team-1-img"></a>
+                    </td>
+                    <td width="34%" rowspan="2">
+                        <div>
+                            <h1 id="quarter" class="quarter">Q1</h1>
+                        </div>
+                        <div>
+                            <h1><span class="s1">0</span> - <span class="s2">0</span></h1>
+                        </div>
+                    </td>
+                    <td width="33%">
+                        <a href="https://2basketballbundesliga.de/kader/551" target="_blank"><img src="https://api.2basketballbundesliga.de/pics2/2025_2026/lo/551" class="logo-table team-2-img"></a>
+                    </td>
+                </tr>
+                <tr align="center">
+                    <td><span class="team-1-caption">Phoenix Hagen</span>
+                    </td>
+                    <td><span class="team-2-caption">ROSTOCK SEAWOLVES</span>
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>
+
+        <div class="spielinfo">Liga: BBL-Pokal, Season: 2025/2026, Runde: BBL-Pokal 1. Pokalrunde, Spieltag: 1, Tip-Off: 23.09.2025 18:30 Uhr</div>
+        <div class="livestream" style="display:none">
+            <hr>
+            <a href="#" target="_blank"><img src="/images/livestream.jpg" style="width: 100%"></a>
+            <hr>
+        </div>
+        <div class="slider-nav-temp text-center">
+            <div><span class="menu-entry slide-0 slider-active" data-slide="0">Play-by-Play</span>
+            </div>
+            <div><span class="menu-entry slide-1" data-slide="1">Team-Stats</span>
+            </div>
+            <div><span class="menu-entry slide-2" data-slide="2">Boxscore</span>
+            </div>
+            <div><span class="menu-entry slide-3" data-slide="3">Spiel-Infos</span></div>
+        </div>
+
+        <div class="clear"></div>
+
+        <div class="slider slick-initialized slick-slider">
+            <!-- Slider -->
+
+            <!-- Spiel-Infos -->
+            <div class="slick-list" tabindex="0"><div class="slick-track" style="opacity: 1; width: 7980px; transform: translate3d(-1140px, 0px, 0px);"><div class="page-footer slick-slide slick-cloned show" index="-1" style="width: 1140px;">
+                <div class="footer-container text-center">
+                    <!--            <a href="https://lionkeen.net" target="_blank" style="position: absolute; left: 10px;"><img src="https://www.lionkeen.net/logo_short.png">-->
+                    
+                    <div id=""></div>
+                </div>
+            </div><div id="slide-game-infos" class="slick-slide slick-active" index="0" style="width: 1140px;">
+                <!-- 2 columns -->
+                <div style="width: 50; float: left;">
+                    <div class="page-header">
+                        <i class="fa fa-info-circle"></i> Sporthalle
+                    </div>
+                    <div class="stadium-content">
+                        <div class="stadium-name">Ischelandhalle</div>
+                        <div class="stadium-adress" style="display: none;">Adresse</div>
+                        <div class="stadium-city-zip">58097 Hagen</div>
+                        <div class="stadium-capacity">3145 Plätze</div>
+                        <div class="stadium-capacity-seated" style="display: none;">davon Sitzplätze</div>
+                        <img src="https://api.2basketballbundesliga.de/pics2/2025_2026/sn/227/001" style="width:100%;height:auto;max-height:100px;object-fit:cover;object-position:center;" onerror="this.style.display='none'">
+                    </div>
+                </div>
+                <div style="width: 50; float: right;">
+                    <div class="page-header">
+                        <i class="fa fa-info&gt;circle"></i> Schiedsrichter
+                    </div>
+<div style="display:flex;align-items:flex-start;gap:1rem;margin-bottom:1.5rem;" class="ref1">
+                        <img style="display: none;">
+                        <p style="margin:0;color:#333;line-height:1.4;font-size:2rem;align-self: center;">1. Schiedsrichter nicht bekannt</p>
+                    </div>
+
+                    <div style="display:flex;align-items:flex-start;gap:1rem;margin-bottom:1.5rem;" class="ref2">
+                        <img style="display: none;">
+                        <p style="margin:0;color:#333;line-height:1.4;font-size:2rem;align-self: center;">2. Schiedsrichter nicht bekannt</p>
+                    </div>
+
+                    <div style="display:flex;align-items:flex-start;gap:1rem;margin-bottom:1.5rem;" class="ref3">
+                        <img style="display: none;"> 
+                        <p style="margin:0;color:#333;line-height:1.4;font-size:2rem;align-self: center;">3. Schiedsrichter nicht bekannt</p>
+                    </div>
+
+                </div>
+
+
+                <!-- Slider -->
+            </div><div id="slide-live" class="slick-slide" index="1" style="width: 1140px;">
+                <!-- Live -->
+                <ul class="timeline"><li id="bubble_10142811" class=""><div class="timeline-badge info">Start<br>Q1</div><div class="spacer"></div></li><li id="bubble_starting_1_1" class="undefined timeline-teama bounceInLeft"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/kader_liveticker/?id=473"><div class="circular circular-team" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/llt/473);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title">Startet mit:</h4><small class="text-muted"><i class="glyphicon glyphicon-time"></i> Q1 10:00 Minute</small></div></div></div></div></li><li id="bubble_starting_2_1" class="undefined timeline-teamb timeline-inverted bounceInRight"><div class="timeline-badge"><a class="fancybox-media" href="https://www.zweite-basketball-bundesliga.de/kader_liveticker/?id=551"><div class="circular circular-team" style="background: #fff url(https://api.2basketballbundesliga.de/pics2/2025_2026/llt/551);"></div></a></div><div class="timeline-panel"><div class="timeline-table"><div class="table-row"><div class="timeline-heading"><h4 class="timeline-title">Startet mit:</h4><small class="text-muted"><i class="glyphicon glyphicon-time"></i> Q1 10:00 Minute</small></div></div></div></div></li></ul>
+            </div><div id="slide-stats" class="slick-slide" index="2" style="width: 1140px;">
+
+                <!-- Stats -->
+                <div id="scoreChart" style="height: 250px;" data-highcharts-chart="0"><div class="highcharts-container" id="highcharts-0" style="position: relative; overflow: hidden; width: 1140px; height: 250px; text-align: left; line-height: normal; z-index: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family: &quot;Open Sans&quot;; touch-action: none;"><svg version="1.1" style="font-family:Open Sans;font-size:12px;" xmlns="http://www.w3.org/2000/svg" width="1140" height="250"><desc>Created with Highcharts 4.0.4</desc><defs><clipPath id="highcharts-1"><rect x="0" y="0" width="1098" height="163"></rect></clipPath></defs><rect x="0" y="0" width="1140" height="250" strokeWidth="0" fill="rgba(255, 255, 255, 0.1)" class=" highcharts-background"></rect><path fill="none" d="M 32 131.5 L 1130 131.5" stroke="#808080" stroke-width="1"></path><g class="highcharts-grid" zIndex="1"></g><g class="highcharts-grid" zIndex="1"></g><g class="highcharts-axis" zIndex="2"><path fill="none" d="M 580.5 212 L 580.5 222" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 32 212.5 L 1130 212.5" stroke="#C0D0E0" stroke-width="1" zIndex="7" visibility="visible"></path></g><g class="highcharts-axis" zIndex="2"><path fill="none" d="M 31.5 49 L 31.5 212" stroke="#C0D0E0" stroke-width="1" zIndex="7" visibility="visible"></path></g><g class="highcharts-series-group" zIndex="3"><g class="highcharts-series" visibility="visible" zIndex="0.1" transform="translate(32,49) scale(1 1)" clip-path="url(#highcharts-1)"><path fill="none" d="M 539 81.5 L 559 81.5" stroke-linejoin="round" visibility="visible" stroke="rgba(192,192,192,0.0001)" stroke-width="22" zIndex="2" class=" highcharts-tracker" style=""></path></g><g class="highcharts-markers highcharts-tracker" visibility="visible" zIndex="0.1" transform="translate(32,49) scale(1 1)" clip-path="none" style=""><path fill="#000000" d="M 549 77.5 C 554.328 77.5 554.328 85.5 549 85.5 C 543.672 85.5 543.672 77.5 549 77.5 Z"></path></g><g class="highcharts-series" visibility="visible" zIndex="0.1" transform="translate(32,49) scale(1 1)" clip-path="url(#highcharts-1)"><path fill="none" d="M 539 81.5 L 559 81.5" stroke-linejoin="round" visibility="visible" stroke="rgba(192,192,192,0.0001)" stroke-width="22" zIndex="2" class=" highcharts-tracker" style=""></path></g><g class="highcharts-markers highcharts-tracker" visibility="visible" zIndex="0.1" transform="translate(32,49) scale(1 1)" clip-path="none" style=""><path fill="#84bd00" d="M 549 77.5 L 553 81.5 549 85.5 545 81.5 Z"></path></g></g><text x="570" text-anchor="middle" class="highcharts-title" zIndex="4" style="color:#333333;font-size:18px;fill:#333333;width:1076px;" y="25">Points</text><g class="highcharts-legend" zIndex="7" transform="translate(425,25)"><g zIndex="1"><g><g class="highcharts-legend-item" zIndex="1" transform="translate(8,3)"><path fill="none" d="M 0 11 L 16 11" stroke="#000000" stroke-width="2"></path><path fill="#000000" d="M 8 7 C 13.328 7 13.328 15 8 15 C 2.6719999999999997 15 2.6719999999999997 7 8 7 Z"></path><text x="21" style="color:#333333;font-size:12px;font-weight:bold;cursor:pointer;fill:#333333;" text-anchor="start" zIndex="2" y="15"><tspan>Phoenix Hagen</tspan></text></g><g class="highcharts-legend-item" zIndex="1" transform="translate(138.84375,3)"><path fill="none" d="M 0 11 L 16 11" stroke="#84bd00" stroke-width="2"></path><path fill="#84bd00" d="M 8 7 L 12 11 8 15 4 11 Z"></path><text x="21" y="15" style="color:#333333;font-size:12px;font-weight:bold;cursor:pointer;fill:#333333;" text-anchor="start" zIndex="2"><tspan>ROSTOCK SEAWOLVES</tspan></text></g></g></g></g><g class="highcharts-axis-labels highcharts-xaxis-labels" zIndex="7"><text x="581" text-anchor="middle" style="color:#606060;cursor:default;font-size:11px;fill:#606060;" y="232" opacity="1"><tspan>Q1 10:00</tspan></text></g><g class="highcharts-axis-labels highcharts-yaxis-labels" zIndex="7"><text x="17" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="135" opacity="1">0</text></g><g class="highcharts-tooltip" zIndex="8" style="cursor:default;padding:0;white-space:nowrap;" transform="translate(0,-9999)"><path fill="none" d="M 3 0 L 13 0 C 16 0 16 0 16 3 L 16 13 C 16 16 16 16 13 16 L 3 16 C 0 16 0 16 0 13 L 0 3 C 0 0 0 0 3 0" isShadow="true" stroke="black" stroke-opacity="0.049999999999999996" stroke-width="5" transform="translate(1, 1)"></path><path fill="none" d="M 3 0 L 13 0 C 16 0 16 0 16 3 L 16 13 C 16 16 16 16 13 16 L 3 16 C 0 16 0 16 0 13 L 0 3 C 0 0 0 0 3 0" isShadow="true" stroke="black" stroke-opacity="0.09999999999999999" stroke-width="3" transform="translate(1, 1)"></path><path fill="none" d="M 3 0 L 13 0 C 16 0 16 0 16 3 L 16 13 C 16 16 16 16 13 16 L 3 16 C 0 16 0 16 0 13 L 0 3 C 0 0 0 0 3 0" isShadow="true" stroke="black" stroke-opacity="0.15" stroke-width="1" transform="translate(1, 1)"></path><path fill="rgba(249, 249, 249, .85)" d="M 3 0 L 13 0 C 16 0 16 0 16 3 L 16 13 C 16 16 16 16 13 16 L 3 16 C 0 16 0 16 0 13 L 0 3 C 0 0 0 0 3 0"></path><text x="8" zIndex="1" style="font-size:12px;color:#333333;fill:#333333;" y="21"></text></g></svg></div></div>
+                <table id="scoreQ" class="ligatable">
+                    <thead>
+                        <tr>
+                            <th style="text-align: center">Q1</th>
+                            <th style="text-align: center">Q2</th>
+                            <th style="text-align: center">Q3</th>
+                            <th style="text-align: center">Q4</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr style="text-align: center">
+                            <td id="score-Q1">-- : --</td>
+                            <td id="score-Q2">-- : --</td>
+                            <td id="score-Q3">-- : --</td>
+                            <td id="score-Q4">-- : --</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <div id="teamChart" style="height: 500px;" data-highcharts-chart="1"><div class="highcharts-container" id="highcharts-4" style="position: relative; overflow: hidden; width: 1140px; height: 500px; text-align: left; line-height: normal; z-index: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family: &quot;Open Sans&quot;;"><svg version="1.1" style="font-family:Open Sans;font-size:12px;" xmlns="http://www.w3.org/2000/svg" width="1140" height="500"><desc>Created with Highcharts 4.0.4</desc><defs><clipPath id="highcharts-5"><rect x="0" y="0" width="1092" height="382"></rect></clipPath></defs><rect x="0" y="0" width="1140" height="500" strokeWidth="0" fill="rgba(255, 255, 255, 0.1)" class=" highcharts-background"></rect><g class="highcharts-grid" zIndex="1"></g><g class="highcharts-grid" zIndex="1"></g><g class="highcharts-axis" zIndex="2"><path fill="none" d="M 205.5 447 L 205.5 457" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 289.5 447 L 289.5 457" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 373.5 447 L 373.5 457" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 457.5 447 L 457.5 457" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 541.5 447 L 541.5 457" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 625.5 447 L 625.5 457" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 709.5 447 L 709.5 457" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 793.5 447 L 793.5 457" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 877.5 447 L 877.5 457" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 961.5 447 L 961.5 457" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 1045.5 447 L 1045.5 457" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 1130.5 447 L 1130.5 457" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 121.5 447 L 121.5 457" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 37.5 447 L 37.5 457" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 38 447.5 L 1130 447.5" stroke="#C0D0E0" stroke-width="1" zIndex="7" visibility="visible"></path></g><g class="highcharts-axis" zIndex="2"><path fill="none" d="M 37.5 65 L 37.5 447" stroke="#C0D0E0" stroke-width="1" zIndex="7" visibility="visible"></path></g><g class="highcharts-series-group" zIndex="3"><g class="highcharts-series highcharts-tracker" visibility="visible" zIndex="0.1" transform="translate(38,65) scale(1 1)" style="" clip-path="url(#highcharts-5)"><rect x="18.5" y="246.5" width="21" height="136" fill="#000000" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="102.5" y="195.5" width="21" height="187" fill="#000000" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="186.5" y="204.5" width="21" height="178" fill="#000000" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="270.5" y="34.5" width="21" height="348" fill="#000000" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="354.5" y="314.5" width="21" height="68" fill="#000000" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="438.5" y="144.5" width="21" height="238" fill="#000000" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="522.5" y="178.5" width="21" height="204" fill="#000000" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="606.5" y="229.5" width="21" height="153" fill="#000000" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="690.5" y="255.5" width="21" height="127" fill="#000000" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="774.5" y="102.5" width="21" height="280" fill="#000000" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="858.5" y="374.5" width="21" height="8" fill="#000000" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="942.5" y="331.5" width="21" height="51" fill="#000000" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="1026.5" y="272.5" width="21" height="110" fill="#000000" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect></g><g class="highcharts-markers" visibility="visible" zIndex="0.1" transform="translate(38,65) scale(1 1)" clip-path="none"></g><g class="highcharts-series highcharts-tracker" visibility="visible" zIndex="0.1" transform="translate(38,65) scale(1 1)" style="" clip-path="url(#highcharts-5)"><rect x="44.5" y="382.5" width="21" height="0" fill="#84bd00" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="128.5" y="382.5" width="21" height="0" fill="#84bd00" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="212.5" y="382.5" width="21" height="0" fill="#84bd00" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="296.5" y="382.5" width="21" height="0" fill="#84bd00" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="380.5" y="382.5" width="21" height="0" fill="#84bd00" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="464.5" y="382.5" width="21" height="0" fill="#84bd00" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="548.5" y="382.5" width="21" height="0" fill="#84bd00" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="632.5" y="382.5" width="21" height="0" fill="#84bd00" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="716.5" y="382.5" width="21" height="0" fill="#84bd00" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="800.5" y="382.5" width="21" height="0" fill="#84bd00" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="884.5" y="382.5" width="21" height="0" fill="#84bd00" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="968.5" y="382.5" width="21" height="0" fill="#84bd00" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="1052.5" y="382.5" width="21" height="0" fill="#84bd00" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect></g><g class="highcharts-markers" visibility="visible" zIndex="0.1" transform="translate(38,65) scale(1 1)" clip-path="none"></g></g><text x="570" text-anchor="middle" class="highcharts-title" zIndex="4" style="color:#333333;font-size:18px;fill:#333333;width:1076px;" y="25">Teamstats</text><g class="highcharts-data-labels highcharts-tracker" visibility="visible" zIndex="6" transform="translate(38,65) scale(1 1)" opacity="1" style=""><g zIndex="1" style="cursor:default;" transform="translate(19,244)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">16</text></g><g zIndex="1" style="cursor:default;" transform="translate(103,193)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">22</text></g><g zIndex="1" style="cursor:default;" transform="translate(187,202)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">21</text></g><g zIndex="1" style="cursor:default;" transform="translate(271,32)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">41</text></g><g zIndex="1" style="cursor:default;" transform="translate(359,312)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">8</text></g><g zIndex="1" style="cursor:default;" transform="translate(439,142)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">28</text></g><g zIndex="1" style="cursor:default;" transform="translate(523,176)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">24</text></g><g zIndex="1" style="cursor:default;" transform="translate(607,227)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">18</text></g><g zIndex="1" style="cursor:default;" transform="translate(691,253)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">15</text></g><g zIndex="1" style="cursor:default;" transform="translate(775,100)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">33</text></g><g zIndex="1" style="cursor:default;" transform="translate(863,343)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">1</text></g><g zIndex="1" style="cursor:default;" transform="translate(947,329)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">6</text></g><g zIndex="1" style="cursor:default;" transform="translate(1027,270)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">13</text></g></g><g class="highcharts-data-labels highcharts-tracker" visibility="visible" zIndex="6" transform="translate(38,65) scale(1 1)" opacity="1" style=""><g zIndex="1" style="cursor:default;" transform="translate(49,343)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(133,343)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(217,343)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(301,343)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(385,343)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(469,343)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(553,343)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(637,343)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(721,343)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(805,343)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(889,343)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(973,343)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g><g zIndex="1" style="cursor:default;" transform="translate(1057,343)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0</text></g></g><g class="highcharts-legend" zIndex="7" transform="translate(425,25)"><g zIndex="1"><g><g class="highcharts-legend-item" zIndex="1" transform="translate(8,3)"><text x="21" style="color:#333333;font-size:12px;font-weight:bold;cursor:pointer;fill:#333333;" text-anchor="start" zIndex="2" y="15"><tspan>Phoenix Hagen</tspan></text><rect x="0" y="4" width="16" height="12" zIndex="3" fill="#000000"></rect></g><g class="highcharts-legend-item" zIndex="1" transform="translate(138.84375,3)"><text x="21" y="15" style="color:#333333;font-size:12px;font-weight:bold;cursor:pointer;fill:#333333;" text-anchor="start" zIndex="2"><tspan>ROSTOCK SEAWOLVES</tspan></text><rect x="0" y="4" width="16" height="12" zIndex="3" fill="#84bd00"></rect></g></g></g></g><g class="highcharts-axis-labels highcharts-xaxis-labels" zIndex="7"><text x="80" text-anchor="middle" style="width:64px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="467" opacity="1"><tspan>FT Made</tspan></text><text x="164" text-anchor="middle" style="width:64px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="467" opacity="1"><tspan>FT Attempts</tspan></text><text x="248" text-anchor="middle" style="width:64px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="467" opacity="1"><tspan>2P Made</tspan></text><text x="332" text-anchor="middle" style="width:64px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="467" opacity="1"><tspan>2P Attempts</tspan></text><text x="416" text-anchor="middle" style="width:64px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="467" opacity="1"><tspan>3P Made</tspan></text><text x="500" text-anchor="middle" style="width:64px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="467" opacity="1"><tspan>3P Attempts</tspan></text><text x="584" text-anchor="middle" style="width:64px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="467" opacity="1">Fouls</text><text x="668" text-anchor="middle" style="width:64px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="467" opacity="1"><tspan>Defensiv</tspan><tspan dy="15" x="668">Rebounds</tspan></text><text x="752" text-anchor="middle" style="width:64px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="467" opacity="1"><tspan>Offensiv</tspan><tspan dy="15" x="752">Rebounds</tspan></text><text x="836" text-anchor="middle" style="width:64px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="467" opacity="1"><tspan>Total</tspan><tspan dy="15" x="836">Rebounds</tspan></text><text x="920" text-anchor="middle" style="width:64px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="467" opacity="1">Blocks</text><text x="1004" text-anchor="middle" style="width:64px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="467" opacity="1">Steals</text><text x="1088" text-anchor="middle" style="width:64px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="467" opacity="1">Turnovers</text></g><g class="highcharts-axis-labels highcharts-yaxis-labels" zIndex="7"><text x="23" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="451.5" opacity="1">0</text><text x="23" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="409.0555555555038" opacity="1">5</text><text x="23" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="366.61111111100763" opacity="1">10</text><text x="23" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="324.16666666651145" opacity="1">15</text><text x="23" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="281.72222222201526" opacity="1">20</text><text x="23" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="239.27777777798474" opacity="1">25</text><text x="23" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="196.8333333330229" opacity="1">30</text><text x="23" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="154.38888888899237" opacity="1">35</text><text x="23" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="111.94444444403052" opacity="1">40</text><text x="23" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="69.5" opacity="1">45</text></g><g class="highcharts-tooltip" zIndex="8" style="cursor:default;padding:0;white-space:nowrap;" transform="translate(0,-9999)"><path fill="none" d="M 3 0 L 13 0 C 16 0 16 0 16 3 L 16 13 C 16 16 16 16 13 16 L 3 16 C 0 16 0 16 0 13 L 0 3 C 0 0 0 0 3 0" isShadow="true" stroke="black" stroke-opacity="0.049999999999999996" stroke-width="5" transform="translate(1, 1)"></path><path fill="none" d="M 3 0 L 13 0 C 16 0 16 0 16 3 L 16 13 C 16 16 16 16 13 16 L 3 16 C 0 16 0 16 0 13 L 0 3 C 0 0 0 0 3 0" isShadow="true" stroke="black" stroke-opacity="0.09999999999999999" stroke-width="3" transform="translate(1, 1)"></path><path fill="none" d="M 3 0 L 13 0 C 16 0 16 0 16 3 L 16 13 C 16 16 16 16 13 16 L 3 16 C 0 16 0 16 0 13 L 0 3 C 0 0 0 0 3 0" isShadow="true" stroke="black" stroke-opacity="0.15" stroke-width="1" transform="translate(1, 1)"></path><path fill="rgba(249, 249, 249, .85)" d="M 3 0 L 13 0 C 16 0 16 0 16 3 L 16 13 C 16 16 16 16 13 16 L 3 16 C 0 16 0 16 0 13 L 0 3 C 0 0 0 0 3 0"></path><text x="8" zIndex="1" style="font-size:12px;color:#333333;fill:#333333;" y="21"></text></g></svg></div></div>
+                <div id="teamRatesChart" style="height: 500px;" data-highcharts-chart="2"><div class="highcharts-container" id="highcharts-6" style="position: relative; overflow: hidden; width: 1140px; height: 500px; text-align: left; line-height: normal; z-index: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family: &quot;Open Sans&quot;;"><svg version="1.1" style="font-family:Open Sans;font-size:12px;" xmlns="http://www.w3.org/2000/svg" width="1140" height="500"><desc>Created with Highcharts 4.0.4</desc><defs><clipPath id="highcharts-7"><rect x="0" y="0" width="1085" height="397"></rect></clipPath></defs><rect x="0" y="0" width="1140" height="500" strokeWidth="0" fill="rgba(255, 255, 255, 0.1)" class=" highcharts-background"></rect><g class="highcharts-grid" zIndex="1"></g><g class="highcharts-grid" zIndex="1"></g><g class="highcharts-axis" zIndex="2"><path fill="none" d="M 767.5 462 L 767.5 472" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 1130.5 462 L 1130.5 472" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 406.5 462 L 406.5 472" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 44.5 462 L 44.5 472" stroke="#C0D0E0" stroke-width="1" opacity="1"></path><path fill="none" d="M 45 462.5 L 1130 462.5" stroke="#C0D0E0" stroke-width="1" zIndex="7" visibility="visible"></path></g><g class="highcharts-axis" zIndex="2"><path fill="none" d="M 44.5 65 L 44.5 462" stroke="#C0D0E0" stroke-width="1" zIndex="7" visibility="visible"></path></g><g class="highcharts-series-group" zIndex="3"><g class="highcharts-series highcharts-tracker" visibility="visible" zIndex="0.1" transform="translate(45,65) scale(1 1)" style="" clip-path="url(#highcharts-7)"><rect x="82.5" y="134.5" width="87" height="263" fill="#000000" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="444.5" y="213.5" width="87" height="184" fill="#000000" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="806.5" y="292.5" width="87" height="105" fill="#000000" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect></g><g class="highcharts-markers" visibility="visible" zIndex="0.1" transform="translate(45,65) scale(1 1)" clip-path="none"></g><g class="highcharts-series highcharts-tracker" visibility="visible" zIndex="0.1" transform="translate(45,65) scale(1 1)" style="" clip-path="url(#highcharts-7)"><rect x="191.5" y="397.5" width="87" height="0" fill="#84bd00" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="552.5" y="397.5" width="87" height="0" fill="#84bd00" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect><rect x="914.5" y="397.5" width="87" height="0" fill="#84bd00" rx="0" ry="0" stroke="#FFFFFF" stroke-width="1"></rect></g><g class="highcharts-markers" visibility="visible" zIndex="0.1" transform="translate(45,65) scale(1 1)" clip-path="none"></g></g><text x="570" text-anchor="middle" class="highcharts-title" zIndex="4" style="color:#333333;font-size:18px;fill:#333333;width:1076px;" y="25">Teamrates</text><g class="highcharts-data-labels highcharts-tracker" visibility="visible" zIndex="6" transform="translate(45,65) scale(1 1)" opacity="1" style=""><g zIndex="1" style="cursor:default;" transform="translate(112,132)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">73%</text></g><g zIndex="1" style="cursor:default;" transform="translate(474,211)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">51%</text></g><g zIndex="1" style="cursor:default;" transform="translate(836,290)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">29%</text></g></g><g class="highcharts-data-labels highcharts-tracker" visibility="visible" zIndex="6" transform="translate(45,65) scale(1 1)" opacity="1" style=""><g zIndex="1" style="cursor:default;" transform="translate(224,358)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0%</text></g><g zIndex="1" style="cursor:default;" transform="translate(585,358)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0%</text></g><g zIndex="1" style="cursor:default;" transform="translate(947,358)"><text x="3" zIndex="1" style="font-size:11px;color:white;fill:white;" y="15">0%</text></g></g><g class="highcharts-legend" zIndex="7" transform="translate(425,25)"><g zIndex="1"><g><g class="highcharts-legend-item" zIndex="1" transform="translate(8,3)"><text x="21" style="color:#333333;font-size:12px;font-weight:bold;cursor:pointer;fill:#333333;" text-anchor="start" zIndex="2" y="15"><tspan>Phoenix Hagen</tspan></text><rect x="0" y="4" width="16" height="12" zIndex="3" fill="#000000"></rect></g><g class="highcharts-legend-item" zIndex="1" transform="translate(138.84375,3)"><text x="21" y="15" style="color:#333333;font-size:12px;font-weight:bold;cursor:pointer;fill:#333333;" text-anchor="start" zIndex="2"><tspan>ROSTOCK SEAWOLVES</tspan></text><rect x="0" y="4" width="16" height="12" zIndex="3" fill="#84bd00"></rect></g></g></g></g><g class="highcharts-axis-labels highcharts-xaxis-labels" zIndex="7"><text x="225.83333333333334" text-anchor="middle" style="width:342px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="482" opacity="1"><tspan>FT Rates</tspan></text><text x="587.5" text-anchor="middle" style="width:342px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="482" opacity="1"><tspan>2P Rates</tspan></text><text x="949.1666666666666" text-anchor="middle" style="width:342px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="482" opacity="1"><tspan>3P Rates</tspan></text></g><g class="highcharts-axis-labels highcharts-yaxis-labels" zIndex="7"><text x="30" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="466.5" opacity="1">0</text><text x="30" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="430.40909090909093" opacity="1">10</text><text x="30" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="394.3181818181818" opacity="1">20</text><text x="30" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="358.22727272727275" opacity="1">30</text><text x="30" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="322.1363636363636" opacity="1">40</text><text x="30" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="286.04545454545456" opacity="1">50</text><text x="30" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="249.9545454545455" opacity="1">60</text><text x="30" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="213.86363636363637" opacity="1">70</text><text x="30" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="177.7727272727273" opacity="1">80</text><text x="30" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="141.6818181818182" opacity="1">90</text><text x="30" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="105.59090909090912" opacity="1">100</text><text x="30" text-anchor="end" style="width:356px;color:#606060;cursor:default;font-size:11px;fill:#606060;" y="69.5" opacity="1">110</text></g><g class="highcharts-tooltip" zIndex="8" style="cursor:default;padding:0;white-space:nowrap;" transform="translate(0,-9999)"><path fill="none" d="M 3 0 L 13 0 C 16 0 16 0 16 3 L 16 13 C 16 16 16 16 13 16 L 3 16 C 0 16 0 16 0 13 L 0 3 C 0 0 0 0 3 0" isShadow="true" stroke="black" stroke-opacity="0.049999999999999996" stroke-width="5" transform="translate(1, 1)"></path><path fill="none" d="M 3 0 L 13 0 C 16 0 16 0 16 3 L 16 13 C 16 16 16 16 13 16 L 3 16 C 0 16 0 16 0 13 L 0 3 C 0 0 0 0 3 0" isShadow="true" stroke="black" stroke-opacity="0.09999999999999999" stroke-width="3" transform="translate(1, 1)"></path><path fill="none" d="M 3 0 L 13 0 C 16 0 16 0 16 3 L 16 13 C 16 16 16 16 13 16 L 3 16 C 0 16 0 16 0 13 L 0 3 C 0 0 0 0 3 0" isShadow="true" stroke="black" stroke-opacity="0.15" stroke-width="1" transform="translate(1, 1)"></path><path fill="rgba(249, 249, 249, .85)" d="M 3 0 L 13 0 C 16 0 16 0 16 3 L 16 13 C 16 16 16 16 13 16 L 3 16 C 0 16 0 16 0 13 L 0 3 C 0 0 0 0 3 0"></path><text x="8" zIndex="1" style="font-size:12px;color:#333333;fill:#333333;" y="21"></text></g></svg></div></div>
+
+                <table id="team-table" class="ligatable nomobiletable">
+                    <thead>
+                        <tr>
+                            <th>Team</th>
+                            <th style="text-align: center">
+                                <p class="nomobile">2P-A-R</p>
+                                <p class="mobile">2P-A
+                                    <br>R
+                                </p>
+                            </th>
+                            <th style="text-align: center">
+                                <p class="nomobile">3P-A-R</p>
+                                <p class="mobile">3P-A
+                                    <br>R
+                                </p>
+                            </th>
+                            <th style="text-align: center">
+                                <p class="nomobile">FG-A-R</p>
+                                <p class="mobile">FG-A
+                                    <br>R
+                                </p>
+                            </th>
+                            <th style="text-align: center">
+                                <p class="nomobile">FT-A-R</p>
+                                <p class="mobile">FT-A
+                                    <br>R
+                                </p>
+                            </th>
+                            <th style="text-align: center">P</th>
+                            <th style="text-align: center">As</th>
+                            <th style="text-align: center">
+                                <p class="nomobile">RO-RD-RT</p>
+                                <p class="mobile">RO-RD
+                                    <br>RT
+                                </p>
+                            </th>
+                            <th style="text-align: center">F</th>
+                            <th style="text-align: center">BL</th>
+                            <th style="text-align: center">ST</th>
+                            <th style="text-align: center">TO</th>
+                            <th style="text-align: center">EFF</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr id="team-1-stats">
+                            <td class="teamname">Phoenix Hagen</td>
+                            <td style="text-align: center" class="td-2p"><p class="nomobile">21 - 41 - 51%</p><p class="mobile">21 - 41 <br> 51%</p></td>
+                            <td style="text-align: center" class="td-3p"><p class="nomobile">8 - 28 - 29%</p><p class="mobile">8 - 28 <br> 29%</p></td>
+                            <td style="text-align: center" class="td-fg"><p class="nomobile">29 - 69 - 42%</p><p class="mobile">29 - 69 <br> 42%</p></td>
+                            <td style="text-align: center" class="td-ft"><p class="nomobile">16 - 22 - 73%</p><p class="mobile">16 - 22 <br> 73%</p></td>
+                            <td style="text-align: center" class="td-pts">82</td>
+                            <td style="text-align: center" class="td-ass">0</td>
+                            <td style="text-align: center" class="td-reb"><p class="nomobile">15 - 18 - 33</p><p class="mobile">15 - 18 <br> 33</p></td>
+                            <td style="text-align: center" class="td-fls">24</td>
+                            <td style="text-align: center" class="td-bl">1</td>
+                            <td style="text-align: center" class="td-st">6</td>
+                            <td style="text-align: center" class="td-to">13</td>
+                            <td style="text-align: center" class="td-eff">20</td>
+                        </tr>
+                        <tr id="team-2-stats">
+                            <td class="teamname">ROSTOCK SEAWOLVES</td>
+                            <td style="text-align: center" class="td-2p">0</td>
+                            <td style="text-align: center" class="td-3p">0</td>
+                            <td style="text-align: center" class="td-fg">0</td>
+                            <td style="text-align: center" class="td-ft">0</td>
+                            <td style="text-align: center" class="td-pts">0</td>
+                            <td style="text-align: center" class="td-ass">0</td>
+                            <td style="text-align: center" class="td-reb"><p class="nomobile">R: O-D-T</p><p class="mobile">R: O-D<br>T</p></td>
+                            <td style="text-align: center" class="td-fls">0</td>
+                            <td style="text-align: center" class="td-bl">0</td>
+                            <td style="text-align: center" class="td-st">0</td>
+                            <td style="text-align: center" class="td-to">0</td>
+                            <td style="text-align: center" class="td-eff">0</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p class="mobile-table-text text-center"><i class="fa fa-exclamation-triangle"></i> <b>Bitte das Device
+                        quer drehen um ausführliche Statistiken zu erhalten</b>
+                </p>
+            </div><div id="slide-team" class="slick-slide" index="3" style="width: 1140px;">
+                <!-- Team -->
+                <i id="print-icon" class="pointer fa fa-print pull-right"></i>
+                <div class="row text-center">
+                    <h1 id="team-1-h1"></h1>
+                </div>
+                <div id="team-1">
+                </div>
+
+                <div class="legend">
+                    <div class="legend-starting5"></div>
+                    <p>Starting 5, <b>P: </b>Points, <b>F: </b>Fouls<span class="legend-table">, <b>Min: </b>Spielzeit,
+                            <b>FT: </b>Free Throw, <b>AS: </b>Assists, <b>RB: </b>Rebounds, <b>BL: </b> Blocks, <b>ST:
+                            </b>Steals, <b>TO: </b>Turnover, <b>EF: </b>Effektivität, <b>*-A-R: </b>Punkteart - Attempts
+                            - Rate,</span> <span style="color:#84bd00">Topscorer</span>
+                    </p>
+                </div>
+                <table id="team-1-table" class="ligatable teamtable nomobiletable tablesorter tablesorter-default" role="grid">
+                    <thead>
+                        <tr role="row" class="tablesorter-headerRow">
+                            <th data-column="0" class="tablesorter-header tablesorter-headerAsc" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-1-table" unselectable="on" aria-sort="ascending" aria-label="Spieler: Ascending sort applied, activate to apply a descending sort" style="user-select: none;"><div class="tablesorter-header-inner">Spieler</div></th>
+                            <th style="text-align: center; user-select: none;" data-column="1" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-1-table" unselectable="on" aria-sort="none" aria-label="Min: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">Min</div></th>
+                            <th style="text-align: center; user-select: none;" data-column="2" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-1-table" unselectable="on" aria-sort="none" aria-label="
+                                2P-A-R
+                                2P-A
+                                    R
+                                
+                            : No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">
+                                <p class="nomobile">2P-A-R</p>
+                                <p class="mobile">2P-A
+                                    <br>R
+                                </p>
+                            </div></th>
+                            <th style="text-align: center; user-select: none;" data-column="3" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-1-table" unselectable="on" aria-sort="none" aria-label="
+                                3P-A-R
+                                3P-A
+                                    R
+                                
+                            : No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">
+                                <p class="nomobile">3P-A-R</p>
+                                <p class="mobile">3P-A
+                                    <br>R
+                                </p>
+                            </div></th>
+                            <th style="text-align: center; user-select: none;" data-column="4" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-1-table" unselectable="on" aria-sort="none" aria-label="
+                                FG-A-R
+                                FG-A
+                                    R
+                                
+                            : No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">
+                                <p class="nomobile">FG-A-R</p>
+                                <p class="mobile">FG-A
+                                    <br>R
+                                </p>
+                            </div></th>
+                            <th style="text-align: center; user-select: none;" data-column="5" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-1-table" unselectable="on" aria-sort="none" aria-label="
+                                FT-A-R
+                                FT-A
+                                    R
+                                
+                            : No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">
+                                <p class="nomobile">FT-A-R</p>
+                                <p class="mobile">FT-A
+                                    <br>R
+                                </p>
+                            </div></th>
+                            <th style="text-align: center; user-select: none;" data-column="6" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-1-table" unselectable="on" aria-sort="none" aria-label="P: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">P</div></th>
+                            <th style="text-align: center; user-select: none;" data-column="7" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-1-table" unselectable="on" aria-sort="none" aria-label="AS: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">AS</div></th>
+                            <th style="text-align: center; user-select: none;" class="td-reb tablesorter-header tablesorter-headerUnSorted" data-column="8" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-1-table" unselectable="on" aria-sort="none" aria-label="RB: No sort applied, activate to apply an ascending sort"><p class="nomobile">R: O-D-T</p><p class="mobile">R: O-D<br>T</p></th>
+                            <th style="text-align: center; user-select: none;" data-column="9" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-1-table" unselectable="on" aria-sort="none" aria-label="F: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">F</div></th>
+                            <th style="text-align: center; user-select: none;" data-column="10" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-1-table" unselectable="on" aria-sort="none" aria-label="BL: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">BL</div></th>
+                            <th style="text-align: center; user-select: none;" data-column="11" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-1-table" unselectable="on" aria-sort="none" aria-label="ST: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">ST</div></th>
+                            <th style="text-align: center; user-select: none;" data-column="12" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-1-table" unselectable="on" aria-sort="none" aria-label="TO: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">TO</div></th>
+                            <th style="text-align: center; user-select: none;" data-column="13" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-1-table" unselectable="on" aria-sort="none" aria-label="EF: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">EF</div></th>
+                        </tr>
+                    </thead>
+                    <tbody aria-live="polite" aria-relevant="all">
+                    </tbody>
+                    <tfoot>
+                        <tr class="tr-team" role="row">
+                            <td data-column="0" class="tablesorter-headerAsc">Teamaktionen</td>
+                            <td style="text-align: center" class="td-team-min" data-column="1"></td>
+                            <td style="text-align: center" class="td-team-2p" data-column="2"></td>
+                            <td style="text-align: center" class="td-team-3p" data-column="3"></td>
+                            <td style="text-align: center" class="td-team-fg" data-column="4"></td>
+                            <td style="text-align: center" class="td-team-ft" data-column="5"></td>
+                            <td style="text-align: center" class="td-team-pts" data-column="6"></td>
+                            <td style="text-align: center" class="td-team-ass" data-column="7"></td>
+                            <td style="text-align: center" class="td-team-reb" data-column="8">33</td>
+                            <td style="text-align: center" class="td-team-fls" data-column="9">24</td>
+                            <td style="text-align: center" class="td-team-bl" data-column="10"></td>
+                            <td style="text-align: center" class="td-team-st" data-column="11"></td>
+                            <td style="text-align: center" class="td-team-to" data-column="12">13</td>
+                            <td style="text-align: center" class="td-team-eff" data-column="13">20</td>
+                        </tr>
+                        <tr class="tr-sum" role="row">
+                            <td data-column="0" class="tablesorter-headerAsc">Gesamt</td>
+                            <td style="text-align: center" class="td-sum-min" data-column="1">00:00</td>
+                            <td style="text-align: center" class="td-sum-2p" data-column="2"><p class="nomobile">0 - 0 - 0%</p><p class="mobile">0 - 0 <br> 0%</p></td>
+                            <td style="text-align: center" class="td-sum-3p" data-column="3"><p class="nomobile">0 - 0 - 0%</p><p class="mobile">0 - 0 <br> 0%</p></td>
+                            <td style="text-align: center" class="td-sum-fg" data-column="4"><p class="nomobile">0 - 0 - 0%</p><p class="mobile">0 - 0 <br> 0%</p></td>
+                            <td style="text-align: center" class="td-sum-ft" data-column="5"><p class="nomobile">0 - 0 - 0%</p><p class="mobile">0 - 0 <br> 0%</p></td>
+                            <td style="text-align: center" class="td-sum-pts" data-column="6">0</td>
+                            <td style="text-align: center" class="td-sum-ass" data-column="7">0</td>
+                            <td style="text-align: center" class="td-sum-reb" data-column="8">33</td>
+                            <td style="text-align: center" class="td-sum-fls" data-column="9">24</td>
+                            <td style="text-align: center" class="td-sum-bl" data-column="10">0</td>
+                            <td style="text-align: center" class="td-sum-st" data-column="11">0</td>
+                            <td style="text-align: center" class="td-sum-to" data-column="12">13</td>
+                            <td style="text-align: center" class="td-sum-eff" data-column="13">20</td>
+                        </tr>
+                    </tfoot>
+                </table>
+                <p class="mobile-table-text text-center"><i class="fa fa-exclamation-triangle"></i> <b>Bitte das Device
+                        quer drehen um ausführliche Statistiken zu erhalten</b>
+                </p>
+                <div class="row text-center">
+                    <h1 id="team-2-h1"></h1>
+                </div>
+                <div id="team-2">
+                </div>
+                <div class="legend">
+                    <div class="legend-starting5"></div>
+                    <p>Starting 5, <b>P: </b>Points, <b>F: </b>Fouls<span class="legend-table">, <b>Min: </b>Spielzeit,
+                            <b>FT: </b>Free Throw, <b>AS: </b>Assists, <b>RB: </b>Rebounds, <b>BL: </b> Blocks, <b>ST:
+                            </b>Steals, <b>TO: </b>Turnover, <b>EF: </b>Effektivität, <b>*-A-R: </b>Punkteart - Attempts
+                            - Rate,</span> <span style="color:#84bd00">Topscorer</span>
+                    </p>
+                </div>
+                <table id="team-2-table" class="ligatable teamtable nomobiletable tablesorter tablesorter-default" role="grid">
+                    <thead>
+                        <tr role="row" class="tablesorter-headerRow">
+                            <th data-column="0" class="tablesorter-header tablesorter-headerAsc" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-2-table" unselectable="on" aria-sort="ascending" aria-label="Spieler: Ascending sort applied, activate to apply a descending sort" style="user-select: none;"><div class="tablesorter-header-inner">Spieler</div></th>
+                            <th style="text-align: center; user-select: none;" data-column="1" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-2-table" unselectable="on" aria-sort="none" aria-label="Min: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">Min</div></th>
+                            <th style="text-align: center; user-select: none;" data-column="2" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-2-table" unselectable="on" aria-sort="none" aria-label="
+                                2P-A-R
+                                2P-A
+                                    R
+                                
+                            : No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">
+                                <p class="nomobile">2P-A-R</p>
+                                <p class="mobile">2P-A
+                                    <br>R
+                                </p>
+                            </div></th>
+                            <th style="text-align: center; user-select: none;" data-column="3" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-2-table" unselectable="on" aria-sort="none" aria-label="
+                                3P-A-R
+                                3P-A
+                                    R
+                                
+                            : No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">
+                                <p class="nomobile">3P-A-R</p>
+                                <p class="mobile">3P-A
+                                    <br>R
+                                </p>
+                            </div></th>
+                            <th style="text-align: center; user-select: none;" data-column="4" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-2-table" unselectable="on" aria-sort="none" aria-label="
+                                FG-A-R
+                                FG-A
+                                    R
+                                
+                            : No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">
+                                <p class="nomobile">FG-A-R</p>
+                                <p class="mobile">FG-A
+                                    <br>R
+                                </p>
+                            </div></th>
+                            <th style="text-align: center; user-select: none;" data-column="5" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-2-table" unselectable="on" aria-sort="none" aria-label="
+                                FT-A-R
+                                FT-A
+                                    R
+                                
+                            : No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">
+                                <p class="nomobile">FT-A-R</p>
+                                <p class="mobile">FT-A
+                                    <br>R
+                                </p>
+                            </div></th>
+                            <th style="text-align: center; user-select: none;" data-column="6" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-2-table" unselectable="on" aria-sort="none" aria-label="P: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">P</div></th>
+                            <th style="text-align: center; user-select: none;" data-column="7" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-2-table" unselectable="on" aria-sort="none" aria-label="AS: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">AS</div></th>
+                            <th style="text-align: center; user-select: none;" class="td-reb tablesorter-header tablesorter-headerUnSorted" data-column="8" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-2-table" unselectable="on" aria-sort="none" aria-label="RB: No sort applied, activate to apply an ascending sort"><p class="nomobile">R: O-D-T</p><p class="mobile">R: O-D<br>T</p></th>
+                            <th style="text-align: center; user-select: none;" data-column="9" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-2-table" unselectable="on" aria-sort="none" aria-label="F: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">F</div></th>
+                            <th style="text-align: center; user-select: none;" data-column="10" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-2-table" unselectable="on" aria-sort="none" aria-label="BL: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">BL</div></th>
+                            <th style="text-align: center; user-select: none;" data-column="11" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-2-table" unselectable="on" aria-sort="none" aria-label="ST: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">ST</div></th>
+                            <th style="text-align: center; user-select: none;" data-column="12" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-2-table" unselectable="on" aria-sort="none" aria-label="TO: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">TO</div></th>
+                            <th style="text-align: center; user-select: none;" data-column="13" class="tablesorter-header tablesorter-headerUnSorted" tabindex="0" scope="col" role="columnheader" aria-disabled="false" aria-controls="team-2-table" unselectable="on" aria-sort="none" aria-label="EF: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">EF</div></th>
+                        </tr>
+                    </thead>
+                    <tbody aria-live="polite" aria-relevant="all">
+                    </tbody>
+                    <tfoot>
+                        <tr class="tr-team" role="row">
+                            <td data-column="0" class="tablesorter-headerAsc">Teamaktionen</td>
+                            <td style="text-align: center" class="td-team-min" data-column="1"></td>
+                            <td style="text-align: center" class="td-team-2p" data-column="2"></td>
+                            <td style="text-align: center" class="td-team-3p" data-column="3"></td>
+                            <td style="text-align: center" class="td-team-fg" data-column="4"></td>
+                            <td style="text-align: center" class="td-team-ft" data-column="5"></td>
+                            <td style="text-align: center" class="td-team-pts" data-column="6"></td>
+                            <td style="text-align: center" class="td-team-ass" data-column="7"></td>
+                            <td style="text-align: center" class="td-team-reb" data-column="8">0</td>
+                            <td style="text-align: center" class="td-team-fls" data-column="9">0</td>
+                            <td style="text-align: center" class="td-team-bl" data-column="10"></td>
+                            <td style="text-align: center" class="td-team-st" data-column="11"></td>
+                            <td style="text-align: center" class="td-team-to" data-column="12">0</td>
+                            <td style="text-align: center" class="td-team-eff" data-column="13"></td>
+                        </tr>
+                        <tr class="tr-sum" role="row">
+                            <td data-column="0" class="tablesorter-headerAsc">Gesamt</td>
+                            <td style="text-align: center" class="td-sum-min" data-column="1">0</td>
+                            <td style="text-align: center" class="td-sum-2p" data-column="2">0</td>
+                            <td style="text-align: center" class="td-sum-3p" data-column="3">0</td>
+                            <td style="text-align: center" class="td-sum-fg" data-column="4">0</td>
+                            <td style="text-align: center" class="td-sum-ft" data-column="5">0</td>
+                            <td style="text-align: center" class="td-sum-pts" data-column="6">0</td>
+                            <td style="text-align: center" class="td-sum-ass" data-column="7">0</td>
+                            <td style="text-align: center" class="td-sum-reb" data-column="8">0</td>
+                            <td style="text-align: center" class="td-sum-fls" data-column="9">0</td>
+                            <td style="text-align: center" class="td-sum-bl" data-column="10">0</td>
+                            <td style="text-align: center" class="td-sum-st" data-column="11">0</td>
+                            <td style="text-align: center" class="td-sum-to" data-column="12">0</td>
+                            <td style="text-align: center" class="td-sum-eff" data-column="13">0</td>
+                        </tr>
+                    </tfoot>
+                </table>
+                <p class="mobile-table-text text-center"><i class="fa fa-exclamation-triangle"></i> <b>Bitte das Device
+                        quer drehen um ausführliche Statistiken zu erhalten</b>
+                </p>
+            </div><div class="page-footer slick-slide show" index="4" style="width: 1140px;">
+                <div class="footer-container text-center">
+                    <!--            <a href="https://lionkeen.net" target="_blank" style="position: absolute; left: 10px;"><img src="https://www.lionkeen.net/logo_short.png">-->
+                    
+                    <div id="commercial-container"></div>
+                </div>
+            </div><div class="slick-slide slick-cloned" index="5" style="width: 1140px;">
+                <!-- 2 columns -->
+                <div style="width: 50; float: left;">
+                    <div class="page-header">
+                        <i class="fa fa-info-circle"></i> Sporthalle
+                    </div>
+                    <div class="stadium-content">
+                        <div class="stadium-name">Ischelandhalle</div>
+                        <div class="stadium-adress" style="display: none;">Adresse</div>
+                        <div class="stadium-city-zip">58097 Hagen</div>
+                        <div class="stadium-capacity">3145 Plätze</div>
+                        <div class="stadium-capacity-seated" style="display: none;">davon Sitzplätze</div>
+                        <img src="https://api.2basketballbundesliga.de/pics2/2025_2026/sn/227/001" style="width:100%;height:auto;max-height:100px;object-fit:cover;object-position:center;" onerror="this.style.display='none'">
+                    </div>
+                </div>
+                <div style="width: 50; float: right;">
+                    <div class="page-header">
+                        <i class="fa fa-info&gt;circle"></i> Schiedsrichter
+                    </div>
+<div style="display:flex;align-items:flex-start;gap:1rem;margin-bottom:1.5rem;" class="ref1">
+                        <img style="display: none;">
+                        <p style="margin:0;color:#333;line-height:1.4;font-size:2rem;align-self: center;">1. Schiedsrichter nicht bekannt</p>
+                    </div>
+
+                    <div style="display:flex;align-items:flex-start;gap:1rem;margin-bottom:1.5rem;" class="ref2">
+                        <img style="display: none;">
+                        <p style="margin:0;color:#333;line-height:1.4;font-size:2rem;align-self: center;">2. Schiedsrichter nicht bekannt</p>
+                    </div>
+
+                    <div style="display:flex;align-items:flex-start;gap:1rem;margin-bottom:1.5rem;" class="ref3">
+                        <img style="display: none;"> 
+                        <p style="margin:0;color:#333;line-height:1.4;font-size:2rem;align-self: center;">3. Schiedsrichter nicht bekannt</p>
+                    </div>
+
+                </div>
+
+
+                <!-- Slider -->
+            </div></div></div>
+
+            
+            <!-- Live -->
+
+            
+            <!-- Stats -->
+
+            
+            <!-- Team -->
+             
+
+            
+
+            <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+            <script src="/js/jquery.min.js"></script>
+            <script src="/js/bootstrap.min.js"></script>
+            <script src="/js/bootstrap-switch.min.js"></script>
+
+            <script src="/js/slick.min.js"></script>
+            <script src="/js/jquery.scrollUp.js"></script>
+
+            <script src="/js/socket.io.min.js"></script>
+            <!-- Add mousewheel plugin (this is optional) -->
+            <script src="/js/jquery.mousewheel-3.0.6.pack.js"></script>
+            <!-- Add fancyBox main JS and CSS files -->
+            <script src="/js/jquery.fancybox.pack.js"></script>
+            <!-- Add Button helper (this is optional) -->
+            <script src="/js/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
+            <!-- Add Media helper (this is optional) -->
+            <script src="/js/helpers/jquery.fancybox-media.js?v=1.0.6"></script>
+
+            <script src="/js/highcharts.js"></script>
+            <script src="/js/notify.min.js"></script>
+
+            <script src="/js/jquery.tablesorter.min.js"></script>
+            <script src="/js/wow.min.js"></script>
+            <script src="/js/animation.js"></script>
+            <script src="/js/lk.js"></script>
+
+            <script>
+                var gaProperty = 'UA-51769959-3';
+                var disableStr = 'ga-disable-' + gaProperty;
+                if (document.cookie.indexOf(disableStr + '=true') > -1) {
+                    window[disableStr] = true;
+                }
+                function gaOptout() {
+                    document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+                    window[disableStr] = true;
+                    alert('Das Tracking durch Google Analytics wurde in Ihrem Browser für diese Website deaktiviert.');
+                }
+            </script>
+            <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-51769959-3"></script>
+            <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag() { dataLayer.push(arguments); }
+                gtag('js', new Date());
+                gtag('config', 'UA-51769959-3', { 'anonymize_ip': true });
+            </script>
+
+
+
+</div></div><a id="scrollUp" href="#top" style="display: none; position: fixed; z-index: 2147483647;">^</a></body></html>
