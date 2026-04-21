@@ -1,0 +1,763 @@
+Team,Lineup,Lineup_Key,Games,Clutch_Minutes,Clutch_Seconds,PTS,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,OREB,DREB,REB,AST,STL,BLK,TOV,PF,PTS_ALLOWED,POSS,OFF_RTG,DEF_RTG,NET_RTG,PTS/MIN,DIFF
+SLUNETA  Ústí nad Labem,"N. Johnson, I. Davidson, J. Potoček, T. Vyoral, L. Pecka","SLUNETA  Ústí nad Labem|10,18,31,4,44",3,9.8,587.0,25,7,18,38.9,2,9,22.2,9,10,90.0,0,0,0,2,0,0,4,0,14,25.3,98.6,71.5,27.2,2.56,11
+BK KVIS Pardubice,"R. Moffatt, L. Kovář, R. Bonham, J. Bryant, J. Tůma","BK KVIS Pardubice|13,21,3,4,98",3,8.8,529.0,16,4,16,25.0,2,10,20.0,6,7,85.7,0,0,0,2,0,0,5,0,18,23.1,69.2,79.4,-10.2,1.81,-2
+BK ARMEX ENERGY Děčín,"P. Alexander, F. Kroutil, J. Štěrba, D. Davis, T. Pomikálek","BK ARMEX ENERGY Děčín|0,13,16,2,5",5,8.3,500.0,23,5,13,38.5,1,5,20.0,12,15,80.0,0,0,0,1,0,0,1,0,17,19.8,116.3,91.3,25.0,2.76,6
+SK Slavia Praha,"R. Jones, J. Matušík, R. Mrázek, M. Lufile, D. Böhm","SK Slavia Praha|15,16,22,24,7",2,8.3,501.0,20,9,18,50.0,1,4,25.0,1,2,50.0,0,0,0,4,0,0,3,0,16,21.0,95.2,121.1,-25.9,2.4,4
+USK Praha,"T. Henderson Jr., D. Vlk, O. Švec, T. Tainamo, M. Šafařík","USK Praha|1,13,16,25,5",5,8.2,490.0,26,11,16,68.8,3,4,75.0,1,2,50.0,0,0,0,5,0,0,2,0,14,18.1,143.4,64.1,79.4,3.18,12
+BK KVIS Pardubice,"L. Kovář, Z. Key, R. Bonham, J. Bryant, J. Tůma","BK KVIS Pardubice|21,23,3,4,98",5,8.1,488.0,21,5,10,50.0,2,5,40.0,9,10,90.0,0,0,0,3,0,0,1,0,15,14.8,142.0,85.9,56.2,2.58,6
+BK Opava,"W. Person Jr, Š. Puršl, M. Vyroubal, I. Gray, F. Zbránek","BK Opava|1,20,25,7,9",1,8.0,478.0,21,7,12,58.3,3,6,50.0,4,6,66.7,0,0,0,5,0,0,3,0,16,16.9,124.0,103.6,20.4,2.64,5
+BK ARMEX ENERGY Děčín,"F. Kroutil, J. Štěrba, J. Edwards, L. Feštr, M. Šturanović","BK ARMEX ENERGY Děčín|13,16,20,44,47",8,7.9,476.0,18,6,13,46.2,2,4,50.0,4,5,80.0,0,0,0,2,0,0,5,0,11,19.4,92.8,73.8,19.0,2.27,7
+BK Olomoucko,"M. Nelson, K. Elvis, J. Andre, K. Filewich, O. Šiška","BK Olomoucko|0,1,10,14,9",4,7.8,471.0,20,7,16,43.8,3,9,33.3,3,4,75.0,0,0,0,4,0,0,2,0,11,19.0,105.4,75.4,30.0,2.55,9
+BK ARMEX ENERGY Děčín,"P. Alexander, F. Kroutil, J. Štěrba, D. Davis, M. Šturanović","BK ARMEX ENERGY Děčín|0,13,16,2,47",4,7.7,462.0,21,8,18,44.4,1,6,16.7,4,5,80.0,0,0,0,4,0,0,0,0,10,19.4,108.3,68.5,39.8,2.73,11
+Sršni Photomate Písek,"K. Týml, J. Karlovský, M. Svoboda, J. Svoboda, P. Šlechta","Sršni Photomate Písek|33,41,71,77,8",3,7.6,454.0,16,4,10,40.0,1,5,20.0,7,12,58.3,0,0,0,4,0,0,3,0,20,17.5,91.2,118.9,-27.7,2.11,-4
+BK Opava,"W. Person Jr, C. Brown Jr, Š. Puršl, R. Kouřil, M. Vyroubal","BK Opava|1,13,20,21,25",3,7.5,450.0,12,3,9,33.3,0,4,0.0,6,8,75.0,0,0,0,5,0,0,2,0,19,13.9,86.1,91.5,-5.4,1.6,-7
+SK Slavia Praha,"N. Noumeros, P. Macháč, R. Jones, J. Matušík, R. Mrázek","SK Slavia Praha|13,14,15,16,22",3,7.0,422.0,17,6,14,42.9,4,7,57.1,1,2,50.0,0,0,0,3,0,0,2,0,6,16.2,104.9,37.3,67.6,2.42,11
+SLUNETA  Ústí nad Labem,"A. Pecháček, N. Johnson, J. Young, T. Vyoral, L. Pecka","SLUNETA  Ústí nad Labem|0,10,2,4,44",3,6.3,380.0,12,3,8,37.5,1,4,25.0,5,5,100.0,0,0,0,3,0,0,1,0,14,10.8,111.6,75.5,36.1,1.89,-2
+NH Ostrava,"A. Číž, M. Svoboda, K. Cole, E. Cato, L. Greer","NH Ostrava|11,20,24,25,3",2,6.3,378.0,14,4,9,44.4,0,3,0.0,6,10,60.0,0,0,0,3,0,0,2,0,18,14.8,94.7,133.2,-38.5,2.22,-4
+NH Ostrava,"S. Godwin, M. Čank, L. Palyza, E. Cato, L. Greer","NH Ostrava|14,19,23,25,3",1,6.3,376.0,7,2,9,22.2,0,3,0.0,3,6,50.0,0,0,0,1,0,0,2,0,10,13.1,53.5,58.3,-4.8,1.12,-3
+USK Praha,"J. Montgomery, T. Henderson Jr., O. Švec, T. Tainamo, C. Eduardo","USK Praha|0,1,16,25,7",4,6.2,372.0,11,3,6,50.0,0,1,0.0,5,5,100.0,0,0,0,1,0,0,3,0,10,10.8,102.3,92.0,10.3,1.77,1
+Sršni Photomate Písek,"V. Sýkora, M. Kozák, K. Týml, M. Svoboda, M. Burda","Sršni Photomate Písek|10,11,33,71,9",1,6.2,373.0,10,3,10,30.0,2,5,40.0,2,2,100.0,0,0,0,3,0,0,3,0,16,13.3,75.0,125.5,-50.5,1.61,-6
+BK ARMEX ENERGY Děčín,"A. Dawes, M. Houška, J. Štěrba, J. Edwards, T. Pomikálek","BK ARMEX ENERGY Děčín|1,15,16,20,5",1,6.0,360.0,19,6,10,60.0,3,5,60.0,4,4,100.0,0,0,0,6,0,0,0,0,7,11.3,168.3,52.5,115.8,3.17,12
+BK KVIS Pardubice,"J. Evans Iii, L. Kovář, Z. Key, J. Bryant, J. Tůma","BK KVIS Pardubice|11,21,23,4,98",3,5.9,354.0,14,4,5,80.0,2,2,100.0,4,5,80.0,0,0,0,2,0,0,5,0,12,11.7,119.5,114.9,4.6,2.37,2
+NH Ostrava,"A. Číž, M. Svoboda, K. Cole, L. Greer, D. Heinzl","NH Ostrava|11,20,24,3,7",3,5.8,349.0,13,3,8,37.5,0,2,0.0,7,8,87.5,0,0,0,0,0,0,3,0,13,13.9,93.3,102.6,-9.3,2.23,0
+USK Praha,"J. Montgomery, T. Henderson Jr., D. Vlk, T. Tainamo, M. Šafařík","USK Praha|0,1,13,25,5",4,5.8,351.0,11,3,7,42.9,1,2,50.0,4,6,66.7,0,0,0,1,0,0,2,0,13,11.2,98.4,125.9,-27.4,1.88,-2
+USK Praha,"J. Montgomery, D. Vlk, O. Švec, T. Tainamo, C. Eduardo","USK Praha|0,13,16,25,7",2,5.8,349.0,15,6,13,46.2,2,6,33.3,1,2,50.0,0,0,0,2,0,0,0,0,5,13.3,112.6,50.5,62.1,2.58,10
+BK KVIS Pardubice,"J. Evans Iii, R. Moffatt, Z. Key, J. Bryant, J. Tůma","BK KVIS Pardubice|11,13,23,4,98",2,5.8,351.0,16,5,9,55.6,2,5,40.0,4,5,80.0,0,0,0,2,0,0,1,0,14,11.7,136.6,113.2,23.4,2.74,2
+NH Ostrava,"A. Číž, S. Godwin, L. Palyza, E. Cato, L. Greer","NH Ostrava|11,14,23,25,3",2,5.7,344.0,8,2,7,28.6,0,2,0.0,4,4,100.0,0,0,0,2,0,0,4,0,7,12.2,65.3,68.5,-3.2,1.4,1
+NH Ostrava,"A. Číž, S. Godwin, M. Čank, L. Palyza, K. Cole","NH Ostrava|11,14,19,23,24",2,5.6,338.0,21,7,14,50.0,2,5,40.0,5,8,62.5,0,0,0,1,0,0,1,0,16,17.8,118.1,126.3,-8.1,3.73,5
+BK Olomoucko,"M. Nelson, K. Elvis, J. Holmes, K. Filewich, O. Šiška","BK Olomoucko|0,1,13,14,9",1,5.5,330.0,13,6,13,46.2,0,2,0.0,1,2,50.0,0,0,0,2,0,0,0,0,5,13.3,97.6,47.3,50.2,2.36,8
+USK Praha,"J. Montgomery, D. Vlk, O. Švec, J. Soldán, M. Šafařík","USK Praha|0,13,16,23,5",2,5.5,331.0,16,5,7,71.4,1,2,50.0,5,5,100.0,0,0,0,3,0,0,3,0,12,11.7,136.6,78.7,57.9,2.9,4
+BK ARMEX ENERGY Děčín,"F. Kroutil, D. Davis, J. Edwards, L. Feštr, T. Pomikálek","BK ARMEX ENERGY Děčín|13,2,20,44,5",2,5.4,324.0,9,4,8,50.0,1,3,33.3,0,0,0,0,0,0,2,0,0,3,0,5,10.6,85.2,37.9,47.4,1.67,4
+BK GAPA Hradec Králové,"D. Škranc, M. Roub, L. Nikkarinen, T. Dvořák, K. Chatman","BK GAPA Hradec Králové|12,24,4,44,5",3,5.4,322.0,9,3,8,37.5,3,7,42.9,0,0,0,0,0,0,4,0,0,2,0,10,9.6,93.8,62.6,31.1,1.68,-1
+SLUNETA  Ústí nad Labem,"N. Johnson, I. Davidson, K. Lawrence, T. Vyoral, L. Pecka","SLUNETA  Ústí nad Labem|10,18,3,4,44",4,5.4,322.0,16,7,13,53.8,2,6,33.3,0,2,0.0,0,0,0,0,0,0,0,0,4,13.3,120.1,30.5,89.5,2.98,12
+BK KVIS Pardubice,"R. Moffatt, Z. Key, R. Bonham, J. Bryant, J. Tůma","BK KVIS Pardubice|13,23,3,4,98",3,5.2,311.0,4,2,8,25.0,0,4,0.0,0,1,0.0,0,0,0,4,0,0,2,0,15,10.0,39.9,116.3,-76.3,0.77,-11
+BK Opava,"W. Person Jr, Š. Puršl, R. Kouřil, M. Vyroubal, F. Zbránek","BK Opava|1,20,21,25,9",1,5.2,312.0,21,8,12,66.7,3,5,60.0,2,4,50.0,0,0,0,5,0,0,1,0,15,14.2,148.2,120.6,27.6,4.04,6
+BK ARMEX ENERGY Děčín,"P. Alexander, F. Kroutil, J. Štěrba, J. Edwards, M. Šturanović","BK ARMEX ENERGY Děčín|0,13,16,20,47",3,5.2,310.0,7,2,6,33.3,0,2,0.0,3,6,50.0,0,0,0,2,0,0,1,0,10,9.3,75.6,84.6,-8.9,1.35,-3
+BK GAPA Hradec Králové,"A. Johnson, C. John, D. Škranc, K. Brewton, L. Nikkarinen","BK GAPA Hradec Králové|0,10,12,2,4",2,5.2,309.0,6,2,8,25.0,1,3,33.3,1,3,33.3,0,0,0,2,0,0,1,0,12,9.9,60.6,98.9,-38.3,1.17,-6
+BK ARMEX ENERGY Děčín,"F. Kroutil, J. Štěrba, J. Edwards, M. Šturanović, T. Slowiak","BK ARMEX ENERGY Děčín|13,16,20,47,7",2,5.1,306.0,12,4,8,50.0,2,5,40.0,2,3,66.7,0,0,0,4,0,0,2,0,9,10.9,110.4,126.0,-15.6,2.35,3
+NH Ostrava,"M. Čank, M. Svoboda, L. Palyza, K. Cole, L. Greer","NH Ostrava|19,20,23,24,3",1,5.1,307.0,12,4,9,44.4,0,1,0.0,4,4,100.0,0,0,0,1,0,0,0,0,11,10.3,116.2,97.4,18.7,2.35,1
+SLUNETA  Ústí nad Labem,"A. Pecháček, N. Johnson, J. Potoček, T. Vyoral, L. Pecka","SLUNETA  Ústí nad Labem|0,10,31,4,44",4,5.0,300.0,1,0,6,0.0,0,3,0.0,1,1,100.0,0,0,0,3,0,0,3,0,8,9.1,11.0,70.1,-59.1,0.2,-7
+NH Ostrava,"A. Číž, S. Godwin, M. Svoboda, K. Cole, L. Greer","NH Ostrava|11,14,20,24,3",1,5.0,300.0,15,4,12,33.3,1,2,50.0,6,10,60.0,0,0,0,2,0,0,0,0,9,15.7,95.3,88.1,7.2,3.0,6
+PUMPA Basket Brno,"Š. Svoboda, P. Křivánek, A. Kejval, D. Jelínek, R. Farský","PUMPA Basket Brno|11,12,13,25,8",3,5.0,297.0,13,4,8,50.0,1,2,50.0,4,6,66.7,0,0,0,3,0,0,1,0,7,11.2,116.3,72.9,43.4,2.63,6
+SLUNETA  Ústí nad Labem,"N. Johnson, I. Davidson, J. Young, K. Lawrence, L. Pecka","SLUNETA  Ústí nad Labem|10,18,2,3,44",2,5.0,300.0,16,5,9,55.6,2,5,40.0,4,6,66.7,0,0,0,3,0,0,3,0,13,14.1,113.8,96.7,17.1,3.2,3
+Sršni Photomate Písek,"V. Sýkora, M. Kozák, K. Týml, J. Karlovský, M. Burda","Sršni Photomate Písek|10,11,33,41,9",1,4.9,295.0,12,5,11,45.5,1,7,14.3,1,2,50.0,0,0,0,4,0,0,1,0,12,12.4,97.0,140.8,-43.7,2.44,0
+BK GAPA Hradec Králové,"A. Petric, D. Škranc, K. Brewton, M. Roub, K. Chatman","BK GAPA Hradec Králové|11,12,2,24,5",2,4.8,289.0,13,5,8,62.5,1,3,33.3,2,2,100.0,0,0,0,3,0,0,2,0,6,10.4,124.5,56.4,68.1,2.7,7
+BK Opava,"W. Person Jr, C. Brown Jr, R. Kouřil, J. Slavík, J. Švandrlík","BK Opava|1,13,21,33,8",2,4.8,287.0,11,5,9,55.6,1,3,33.3,0,1,0.0,0,0,0,2,0,0,0,0,12,9.1,121.4,128.1,-6.7,2.3,-1
+BK KVIS Pardubice,"R. Moffatt, L. Kovář, Z. Key, J. Bryant, J. Tůma","BK KVIS Pardubice|13,21,23,4,98",4,4.8,291.0,23,8,14,57.1,1,5,20.0,6,8,75.0,0,0,0,2,0,0,0,0,6,16.8,136.7,59.9,76.9,4.74,17
+SK Slavia Praha,"N. Noumeros, R. Jones, J. Matušík, R. Mrázek, D. Böhm","SK Slavia Praha|13,15,16,22,7",3,4.8,288.0,12,4,8,50.0,1,2,50.0,3,3,100.0,0,0,0,1,0,0,2,0,9,10.9,110.4,83.7,26.7,2.5,3
+BK GAPA Hradec Králové,"A. Johnson, J. Bubeníček, K. Brewton, T. Merta, M. Roub","BK GAPA Hradec Králové|0,16,2,23,24",1,4.8,285.0,14,5,10,50.0,3,4,75.0,1,1,100.0,0,0,0,2,0,0,1,0,8,11.0,127.5,89.4,38.1,2.95,6
+BK KVIS Pardubice,"Z. Key, J. Bryant, A. Lukeš, K. Švrdlík, J. Tůma","BK KVIS Pardubice|23,4,7,9,98",1,4.7,281.0,10,3,5,60.0,2,4,50.0,2,2,100.0,0,0,0,1,0,0,2,0,10,7.6,132.2,83.7,48.5,2.14,0
+BK Olomoucko,"K. Elvis, J. Andre, J. Holmes, K. Filewich, A. Goga","BK Olomoucko|1,10,13,14,4",2,4.6,275.0,6,2,6,33.3,0,2,0.0,2,4,50.0,0,0,0,2,0,0,1,0,13,8.4,71.3,152.5,-81.1,1.31,-7
+BK Opava,"W. Person Jr, C. Brown Jr, Š. Puršl, J. Šiřina, J. Švandrlík","BK Opava|1,13,20,24,8",1,4.6,276.0,4,1,4,25.0,0,1,0.0,2,2,100.0,0,0,0,1,0,0,4,0,7,8.5,46.9,83.2,-36.3,0.87,-3
+BK ARMEX ENERGY Děčín,"P. Alexander, F. Kroutil, J. Štěrba, J. Edwards, T. Pomikálek","BK ARMEX ENERGY Děčín|0,13,16,20,5",4,4.6,278.0,12,4,9,44.4,1,3,33.3,3,4,75.0,0,0,0,2,0,0,2,0,6,12.2,98.0,44.0,53.9,2.59,6
+BK GAPA Hradec Králové,"M. Popović, D. Škranc, K. Brewton, T. Merta, K. Chatman","BK GAPA Hradec Králové|10,12,2,23,5",2,4.5,268.0,12,4,6,66.7,1,1,100.0,3,5,60.0,0,0,0,1,0,0,2,0,4,9.8,122.5,46.3,76.3,2.69,8
+BK ARMEX ENERGY Děčín,"F. Kroutil, J. Štěrba, D. Davis, J. Edwards, T. Pomikálek","BK ARMEX ENERGY Děčín|13,16,2,20,5",5,4.4,264.0,3,1,4,25.0,1,3,33.3,0,0,0,0,0,0,0,0,0,1,0,16,4.8,62.5,144.7,-82.2,0.68,-13
+BK Opava,"W. Person Jr, C. Brown Jr, J. Šiřina, M. Vyroubal, F. Zbránek","BK Opava|1,13,24,25,9",3,4.4,264.0,8,1,2,50.0,0,1,0.0,6,7,85.7,0,0,0,1,0,0,3,0,13,7.8,103.1,137.1,-33.9,1.82,-5
+BK ARMEX ENERGY Děčín,"D. Davis, J. Edwards, L. Bryan Jr, L. Feštr, T. Pomikálek","BK ARMEX ENERGY Děčín|2,20,22,44,5",2,4.2,252.0,7,3,7,42.9,0,1,0.0,1,2,50.0,0,0,0,0,0,0,3,0,0,10.4,67.0,0.0,67.0,1.67,7
+NH Ostrava,"A. Číž, M. Čank, M. Svoboda, L. Palyza, K. Cole","NH Ostrava|11,19,20,23,24",2,4.2,254.0,5,2,7,28.6,0,4,0.0,1,1,100.0,0,0,0,3,0,0,1,0,8,8.1,61.7,95.1,-33.4,1.18,-3
+USK Praha,"J. Montgomery, T. Henderson Jr., D. Vlk, O. Švec, T. Tainamo","USK Praha|0,1,13,16,25",4,4.2,249.0,22,7,8,87.5,2,2,100.0,6,6,100.0,0,0,0,2,0,0,3,0,2,13.1,168.0,23.8,144.2,5.3,20
+Sršni Photomate Písek,"V. Sýkora, K. Týml, J. Karlovský, M. Svoboda, M. Burda","Sršni Photomate Písek|10,33,41,71,9",2,4.1,247.0,5,1,4,25.0,0,0,0,3,4,75.0,0,0,0,2,0,0,3,0,4,8.4,59.5,46.9,12.5,1.21,1
+ERA Basketball Nymburk,"T. Perkins, J. Bohačík, O. Sehnal, M. Kříž, J. Lawrence","ERA Basketball Nymburk|12,17,19,31,40",1,4.1,247.0,8,3,10,30.0,1,6,16.7,1,2,50.0,0,0,0,2,0,0,0,0,10,10.4,76.6,93.0,-16.4,1.94,-2
+BK GAPA Hradec Králové,"M. Popović, K. Brewton, T. Merta, T. Dvořák, K. Chatman","BK GAPA Hradec Králové|10,2,23,44,5",1,4.0,240.0,6,2,6,33.3,0,3,0.0,2,4,50.0,0,0,0,2,0,0,2,0,4,9.4,64.0,52.1,12.0,1.5,2
+BK Opava,"K. Kavan, C. Brown Jr, Š. Puršl, L. Jurečka, J. Šiřina","BK Opava|11,13,20,23,24",1,4.0,242.0,9,3,5,60.0,2,2,100.0,1,2,50.0,0,0,0,3,0,0,2,0,10,7.6,119.0,105.4,13.5,2.23,-1
+BK KVIS Pardubice,"L. Kovář, Z. Key, J. Bryant, A. Lukeš, J. Tůma","BK KVIS Pardubice|21,23,4,7,98",4,4.0,237.0,6,2,7,28.6,1,2,50.0,1,2,50.0,0,0,0,0,0,0,2,0,8,9.5,63.3,77.4,-14.2,1.52,-2
+NH Ostrava,"M. Čank, L. Palyza, K. Cole, E. Cato, L. Greer","NH Ostrava|19,23,24,25,3",2,4.0,237.0,12,5,6,83.3,2,2,100.0,0,0,0,0,0,0,2,0,0,1,0,5,6.7,178.6,88.6,90.0,3.04,7
+BK Opava,"W. Person Jr, C. Brown Jr, M. Vyroubal, J. Slavík, J. Švandrlík","BK Opava|1,13,25,33,8",3,4.0,240.0,7,1,6,16.7,0,2,0.0,5,6,83.3,0,0,0,2,0,0,1,0,6,9.3,75.6,72.3,3.3,1.75,1
+NH Ostrava,"A. Číž, L. Palyza, K. Cole, L. Greer, D. Heinzl","NH Ostrava|11,23,24,3,7",2,4.0,239.0,4,1,5,20.0,0,2,0.0,2,4,50.0,0,0,0,0,0,0,2,0,6,8.4,47.6,70.4,-22.8,1.0,-2
+BK KVIS Pardubice,"L. Kovář, Z. Key, R. Bonham, A. Lukeš, J. Tůma","BK KVIS Pardubice|21,23,3,7,98",3,4.0,242.0,13,5,7,71.4,2,4,50.0,1,2,50.0,0,0,0,5,0,0,3,0,9,10.4,124.5,105.6,18.9,3.22,4
+PUMPA Basket Brno,"P. Křivánek, A. Kejval, D. Jelínek, R. Cisarik, R. Farský","PUMPA Basket Brno|12,13,25,5,8",1,4.0,243.0,8,3,9,33.3,0,1,0.0,2,5,40.0,0,0,0,3,0,0,0,0,2,10.8,74.4,23.1,51.3,1.98,6
+SK Slavia Praha,"N. Noumeros, M. Lufile, R. Clemons, D. Böhm, M. Dáňa","SK Slavia Praha|13,24,3,7,88",1,4.0,239.0,6,2,7,28.6,0,3,0.0,2,2,100.0,0,0,0,0,0,0,1,0,2,8.5,70.4,26.0,44.3,1.51,4
+USK Praha,"J. Montgomery, D. Vlk, O. Švec, H. Wright, C. Eduardo","USK Praha|0,13,16,44,7",1,4.0,239.0,9,4,8,50.0,1,3,33.3,0,1,0.0,0,0,0,2,0,0,1,0,7,9.1,99.3,72.9,26.4,2.26,2
+PUMPA Basket Brno,"Š. Svoboda, V. Půlpán, J. Groves, M. Stráněl, R. Farský","PUMPA Basket Brno|11,18,20,7,8",2,3.9,232.0,8,2,5,40.0,1,3,33.3,3,6,50.0,0,0,0,3,0,0,0,0,2,7.3,109.1,23.1,85.9,2.07,6
+USK Praha,"J. Montgomery, T. Henderson Jr., T. Tainamo, M. Šafařík, C. Eduardo","USK Praha|0,1,25,5,7",2,3.9,234.0,0,0,6,0.0,0,3,0.0,0,0,0,0,0,0,0,0,0,3,0,6,8.6,0.0,69.4,-69.4,0.0,-6
+BK ARMEX ENERGY Děčín,"J. Štěrba, D. Davis, J. Edwards, L. Feštr, T. Pomikálek","BK ARMEX ENERGY Děčín|16,2,20,44,5",2,3.9,232.0,5,2,4,50.0,1,1,100.0,0,0,0,0,0,0,5,0,0,2,0,11,5.8,86.8,122.9,-36.1,1.29,-6
+USK Praha,"J. Montgomery, T. Henderson Jr., O. Švec, T. Tainamo, M. Šafařík","USK Praha|0,1,16,25,5",2,3.9,234.0,8,3,8,37.5,1,4,25.0,1,1,100.0,0,0,0,2,0,0,2,0,10,10.0,79.8,87.7,-7.9,2.05,-2
+SK Slavia Praha,"N. Noumeros, P. Macháč, R. Mrázek, R. Clemons, D. Böhm","SK Slavia Praha|13,14,22,3,7",1,3.9,235.0,7,3,6,50.0,1,4,25.0,0,0,0,0,0,0,1,0,0,2,0,9,7.7,91.1,99.3,-8.2,1.79,-2
+SK Slavia Praha,"P. Macháč, R. Jones, R. Mrázek, D. Böhm, M. Dáňa","SK Slavia Praha|14,15,22,7,88",2,3.8,229.0,9,2,5,40.0,2,4,50.0,3,3,100.0,0,0,0,1,0,0,0,0,9,6.1,148.3,148.3,0.0,2.36,0
+BK Olomoucko,"J. Andre, K. Filewich, D. Žák, L. Autrey, O. Šiška","BK Olomoucko|10,14,22,24,9",2,3.8,225.0,16,6,6,100.0,1,1,100.0,3,5,60.0,0,0,0,0,0,0,0,0,3,7.9,203.3,64.0,139.2,4.27,13
+USK Praha,"O. Švec, T. Tainamo, H. Wright, M. Šafařík, P. Šafarčík","USK Praha|16,25,44,5,94",1,3.6,217.0,3,1,4,25.0,0,1,0.0,1,2,50.0,0,0,0,0,0,0,2,0,8,6.6,45.4,104.2,-58.7,0.83,-5
+BK ARMEX ENERGY Děčín,"F. Kroutil, J. Štěrba, J. Edwards, T. Pomikálek, T. Slowiak","BK ARMEX ENERGY Děčín|13,16,20,5,7",3,3.5,210.0,9,1,5,20.0,0,1,0.0,7,8,87.5,0,0,0,1,0,0,1,0,12,9.1,98.5,150.2,-51.8,2.57,-3
+USK Praha,"T. Henderson Jr., D. Vlk, T. Tainamo, M. Šafařík, C. Eduardo","USK Praha|1,13,25,5,7",2,3.5,210.0,5,2,6,33.3,0,2,0.0,1,2,50.0,0,0,0,3,0,0,1,0,17,7.6,66.1,181.4,-115.3,1.43,-12
+SK Slavia Praha,"M. Ježek, R. Jones, J. Matušík, D. Böhm, M. Dáňa","SK Slavia Praha|12,15,16,7,88",2,3.5,213.0,5,2,4,50.0,1,1,100.0,0,0,0,0,0,0,1,0,0,1,0,10,4.8,104.2,130.2,-26.0,1.41,-5
+PUMPA Basket Brno,"V. Půlpán, J. Groves, R. Williams, K. Kalu, M. Rychtecký","PUMPA Basket Brno|18,20,33,34,4",1,3.5,209.0,14,5,7,71.4,0,1,0.0,4,4,100.0,0,0,0,1,0,0,0,0,7,8.4,166.5,82.1,84.4,4.02,7
+PUMPA Basket Brno,"Š. Svoboda, P. Křivánek, A. Kejval, D. Jelínek, M. Rychtecký","PUMPA Basket Brno|11,12,13,25,4",2,3.5,212.0,7,3,6,50.0,0,0,0,1,2,50.0,0,0,0,0,0,0,2,0,4,8.5,82.1,83.3,-1.2,1.98,3
+SLUNETA  Ústí nad Labem,"A. Pecháček, N. Johnson, I. Davidson, J. Young, L. Pecka","SLUNETA  Ústí nad Labem|0,10,18,2,44",2,3.5,210.0,12,4,5,80.0,1,2,50.0,3,4,75.0,0,0,0,2,0,0,1,0,2,7.4,161.1,42.7,118.4,3.43,10
+ERA Basketball Nymburk,"S. Rice, J. Bohačík, M. Kříž, J. Shumate, V. Hruban","ERA Basketball Nymburk|10,17,31,32,77",1,3.5,210.0,10,3,5,60.0,2,3,66.7,2,4,50.0,0,0,0,2,0,0,2,0,7,8.4,118.9,85.6,33.3,2.86,3
+NH Ostrava,"A. Číž, M. Svoboda, L. Palyza, E. Cato, D. Heinzl","NH Ostrava|11,20,23,25,7",1,3.5,213.0,1,0,6,0.0,0,1,0.0,1,2,50.0,0,0,0,0,0,0,1,0,8,7.6,13.2,96.5,-83.2,0.28,-7
+BK Olomoucko,"K. Filewich, D. Žák, L. Autrey, Š. Čermák, J. Oupoh","BK Olomoucko|14,22,24,3,7",1,3.5,209.0,8,3,4,75.0,1,2,50.0,1,3,33.3,0,0,0,3,0,0,0,0,12,5.1,156.6,168.0,-11.4,2.3,-4
+NH Ostrava,"M. Snopek, A. Číž, M. Svoboda, L. Greer, J. Roche","NH Ostrava|10,11,20,3,35",1,3.4,202.0,2,1,5,20.0,0,3,0.0,0,0,0,0,0,0,0,0,0,2,0,4,6.7,29.8,53.7,-23.9,0.59,-2
+BK KVIS Pardubice,"R. Moffatt, L. Kovář, J. Bryant, K. Švrdlík, J. Tůma","BK KVIS Pardubice|13,21,4,9,98",3,3.4,201.0,5,1,5,20.0,1,3,33.3,2,2,100.0,0,0,0,1,0,0,3,0,5,8.5,58.7,85.7,-27.0,1.49,0
+NH Ostrava,"M. Čank, M. Svoboda, K. Cole, L. Greer, D. Heinzl","NH Ostrava|19,20,24,3,7",2,3.4,201.0,15,4,5,80.0,1,2,50.0,6,7,85.7,0,0,0,1,0,0,0,0,4,7.8,193.4,46.9,146.5,4.48,11
+SK Slavia Praha,"M. Ježek, P. Macháč, R. Jones, D. Böhm, M. Dáňa","SK Slavia Praha|12,14,15,7,88",2,3.4,204.0,6,1,1,100.0,0,0,0,4,4,100.0,0,0,0,0,0,0,3,0,13,5.5,108.5,124.5,-16.0,1.76,-7
+PUMPA Basket Brno,"Š. Svoboda, P. Křivánek, D. Jelínek, M. Rychtecký, M. Stráněl","PUMPA Basket Brno|11,12,25,4,7",2,3.3,197.0,4,2,6,33.3,0,2,0.0,0,0,0,0,0,0,1,0,0,0,0,7,5.8,69.4,87.6,-18.2,1.22,-3
+BK Olomoucko,"M. Nelson, K. Filewich, D. Žák, A. Goga, O. Šiška","BK Olomoucko|0,14,22,4,9",1,3.3,199.0,10,4,7,57.1,1,3,33.3,1,4,25.0,0,0,0,2,0,0,0,0,12,8.4,118.9,201.6,-82.7,3.02,-2
+BK Olomoucko,"M. Nelson, K. Elvis, J. Andre, J. Holmes, D. Žák","BK Olomoucko|0,1,10,13,22",3,3.2,191.0,1,0,3,0.0,0,1,0.0,1,2,50.0,0,0,0,2,0,0,2,0,14,5.6,17.7,132.6,-114.9,0.31,-13
+BK ARMEX ENERGY Děčín,"F. Kroutil, J. Edwards, L. Bryan Jr, L. Feštr, T. Pomikálek","BK ARMEX ENERGY Děčín|13,20,22,44,5",2,3.2,191.0,2,0,2,0.0,0,1,0.0,2,4,50.0,0,0,0,0,0,0,1,0,4,4.6,43.8,70.9,-27.1,0.63,-2
+USK Praha,"T. Henderson Jr., D. Vlk, O. Švec, T. Tainamo, C. Eduardo","USK Praha|1,13,16,25,7",1,3.2,194.0,9,4,7,57.1,1,1,100.0,0,0,0,0,0,0,4,0,0,0,0,9,6.7,133.9,156.2,-22.3,2.78,0
+BK Opava,"C. Brown Jr, Š. Puršl, J. Šiřina, F. Váňa, I. Gray","BK Opava|13,20,24,3,7",1,3.2,191.0,8,1,5,20.0,1,3,33.3,5,6,83.3,0,0,0,2,0,0,0,0,8,7.3,109.1,153.2,-44.1,2.51,0
+Sršni Photomate Písek,"V. Sýkora, J. Karlovský, J. Svoboda, M. Burda, D. Fait","Sršni Photomate Písek|10,41,77,9,93",1,3.2,190.0,3,1,2,50.0,0,1,0.0,1,6,16.7,0,0,0,2,0,0,0,0,16,4.5,67.3,158.4,-91.1,0.95,-13
+NH Ostrava,"A. Číž, M. Svoboda, L. Palyza, L. Greer, D. Heinzl","NH Ostrava|11,20,23,3,7",3,3.1,188.0,10,1,2,50.0,0,0,0,8,10,80.0,0,0,0,2,0,0,1,0,19,7.1,140.8,159.1,-18.3,3.19,-9
+SK Slavia Praha,"M. Ježek, R. Jones, R. Mrázek, M. Lufile, D. Böhm","SK Slavia Praha|12,15,22,24,7",2,3.1,184.0,2,1,4,25.0,0,1,0.0,0,0,0,0,0,0,2,0,0,1,0,7,4.8,41.7,121.5,-79.9,0.65,-5
+BK Olomoucko,"M. Nelson, D. Žák, L. Autrey, A. Goga, O. Šiška","BK Olomoucko|0,22,24,4,9",1,3.1,188.0,4,2,5,40.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,5.8,69.4,41.7,27.8,1.28,2
+BK GAPA Hradec Králové,"A. Johnson, J. Bubeníček, L. Nikkarinen, T. Dvořák, K. Chatman","BK GAPA Hradec Králové|0,16,4,44,5",1,3.1,186.0,5,2,5,40.0,1,3,33.3,0,0,0,0,0,0,2,0,0,2,0,3,6.7,74.4,62.5,11.9,1.61,2
+BK Olomoucko,"M. Kvapil, L. Autrey, Š. Čermák, J. Oupoh, O. Šiška","BK Olomoucko|12,24,3,7,9",1,3.1,186.0,3,1,2,50.0,1,1,100.0,0,0,0,0,0,0,0,0,0,3,0,5,4.8,62.5,74.4,-11.9,0.97,-2
+SLUNETA  Ústí nad Labem,"A. Rand, I. Davidson, J. Young, L. Pecka, F. Kábrt","SLUNETA  Ústí nad Labem|1,18,2,44,8",1,3.1,186.0,4,2,8,25.0,0,4,0.0,0,0,0,0,0,0,0,0,0,1,0,10,8.6,46.3,208.3,-162.0,1.29,-6
+Sršni Photomate Písek,"V. Sýkora, K. Týml, J. Karlovský, M. Svoboda, J. Svoboda","Sršni Photomate Písek|10,33,41,71,77",3,3.0,181.0,4,1,5,20.0,1,4,25.0,1,1,100.0,0,0,0,1,0,0,1,0,3,6.2,64.7,78.1,-13.4,1.33,1
+USK Praha,"J. Montgomery, D. Vlk, O. Švec, T. Tainamo, M. Šafařík","USK Praha|0,13,16,25,5",2,3.0,182.0,4,2,4,50.0,0,1,0.0,0,0,0,0,0,0,1,0,0,2,0,9,5.8,69.4,136.3,-66.8,1.32,-5
+BK Opava,"W. Person Jr, C. Brown Jr, Š. Puršl, R. Kouřil, J. Slavík","BK Opava|1,13,20,21,33",2,3.0,183.0,6,3,8,37.5,0,2,0.0,0,0,0,0,0,0,0,0,0,1,0,3,8.6,69.4,57.4,12.0,1.97,3
+BK ARMEX ENERGY Děčín,"F. Kroutil, J. Štěrba, J. Edwards, L. Feštr, T. Pomikálek","BK ARMEX ENERGY Děčín|13,16,20,44,5",3,3.0,181.0,8,3,5,60.0,2,2,100.0,0,0,0,0,0,0,2,0,0,0,0,8,4.8,166.7,153.2,13.5,2.65,0
+ERA Basketball Nymburk,"S. Rice, O. Sehnal, M. Kříž, K. Feazell, F. Rylich","ERA Basketball Nymburk|10,19,31,6,73",1,3.0,183.0,6,3,7,42.9,0,1,0.0,0,0,0,0,0,0,2,0,0,1,0,5,7.7,78.1,104.2,-26.0,1.97,1
+BK Opava,"C. Brown Jr, Š. Puršl, L. Jurečka, J. Šiřina, J. Švandrlík","BK Opava|13,20,23,24,8",1,3.0,179.0,4,2,3,66.7,0,1,0.0,0,0,0,0,0,0,0,0,0,1,0,12,3.8,104.2,156.2,-52.1,1.34,-8
+SK Slavia Praha,"R. Jones, J. Matušík, D. Böhm, M. Dáňa, R. Pumprla","SK Slavia Praha|15,16,7,88,9",1,3.0,181.0,7,2,5,40.0,1,3,33.3,2,2,100.0,0,0,0,2,0,0,0,0,8,5.6,124.0,141.7,-17.7,2.32,-1
+BK Opava,"W. Person Jr, K. Kavan, Š. Puršl, J. Šiřina, J. Švandrlík","BK Opava|1,11,20,24,8",1,3.0,179.0,10,4,5,80.0,2,2,100.0,0,0,0,0,0,0,3,0,0,2,0,6,6.7,148.8,92.5,56.4,3.35,4
+BK KVIS Pardubice,"R. Moffatt, Z. Key, R. Bonham, A. Lukeš, J. Tůma","BK KVIS Pardubice|13,23,3,7,98",2,3.0,177.0,5,2,4,50.0,1,3,33.3,0,1,0.0,0,0,0,1,0,0,2,0,3,6.2,80.9,54.3,26.6,1.69,2
+USK Praha,"J. Montgomery, D. Vlk, O. Švec, F. Fuxa, M. Šafařík","USK Praha|0,13,16,21,5",2,3.0,182.0,12,5,7,71.4,1,3,33.3,1,1,100.0,0,0,0,3,0,0,0,0,4,7.1,168.0,87.5,80.5,3.96,8
+BK Opava,"W. Person Jr, C. Brown Jr, M. Vyroubal, I. Gray, F. Zbránek","BK Opava|1,13,25,7,9",1,3.0,179.0,6,2,5,40.0,2,4,50.0,0,0,0,0,0,0,1,0,0,1,0,6,5.8,104.2,98.9,5.3,2.01,0
+BK ARMEX ENERGY Děčín,"P. Alexander, F. Kroutil, J. Štěrba, D. Davis, L. Bryan Jr","BK ARMEX ENERGY Děčín|0,13,16,2,22",1,2.9,176.0,4,1,3,33.3,0,1,0.0,2,2,100.0,0,0,0,0,0,0,1,0,2,4.7,85.4,41.7,43.7,1.36,2
+BK Opava,"C. Brown Jr, Š. Puršl, R. Kouřil, J. Šiřina, M. Vyroubal","BK Opava|13,20,21,24,25",1,2.9,172.0,2,0,5,0.0,0,2,0.0,2,4,50.0,0,0,0,0,0,0,1,0,8,7.4,26.8,119.0,-92.2,0.7,-6
+NH Ostrava,"A. Číž, M. Čank, M. Svoboda, L. Palyza, J. Roche","NH Ostrava|11,19,20,23,35",2,2.8,167.0,7,2,3,66.7,1,2,50.0,2,2,100.0,0,0,0,2,0,0,0,0,5,3.7,187.9,68.2,119.8,2.51,2
+BK Olomoucko,"M. Nelson, J. Andre, K. Filewich, D. Žák, O. Šiška","BK Olomoucko|0,10,14,22,9",2,2.8,168.0,10,2,6,33.3,1,3,33.3,5,5,100.0,0,0,0,0,0,0,1,0,2,8.8,113.2,41.7,71.6,3.57,8
+BK ARMEX ENERGY Děčín,"P. Alexander, F. Kroutil, J. Štěrba, D. Davis, J. Edwards","BK ARMEX ENERGY Děčín|0,13,16,2,20",5,2.8,166.0,9,0,5,0.0,0,2,0.0,9,10,90.0,0,0,0,1,0,0,0,0,4,9.0,99.7,35.8,63.9,3.25,5
+NH Ostrava,"A. Číž, M. Čank, L. Palyza, K. Cole, D. Heinzl","NH Ostrava|11,19,23,24,7",3,2.8,165.0,2,1,3,33.3,0,0,0,0,1,0.0,0,0,0,2,0,0,1,0,14,4.3,46.9,248.0,-201.1,0.73,-12
+NH Ostrava,"A. Číž, M. Čank, L. Palyza, K. Cole, E. Cato","NH Ostrava|11,19,23,24,25",1,2.8,165.0,0,0,7,0.0,0,3,0.0,0,0,0,0,0,0,0,0,0,0,0,4,6.7,0.0,85.4,-85.4,0.0,-4
+PUMPA Basket Brno,"Š. Svoboda, P. Křivánek, A. Kejval, V. Půlpán, D. Jelínek","PUMPA Basket Brno|11,12,13,18,25",1,2.8,168.0,4,1,3,33.3,0,0,0,2,4,50.0,0,0,0,1,0,0,2,0,5,6.5,61.6,88.6,-26.9,1.43,-1
+SLUNETA  Ústí nad Labem,"N. Johnson, I. Davidson, T. Vyoral, F. Kábrt, D. Žikla","SLUNETA  Ústí nad Labem|10,18,4,8,9",1,2.8,166.0,3,1,5,20.0,1,3,33.3,0,0,0,0,0,0,0,0,0,0,0,4,4.8,62.5,69.4,-6.9,1.08,-1
+BK Opava,"Š. Puršl, J. Šiřina, F. Váňa, J. Slavík, J. Švandrlík","BK Opava|20,24,3,33,8",1,2.8,166.0,3,1,10,10.0,1,8,12.5,0,0,0,0,0,0,0,0,0,3,0,2,12.5,24.0,41.7,-17.6,1.08,1
+SLUNETA  Ústí nad Labem,"A. Pecháček, N. Johnson, J. Young, F. Kábrt, D. Žikla","SLUNETA  Ústí nad Labem|0,10,2,8,9",3,2.7,162.0,0,0,3,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,3.8,0.0,78.1,-78.1,0.0,-6
+BK ARMEX ENERGY Děčín,"F. Kroutil, J. Štěrba, D. Davis, L. Feštr, M. Šturanović","BK ARMEX ENERGY Děčín|13,16,2,44,47",3,2.7,163.0,6,2,7,28.6,1,2,50.0,1,1,100.0,0,0,0,1,0,0,0,0,8,7.1,84.0,121.1,-37.1,2.21,-2
+USK Praha,"J. Montgomery, D. Vlk, O. Švec, J. Soldán, T. Tainamo","USK Praha|0,13,16,23,25",1,2.7,163.0,0,0,4,0.0,0,1,0.0,0,2,0.0,0,0,0,0,0,0,0,0,7,4.7,0.0,119.9,-119.9,0.0,-7
+NH Ostrava,"M. Snopek, A. Číž, M. Čank, K. Cole, A. Ivánek","NH Ostrava|10,11,19,24,53",1,2.7,163.0,3,1,3,33.3,0,2,0.0,1,2,50.0,0,0,0,1,0,0,1,0,5,4.7,64.0,86.8,-22.8,1.1,-2
+USK Praha,"D. Vlk, O. Švec, J. Soldán, T. Tainamo, E. Edigin","USK Praha|13,16,23,25,41",1,2.6,154.0,0,0,3,0.0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,4,5.8,0.0,59.5,-59.5,0.0,-4
+USK Praha,"J. Montgomery, S. Macht, F. Fuxa, E. Edigin, M. Šafařík","USK Praha|0,11,21,41,5",1,2.6,159.0,6,3,4,75.0,0,1,0.0,0,0,0,0,0,0,1,0,0,0,0,2,3.8,156.2,42.7,113.6,2.26,4
+BK GAPA Hradec Králové,"D. Škranc, K. Brewton, M. Roub, T. Dvořák, K. Chatman","BK GAPA Hradec Králové|12,2,24,44,5",1,2.6,155.0,6,3,4,75.0,0,1,0.0,0,0,0,0,0,0,4,0,0,0,0,3,3.8,156.2,72.3,83.9,2.32,3
+BK ARMEX ENERGY Děčín,"J. Edwards, L. Bryan Jr, L. Feštr, T. Pomikálek, T. Slowiak","BK ARMEX ENERGY Děčín|20,22,44,5,7",1,2.6,157.0,2,1,2,50.0,0,1,0.0,0,0,0,0,0,0,1,0,0,1,0,8,2.9,69.4,156.6,-87.2,0.76,-6
+BK ARMEX ENERGY Děčín,"P. Alexander, J. Štěrba, D. Davis, J. Edwards, M. Šturanović","BK ARMEX ENERGY Děčín|0,16,2,20,47",1,2.6,155.0,9,4,7,57.1,1,1,100.0,0,0,0,0,0,0,3,0,0,0,0,4,6.7,133.9,78.3,55.6,3.48,5
+PUMPA Basket Brno,"Š. Svoboda, P. Křivánek, D. Jelínek, M. Stráněl, R. Farský","PUMPA Basket Brno|11,12,25,7,8",4,2.6,159.0,8,3,5,60.0,0,1,0.0,2,6,33.3,0,0,0,1,0,0,2,0,2,9.3,86.4,34.7,51.7,3.02,6
+ERA Basketball Nymburk,"M. Svoboda, O. Sehnal, J. Shumate, K. Feazell, V. Hruban","ERA Basketball Nymburk|11,19,32,6,77",1,2.6,156.0,10,4,6,66.7,0,1,0.0,2,2,100.0,0,0,0,2,0,0,1,0,1,7.6,132.2,23.5,108.7,3.85,9
+SLUNETA  Ústí nad Labem,"I. Davidson, K. Lawrence, T. Vyoral, L. Pecka, F. Kábrt","SLUNETA  Ústí nad Labem|18,3,4,44,8",2,2.6,158.0,4,2,3,66.7,0,0,0,0,0,0,0,0,0,0,0,0,3,0,4,5.8,69.4,70.9,-1.4,1.52,0
+SK Slavia Praha,"N. Noumeros, R. Mrázek, M. Lufile, R. Clemons, D. Böhm","SK Slavia Praha|13,22,24,3,7",1,2.6,157.0,11,3,5,60.0,0,1,0.0,5,5,100.0,0,0,0,1,0,0,0,0,0,6.9,159.1,0.0,159.1,4.2,11
+BK Olomoucko,"M. Nelson, K. Elvis, D. Žák, J. Svojanovský, O. Šiška","BK Olomoucko|0,1,22,51,9",1,2.5,152.0,2,1,4,25.0,0,2,0.0,0,1,0.0,0,0,0,0,0,0,1,0,2,5.2,38.3,23.1,15.1,0.79,0
+ERA Basketball Nymburk,"S. Rice, M. Svoboda, O. Sehnal, M. Santos - Silva, V. Hruban","ERA Basketball Nymburk|10,11,19,7,77",1,2.5,150.0,7,3,4,75.0,0,0,0,1,2,50.0,0,0,0,2,0,0,1,0,0,5.6,124.0,0.0,124.0,2.8,7
+BK KVIS Pardubice,"R. Moffatt, J. Bryant, M. Nábělek, K. Švrdlík, J. Tůma","BK KVIS Pardubice|13,4,5,9,98",2,2.5,153.0,0,0,7,0.0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,2,6.7,0.0,69.4,-69.4,0.0,-2
+PUMPA Basket Brno,"Š. Svoboda, T. Jansa, J. Groves, R. Williams, M. Stráněl","PUMPA Basket Brno|11,19,20,33,7",1,2.5,148.0,10,4,7,57.1,2,2,100.0,0,0,0,0,0,0,2,0,0,0,0,4,6.7,148.8,104.2,44.6,4.05,6
+Sršni Photomate Písek,"V. Sýkora, K. Týml, J. Šurý, M. Svoboda, J. Svoboda","Sršni Photomate Písek|10,33,55,71,77",1,2.5,150.0,6,2,3,66.7,0,1,0.0,2,2,100.0,0,0,0,1,0,0,2,0,6,5.6,106.3,125.0,-18.7,2.4,0
+BK KVIS Pardubice,"L. Kovář, Z. Key, R. Bonham, J. Bryant, A. Lukeš","BK KVIS Pardubice|21,23,3,4,7",2,2.5,148.0,7,3,4,75.0,1,1,100.0,0,0,0,0,0,0,1,0,0,2,0,2,5.8,121.5,35.4,86.1,2.84,5
+BK ARMEX ENERGY Děčín,"P. Alexander, D. Davis, J. Edwards, A. Rand, T. Pomikálek","BK ARMEX ENERGY Děčín|0,2,20,24,5",1,2.5,151.0,4,1,3,33.3,0,1,0.0,2,2,100.0,0,0,0,0,0,0,1,0,6,4.7,85.4,125.0,-39.6,1.59,-2
+Sršni Photomate Písek,"J. Haiblík, K. Týml, J. Karlovský, M. Svoboda, P. Šlechta","Sršni Photomate Písek|13,33,41,71,8",1,2.5,150.0,2,0,2,0.0,0,0,0,2,2,100.0,0,0,0,0,0,0,2,0,2,4.7,42.7,41.7,1.0,0.8,0
+BK GAPA Hradec Králové,"A. Johnson, K. Brewton, T. Merta, V. Synáček, K. Chatman","BK GAPA Hradec Králové|0,2,23,27,5",1,2.5,151.0,6,2,4,50.0,0,1,0.0,2,4,50.0,0,0,0,2,0,0,0,0,6,5.5,108.5,104.2,4.3,2.38,0
+NH Ostrava,"S. Godwin, M. Svoboda, L. Palyza, E. Cato, L. Greer","NH Ostrava|14,20,23,25,3",1,2.5,150.0,6,2,4,50.0,0,2,0.0,2,5,40.0,0,0,0,0,0,0,1,0,5,6.9,86.8,130.2,-43.4,2.4,1
+PUMPA Basket Brno,"V. Půlpán, D. Jelínek, K. Kalu, R. Cisarik, R. Farský","PUMPA Basket Brno|18,25,34,5,8",2,2.5,148.0,2,0,5,0.0,0,2,0.0,2,2,100.0,0,0,0,1,0,0,2,0,4,7.6,26.4,69.4,-43.0,0.81,-2
+BK Opava,"C. Brown Jr, Š. Puršl, J. Šiřina, J. Slavík, I. Gray","BK Opava|13,20,24,33,7",1,2.5,147.0,5,2,4,50.0,1,2,50.0,0,2,0.0,0,0,0,1,0,0,0,0,9,4.7,106.7,159.4,-52.7,2.04,-4
+Sršni Photomate Písek,"V. Sýkora, J. Haiblík, M. Ježek, J. Karlovský, J. Svoboda","Sršni Photomate Písek|10,13,22,41,77",1,2.5,149.0,10,4,6,66.7,2,3,66.7,0,0,0,0,0,0,3,0,0,1,0,5,6.7,148.8,88.6,60.2,4.03,5
+BK Olomoucko,"M. Nelson, K. Elvis, J. Andre, K. Filewich, J. Svojanovský","BK Olomoucko|0,1,10,14,51",2,2.4,141.0,2,1,3,33.3,0,1,0.0,0,0,0,0,0,0,2,0,0,0,0,2,2.9,69.4,52.1,17.4,0.85,0
+BK GAPA Hradec Králové,"M. Popović, K. Brewton, T. Merta, M. Roub, K. Chatman","BK GAPA Hradec Králové|10,2,23,24,5",1,2.4,144.0,2,0,2,0.0,0,1,0.0,2,2,100.0,0,0,0,0,0,0,1,0,6,3.7,53.7,208.3,-154.6,0.83,-4
+BK ARMEX ENERGY Děčín,"F. Kroutil, J. Štěrba, D. Davis, L. Feštr, T. Pomikálek","BK ARMEX ENERGY Děčín|13,16,2,44,5",2,2.4,144.0,2,0,3,0.0,0,1,0.0,2,4,50.0,0,0,0,0,0,0,1,0,3,5.5,36.2,128.1,-91.9,0.83,-1
+Sršni Photomate Písek,"V. Sýkora, J. Karlovský, M. Svoboda, J. Svoboda, P. Šlechta","Sršni Photomate Písek|10,41,71,77,8",1,2.4,145.0,7,3,6,50.0,1,2,50.0,0,0,0,0,0,0,0,0,0,2,0,0,7.7,91.1,0.0,91.1,2.9,7
+NH Ostrava,"A. Číž, S. Godwin, M. Svoboda, L. Palyza, L. Greer","NH Ostrava|11,14,20,23,3",1,2.4,146.0,5,2,4,50.0,1,2,50.0,0,0,0,0,0,0,1,0,0,1,0,6,4.8,104.2,161.1,-56.9,2.05,-1
+BK KVIS Pardubice,"R. Moffatt, Z. Key, R. Bonham, J. Bryant, A. Lukeš","BK KVIS Pardubice|13,23,3,4,7",2,2.4,144.0,7,2,3,66.7,1,1,100.0,2,3,66.7,0,0,0,2,0,0,1,0,7,5.1,137.1,153.2,-16.1,2.92,0
+BK GAPA Hradec Králové,"D. Škranc, J. Bubeníček, M. Roub, L. Nikkarinen, K. Chatman","BK GAPA Hradec Králové|12,16,24,4,5",2,2.4,146.0,2,1,6,16.7,0,4,0.0,0,1,0.0,0,0,0,0,0,0,0,0,6,6.2,32.3,128.1,-95.7,0.82,-4
+SK Slavia Praha,"M. Ježek, N. Noumeros, J. Matušík, R. Mrázek, D. Böhm","SK Slavia Praha|12,13,16,22,7",1,2.4,145.0,10,4,5,80.0,2,2,100.0,0,0,0,0,0,0,2,0,0,0,0,0,4.8,208.3,0.0,208.3,4.14,10
+NH Ostrava,"S. Godwin, M. Svoboda, K. Cole, E. Cato, L. Greer","NH Ostrava|14,20,24,25,3",1,2.4,142.0,3,1,4,25.0,0,2,0.0,1,1,100.0,0,0,0,0,0,0,0,0,3,4.3,70.4,62.5,7.9,1.27,0
+SK Slavia Praha,"M. Ježek, R. Jones, R. Mrázek, D. Böhm, R. Pumprla","SK Slavia Praha|12,15,22,7,9",1,2.3,136.0,6,2,4,50.0,1,1,100.0,1,1,100.0,0,0,0,2,0,0,0,0,5,4.3,140.8,78.4,62.3,2.65,1
+BK Olomoucko,"M. Nelson, K. Elvis, J. Andre, K. Filewich, D. Žák","BK Olomoucko|0,1,10,14,22",2,2.3,138.0,5,1,2,50.0,0,1,0.0,3,6,50.0,0,0,0,0,0,0,1,0,3,5.4,92.3,156.2,-63.9,2.17,2
+Sršni Photomate Písek,"K. Týml, J. Šurý, M. Svoboda, J. Svoboda, P. Šlechta","Sršni Photomate Písek|33,55,71,77,8",1,2.3,139.0,8,3,5,60.0,2,3,66.7,0,0,0,0,0,0,3,0,0,0,0,2,4.8,166.7,52.1,114.6,3.45,6
+SLUNETA  Ústí nad Labem,"A. Pecháček, N. Johnson, I. Davidson, T. Vyoral, F. Kábrt","SLUNETA  Ústí nad Labem|0,10,18,4,8",2,2.3,137.0,4,2,3,66.7,0,0,0,0,0,0,0,0,0,0,0,0,2,0,6,4.8,83.3,98.9,-15.6,1.75,-2
+BK GAPA Hradec Králové,"D. Škranc, J. Bubeníček, T. Merta, M. Roub, T. Dvořák","BK GAPA Hradec Králové|12,16,23,24,44",1,2.3,137.0,2,1,3,33.3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,2.9,69.4,64.0,5.4,0.88,-1
+PUMPA Basket Brno,"V. Půlpán, D. Jelínek, K. Kalu, M. Rychtecký, R. Cisarik","PUMPA Basket Brno|18,25,34,4,5",2,2.3,137.0,8,3,4,75.0,1,1,100.0,1,1,100.0,0,0,0,3,0,0,1,0,10,5.2,153.2,208.3,-55.1,3.5,-2
+USK Praha,"J. Montgomery, D. Vlk, H. Wright, M. Šafařík, C. Eduardo","USK Praha|0,13,44,5,7",1,2.3,136.0,2,1,2,50.0,0,1,0.0,0,0,0,0,0,0,1,0,0,2,0,4,3.8,52.1,83.3,-31.3,0.88,-2
+USK Praha,"D. Vlk, O. Švec, T. Tainamo, E. Edigin, M. Šafařík","USK Praha|13,16,25,41,5",2,2.2,132.0,3,1,3,33.3,0,1,0.0,1,5,20.0,0,0,0,1,0,0,2,0,9,6.9,43.4,184.5,-141.1,1.36,-6
+SK Slavia Praha,"R. Mrázek, D. Böhm, T. Bladen, M. Dáňa, R. Pumprla","SK Slavia Praha|22,7,8,88,9",1,2.2,132.0,4,2,4,50.0,0,1,0.0,0,0,0,0,0,0,0,0,0,1,0,4,4.8,83.3,144.7,-61.3,1.82,0
+SK Slavia Praha,"R. Jones, J. Matušík, P. Macháč, M. Dáňa, R. Pumprla","SK Slavia Praha|15,16,35,88,9",1,2.2,131.0,4,1,2,50.0,1,2,50.0,1,2,50.0,0,0,0,1,0,0,1,0,3,3.7,107.4,64.0,43.4,1.83,1
+NH Ostrava,"S. Godwin, M. Svoboda, L. Palyza, K. Cole, E. Cato","NH Ostrava|14,20,23,24,25",1,2.2,133.0,8,2,3,66.7,1,1,100.0,3,4,75.0,0,0,0,2,0,0,0,0,6,4.6,175.1,106.3,68.8,3.61,2
+Sršni Photomate Písek,"M. Kozák, K. Týml, J. Šurý, M. Svoboda, P. Šlechta","Sršni Photomate Písek|11,33,55,71,8",1,2.2,134.0,7,2,5,40.0,1,1,100.0,2,2,100.0,0,0,0,2,0,0,0,0,4,5.6,124.0,85.4,38.6,3.13,3
+SK Slavia Praha,"M. Ježek, R. Jones, P. Macháč, D. Böhm, R. Pumprla","SK Slavia Praha|12,15,35,7,9",1,2.2,134.0,5,1,2,50.0,1,2,50.0,2,3,66.7,0,0,0,1,0,0,0,0,5,3.2,156.9,104.2,52.7,2.24,0
+ERA Basketball Nymburk,"S. Rice, O. Sehnal, J. Brickus, J. Shumate, K. Feazell","ERA Basketball Nymburk|10,19,2,32,6",1,2.2,135.0,4,2,3,66.7,0,1,0.0,0,1,0.0,0,0,0,2,0,0,0,0,4,3.3,121.1,107.4,13.7,1.78,0
+SK Slavia Praha,"M. Ježek, N. Noumeros, R. Jones, R. Mrázek, D. Böhm","SK Slavia Praha|12,13,15,22,7",1,2.2,130.0,3,1,4,25.0,0,1,0.0,1,2,50.0,0,0,0,0,0,0,1,0,3,5.6,53.1,80.5,-27.4,1.38,0
+BK Olomoucko,"M. Nelson, M. Kvapil, D. Žák, A. Goga, O. Šiška","BK Olomoucko|0,12,22,4,9",1,2.2,135.0,5,2,3,66.7,1,1,100.0,0,0,0,0,0,0,1,0,0,0,0,8,2.9,173.6,198.4,-24.8,2.22,-3
+BK GAPA Hradec Králové,"T. Merta, M. Roub, V. Synáček, L. Nikkarinen, K. Chatman","BK GAPA Hradec Králové|23,24,27,4,5",2,2.2,135.0,2,0,1,0.0,0,1,0.0,2,4,50.0,0,0,0,0,0,0,2,0,2,4.6,43.8,52.1,-8.3,0.89,0
+BK Opava,"W. Person Jr, C. Brown Jr, Š. Puršl, M. Vyroubal, I. Gray","BK Opava|1,13,20,25,7",1,2.2,135.0,5,1,3,33.3,0,1,0.0,3,5,60.0,0,0,0,0,0,0,1,0,4,6.0,84.0,78.3,5.7,2.22,1
+BK Opava,"W. Person Jr, M. Vyroubal, J. Slavík, I. Gray, F. Zbránek","BK Opava|1,25,33,7,9",1,2.2,131.0,7,2,3,66.7,1,2,50.0,2,3,66.7,0,0,0,1,0,0,0,0,8,4.1,168.8,179.6,-10.8,3.21,-1
+USK Praha,"D. Vlk, O. Švec, H. Wright, M. Šafařík, C. Eduardo","USK Praha|13,16,44,5,7",1,2.2,135.0,0,0,3,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3.8,0.0,42.7,-42.7,0.0,-2
+BK Olomoucko,"M. Půlpán, K. Filewich, D. Žák, L. Autrey, Š. Čermák","BK Olomoucko|11,14,22,24,3",1,2.2,134.0,2,1,3,33.3,0,0,0,0,2,0.0,0,0,0,0,0,0,2,0,4,5.6,35.4,46.9,-11.5,0.9,-2
+PUMPA Basket Brno,"P. Křivánek, D. Jelínek, K. Kalu, R. Cisarik, T. Olison","PUMPA Basket Brno|12,25,34,5,6",1,2.2,133.0,3,1,3,33.3,1,3,33.3,0,0,0,0,0,0,2,0,0,2,0,1,4.8,62.5,23.5,39.0,1.35,2
+USK Praha,"J. Montgomery, S. Macht, O. Švec, F. Fuxa, E. Edigin","USK Praha|0,11,16,21,41",1,2.1,129.0,6,2,6,33.3,1,2,50.0,1,2,50.0,0,0,0,1,0,0,0,0,4,6.6,90.8,104.2,-13.3,2.79,2
+BK KVIS Pardubice,"R. Moffatt, L. Kovář, Z. Key, R. Bonham, J. Tůma","BK KVIS Pardubice|13,21,23,3,98",3,2.1,127.0,2,1,4,25.0,0,2,0.0,0,0,0,0,0,0,0,0,0,1,0,9,4.8,41.7,187.5,-145.8,0.94,-7
+PUMPA Basket Brno,"A. Kejval, V. Půlpán, J. Groves, R. Williams, R. Farský","PUMPA Basket Brno|13,18,20,33,8",1,2.1,125.0,4,2,3,66.7,0,0,0,0,0,0,0,0,0,1,0,0,1,0,4,3.8,104.2,107.4,-3.2,1.92,0
+PUMPA Basket Brno,"Š. Svoboda, A. Kejval, V. Půlpán, R. Williams, R. Farský","PUMPA Basket Brno|11,13,18,33,8",1,2.1,127.0,4,1,4,25.0,0,1,0.0,2,2,100.0,0,0,0,0,0,0,0,0,5,4.7,85.4,130.2,-44.8,1.89,-1
+Sršni Photomate Písek,"M. Kozák, J. Haiblík, J. Zvolánek, K. Týml, J. Karlovský","Sršni Photomate Písek|11,13,31,33,41",1,2.1,126.0,5,2,4,50.0,1,2,50.0,0,0,0,0,0,0,2,0,0,0,0,2,3.8,130.2,42.7,87.5,2.38,3
+NH Ostrava,"A. Číž, L. Palyza, K. Cole, E. Cato, L. Greer","NH Ostrava|11,23,24,25,3",2,2.1,128.0,2,0,1,0.0,0,0,0,2,3,66.7,0,0,0,2,0,0,1,0,7,3.2,62.8,84.4,-21.6,0.94,-5
+SK Slavia Praha,"P. Macháč, R. Jones, J. Matušík, R. Mrázek, D. Böhm","SK Slavia Praha|14,15,16,22,7",2,2.1,124.0,4,1,2,50.0,1,2,50.0,1,2,50.0,0,0,0,0,0,0,1,0,8,3.7,107.4,112.0,-4.6,1.94,-4
+BK GAPA Hradec Králové,"D. Škranc, K. Brewton, M. Roub, L. Nikkarinen, T. Dvořák","BK GAPA Hradec Králové|12,2,24,4,44",2,2.1,124.0,8,4,6,66.7,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,5.8,138.9,121.1,17.8,3.87,4
+BK KVIS Pardubice,"L. Kovář, R. Bonham, J. Bryant, K. Švrdlík, J. Tůma","BK KVIS Pardubice|21,3,4,9,98",2,2.1,126.0,5,2,2,100.0,1,1,100.0,0,0,0,0,0,0,0,0,0,1,0,5,2.9,173.6,106.7,66.9,2.38,0
+NH Ostrava,"M. Svoboda, L. Palyza, K. Cole, E. Cato, L. Greer","NH Ostrava|20,23,24,25,3",1,2.1,129.0,7,2,4,50.0,0,0,0,3,4,75.0,0,0,0,1,0,0,0,0,3,5.5,126.6,53.1,73.4,3.26,4
+Sršni Photomate Písek,"V. Sýkora, J. Haiblík, J. Karlovský, J. Svoboda, P. Šlechta","Sršni Photomate Písek|10,13,41,77,8",1,2.1,129.0,5,2,4,50.0,1,2,50.0,0,0,0,0,0,0,1,0,0,0,0,8,3.8,130.2,192.9,-62.7,2.33,-3
+BK ARMEX ENERGY Děčín,"F. Kroutil, D. Davis, J. Edwards, A. Rand, M. Šturanović","BK ARMEX ENERGY Děčín|13,2,20,24,47",1,2.1,129.0,6,2,2,100.0,0,0,0,2,2,100.0,0,0,0,2,0,0,2,0,0,4.7,128.1,0.0,128.1,2.79,6
+NH Ostrava,"M. Čank, M. Svoboda, L. Palyza, L. Greer, J. Roche","NH Ostrava|19,20,23,3,35",1,2.0,119.0,1,0,3,0.0,0,1,0.0,1,2,50.0,0,0,0,0,0,0,0,0,7,3.7,26.8,149.4,-122.6,0.5,-6
+BK Opava,"W. Person Jr, C. Brown Jr, Š. Puršl, J. Šiřina, M. Vyroubal","BK Opava|1,13,20,24,25",2,2.0,118.0,1,0,2,0.0,0,2,0.0,1,2,50.0,0,0,0,0,0,0,0,0,4,2.8,36.2,87.5,-51.4,0.51,-3
+SLUNETA  Ústí nad Labem,"A. Pecháček, N. Johnson, J. Young, T. Vyoral, D. Žikla","SLUNETA  Ústí nad Labem|0,10,2,4,9",1,2.0,123.0,3,1,2,50.0,1,1,100.0,0,0,0,0,0,0,1,0,0,1,0,6,2.9,104.2,125.0,-20.8,1.46,-3
+BK Opava,"C. Brown Jr, J. Šiřina, M. Vyroubal, J. Slavík, J. Švandrlík","BK Opava|13,24,25,33,8",1,2.0,118.0,5,2,3,66.7,1,2,50.0,0,0,0,0,0,0,1,0,0,0,0,6,2.9,173.6,117.5,56.1,2.54,-1
+PUMPA Basket Brno,"Š. Svoboda, P. Křivánek, D. Jelínek, K. Kalu, R. Farský","PUMPA Basket Brno|11,12,25,34,8",1,2.0,122.0,4,0,0,0,0,0,0,4,6,66.7,0,0,0,0,0,0,1,0,2,3.5,114.5,39.2,75.3,1.97,2
+BK ARMEX ENERGY Děčín,"F. Kroutil, D. Davis, A. Rand, L. Feštr, M. Šturanović","BK ARMEX ENERGY Děčín|13,2,24,44,47",1,2.0,119.0,4,2,3,66.7,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,2.9,138.9,69.4,69.4,2.02,2
+BK GAPA Hradec Králové,"C. John, D. Škranc, M. Roub, T. Dvořák, K. Chatman","BK GAPA Hradec Králové|10,12,24,44,5",1,2.0,119.0,2,1,3,33.3,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,4,2.9,69.4,138.9,-69.4,1.01,-2
+USK Praha,"J. Montgomery, T. Henderson Jr., D. Vlk, O. Švec, F. Fuxa","USK Praha|0,1,13,16,21",3,2.0,123.0,5,2,2,100.0,1,1,100.0,0,1,0.0,0,0,0,1,0,0,2,0,1,4.3,117.3,23.5,93.8,2.44,4
+BK GAPA Hradec Králové,"A. Johnson, K. Brewton, V. Synáček, L. Nikkarinen, K. Chatman","BK GAPA Hradec Králové|0,2,27,4,5",1,2.0,119.0,4,1,2,50.0,0,0,0,2,2,100.0,0,0,0,0,0,0,2,0,4,4.7,85.4,107.4,-22.0,2.02,0
+SK Slavia Praha,"N. Noumeros, R. Jones, M. Lufile, D. Böhm, M. Dáňa","SK Slavia Praha|13,15,24,7,88",1,2.0,119.0,4,1,3,33.3,0,1,0.0,2,2,100.0,0,0,0,1,0,0,0,0,4,3.7,107.4,85.4,22.0,2.02,0
+NH Ostrava,"M. Snopek, A. Číž, S. Godwin, M. Svoboda, E. Cato","NH Ostrava|10,11,14,20,25",1,2.0,121.0,3,1,2,50.0,1,2,50.0,0,0,0,0,0,0,1,0,0,1,0,2,2.9,104.2,69.4,34.7,1.49,1
+SK Slavia Praha,"M. Ježek, P. Macháč, R. Jones, J. Matušík, R. Mrázek","SK Slavia Praha|12,14,15,16,22",3,2.0,120.0,0,0,2,0.0,0,1,0.0,0,1,0.0,0,0,0,1,0,0,0,0,6,2.3,0.0,106.3,-106.3,0.0,-6
+PUMPA Basket Brno,"Š. Svoboda, A. Kejval, V. Půlpán, D. Jelínek, T. Olison","PUMPA Basket Brno|11,13,18,25,6",1,2.0,118.0,2,1,2,50.0,0,1,0.0,0,0,0,0,0,0,1,0,0,1,0,2,2.9,69.4,52.1,17.4,1.02,0
+BK Olomoucko,"M. Nelson, K. Elvis, J. Andre, J. Holmes, A. Goga","BK Olomoucko|0,1,10,13,4",1,1.9,114.0,1,0,4,0.0,0,1,0.0,1,2,50.0,0,0,0,0,0,0,0,0,2,4.7,21.3,104.2,-82.8,0.53,-1
+SK Slavia Praha,"R. Jones, R. Mrázek, D. Böhm, T. Bladen, M. Dáňa","SK Slavia Praha|15,22,7,8,88",1,1.9,114.0,9,4,4,100.0,0,0,0,1,1,100.0,0,0,0,2,0,0,1,0,0,5.2,172.3,0.0,172.3,4.74,9
+BK KVIS Pardubice,"R. Moffatt, L. Kovář, R. Bonham, A. Lukeš, J. Tůma","BK KVIS Pardubice|13,21,3,7,98",2,1.9,117.0,3,1,3,33.3,1,3,33.3,0,0,0,0,0,0,0,0,0,1,0,4,3.8,78.1,107.4,-29.3,1.54,-1
+BK GAPA Hradec Králové,"K. Brewton, T. Merta, M. Roub, T. Dvořák, K. Chatman","BK GAPA Hradec Králové|2,23,24,44,5",1,1.9,112.0,0,0,3,0.0,0,1,0.0,0,0,0,0,0,0,1,0,0,0,0,5,2.9,0.0,86.8,-86.8,0.0,-5
+Sršni Photomate Písek,"V. Sýkora, K. Týml, J. Karlovský, M. Svoboda, P. Šlechta","Sršni Photomate Písek|10,33,41,71,8",1,1.9,112.0,4,2,3,66.7,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,3.8,104.2,161.1,-56.9,2.14,-2
+BK Opava,"W. Person Jr, K. Kavan, C. Brown Jr, J. Šiřina, M. Vyroubal","BK Opava|1,11,13,24,25",1,1.9,112.0,7,3,6,50.0,1,2,50.0,0,0,0,0,0,0,2,0,0,1,0,5,6.7,104.2,120.6,-16.4,3.75,2
+BK GAPA Hradec Králové,"C. John, K. Brewton, T. Merta, M. Roub, K. Chatman","BK GAPA Hradec Králové|10,2,23,24,5",1,1.9,111.0,4,1,4,25.0,0,2,0.0,2,2,100.0,0,0,0,0,0,0,0,0,0,4.7,85.4,0.0,85.4,2.16,4
+PUMPA Basket Brno,"Š. Svoboda, A. Kejval, V. Půlpán, D. Jelínek, M. Rychtecký","PUMPA Basket Brno|11,13,18,25,4",1,1.9,114.0,3,1,2,50.0,0,0,0,1,2,50.0,0,0,0,0,0,0,0,0,7,2.8,108.5,134.0,-25.5,1.58,-4
+BK Olomoucko,"M. Nelson, K. Elvis, M. Kvapil, D. Žák, O. Šiška","BK Olomoucko|0,1,12,22,9",1,1.9,114.0,5,2,3,66.7,1,1,100.0,0,0,0,0,0,0,2,0,0,0,0,0,2.9,173.6,0.0,173.6,2.63,5
+BK KVIS Pardubice,"J. Evans Iii, R. Moffatt, L. Kovář, J. Bryant, J. Tůma","BK KVIS Pardubice|11,13,21,4,98",2,1.9,113.0,7,2,3,66.7,1,2,50.0,2,2,100.0,0,0,0,0,0,0,0,0,4,3.7,187.9,76.6,111.3,3.72,3
+BK GAPA Hradec Králové,"A. Johnson, T. Merta, V. Synáček, L. Nikkarinen, K. Chatman","BK GAPA Hradec Králové|0,23,27,4,5",1,1.9,116.0,1,0,1,0.0,0,0,0,1,1,100.0,0,0,0,1,0,0,1,0,7,2.3,42.7,121.5,-78.8,0.52,-6
+BK ARMEX ENERGY Děčín,"P. Alexander, J. Štěrba, D. Davis, J. Edwards, O. Žižka","BK ARMEX ENERGY Děčín|0,16,2,20,9",1,1.9,111.0,1,0,4,0.0,0,0,0,1,2,50.0,0,0,0,1,0,0,0,0,4,4.7,21.3,107.4,-86.0,0.54,-3
+PUMPA Basket Brno,"P. Křivánek, D. Jelínek, K. Kalu, R. Cisarik, R. Farský","PUMPA Basket Brno|12,25,34,5,8",1,1.9,114.0,6,2,2,100.0,1,1,100.0,1,3,33.3,0,0,0,2,0,0,1,0,4,4.1,144.7,78.3,66.4,3.16,2
+BK KVIS Pardubice,"R. Moffatt, J. Bryant, A. Lukeš, K. Švrdlík, J. Tůma","BK KVIS Pardubice|13,4,7,9,98",2,1.9,111.0,6,1,2,50.0,0,1,0.0,4,4,100.0,0,0,0,1,0,0,0,0,7,3.6,166.2,243.1,-76.8,3.24,-1
+NH Ostrava,"A. Číž, M. Čank, M. Svoboda, L. Palyza, D. Heinzl","NH Ostrava|11,19,20,23,7",2,1.8,107.0,1,0,1,0.0,0,0,0,1,2,50.0,0,0,0,2,0,0,1,0,8,2.8,36.2,166.7,-130.5,0.56,-7
+BK ARMEX ENERGY Děčín,"F. Kroutil, J. Štěrba, J. Edwards, L. Bryan Jr, L. Feštr","BK ARMEX ENERGY Děčín|13,16,20,22,44",1,1.8,110.0,3,0,2,0.0,0,1,0.0,3,6,50.0,0,0,0,0,0,0,1,0,6,5.4,55.4,161.1,-105.7,1.64,-3
+BK Opava,"W. Person Jr, C. Brown Jr, Š. Puršl, J. Šiřina, J. Slavík","BK Opava|1,13,20,24,33",1,1.8,110.0,6,2,3,66.7,1,1,100.0,1,1,100.0,0,0,0,1,0,0,1,0,2,4.3,140.8,69.4,71.3,3.27,4
+Sršni Photomate Písek,"V. Sýkora, M. Kozák, J. Šurý, M. Svoboda, P. Šlechta","Sršni Photomate Písek|10,11,55,71,8",1,1.8,107.0,2,1,2,50.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2.9,69.4,0.0,69.4,1.12,2
+BK ARMEX ENERGY Děčín,"F. Kroutil, J. Štěrba, D. Davis, J. Edwards, L. Bryan Jr","BK ARMEX ENERGY Děčín|13,16,2,20,22",1,1.8,109.0,4,2,3,66.7,0,1,0.0,0,0,0,0,0,0,2,0,0,0,0,5,2.9,138.9,173.6,-34.7,2.2,-1
+Sršni Photomate Písek,"M. Kozák, J. Haiblík, J. Zvolánek, K. Týml, J. Svoboda","Sršni Photomate Písek|11,13,31,33,77",1,1.8,109.0,6,2,5,40.0,2,5,40.0,0,0,0,0,0,0,1,0,0,1,0,0,5.8,104.2,0.0,104.2,3.3,6
+BK ARMEX ENERGY Děčín,"P. Alexander, J. Štěrba, D. Davis, J. Edwards, T. Pomikálek","BK ARMEX ENERGY Děčín|0,16,2,20,5",2,1.8,108.0,2,1,3,33.3,0,1,0.0,0,0,0,0,0,0,0,0,0,1,0,3,3.8,52.1,94.1,-42.0,1.11,-1
+BK ARMEX ENERGY Děčín,"J. Štěrba, D. Davis, J. Edwards, L. Feštr, M. Šturanović","BK ARMEX ENERGY Děčín|16,2,20,44,47",2,1.8,108.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,5,2.9,0.0,109.4,-109.4,0.0,-5
+SLUNETA  Ústí nad Labem,"N. Johnson, I. Davidson, T. Vyoral, L. Pecka, F. Kábrt","SLUNETA  Ústí nad Labem|10,18,4,44,8",2,1.8,107.0,7,2,2,100.0,1,1,100.0,2,2,100.0,0,0,0,1,0,0,0,0,5,2.8,253.2,173.6,79.6,3.93,2
+BK ARMEX ENERGY Děčín,"P. Alexander, F. Kroutil, D. Davis, J. Edwards, T. Pomikálek","BK ARMEX ENERGY Děčín|0,13,2,20,5",2,1.8,109.0,4,1,3,33.3,0,0,0,2,2,100.0,0,0,0,0,0,0,2,0,2,5.6,70.9,35.4,35.4,2.2,2
+BK KVIS Pardubice,"R. Moffatt, L. Kovář, R. Bonham, K. Švrdlík, J. Tůma","BK KVIS Pardubice|13,21,3,9,98",2,1.8,105.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,2,0,2,2.9,0.0,42.7,-42.7,0.0,-2
+BK KVIS Pardubice,"R. Moffatt, L. Kovář, R. Bonham, J. Bryant, K. Švrdlík","BK KVIS Pardubice|13,21,3,4,9",2,1.8,109.0,0,0,3,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,6,2.9,0.0,128.1,-128.1,0.0,-6
+ERA Basketball Nymburk,"J. Bohačík, M. Kříž, J. Shumate, F. Rylich, V. Hruban","ERA Basketball Nymburk|17,31,32,73,77",1,1.8,109.0,4,2,4,50.0,0,1,0.0,0,0,0,0,0,0,1,0,0,0,0,0,3.8,104.2,0.0,104.2,2.2,4
+BK Opava,"W. Person Jr, Š. Puršl, J. Slavík, I. Gray, F. Zbránek","BK Opava|1,20,33,7,9",1,1.8,107.0,2,0,3,0.0,0,1,0.0,2,4,50.0,0,0,0,0,0,0,0,0,2,4.6,43.8,53.7,-9.9,1.12,0
+BK KVIS Pardubice,"J. Evans Iii, L. Kovář, Z. Key, R. Bonham, J. Bryant","BK KVIS Pardubice|11,21,23,3,4",1,1.8,109.0,7,3,4,75.0,1,2,50.0,0,0,0,0,0,0,1,0,0,0,0,7,3.8,182.3,164.2,18.1,3.85,0
+BK Olomoucko,"M. Nelson, K. Filewich, L. Autrey, A. Goga, O. Šiška","BK Olomoucko|0,14,24,4,9",1,1.8,108.0,4,2,4,50.0,0,1,0.0,0,0,0,0,0,0,0,0,0,1,0,7,4.8,83.3,145.8,-62.5,2.22,-3
+BK Opava,"K. Kavan, Š. Puršl, F. Váňa, I. Gray, J. Švandrlík","BK Opava|11,20,3,7,8",1,1.8,110.0,0,0,3,0.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4,4.8,0.0,69.4,-69.4,0.0,-4
+BK Opava,"W. Person Jr, Š. Puršl, J. Šiřina, I. Gray, J. Švandrlík","BK Opava|1,20,24,7,8",1,1.8,109.0,4,1,2,50.0,0,1,0.0,2,4,50.0,0,0,0,2,0,0,1,0,6,4.6,87.5,108.5,-21.0,2.2,-2
+ERA Basketball Nymburk,"D. Böhm, J. Bohačík, J. Shumate, F. Rylich, G. Filipovic","ERA Basketball Nymburk|13,17,32,73,8",1,1.8,108.0,5,2,3,66.7,1,2,50.0,0,0,0,0,0,0,2,0,0,1,0,4,3.8,130.2,144.7,-14.5,2.78,1
+PUMPA Basket Brno,"Š. Svoboda, P. Křivánek, K. Kalu, T. Olison, R. Farský","PUMPA Basket Brno|11,12,34,6,8",1,1.8,109.0,3,1,2,50.0,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,5,1.9,156.2,138.5,17.7,1.65,-2
+BK Opava,"W. Person Jr, D. Motyčka, J. Šiřina, J. Švandrlík, F. Zbránek","BK Opava|1,14,24,8,9",1,1.7,104.0,3,1,4,25.0,1,3,33.3,0,0,0,0,0,0,1,0,0,0,0,8,3.8,78.1,175.1,-96.9,1.73,-5
+NH Ostrava,"A. Číž, S. Godwin, M. Čank, L. Palyza, L. Greer","NH Ostrava|11,14,19,23,3",1,1.7,101.0,5,2,4,50.0,0,2,0.0,1,2,50.0,0,0,0,0,0,0,1,0,2,5.6,88.6,52.1,36.5,2.97,3
+BK GAPA Hradec Králové,"C. John, T. Merta, M. Roub, L. Nikkarinen, K. Chatman","BK GAPA Hradec Králové|10,23,24,4,5",1,1.7,101.0,2,1,3,33.3,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,4,2.9,69.4,85.4,-15.9,1.19,-2
+Sršni Photomate Písek,"M. Kozák, J. Haiblík, J. Zvolánek, K. Týml, M. Svoboda","Sršni Photomate Písek|11,13,31,33,71",1,1.7,103.0,2,1,2,50.0,0,1,0.0,0,3,0.0,0,0,0,1,0,0,2,0,2,5.1,39.2,52.1,-12.9,1.17,0
+BK Opava,"W. Person Jr, Š. Puršl, R. Kouřil, J. Slavík, J. Švandrlík","BK Opava|1,20,21,33,8",1,1.7,102.0,3,1,2,50.0,1,2,50.0,0,0,0,0,0,0,1,0,0,1,0,6,2.9,104.2,217.0,-112.8,1.76,-3
+BK GAPA Hradec Králové,"D. Škranc, T. Merta, L. Nikkarinen, T. Dvořák, K. Chatman","BK GAPA Hradec Králové|12,23,4,44,5",1,1.7,104.0,3,1,3,33.3,0,2,0.0,1,2,50.0,0,0,0,2,0,0,0,0,2,3.7,80.5,41.7,38.9,1.73,1
+BK Olomoucko,"K. Elvis, K. Filewich, D. Žák, A. Goga, J. Oupoh","BK Olomoucko|1,14,22,4,7",1,1.7,102.0,1,0,1,0.0,0,0,0,1,2,50.0,0,0,0,0,0,0,0,0,5,1.8,55.4,130.2,-74.8,0.59,-4
+BK Opava,"W. Person Jr, Š. Puršl, M. Vyroubal, J. Slavík, I. Gray","BK Opava|1,20,25,33,7",1,1.7,103.0,2,1,3,33.3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,3.8,52.1,78.1,-26.0,1.17,-1
+NH Ostrava,"S. Godwin, M. Čank, L. Palyza, K. Cole, L. Greer","NH Ostrava|14,19,23,24,3",1,1.7,103.0,2,1,3,33.3,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2.9,69.4,0.0,69.4,1.17,2
+SK Slavia Praha,"V. Zeithammer, M. Ježek, J. Matušík, R. Mrázek, M. Lufile","SK Slavia Praha|1,12,16,22,24",1,1.7,100.0,2,1,2,50.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2.9,69.4,69.4,0.0,1.2,0
+BK ARMEX ENERGY Děčín,"F. Kroutil, J. Štěrba, J. Edwards, L. Bryan Jr, T. Slowiak","BK ARMEX ENERGY Děčín|13,16,20,22,7",2,1.6,94.0,0,0,3,0.0,0,2,0.0,0,1,0.0,0,0,0,0,0,0,0,0,2,3.3,0.0,52.1,-52.1,0.0,-2
+BK ARMEX ENERGY Děčín,"M. Grill, F. Kroutil, J. Štěrba, L. Feštr, M. Šturanović","BK ARMEX ENERGY Děčín|11,13,16,44,47",1,1.6,93.0,2,1,2,50.0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,1,0,2,3.3,60.6,104.2,-43.6,1.29,0
+BK KVIS Pardubice,"R. Moffatt, R. Bonham, J. Bryant, A. Lukeš, K. Švrdlík","BK KVIS Pardubice|13,3,4,7,9",2,1.6,98.0,0,0,2,0.0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,2,1.9,0.0,104.2,-104.2,0.0,-2
+BK ARMEX ENERGY Děčín,"F. Kroutil, J. Štěrba, D. Davis, T. Pomikálek, T. Slowiak","BK ARMEX ENERGY Děčín|13,16,2,5,7",1,1.6,94.0,2,1,3,33.3,0,0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,3.3,60.6,0.0,60.6,1.28,2
+BK GAPA Hradec Králové,"A. Petric, D. Škranc, M. Roub, T. Dvořák, K. Chatman","BK GAPA Hradec Králové|11,12,24,44,5",1,1.6,94.0,4,1,2,50.0,0,0,0,2,2,100.0,0,0,0,1,0,0,1,0,6,3.7,107.4,217.0,-109.6,2.55,-2
+BK Opava,"K. Kavan, D. Motyčka, Š. Puršl, J. Šiřina, J. Švandrlík","BK Opava|11,14,20,24,8",1,1.6,96.0,2,1,2,50.0,0,1,0.0,0,0,0,0,0,0,0,0,0,1,0,4,2.9,69.4,138.9,-69.4,1.25,-2
+Sršni Photomate Písek,"M. Kozák, J. Zvolánek, K. Týml, J. Karlovský, J. Šurý","Sršni Photomate Písek|11,31,33,41,55",1,1.6,93.0,0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,9,2.9,0.0,159.4,-159.4,0.0,-9
+BK GAPA Hradec Králové,"C. John, K. Brewton, M. Roub, T. Dvořák, K. Chatman","BK GAPA Hradec Králové|10,2,24,44,5",1,1.6,97.0,3,1,1,100.0,1,1,100.0,0,0,0,0,0,0,0,0,0,1,0,3,1.9,156.2,113.2,43.0,1.86,0
+PUMPA Basket Brno,"Š. Svoboda, P. Křivánek, V. Půlpán, D. Jelínek, M. Rychtecký","PUMPA Basket Brno|11,12,18,25,4",1,1.6,94.0,0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3.8,0.0,0.0,0.0,0.0,0
+BK KVIS Pardubice,"J. Evans Iii, L. Kovář, J. Bryant, K. Švrdlík, J. Tůma","BK KVIS Pardubice|11,21,4,9,98",2,1.6,96.0,2,1,3,33.3,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,3.3,60.6,0.0,60.6,1.25,2
+Sršni Photomate Písek,"K. Týml, J. Karlovský, M. Svoboda, P. Šlechta, M. Burda","Sršni Photomate Písek|33,41,71,8,9",1,1.6,94.0,5,2,3,66.7,0,1,0.0,1,1,100.0,0,0,0,1,0,0,0,0,0,3.3,151.4,0.0,151.4,3.19,5
+BK GAPA Hradec Králové,"A. Johnson, D. Škranc, J. Bubeníček, L. Nikkarinen, K. Chatman","BK GAPA Hradec Králové|0,12,16,4,5",1,1.6,93.0,0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,2.9,0.0,138.9,-138.9,0.0,-4
+BK GAPA Hradec Králové,"D. Škranc, T. Merta, M. Roub, V. Synáček, L. Nikkarinen","BK GAPA Hradec Králové|12,23,24,27,4",1,1.6,93.0,0,0,2,0.0,0,2,0.0,0,0,0,0,0,0,0,0,0,1,0,5,2.9,0.0,173.6,-173.6,0.0,-5
+BK Opava,"W. Person Jr, Š. Puršl, I. Gray, J. Švandrlík, F. Zbránek","BK Opava|1,20,7,8,9",1,1.6,93.0,11,4,4,100.0,1,1,100.0,2,2,100.0,0,0,0,0,0,0,0,0,0,4.7,234.8,0.0,234.8,7.1,11
+NH Ostrava,"A. Číž, L. Palyza, E. Cato, L. Greer, D. Heinzl","NH Ostrava|11,23,25,3,7",1,1.6,97.0,2,1,3,33.3,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,0,2.9,69.4,0.0,69.4,1.24,2
+BK GAPA Hradec Králové,"A. Johnson, K. Brewton, T. Merta, M. Roub, L. Nikkarinen","BK GAPA Hradec Králové|0,2,23,24,4",1,1.6,93.0,2,0,3,0.0,0,1,0.0,2,2,100.0,0,0,0,0,0,0,1,0,2,4.7,42.7,53.7,-11.0,1.29,0
+SLUNETA  Ústí nad Labem,"A. Pecháček, N. Johnson, I. Davidson, L. Pecka, F. Kábrt","SLUNETA  Ústí nad Labem|0,10,18,44,8",1,1.6,93.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,3,1.9,104.2,156.2,-52.1,1.29,-1
+BK KVIS Pardubice,"J. Evans Iii, Z. Key, R. Bonham, J. Bryant, J. Tůma","BK KVIS Pardubice|11,23,3,4,98",1,1.6,99.0,6,1,2,50.0,1,2,50.0,3,4,75.0,0,0,0,2,0,0,2,0,0,5.5,108.5,0.0,108.5,3.64,6
+BK Olomoucko,"M. Nelson, K. Elvis, J. Andre, D. Žák, A. Goga","BK Olomoucko|0,1,10,22,4",1,1.5,88.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1.0,0.0,41.7,-41.7,0.0,-2
+BK Olomoucko,"M. Nelson, K. Elvis, K. Filewich, D. Žák, O. Šiška","BK Olomoucko|0,1,14,22,9",1,1.5,91.0,3,1,2,50.0,1,2,50.0,0,2,0.0,0,0,0,1,0,0,0,0,4,2.8,108.5,121.1,-12.6,1.98,-1
+ERA Basketball Nymburk,"S. Rice, M. Svoboda, O. Sehnal, M. Kříž, V. Hruban","ERA Basketball Nymburk|10,11,19,31,77",1,1.5,89.0,0,0,4,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3.8,0.0,42.7,-42.7,0.0,-2
+PUMPA Basket Brno,"Š. Svoboda, P. Křivánek, R. Williams, K. Kalu, M. Rychtecký","PUMPA Basket Brno|11,12,33,34,4",1,1.5,90.0,7,2,2,100.0,1,1,100.0,2,2,100.0,0,0,0,0,0,0,1,0,2,3.7,187.9,104.2,83.8,4.67,5
+NH Ostrava,"A. Číž, S. Godwin, M. Čank, M. Svoboda, L. Palyza","NH Ostrava|11,14,19,20,23",1,1.5,92.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,1.9,0.0,53.7,-53.7,0.0,-2
+SK Slavia Praha,"M. Ježek, R. Jones, D. Böhm, T. Bladen, M. Dáňa","SK Slavia Praha|12,15,7,8,88",1,1.5,89.0,4,2,6,33.3,0,3,0.0,0,0,0,0,0,0,0,0,0,0,0,5,5.8,69.4,260.4,-191.0,2.7,-1
+PUMPA Basket Brno,"Š. Svoboda, R. Williams, K. Kalu, M. Stráněl, R. Farský","PUMPA Basket Brno|11,33,34,7,8",1,1.5,89.0,3,1,2,50.0,0,1,0.0,1,1,100.0,0,0,0,1,0,0,2,0,0,4.3,70.4,0.0,70.4,2.02,3
+Sršni Photomate Písek,"M. Kozák, K. Týml, J. Karlovský, J. Šurý, P. Šlechta","Sršni Photomate Písek|11,33,41,55,8",2,1.5,91.0,4,2,3,66.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.9,138.9,0.0,138.9,2.64,4
+BK Opava,"W. Person Jr, K. Kavan, C. Brown Jr, R. Kouřil, J. Slavík","BK Opava|1,11,13,21,33",1,1.5,89.0,3,0,0,0,0,0,0,3,3,100.0,0,0,0,0,0,0,1,0,0,2.2,134.7,0.0,134.7,2.02,3
+USK Praha,"T. Henderson Jr., D. Vlk, O. Švec, F. Fuxa, M. Šafařík","USK Praha|1,13,16,21,5",2,1.5,88.0,2,0,1,0.0,0,0,0,2,2,100.0,0,0,0,0,0,0,1,0,3,2.8,72.3,104.2,-31.8,1.36,-1
+BK Opava,"K. Kavan, C. Brown Jr, Š. Puršl, J. Šiřina, I. Gray","BK Opava|11,13,20,24,7",1,1.5,90.0,5,2,3,66.7,1,1,100.0,0,0,0,0,0,0,1,0,0,0,0,8,2.9,173.6,208.3,-34.7,3.33,-3
+BK GAPA Hradec Králové,"A. Petric, D. Škranc, J. Bubeníček, M. Roub, K. Chatman","BK GAPA Hradec Králové|11,12,16,24,5",1,1.4,87.0,4,1,1,100.0,0,0,0,2,2,100.0,0,0,0,1,0,0,0,0,3,1.8,221.6,108.5,113.1,2.76,1
+ERA Basketball Nymburk,"S. Rice, O. Sehnal, M. Kříž, F. Rylich, V. Hruban","ERA Basketball Nymburk|10,19,31,73,77",2,1.4,83.0,7,2,3,66.7,2,3,66.7,1,2,50.0,0,0,0,0,0,0,1,0,0,4.7,149.4,0.0,149.4,5.06,7
+Sršni Photomate Písek,"V. Sýkora, M. Kozák, M. Svoboda, J. Svoboda, M. Burda","Sršni Photomate Písek|10,11,71,77,9",1,1.4,83.0,2,1,5,20.0,0,4,0.0,0,0,0,0,0,0,0,0,0,0,0,0,4.8,41.7,0.0,41.7,1.45,2
+NH Ostrava,"A. Číž, M. Svoboda, L. Palyza, L. Greer, J. Roche","NH Ostrava|11,20,23,3,35",1,1.4,81.0,6,1,4,25.0,1,1,100.0,3,4,75.0,0,0,0,1,0,0,0,0,2,5.5,108.5,48.2,60.3,4.44,4
+BK GAPA Hradec Králové,"A. Petric, K. Brewton, T. Merta, M. Roub, K. Chatman","BK GAPA Hradec Králové|11,2,23,24,5",2,1.4,81.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,11,1.9,0.0,191.0,-191.0,0.0,-11
+SLUNETA  Ústí nad Labem,"J. Young, J. Potoček, T. Vyoral, L. Pecka, D. Žikla","SLUNETA  Ústí nad Labem|2,31,4,44,9",2,1.4,87.0,0,0,2,0.0,0,2,0.0,0,0,0,0,0,0,0,0,0,2,0,6,3.8,0.0,208.3,-208.3,0.0,-6
+PUMPA Basket Brno,"Š. Svoboda, V. Půlpán, J. Groves, R. Williams, K. Kalu","PUMPA Basket Brno|11,18,20,33,34",2,1.4,81.0,8,3,6,50.0,0,1,0.0,2,2,100.0,0,0,0,0,0,0,0,0,3,6.6,121.1,128.1,-6.9,5.93,5
+PUMPA Basket Brno,"Š. Svoboda, A. Kejval, J. Groves, R. Williams, R. Farský","PUMPA Basket Brno|11,13,20,33,8",1,1.4,82.0,5,1,2,50.0,1,1,100.0,2,2,100.0,0,0,0,1,0,0,1,0,2,3.7,134.2,75.5,58.8,3.66,3
+BK ARMEX ENERGY Děčín,"F. Kroutil, J. Štěrba, D. Davis, J. Edwards, M. Šturanović","BK ARMEX ENERGY Děčín|13,16,2,20,47",1,1.4,86.0,3,1,1,100.0,1,1,100.0,0,0,0,0,0,0,1,0,0,0,0,2,1.0,312.5,52.1,260.4,2.09,1
+BK ARMEX ENERGY Děčín,"F. Kroutil, D. Davis, J. Edwards, L. Bryan Jr, L. Feštr","BK ARMEX ENERGY Děčín|13,2,20,22,44",1,1.4,82.0,2,1,4,25.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.8,52.1,0.0,52.1,1.46,2
+PUMPA Basket Brno,"V. Půlpán, J. Groves, R. Williams, M. Rychtecký, M. Stráněl","PUMPA Basket Brno|18,20,33,4,7",1,1.4,83.0,3,1,2,50.0,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,5,1.9,156.2,224.5,-68.2,2.17,-2
+SK Slavia Praha,"N. Noumeros, J. Matušík, M. Lufile, D. Böhm, M. Dáňa","SK Slavia Praha|13,16,24,7,88",1,1.4,85.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,1,0,0,1.9,0.0,0.0,0.0,0.0,0
+NH Ostrava,"S. Godwin, M. Svoboda, L. Palyza, K. Cole, L. Greer","NH Ostrava|14,20,23,24,3",1,1.4,81.0,7,3,5,60.0,1,1,100.0,0,0,0,0,0,0,1,0,0,0,0,2,4.8,145.8,72.3,73.5,5.19,5
+BK Opava,"W. Person Jr, K. Kavan, Š. Puršl, R. Kouřil, F. Zbránek","BK Opava|1,11,20,21,9",1,1.4,84.0,0,0,2,0.0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,5,1.9,0.0,173.6,-173.6,0.0,-5
+BK Olomoucko,"J. Holmes, K. Filewich, D. Žák, A. Goga, O. Šiška","BK Olomoucko|13,14,22,4,9",1,1.4,87.0,2,1,2,50.0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2.9,69.4,0.0,69.4,1.38,2
+PUMPA Basket Brno,"A. Kejval, T. Jansa, M. Rychtecký, M. Stráněl, R. Farský","PUMPA Basket Brno|13,19,4,7,8",1,1.4,84.0,6,2,2,100.0,2,2,100.0,0,0,0,0,0,0,1,0,0,0,0,0,1.9,312.5,0.0,312.5,4.29,6
+SK Slavia Praha,"N. Noumeros, P. Macháč, R. Jones, D. Böhm, M. Dáňa","SK Slavia Praha|13,14,15,7,88",2,1.4,84.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,5,1.0,0.0,95.7,-95.7,0.0,-5
+BK Opava,"W. Person Jr, C. Brown Jr, R. Kouřil, M. Vyroubal, J. Švandrlík","BK Opava|1,13,21,25,8",2,1.4,85.0,2,1,4,25.0,0,3,0.0,0,0,0,0,0,0,0,0,0,0,0,1,3.8,52.1,21.3,30.7,1.41,1
+BK ARMEX ENERGY Děčín,"P. Alexander, J. Gabriel, J. Štěrba, D. Davis, T. Pomikálek","BK ARMEX ENERGY Děčín|0,10,16,2,5",1,1.4,84.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,7,1.9,0.0,243.1,-243.1,0.0,-7
+BK KVIS Pardubice,"J. Evans Iii, R. Moffatt, L. Kovář, J. Bryant, M. Nábělek","BK KVIS Pardubice|11,13,21,4,5",1,1.4,81.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1.9,104.2,26.8,77.3,1.48,1
+BK ARMEX ENERGY Děčín,"P. Alexander, J. Štěrba, D. Davis, J. Edwards, A. Rand","BK ARMEX ENERGY Děčín|0,16,2,20,24",1,1.4,83.0,3,1,1,100.0,1,1,100.0,0,0,0,0,0,0,0,0,0,1,0,1,1.9,156.2,55.4,100.8,2.17,2
+ERA Basketball Nymburk,"S. Rice, J. Bohačík, M. Kříž, J. Shumate, F. Rylich","ERA Basketball Nymburk|10,17,31,32,73",1,1.4,86.0,7,3,4,75.0,1,2,50.0,0,0,0,0,0,0,2,0,0,0,0,2,3.8,182.3,104.2,78.1,4.88,5
+BK KVIS Pardubice,"R. Moffatt, L. Kovář, R. Bonham, J. Bryant, A. Lukeš","BK KVIS Pardubice|13,21,3,4,7",1,1.4,86.0,2,1,2,50.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1.9,104.2,182.3,-78.1,1.4,-5
+BK Opava,"W. Person Jr, C. Brown Jr, J. Slavík, I. Gray, F. Zbránek","BK Opava|1,13,33,7,9",1,1.4,87.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1.9,104.2,42.7,61.5,1.38,0
+SLUNETA  Ústí nad Labem,"N. Johnson, I. Davidson, T. Vyoral, L. Pecka, D. Žikla","SLUNETA  Ústí nad Labem|10,18,4,44,9",1,1.4,84.0,0,0,1,0.0,0,0,0,0,2,0.0,0,0,0,0,0,0,0,0,1,1.8,0.0,26.8,-26.8,0.0,-1
+BK GAPA Hradec Králové,"A. Johnson, K. Brewton, T. Merta, V. Synáček, L. Nikkarinen","BK GAPA Hradec Králové|0,2,23,27,4",1,1.4,84.0,0,0,2,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1.9,0.0,0.0,0.0,0.0,0
+BK GAPA Hradec Králové,"A. Johnson, K. Brewton, M. Roub, V. Synáček, L. Nikkarinen","BK GAPA Hradec Králové|0,2,24,27,4",1,1.4,85.0,2,1,2,50.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,1.9,104.2,166.2,-62.1,1.41,-1
+ERA Basketball Nymburk,"M. Svoboda, D. Böhm, O. Sehnal, M. Kříž, F. Rylich","ERA Basketball Nymburk|11,13,19,31,73",1,1.4,82.0,3,1,3,33.3,1,2,50.0,0,0,0,0,0,0,0,0,0,0,0,5,2.9,104.2,260.4,-156.2,2.2,-2
+BK KVIS Pardubice,"R. Moffatt, Z. Key, A. Lukeš, K. Švrdlík, J. Tůma","BK KVIS Pardubice|13,23,7,9,98",1,1.4,87.0,4,1,2,50.0,0,1,0.0,2,2,100.0,0,0,0,0,0,0,1,0,7,3.7,107.4,145.8,-38.4,2.76,-3
+ERA Basketball Nymburk,"T. Perkins, J. Bohačík, M. Kříž, J. Lawrence, G. Filipovic","ERA Basketball Nymburk|12,17,31,40,8",1,1.4,87.0,7,3,5,60.0,1,3,33.3,0,0,0,0,0,0,3,0,0,0,0,4,4.8,145.8,144.7,1.2,4.83,3
+BK GAPA Hradec Králové,"A. Johnson, M. Roub, V. Synáček, L. Nikkarinen, T. Dvořák","BK GAPA Hradec Králové|0,24,27,4,44",1,1.4,86.0,3,1,2,50.0,1,1,100.0,0,0,0,0,0,0,0,0,0,1,0,0,2.9,104.2,0.0,104.2,2.09,3
+USK Praha,"D. Vlk, O. Švec, H. Wright, C. Eduardo, P. Šafarčík","USK Praha|13,16,44,7,94",1,1.4,86.0,2,1,2,50.0,0,1,0.0,0,0,0,0,0,0,0,0,0,1,0,2,2.9,69.4,52.1,17.4,1.4,0
+PUMPA Basket Brno,"Š. Svoboda, V. Půlpán, K. Kalu, T. Olison, R. Farský","PUMPA Basket Brno|11,18,34,6,8",1,1.4,86.0,0,0,1,0.0,0,1,0.0,0,2,0.0,0,0,0,0,0,0,1,0,4,2.8,0.0,208.3,-208.3,0.0,-4
+BK KVIS Pardubice,"J. Evans Iii, R. Moffatt, R. Bonham, J. Bryant, J. Tůma","BK KVIS Pardubice|11,13,3,4,98",1,1.4,85.0,8,2,2,100.0,2,2,100.0,2,2,100.0,0,0,0,0,0,0,1,0,3,3.7,214.8,166.2,48.6,5.65,5
+SK Slavia Praha,Player#,SK Slavia Praha|,1,1.3,77.0,3,1,2,50.0,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,7,1.9,156.2,243.1,-86.8,2.34,-4
+BK KVIS Pardubice,Player#,BK KVIS Pardubice|,1,1.3,77.0,7,3,3,100.0,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,3,2.9,243.1,156.2,86.8,5.45,4
+BK GAPA Hradec Králové,"D. Škranc, K. Brewton, T. Merta, M. Roub, K. Chatman","BK GAPA Hradec Králové|12,2,23,24,5",2,1.3,77.0,0,0,1,0.0,0,0,0,0,2,0.0,0,0,0,0,0,0,0,0,2,1.8,0.0,52.1,-52.1,0.0,-2
+SLUNETA  Ústí nad Labem,"N. Johnson, J. Young, T. Vyoral, L. Pecka, D. Žikla","SLUNETA  Ústí nad Labem|10,2,4,44,9",2,1.3,77.0,2,1,3,33.3,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,2.9,69.4,69.4,0.0,1.56,0
+SK Slavia Praha,"M. Ježek, N. Noumeros, R. Mrázek, T. Bladen, R. Pumprla","SK Slavia Praha|12,13,22,8,9",1,1.3,78.0,3,1,2,50.0,1,2,50.0,0,0,0,0,0,0,0,0,0,0,0,5,1.9,156.2,260.4,-104.2,2.31,-2
+SLUNETA  Ústí nad Labem,"N. Johnson, J. Young, F. Kábrt, D. Žikla, J. Eatmon","SLUNETA  Ústí nad Labem|10,2,8,9,99",1,1.3,80.0,2,1,3,33.3,0,2,0.0,0,0,0,0,0,0,0,0,0,1,0,0,3.8,52.1,0.0,52.1,1.5,2
+BK Opava,"K. Kavan, C. Brown Jr, Š. Puršl, J. Šiřina, J. Švandrlík","BK Opava|11,13,20,24,8",1,1.3,76.0,3,0,3,0.0,0,2,0.0,3,4,75.0,0,0,0,1,0,0,0,0,1,4.6,65.7,36.2,29.5,2.37,2
+BK Olomoucko,"M. Nelson, K. Elvis, J. Holmes, K. Filewich, D. Žák","BK Olomoucko|0,1,13,14,22",1,1.3,77.0,2,1,3,33.3,0,1,0.0,0,0,0,0,0,0,0,0,0,1,0,0,3.8,52.1,0.0,52.1,1.56,2
+BK ARMEX ENERGY Děčín,"P. Alexander, F. Kroutil, D. Davis, A. Rand, M. Šturanović","BK ARMEX ENERGY Děčín|0,13,2,24,47",1,1.3,76.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,1,0,2,1.9,0.0,104.2,-104.2,0.0,-2
+Sršni Photomate Písek,"J. Zvolánek, K. Týml, M. Svoboda, J. Svoboda, P. Šlechta","Sršni Photomate Písek|31,33,71,77,8",1,1.3,76.0,4,1,3,33.3,1,3,33.3,1,2,50.0,0,0,0,2,0,0,0,0,5,3.7,107.4,156.9,-49.5,3.16,-1
+NH Ostrava,"A. Číž, S. Godwin, L. Palyza, K. Cole, E. Cato","NH Ostrava|11,14,23,24,25",1,1.3,79.0,0,0,4,0.0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,3,3.8,0.0,104.2,-104.2,0.0,-3
+BK ARMEX ENERGY Děčín,"P. Alexander, J. Gabriel, J. Štěrba, D. Davis, M. Šturanović","BK ARMEX ENERGY Děčín|0,10,16,2,47",1,1.3,78.0,3,1,1,100.0,0,0,0,1,2,50.0,0,0,0,0,0,0,0,0,0,1.8,166.2,0.0,166.2,2.31,3
+BK Olomoucko,"M. Nelson, K. Elvis, J. Andre, J. Holmes, K. Filewich","BK Olomoucko|0,1,10,13,14",2,1.2,72.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,1.0,0.0,224.5,-224.5,0.0,-5
+BK GAPA Hradec Králové,"M. Popović, A. Petric, D. Škranc, K. Brewton, K. Chatman","BK GAPA Hradec Králové|10,11,12,2,5",3,1.2,70.0,1,0,0,0,0,0,0,1,2,50.0,0,0,0,0,0,0,1,0,5,1.8,55.4,180.8,-125.4,0.86,-4
+BK ARMEX ENERGY Děčín,"D. Davis, J. Edwards, L. Bryan Jr, T. Pomikálek, T. Slowiak","BK ARMEX ENERGY Děčín|2,20,22,5,7",1,1.2,71.0,0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1.9,0.0,134.7,-134.7,0.0,-3
+SK Slavia Praha,"R. Jones, D. Böhm, T. Bladen, M. Dáňa, R. Pumprla","SK Slavia Praha|15,7,8,88,9",1,1.2,73.0,2,1,2,50.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,6,1.9,104.2,312.5,-208.3,1.64,-4
+Sršni Photomate Písek,"V. Sýkora, M. Kozák, M. Svoboda, P. Šlechta, M. Burda","Sršni Photomate Písek|10,11,71,8,9",1,1.2,70.0,4,2,4,50.0,0,2,0.0,0,0,0,0,0,0,0,0,0,1,0,0,4.8,83.3,0.0,83.3,3.43,4
+BK ARMEX ENERGY Děčín,"F. Kroutil, J. Edwards, L. Bryan Jr, T. Pomikálek, T. Slowiak","BK ARMEX ENERGY Děčín|13,20,22,5,7",1,1.2,70.0,2,1,2,50.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2.9,69.4,52.1,17.4,1.71,0
+USK Praha,"J. Montgomery, O. Švec, T. Tainamo, E. Edigin, M. Šafařík","USK Praha|0,16,25,41,5",1,1.2,73.0,0,0,2,0.0,0,2,0.0,0,0,0,0,0,0,0,0,0,1,0,5,2.9,0.0,151.4,-151.4,0.0,-5
+ERA Basketball Nymburk,"S. Rice, M. Svoboda, W. Dreamer, J. Lawrence, F. Rylich","ERA Basketball Nymburk|10,11,12,40,73",1,1.2,70.0,0,0,0,0,0,0,0,0,3,0.0,0,0,0,0,0,0,2,0,3,3.2,0.0,80.5,-80.5,0.0,-3
+BK KVIS Pardubice,"R. Moffatt, R. Bonham, A. Lukeš, K. Švrdlík, J. Tůma","BK KVIS Pardubice|13,3,7,9,98",1,1.2,71.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1.0,0.0,108.5,-108.5,0.0,-3
+BK KVIS Pardubice,"L. Kovář, R. Bonham, J. Bryant, A. Lukeš, K. Švrdlík","BK KVIS Pardubice|21,3,4,7,9",1,1.2,71.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,1,1.0,0.0,236.7,-236.7,0.0,-1
+BK Opava,"W. Person Jr, C. Brown Jr, J. Šiřina, J. Švandrlík, F. Zbránek","BK Opava|1,13,24,8,9",1,1.2,73.0,3,1,3,33.3,1,3,33.3,0,0,0,0,0,0,0,0,0,1,0,1,3.8,78.1,36.2,42.0,2.47,2
+ERA Basketball Nymburk,"J. Bohačík, J. Brickus, J. Shumate, J. Lawrence, V. Hruban","ERA Basketball Nymburk|17,2,32,40,77",1,1.2,72.0,2,1,2,50.0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,1,0,0,3.3,60.6,0.0,60.6,1.67,2
+Sršni Photomate Písek,"V. Sýkora, M. Kozák, K. Týml, M. Svoboda, P. Šlechta","Sršni Photomate Písek|10,11,33,71,8",2,1.2,74.0,4,0,1,0.0,0,1,0.0,4,6,66.7,0,0,0,0,0,0,1,0,3,4.5,89.8,72.3,17.5,3.24,1
+PUMPA Basket Brno,"Š. Svoboda, V. Půlpán, R. Williams, K. Kalu, M. Stráněl","PUMPA Basket Brno|11,18,33,34,7",1,1.2,70.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,208.3,0.0,208.3,1.71,2
+BK Opava,"C. Brown Jr, P. Dubový, J. Šiřina, J. Švandrlík, F. Zbránek","BK Opava|13,16,24,8,9",1,1.2,75.0,11,4,4,100.0,3,3,100.0,0,0,0,0,0,0,0,0,0,1,0,1,4.8,229.2,44.9,184.3,8.8,10
+BK Opava,"C. Brown Jr, Š. Puršl, R. Kouřil, M. Vyroubal, J. Slavík","BK Opava|13,20,21,25,33",1,1.2,74.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1.9,0.0,78.1,-78.1,0.0,-3
+PUMPA Basket Brno,"P. Křivánek, K. Kalu, M. Rychtecký, M. Stráněl, R. Farský","PUMPA Basket Brno|12,34,4,7,8",1,1.2,75.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,1,0,4,1.9,0.0,170.8,-170.8,0.0,-4
+BK ARMEX ENERGY Děčín,"P. Alexander, F. Kroutil, J. Edwards, M. Šturanović, T. Pomikálek","BK ARMEX ENERGY Děčín|0,13,20,47,5",1,1.2,73.0,4,1,2,50.0,1,1,100.0,1,1,100.0,0,0,0,1,0,0,0,0,0,2.3,170.8,0.0,170.8,3.29,4
+SLUNETA  Ústí nad Labem,"N. Johnson, I. Davidson, J. Young, T. Vyoral, L. Pecka","SLUNETA  Ústí nad Labem|10,18,2,4,44",2,1.2,71.0,5,0,0,0,0,0,0,5,5,100.0,0,0,0,2,0,0,1,0,7,3.1,162.8,121.5,41.2,4.23,-2
+BK Opava,"K. Kavan, C. Brown Jr, R. Kouřil, M. Vyroubal, J. Slavík","BK Opava|11,13,21,25,33",1,1.2,74.0,4,1,2,50.0,0,0,0,2,4,50.0,0,0,0,0,0,0,0,0,0,3.6,110.8,0.0,110.8,3.24,4
+Sršni Photomate Písek,"M. Kozák, K. Týml, J. Šimonek, M. Svoboda, P. Šlechta","Sršni Photomate Písek|11,33,7,71,8",1,1.2,72.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1.9,0.0,72.3,-72.3,0.0,-1
+SK Slavia Praha,"N. Noumeros, R. Mrázek, M. Lufile, D. Böhm, M. Dáňa","SK Slavia Praha|13,22,24,7,88",2,1.2,70.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,1.9,0.0,256.1,-256.1,0.0,-6
+BK GAPA Hradec Králové,"D. Škranc, K. Brewton, M. Roub, L. Nikkarinen, K. Chatman","BK GAPA Hradec Králové|12,2,24,4,5",1,1.2,71.0,4,2,5,40.0,0,2,0.0,0,1,0.0,0,0,0,1,0,0,0,0,4,5.2,76.6,151.0,-74.4,3.38,0
+ERA Basketball Nymburk,"M. Svoboda, J. Shumate, J. Lawrence, F. Rylich, V. Hruban","ERA Basketball Nymburk|11,32,40,73,77",1,1.2,74.0,4,1,2,50.0,0,0,0,2,2,100.0,0,0,0,0,0,0,1,0,6,3.7,107.4,128.1,-20.7,3.24,-2
+BK Opava,"W. Person Jr, Š. Puršl, J. Šiřina, J. Slavík, F. Zbránek","BK Opava|1,20,24,33,9",1,1.2,70.0,0,0,2,0.0,0,2,0.0,0,0,0,0,0,0,0,0,0,1,0,3,2.9,0.0,108.5,-108.5,0.0,-3
+BK Opava,"W. Person Jr, M. Vyroubal, I. Gray, J. Švandrlík, F. Zbránek","BK Opava|1,25,7,8,9",1,1.2,75.0,3,0,1,0.0,0,1,0.0,3,4,75.0,0,0,0,0,0,0,0,0,2,2.6,113.2,69.4,43.8,2.4,1
+Sršni Photomate Písek,"V. Sýkora, K. Týml, J. Karlovský, P. Šlechta, M. Burda","Sršni Photomate Písek|10,33,41,8,9",1,1.2,70.0,2,0,0,0,0,0,0,2,2,100.0,0,0,0,0,0,0,1,0,1,1.8,110.8,55.4,55.4,1.71,1
+PUMPA Basket Brno,"Š. Svoboda, V. Půlpán, D. Jelínek, K. Kalu, T. Olison","PUMPA Basket Brno|11,18,25,34,6",2,1.2,74.0,5,2,3,66.7,1,2,50.0,0,0,0,0,0,0,0,0,0,0,0,2,2.9,173.6,85.4,88.2,4.05,3
+USK Praha,"T. Henderson Jr., D. Vlk, O. Švec, H. Wright, M. Šafařík","USK Praha|1,13,16,44,5",1,1.2,74.0,0,0,2,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1.9,0.0,0.0,0.0,0.0,0
+BK Olomoucko,"M. Nelson, K. Filewich, D. Žák, L. Autrey, O. Šiška","BK Olomoucko|0,14,22,24,9",1,1.2,70.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1.9,104.2,0.0,104.2,1.71,2
+BK ARMEX ENERGY Děčín,"F. Kroutil, M. Houška, J. Edwards, L. Feštr, T. Pomikálek","BK ARMEX ENERGY Děčín|13,15,20,44,5",1,1.2,70.0,0,0,2,0.0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,3,1.9,0.0,90.8,-90.8,0.0,-3
+USK Praha,"J. Montgomery, D. Vlk, O. Švec, L. Dejmek, H. Wright","USK Praha|0,13,16,2,44",1,1.2,74.0,5,2,4,50.0,1,1,100.0,0,0,0,0,0,0,1,0,0,0,0,0,3.8,130.2,0.0,130.2,4.05,5
+BK Opava,"K. Kavan, C. Brown Jr, J. Slavík, I. Gray, F. Zbránek","BK Opava|11,13,33,7,9",2,1.2,71.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1.9,0.0,156.2,-156.2,0.0,-3
+SK Slavia Praha,"M. Ježek, P. Macháč, R. Jones, J. Matušík, M. Dáňa","SK Slavia Praha|12,14,15,16,88",1,1.2,73.0,0,0,2,0.0,0,1,0.0,0,0,0,0,0,0,3,0,0,0,0,5,1.9,0.0,213.5,-213.5,0.0,-5
+USK Praha,"D. Vlk, O. Švec, H. Wright, S. Wangle, P. Šafarčík","USK Praha|13,16,44,88,94",1,1.2,75.0,1,0,2,0.0,0,1,0.0,1,2,50.0,0,0,0,0,0,0,1,0,0,3.7,26.8,0.0,26.8,0.8,1
+SLUNETA  Ústí nad Labem,"A. Pecháček, N. Johnson, I. Davidson, K. Lawrence, T. Vyoral","SLUNETA  Ústí nad Labem|0,10,18,3,4",1,1.2,72.0,1,0,1,0.0,0,1,0.0,1,2,50.0,0,0,0,0,0,0,0,0,5,1.8,55.4,180.8,-125.4,0.83,-4
+BK GAPA Hradec Králové,"M. Popović, A. Petric, J. Bubeníček, M. Roub, K. Chatman","BK GAPA Hradec Králové|10,11,16,24,5",1,1.1,63.0,4,2,2,100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.9,208.3,0.0,208.3,3.81,4
+SK Slavia Praha,"M. Ježek, R. Jones, R. Mrázek, D. Böhm, M. Dáňa","SK Slavia Praha|12,15,22,7,88",2,1.1,67.0,2,1,4,25.0,0,2,0.0,0,0,0,0,0,0,1,0,0,0,0,4,3.8,52.1,144.7,-92.6,1.79,-2
+BK Olomoucko,"M. Nelson, J. Andre, D. Žák, A. Goga, J. Svojanovský","BK Olomoucko|0,10,22,4,51",1,1.1,66.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,1,0,2,1.9,0.0,69.4,-69.4,0.0,-2
+NH Ostrava,"M. Čank, M. Svoboda, L. Palyza, L. Greer, D. Heinzl","NH Ostrava|19,20,23,3,7",1,1.1,63.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,1.0,208.3,104.2,104.2,1.9,0
+BK GAPA Hradec Králové,"A. Petric, D. Škranc, T. Mikyska, T. Merta, K. Chatman","BK GAPA Hradec Králové|11,12,13,23,5",1,1.1,68.0,4,2,2,100.0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2.9,138.9,0.0,138.9,3.53,4
+PUMPA Basket Brno,"P. Křivánek, J. Groves, R. Williams, K. Kalu, V. Ivánek","PUMPA Basket Brno|12,20,33,34,44",1,1.1,65.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1.9,104.2,55.4,48.8,1.85,1
+BK Olomoucko,"K. Elvis, J. Holmes, K. Filewich, D. Žák, O. Šiška","BK Olomoucko|1,13,14,22,9",2,1.1,68.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,1.0,208.3,110.8,97.5,1.76,0
+USK Praha,"J. Montgomery, S. Macht, O. Švec, T. Tainamo, E. Edigin","USK Praha|0,11,16,25,41",1,1.1,67.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1.9,104.2,0.0,104.2,1.79,2
+BK KVIS Pardubice,"L. Kovář, R. Bonham, J. Bryant, M. Nábělek, K. Švrdlík","BK KVIS Pardubice|21,3,4,5,9",1,1.1,67.0,4,1,4,25.0,0,1,0.0,2,2,100.0,0,0,0,0,0,0,1,0,7,5.6,70.9,182.3,-111.4,3.58,-3
+Sršni Photomate Písek,"J. Zvolánek, K. Týml, J. Karlovský, M. Svoboda, M. Burda","Sršni Photomate Písek|31,33,41,71,9",1,1.1,66.0,3,1,1,100.0,0,0,0,1,1,100.0,0,0,0,1,0,0,1,0,5,2.3,128.1,95.7,32.3,2.73,-2
+PUMPA Basket Brno,"V. Půlpán, J. Groves, M. Rychtecký, M. Stráněl, R. Farský","PUMPA Basket Brno|18,20,4,7,8",1,1.1,67.0,3,1,1,100.0,1,1,100.0,0,0,0,0,0,0,1,0,0,2,0,3,2.9,104.2,104.2,0.0,2.69,0
+ERA Basketball Nymburk,"M. Svoboda, J. Bohačík, J. Brickus, J. Lawrence, V. Hruban","ERA Basketball Nymburk|11,17,2,40,77",1,1.1,65.0,2,1,3,33.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2.9,69.4,208.3,-138.9,1.85,0
+BK Opava,"C. Brown Jr, R. Kouřil, J. Šiřina, M. Vyroubal, J. Švandrlík","BK Opava|13,21,24,25,8",1,1.1,65.0,4,2,3,66.7,0,1,0.0,0,0,0,0,0,0,3,0,0,0,0,3,2.9,138.9,312.5,-173.6,3.69,1
+SLUNETA  Ústí nad Labem,"I. Davidson, J. Young, T. Vyoral, L. Pecka, F. Kábrt","SLUNETA  Ústí nad Labem|18,2,4,44,8",1,1.1,69.0,1,0,1,0.0,0,0,0,1,1,100.0,0,0,0,0,0,0,0,0,0,1.4,72.3,0.0,72.3,0.87,1
+BK GAPA Hradec Králové,"K. Brewton, T. Merta, M. Roub, T. Tkadlec, K. Chatman","BK GAPA Hradec Králové|2,23,24,3,5",1,1.1,65.0,0,0,4,0.0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,0,3.8,0.0,0.0,0.0,0.0,0
+PUMPA Basket Brno,"Š. Svoboda, P. Křivánek, J. Groves, M. Stráněl, R. Farský","PUMPA Basket Brno|11,12,20,7,8",1,1.1,66.0,0,0,0,0,0,0,0,0,2,0.0,0,0,0,0,0,0,1,0,2,1.8,0.0,69.4,-69.4,0.0,-2
+Sršni Photomate Písek,"J. Haiblík, J. Zvolánek, M. Svoboda, J. Svoboda, P. Šlechta","Sršni Photomate Písek|13,31,71,77,8",1,1.1,67.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,1.9,0.0,104.2,-104.2,0.0,-4
+BK GAPA Hradec Králové,"D. Škranc, T. Merta, M. Roub, T. Dvořák, K. Chatman","BK GAPA Hradec Králové|12,23,24,44,5",1,1.1,69.0,3,1,2,50.0,1,2,50.0,0,0,0,0,0,0,1,0,0,1,0,7,2.9,104.2,182.3,-78.1,2.61,-4
+BK Opava,"W. Person Jr, Š. Puršl, M. Vyroubal, J. Slavík, J. Švandrlík","BK Opava|1,20,25,33,8",1,1.1,65.0,0,0,3,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2.9,0.0,104.2,-104.2,0.0,-2
+BK KVIS Pardubice,"J. Evans Iii, R. Moffatt, L. Kovář, R. Bonham, J. Bryant","BK KVIS Pardubice|11,13,21,3,4",1,1.1,69.0,2,1,3,33.3,0,1,0.0,0,0,0,0,0,0,1,0,0,0,0,4,2.9,69.4,236.7,-167.3,1.74,-2
+BK GAPA Hradec Králové,"D. Škranc, T. Merta, M. Roub, L. Nikkarinen, K. Chatman","BK GAPA Hradec Králové|12,23,24,4,5",1,1.1,68.0,2,1,4,25.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,3.8,52.1,0.0,52.1,1.76,2
+SK Slavia Praha,"M. Ježek, R. Mrázek, M. Lufile, D. Böhm, M. Dáňa","SK Slavia Praha|12,22,24,7,88",1,1.1,69.0,3,1,3,33.3,1,2,50.0,0,0,0,0,0,0,0,0,0,0,0,0,2.9,104.2,0.0,104.2,2.61,3
+BK GAPA Hradec Králové,"A. Johnson, J. Bubeníček, M. Roub, V. Synáček, L. Nikkarinen","BK GAPA Hradec Králové|0,16,24,27,4",1,1.1,69.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,3,1.0,0.0,104.2,-104.2,0.0,-3
+BK Opava,"W. Person Jr, Š. Puršl, M. Vyroubal, I. Gray, J. Švandrlík","BK Opava|1,20,25,7,8",1,1.1,68.0,4,2,2,100.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1.9,208.3,0.0,208.3,3.53,4
+Sršni Photomate Písek,"V. Sýkora, M. Kozák, J. Haiblík, P. Šlechta, M. Burda","Sršni Photomate Písek|10,11,13,8,9",2,1.1,68.0,0,0,2,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,4,1.9,0.0,179.6,-179.6,0.0,-4
+BK Opava,"K. Kavan, Š. Puršl, I. Gray, J. Švandrlík, F. Zbránek","BK Opava|11,20,7,8,9",1,1.1,65.0,3,1,1,100.0,0,0,0,1,2,50.0,0,0,0,0,0,0,0,0,0,1.8,166.2,0.0,166.2,2.77,3
+BK ARMEX ENERGY Děčín,"D. Davis, J. Edwards, A. Rand, L. Feštr, M. Šturanović","BK ARMEX ENERGY Děčín|2,20,24,44,47",1,1.1,66.0,2,1,4,25.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3.8,52.1,55.4,-3.3,1.82,1
+SLUNETA  Ústí nad Labem,"A. Pecháček, N. Johnson, I. Davidson, J. Young, K. Lawrence","SLUNETA  Ústí nad Labem|0,10,18,2,3",1,1.1,68.0,4,2,3,66.7,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2.9,138.9,0.0,138.9,3.53,4
+BK Olomoucko,"M. Nelson, J. Andre, J. Holmes, D. Žák, O. Šiška","BK Olomoucko|0,10,13,22,9",2,1.0,61.0,0,0,2,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,1,0,7,2.9,0.0,157.1,-157.1,0.0,-7
+SLUNETA  Ústí nad Labem,"A. Pecháček, J. Young, T. Vyoral, F. Kábrt, D. Žikla","SLUNETA  Ústí nad Labem|0,2,4,8,9",2,1.0,58.0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0.1,0.0,72.3,-72.3,0.0,-1
+SK Slavia Praha,"R. Jones, R. Mrázek, D. Böhm, M. Dáňa, R. Pumprla","SK Slavia Praha|15,22,7,88,9",3,1.0,59.0,9,3,4,75.0,1,2,50.0,2,5,40.0,0,0,0,0,0,0,3,0,11,8.8,101.9,130.8,-28.9,9.15,-2
+ERA Basketball Nymburk,"M. Svoboda, O. Sehnal, M. Santos - Silva, F. Rylich, V. Hruban","ERA Basketball Nymburk|11,19,7,73,77",1,1.0,58.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,1,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0
+ERA Basketball Nymburk,"S. Rice, M. Svoboda, W. Dreamer, O. Sehnal, V. Hruban","ERA Basketball Nymburk|10,11,12,19,77",1,1.0,58.0,2,1,2,50.0,0,1,0.0,0,0,0,0,0,0,1,0,0,0,0,2,1.9,104.2,104.2,0.0,2.07,0
+Sršni Photomate Písek,"M. Kozák, K. Týml, J. Šurý, M. Svoboda, J. Svoboda","Sršni Photomate Písek|11,33,55,71,77",2,1.0,58.0,2,1,1,100.0,0,0,0,0,2,0.0,0,0,0,0,0,0,0,0,2,1.8,110.8,208.3,-97.5,2.07,0
+BK Olomoucko,"M. Nelson, J. Holmes, K. Filewich, D. Žák, O. Šiška","BK Olomoucko|0,13,14,22,9",1,1.0,58.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,1,0,4,1.9,0.0,138.9,-138.9,0.0,-4
+ERA Basketball Nymburk,"M. Svoboda, W. Dreamer, J. Bohačík, O. Sehnal, J. Lawrence","ERA Basketball Nymburk|11,12,17,19,40",1,1.0,59.0,1,0,1,0.0,0,0,0,1,2,50.0,0,0,0,0,0,0,0,0,3,1.8,55.4,156.2,-100.8,1.02,-2
+BK Olomoucko,"M. Nelson, K. Elvis, J. Holmes, K. Filewich, A. Goga","BK Olomoucko|0,1,13,14,4",1,1.0,58.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1.0,0.0,104.2,-104.2,0.0,-2
+Sršni Photomate Písek,"J. Haiblík, J. Zvolánek, K. Týml, J. Karlovský, J. Šurý","Sršni Photomate Písek|13,31,33,41,55",1,1.0,62.0,3,1,1,100.0,1,1,100.0,0,0,0,0,0,0,0,0,0,1,0,0,1.9,156.2,0.0,156.2,2.9,3
+BK Opava,"K. Kavan, C. Brown Jr, L. Jurečka, J. Šiřina, M. Vyroubal","BK Opava|11,13,23,24,25",1,1.0,61.0,1,0,0,0,0,0,0,1,1,100.0,0,0,0,0,0,0,0,0,6,0.4,236.7,256.1,-19.4,0.98,-5
+BK GAPA Hradec Králové,"A. Johnson, D. Škranc, L. Nikkarinen, T. Dvořák, K. Chatman","BK GAPA Hradec Králové|0,12,4,44,5",2,1.0,62.0,2,0,1,0.0,0,1,0.0,2,2,100.0,0,0,0,0,0,0,2,0,2,3.7,53.7,69.4,-15.8,1.94,0
+PUMPA Basket Brno,"Š. Svoboda, A. Kejval, V. Půlpán, D. Jelínek, R. Farský","PUMPA Basket Brno|11,13,18,25,8",1,1.0,60.0,6,2,2,100.0,2,2,100.0,0,2,0.0,0,0,0,0,0,0,0,0,2,2.8,217.0,110.8,106.2,6.0,4
+BK ARMEX ENERGY Děčín,"P. Alexander, F. Kroutil, D. Davis, J. Edwards, M. Šturanović","BK ARMEX ENERGY Děčín|0,13,2,20,47",2,1.0,60.0,3,1,3,33.3,0,1,0.0,1,2,50.0,0,0,0,0,0,0,0,0,0,3.7,80.5,0.0,80.5,3.0,3
+BK KVIS Pardubice,"J. Evans Iii, L. Kovář, J. Bryant, M. Nábělek, K. Švrdlík","BK KVIS Pardubice|11,21,4,5,9",1,1.0,61.0,3,1,2,50.0,1,2,50.0,0,0,0,0,0,0,1,0,0,0,0,2,1.9,156.2,72.3,83.9,2.95,1
+BK Opava,"Š. Puršl, J. Šiřina, F. Váňa, I. Gray, F. Zbránek","BK Opava|20,24,3,7,9",1,1.0,59.0,0,0,3,0.0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,2,2.9,0.0,104.2,-104.2,0.0,-2
+USK Praha,"J. Montgomery, T. Henderson Jr., D. Vlk, H. Wright, C. Eduardo","USK Praha|0,1,13,44,7",1,1.0,61.0,2,1,2,50.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.9,104.2,0.0,104.2,1.97,2
+SLUNETA  Ústí nad Labem,"N. Johnson, J. Young, K. Lawrence, L. Pecka, F. Kábrt","SLUNETA  Ústí nad Labem|10,2,3,44,8",1,1.0,59.0,2,1,2,50.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1.9,104.2,0.0,104.2,2.03,2
+SLUNETA  Ústí nad Labem,"N. Johnson, J. Young, K. Lawrence, T. Vyoral, L. Pecka","SLUNETA  Ústí nad Labem|10,2,3,4,44",2,1.0,58.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,1.9,0.0,104.2,-104.2,0.0,-2
+SK Slavia Praha,"M. Ježek, M. Lufile, R. Clemons, D. Böhm, M. Dáňa","SK Slavia Praha|12,24,3,7,88",1,1.0,59.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,2,1.0,0.0,104.2,-104.2,0.0,-2
+USK Praha,"J. Montgomery, O. Švec, T. Tainamo, M. Šafařík, C. Eduardo","USK Praha|0,16,25,5,7",1,1.0,58.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,2,1.0,0.0,104.2,-104.2,0.0,-2
+BK KVIS Pardubice,"R. Moffatt, L. Kovář, Z. Key, J. Bryant, A. Lukeš","BK KVIS Pardubice|13,21,23,4,7",1,1.0,59.0,0,0,2,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,1,0,0,2.9,0.0,0.0,0.0,0.0,0
+SK Slavia Praha,"N. Noumeros, P. Macháč, R. Mrázek, D. Böhm, M. Dáňa","SK Slavia Praha|13,14,22,7,88",1,1.0,60.0,0,0,2,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,2,1.9,0.0,69.4,-69.4,0.0,-2
+SK Slavia Praha,"M. Ježek, R. Jones, T. Bladen, M. Dáňa, R. Pumprla","SK Slavia Praha|12,15,8,88,9",1,0.9,54.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.1,0.0,85.4,-85.4,0.0,-2
+BK Olomoucko,"M. Nelson, K. Elvis, D. Žák, A. Goga, J. Svojanovský","BK Olomoucko|0,1,22,4,51",1,0.9,54.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1.0,0.0,0.0,0.0,0.0,0
+BK GAPA Hradec Králové,"A. Petric, T. Mikyska, K. Brewton, T. Merta, K. Chatman","BK GAPA Hradec Králové|11,13,2,23,5",1,0.9,54.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,1.0,0.0,173.6,-173.6,0.0,-5
+BK KVIS Pardubice,"R. Moffatt, R. Bonham, J. Bryant, K. Švrdlík, J. Tůma","BK KVIS Pardubice|13,3,4,9,98",2,0.9,52.0,0,0,2,0.0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,4,1.9,0.0,236.7,-236.7,0.0,-4
+USK Praha,"D. Vlk, O. Švec, T. Tainamo, M. Šafařík, C. Eduardo","USK Praha|13,16,25,5,7",1,0.9,53.0,0,0,2,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1.9,0.0,0.0,0.0,0.0,0
+SLUNETA  Ústí nad Labem,"A. Pecháček, N. Johnson, J. Potoček, F. Kábrt, D. Žikla","SLUNETA  Ústí nad Labem|0,10,31,8,9",1,0.9,53.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0
+SLUNETA  Ústí nad Labem,"A. Pecháček, N. Johnson, J. Young, L. Pecka, F. Kábrt","SLUNETA  Ústí nad Labem|0,10,2,44,8",1,0.9,55.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1.0,0.0,156.2,-156.2,0.0,-3
+Sršni Photomate Písek,"V. Sýkora, M. Kozák, J. Šurý, M. Svoboda, J. Svoboda","Sršni Photomate Písek|10,11,55,71,77",1,0.9,53.0,3,1,1,100.0,1,1,100.0,0,0,0,0,0,0,1,0,0,1,0,4,1.9,156.2,138.9,17.4,3.4,-1
+ERA Basketball Nymburk,"S. Rice, O. Sehnal, J. Brickus, M. Kříž, J. Lawrence","ERA Basketball Nymburk|10,19,2,31,40",1,0.9,53.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1.0,0.0,0.0,0.0,0.0,0
+USK Praha,"J. Montgomery, T. Henderson Jr., D. Vlk, J. Soldán, C. Eduardo","USK Praha|0,1,13,23,7",1,0.9,54.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1.0,0.0,312.5,-312.5,0.0,-3
+USK Praha,"J. Montgomery, D. Vlk, T. Tainamo, M. Šafařík, C. Eduardo","USK Praha|0,13,25,5,7",1,0.9,52.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1.9,0.0,55.4,-55.4,0.0,-1
+BK GAPA Hradec Králové,"M. Popović, J. Bubeníček, K. Brewton, M. Roub, K. Chatman","BK GAPA Hradec Králové|10,16,2,24,5",1,0.9,56.0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,3,0.1,0.0,104.2,-104.2,0.0,-3
+BK Opava,"C. Brown Jr, P. Dubový, Š. Puršl, R. Kouřil, J. Švandrlík","BK Opava|13,16,20,21,8",1,0.9,56.0,3,1,2,50.0,1,2,50.0,0,0,0,0,0,0,0,0,0,1,0,0,2.9,104.2,0.0,104.2,3.21,3
+Sršni Photomate Písek,"M. Kozák, K. Týml, M. Svoboda, J. Svoboda, P. Šlechta","Sršni Photomate Písek|11,33,71,77,8",2,0.9,53.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4,2.9,0.0,93.8,-93.8,0.0,-4
+BK Opava,"K. Kavan, C. Brown Jr, Š. Puršl, J. Šiřina, M. Vyroubal","BK Opava|11,13,20,24,25",1,0.9,57.0,0,0,2,0.0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1.9,0.0,0.0,0.0,0.0,0
+PUMPA Basket Brno,"Š. Svoboda, T. Jansa, D. Jelínek, K. Kalu, R. Farský","PUMPA Basket Brno|11,19,25,34,8",1,0.9,52.0,2,0,1,0.0,0,1,0.0,2,2,100.0,0,0,0,0,0,0,1,0,2,2.8,72.3,104.2,-31.8,2.31,0
+PUMPA Basket Brno,"Š. Svoboda, T. Jansa, M. Rychtecký, M. Stráněl, R. Farský","PUMPA Basket Brno|11,19,4,7,8",1,0.9,56.0,2,0,1,0.0,0,0,0,2,3,66.7,0,0,0,0,0,0,0,0,3,2.2,89.8,312.5,-222.7,2.14,-1
+BK GAPA Hradec Králové,"C. John, K. Brewton, M. Roub, L. Nikkarinen, K. Chatman","BK GAPA Hradec Králové|10,2,24,4,5",1,0.9,54.0,0,0,2,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1.9,0.0,0.0,0.0,0.0,0
+PUMPA Basket Brno,"Š. Svoboda, A. Kejval, T. Jansa, D. Jelínek, R. Farský","PUMPA Basket Brno|11,13,19,25,8",1,0.9,55.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,3,1.0,0.0,156.2,-156.2,0.0,-3
+NH Ostrava,"S. Godwin, L. Palyza, K. Cole, E. Cato, L. Greer, D. Heinzl","NH Ostrava|14,23,24,25,3,7",1,0.9,53.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0
+BK GAPA Hradec Králové,"D. Škranc, J. Bubeníček, M. Roub, T. Dvořák, K. Chatman","BK GAPA Hradec Králové|12,16,24,44,5",1,0.9,57.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,5,1.0,0.0,260.4,-260.4,0.0,-5
+USK Praha,"J. Montgomery, T. Henderson Jr., O. Švec, F. Fuxa, C. Eduardo","USK Praha|0,1,16,21,7",1,0.9,53.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1.0,0.0,110.8,-110.8,0.0,-2
+BK GAPA Hradec Králové,"M. Roub, V. Synáček, L. Nikkarinen, T. Dvořák, K. Chatman","BK GAPA Hradec Králové|24,27,4,44,5",1,0.9,54.0,3,1,2,50.0,1,2,50.0,0,0,0,0,0,0,1,0,0,0,0,6,1.9,156.2,166.2,-10.0,3.33,-3
+BK Olomoucko,"J. Andre, M. Kvapil, D. Žák, A. Goga, O. Šiška","BK Olomoucko|10,12,22,4,9",1,0.9,56.0,2,1,2,50.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.9,104.2,0.0,104.2,2.14,2
+BK Opava,"W. Person Jr, Š. Puršl, J. Šiřina, J. Slavík, J. Švandrlík","BK Opava|1,20,24,33,8",2,0.9,54.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,6,1.0,0.0,208.3,-208.3,0.0,-6
+NH Ostrava,"M. Čank, M. Svoboda, K. Cole, E. Cato, L. Greer","NH Ostrava|19,20,24,25,3",1,0.9,53.0,3,1,3,33.3,0,1,0.0,1,1,100.0,0,0,0,0,0,0,0,0,4,3.3,90.8,130.2,-39.4,3.4,-1
+BK KVIS Pardubice,"J. Evans Iii, L. Kovář, Z. Key, R. Bonham, J. Tůma","BK KVIS Pardubice|11,21,23,3,98",1,0.9,57.0,4,2,2,100.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,1.9,208.3,104.2,104.2,4.21,2
+Sršni Photomate Písek,"V. Sýkora, J. Haiblík, J. Karlovský, P. Šlechta, M. Burda","Sršni Photomate Písek|10,13,41,8,9",2,0.9,54.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0
+BK GAPA Hradec Králové,"A. Johnson, K. Brewton, V. Synáček, L. Nikkarinen, T. Dvořák","BK GAPA Hradec Králové|0,2,27,4,44",1,0.9,52.0,2,0,0,0,0,0,0,2,2,100.0,0,0,0,1,0,0,0,0,5,0.8,236.7,260.4,-23.7,2.31,-3
+BK GAPA Hradec Králové,"A. Johnson, D. Škranc, K. Brewton, L. Nikkarinen, T. Dvořák","BK GAPA Hradec Králové|0,12,2,4,44",2,0.9,57.0,3,1,2,50.0,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,2,1.9,156.2,104.2,52.1,3.16,1
+BK GAPA Hradec Králové,"A. Johnson, D. Škranc, K. Brewton, V. Synáček, L. Nikkarinen","BK GAPA Hradec Králové|0,12,2,27,4",1,0.9,55.0,0,0,2,0.0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,3,1.9,0.0,217.0,-217.0,0.0,-3
+PUMPA Basket Brno,"Š. Svoboda, V. Půlpán, D. Jelínek, K. Kalu, M. Rychtecký","PUMPA Basket Brno|11,18,25,34,4",1,0.9,56.0,0,0,3,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2.9,0.0,144.7,-144.7,0.0,-4
+BK Opava,"K. Kavan, J. Šiřina, F. Váňa, J. Slavík, J. Švandrlík","BK Opava|11,24,3,33,8",1,0.9,57.0,0,0,2,0.0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,2,1.9,0.0,69.4,-69.4,0.0,-2
+BK KVIS Pardubice,"R. Moffatt, Z. Key, J. Bryant, K. Švrdlík, J. Tůma","BK KVIS Pardubice|13,23,4,9,98",1,0.9,52.0,3,0,2,0.0,0,2,0.0,3,3,100.0,0,0,0,0,0,0,1,0,0,4.1,72.3,0.0,72.3,3.46,3
+SLUNETA  Ústí nad Labem,"A. Pecháček, N. Johnson, I. Davidson, J. Young, T. Vyoral","SLUNETA  Ústí nad Labem|0,10,18,2,4",1,0.9,57.0,0,0,2,0.0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,3,1.9,0.0,90.8,-90.8,0.0,-3
+SK Slavia Praha,"M. Ježek, R. Jones, J. Matušík, R. Mrázek, M. Lufile","SK Slavia Praha|12,15,16,22,24",1,0.9,53.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1.9,0.0,55.4,-55.4,0.0,-1
+USK Praha,"S. Macht, O. Švec, T. Tainamo, E. Edigin, M. Šafařík","USK Praha|11,16,25,41,5",1,0.8,48.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0.1,0.0,166.2,-166.2,0.0,-3
+Sršni Photomate Písek,"M. Kozák, J. Haiblík, J. Šurý, J. Svoboda, M. Burda","Sršni Photomate Písek|11,13,55,77,9",1,0.8,49.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0
+Sršni Photomate Písek,"V. Sýkora, M. Kozák, K. Týml, M. Svoboda, J. Svoboda","Sršni Photomate Písek|10,11,33,71,77",2,0.8,45.0,2,1,2,50.0,0,1,0.0,0,0,0,0,0,0,0,0,0,1,0,2,2.9,69.4,69.4,0.0,2.67,0
+BK Olomoucko,"K. Elvis, J. Andre, K. Filewich, D. Žák, A. Goga","BK Olomoucko|1,10,14,22,4",2,0.8,51.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,3,1.0,0.0,312.5,-312.5,0.0,-3
+PUMPA Basket Brno,"Š. Svoboda, P. Křivánek, R. Williams, K. Kalu, V. Ivánek","PUMPA Basket Brno|11,12,33,34,44",1,0.8,47.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1.0,0.0,0.0,0.0,0.0,0
+SK Slavia Praha,"R. Jones, R. Mrázek, D. Böhm, T. Bladen, R. Pumprla","SK Slavia Praha|15,22,7,8,9",1,0.8,50.0,0,0,2,0.0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,2,1.9,0.0,208.3,-208.3,0.0,-2
+Sršni Photomate Písek,"V. Sýkora, J. Karlovský, J. Šurý, M. Svoboda, P. Šlechta","Sršni Photomate Písek|10,41,55,71,8",2,0.8,51.0,3,1,1,100.0,0,0,0,1,1,100.0,0,0,0,0,0,0,1,0,1,2.3,128.1,72.3,55.7,3.53,2
+ERA Basketball Nymburk,"J. Brickus, J. Shumate, J. Lawrence, F. Rylich, V. Hruban","ERA Basketball Nymburk|2,32,40,73,77",1,0.8,46.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1.9,104.2,0.0,104.2,2.61,2
+SLUNETA  Ústí nad Labem,"A. Pecháček, N. Johnson, T. Vyoral, L. Pecka, F. Kábrt","SLUNETA  Ústí nad Labem|0,10,4,44,8",1,0.8,51.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1.0,0.0,0.0,0.0,0.0,0
+BK KVIS Pardubice,"R. Moffatt, L. Kovář, Z. Key, R. Bonham, J. Bryant","BK KVIS Pardubice|13,21,23,3,4",2,0.8,46.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1.0,0.0,0.0,0.0,0.0,0
+ERA Basketball Nymburk,"M. Svoboda, J. Bohačík, J. Brickus, J. Shumate, J. Lawrence","ERA Basketball Nymburk|11,17,2,32,40",1,0.8,49.0,5,2,3,66.7,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,0,2.9,173.6,0.0,173.6,6.12,5
+ERA Basketball Nymburk,"J. Bohačík, J. Brickus, J. Lawrence, F. Rylich, V. Hruban","ERA Basketball Nymburk|17,2,40,73,77",1,0.8,51.0,2,1,2,50.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.9,104.2,0.0,104.2,2.35,2
+BK ARMEX ENERGY Děčín,"M. Houška, J. Štěrba, D. Davis, J. Edwards, T. Pomikálek","BK ARMEX ENERGY Děčín|15,16,2,20,5",1,0.8,51.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1.0,0.0,104.2,-104.2,0.0,-2
+PUMPA Basket Brno,"Š. Svoboda, V. Půlpán, J. Groves, K. Kalu, R. Farský","PUMPA Basket Brno|11,18,20,34,8",1,0.8,48.0,1,0,1,0.0,0,1,0.0,1,1,100.0,0,0,0,0,0,0,0,0,0,1.4,72.3,0.0,72.3,1.25,1
+BK KVIS Pardubice,"R. Moffatt, L. Kovář, J. Bryant, A. Lukeš, J. Tůma","BK KVIS Pardubice|13,21,4,7,98",2,0.8,47.0,4,0,1,0.0,0,1,0.0,4,4,100.0,0,0,0,0,0,0,0,0,0,2.6,151.0,0.0,151.0,5.11,4
+NH Ostrava,"A. Číž, M. Čank, L. Palyza, L. Greer, D. Heinzl","NH Ostrava|11,19,23,3,7",1,0.8,50.0,2,1,2,50.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1.9,104.2,0.0,104.2,2.4,2
+BK Olomoucko,"J. Andre, J. Holmes, K. Filewich, D. Žák, O. Šiška","BK Olomoucko|10,13,14,22,9",1,0.8,50.0,6,2,2,100.0,1,1,100.0,1,2,50.0,0,0,0,0,0,0,0,0,2,2.8,217.0,104.2,112.8,7.2,4
+ERA Basketball Nymburk,"M. Svoboda, O. Sehnal, J. Shumate, M. Santos - Silva, F. Rylich","ERA Basketball Nymburk|11,19,32,7,73",1,0.8,47.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1.0,0.0,0.0,0.0,0.0,0
+BK GAPA Hradec Králové,"A. Johnson, D. Škranc, M. Roub, L. Nikkarinen, T. Dvořák","BK GAPA Hradec Králové|0,12,24,4,44",2,0.8,47.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,3,1.0,0.0,128.1,-128.1,0.0,-3
+USK Praha,"J. Montgomery, T. Henderson Jr., D. Vlk, F. Fuxa, M. Šafařík","USK Praha|0,1,13,21,5",1,0.8,46.0,4,2,2,100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.9,208.3,0.0,208.3,5.22,4
+BK GAPA Hradec Králové,"D. Škranc, M. Roub, V. Synáček, L. Nikkarinen, K. Chatman","BK GAPA Hradec Králové|12,24,27,4,5",1,0.8,47.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,1,0,0,0,0,3,1.0,0.0,217.0,-217.0,0.0,-3
+ERA Basketball Nymburk,"J. Bohačík, J. Shumate, J. Lawrence, F. Rylich, V. Hruban","ERA Basketball Nymburk|17,32,40,73,77",1,0.8,45.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1.0,208.3,0.0,208.3,2.67,2
+NH Ostrava,"S. Godwin, M. Čank, K. Cole, E. Cato, L. Greer","NH Ostrava|14,19,24,25,3",1,0.8,46.0,2,1,2,50.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1.9,104.2,156.2,-52.1,2.61,-1
+USK Praha,"J. Montgomery, O. Švec, T. Tainamo, H. Wright, M. Šafařík","USK Praha|0,16,25,44,5",1,0.8,51.0,0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.9,0.0,0.0,0.0,0.0,0
+SK Slavia Praha,"R. Jones, R. Mrázek, M. Lufile, D. Böhm, M. Dáňa","SK Slavia Praha|15,22,24,7,88",1,0.8,51.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0
+BK ARMEX ENERGY Děčín,"J. Štěrba, D. Davis, A. Rand, L. Feštr, T. Pomikálek","BK ARMEX ENERGY Děčín|16,2,24,44,5",1,0.8,51.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,2,1.0,0.0,110.8,-110.8,0.0,-2
+BK KVIS Pardubice,"J. Evans Iii, R. Moffatt, L. Kovář, Z. Key, J. Bryant","BK KVIS Pardubice|11,13,21,23,4",1,0.8,51.0,2,0,1,0.0,0,1,0.0,2,2,100.0,0,0,0,0,0,0,0,0,0,1.8,110.8,0.0,110.8,2.35,2
+NH Ostrava,"S. Godwin, M. Čank, P. Novák, A. Ivánek, M. Janů","NH Ostrava|14,19,22,53,77",1,0.8,45.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.1,0.0,69.4,-69.4,0.0,-2
+SLUNETA  Ústí nad Labem,"N. Johnson, J. Young, K. Lawrence, J. Potoček, L. Pecka","SLUNETA  Ústí nad Labem|10,2,3,31,44",1,0.8,49.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1.0,0.0,188.3,-188.3,0.0,-6
+BK Opava,"K. Kavan, C. Brown Jr, J. Šiřina, F. Váňa, J. Švandrlík","BK Opava|11,13,24,3,8",1,0.8,49.0,6,1,2,50.0,1,2,50.0,3,3,100.0,0,0,0,0,0,0,0,0,0,3.2,188.3,0.0,188.3,7.35,6
+SLUNETA  Ústí nad Labem,"I. Davidson, J. Young, K. Lawrence, L. Pecka, F. Kábrt","SLUNETA  Ústí nad Labem|18,2,3,44,8",1,0.8,47.0,3,1,1,100.0,1,1,100.0,0,0,0,0,0,0,0,0,0,1,0,0,1.9,156.2,0.0,156.2,3.83,3
+SLUNETA  Ústí nad Labem,"N. Johnson, I. Davidson, K. Lawrence, L. Pecka, F. Kábrt","SLUNETA  Ústí nad Labem|10,18,3,44,8",1,0.8,48.0,1,0,0,0,0,0,0,1,1,100.0,0,0,0,0,0,0,0,0,0,0.4,236.7,0.0,236.7,1.25,1
+BK ARMEX ENERGY Děčín,"A. Dawes, M. Houška, J. Štěrba, J. Edwards, O. Belikov","BK ARMEX ENERGY Děčín|1,15,16,20,31",1,0.8,45.0,0,0,2,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,2,1.9,0.0,104.2,-104.2,0.0,-2
+USK Praha,"J. Montgomery, O. Švec, F. Fuxa, E. Edigin, M. Šafařík","USK Praha|0,16,21,41,5",1,0.7,43.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1.0,208.3,55.4,152.9,2.79,1
+SLUNETA  Ústí nad Labem,"N. Johnson, J. Young, J. Potoček, F. Kábrt, D. Žikla","SLUNETA  Ústí nad Labem|10,2,31,8,9",1,0.7,43.0,7,3,4,75.0,0,0,0,1,2,50.0,0,0,0,0,0,0,2,0,8,6.6,106.0,107.4,-1.4,9.77,-1
+SK Slavia Praha,"M. Ježek, R. Jones, J. Matušík, M. Dáňa, R. Pumprla","SK Slavia Praha|12,15,16,88,9",1,0.7,41.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,1.0,0.0,179.6,-179.6,0.0,-4
+SK Slavia Praha,"J. Matušík, R. Mrázek, P. Macháč, D. Böhm, R. Pumprla","SK Slavia Praha|16,22,35,7,9",1,0.7,43.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0.1,0.0,104.2,-104.2,0.0,-2
+BK ARMEX ENERGY Děčín,"D. Davis, J. Edwards, L. Feštr, M. Šturanović, T. Pomikálek","BK ARMEX ENERGY Děčín|2,20,44,47,5",1,0.7,43.0,2,1,2,50.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.9,104.2,0.0,104.2,2.79,2
+BK KVIS Pardubice,"L. Kovář, R. Bonham, J. Bryant, A. Lukeš, J. Tůma","BK KVIS Pardubice|21,3,4,7,98",2,0.7,44.0,4,0,1,0.0,0,0,0,4,4,100.0,0,0,0,0,0,0,0,0,0,2.6,151.0,0.0,151.0,5.45,4
+BK Opava,"W. Person Jr, D. Motyčka, R. Kouřil, J. Slavík, J. Švandrlík","BK Opava|1,14,21,33,8",1,0.7,40.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,3,1.0,0.0,312.5,-312.5,0.0,-3
+BK ARMEX ENERGY Děčín,"P. Alexander, F. Kroutil, D. Davis, M. Šturanović, T. Pomikálek","BK ARMEX ENERGY Děčín|0,13,2,47,5",2,0.7,40.0,2,1,2,50.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1.9,104.2,118.4,-14.2,3.0,1
+BK Opava,"W. Person Jr, Š. Puršl, J. Šiřina, I. Gray, F. Zbránek","BK Opava|1,20,24,7,9",1,0.7,44.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1.0,0.0,0.0,0.0,0.0,0
+NH Ostrava,"M. Snopek, A. Číž, M. Svoboda, K. Cole, E. Cato","NH Ostrava|10,11,20,24,25",1,0.7,42.0,3,1,1,100.0,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,2,1.0,312.5,110.8,201.7,4.29,1
+BK KVIS Pardubice,"J. Evans Iii, Z. Key, J. Bryant, A. Lukeš, J. Tůma","BK KVIS Pardubice|11,23,4,7,98",1,0.7,44.0,2,0,0,0,0,0,0,2,2,100.0,0,0,0,0,0,0,0,0,4,0.8,236.7,138.9,97.9,2.73,-2
+SLUNETA  Ústí nad Labem,"N. Johnson, I. Davidson, L. Pecka, F. Kábrt, D. Žikla","SLUNETA  Ústí nad Labem|10,18,44,8,9",1,0.7,43.0,2,1,1,100.0,0,0,0,0,2,0.0,0,0,0,0,0,0,0,0,0,1.8,110.8,0.0,110.8,2.79,2
+BK ARMEX ENERGY Děčín,"P. Alexander, F. Kroutil, D. Davis, T. Pomikálek, O. Žižka","BK ARMEX ENERGY Děčín|0,13,2,5,9",1,0.7,43.0,2,1,3,33.3,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,0,2.9,69.4,0.0,69.4,2.79,2
+NH Ostrava,"M. Čank, P. Novák, K. Cole, E. Cato, M. Janů","NH Ostrava|19,22,24,25,77",1,0.7,42.0,0,0,4,0.0,0,3,0.0,0,0,0,0,0,0,0,0,0,0,0,2,3.8,0.0,69.4,-69.4,0.0,-2
+BK KVIS Pardubice,"J. Evans Iii, L. Kovář, R. Bonham, J. Bryant, K. Švrdlík","BK KVIS Pardubice|11,21,3,4,9",1,0.7,41.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1.0,0.0,108.5,-108.5,0.0,-3
+BK GAPA Hradec Králové,"D. Škranc, J. Bubeníček, M. Roub, V. Synáček, L. Nikkarinen","BK GAPA Hradec Králové|12,16,24,27,4",1,0.7,39.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1.0,0.0,110.8,-110.8,0.0,-2
+BK ARMEX ENERGY Děčín,"J. Gabriel, D. Davis, J. Edwards, A. Rand, M. Šturanović","BK ARMEX ENERGY Děčín|10,2,20,24,47",1,0.7,44.0,2,1,2,50.0,0,1,0.0,0,0,0,0,0,0,0,0,0,1,0,0,2.9,69.4,0.0,69.4,2.73,2
+BK ARMEX ENERGY Děčín,"J. Gabriel, M. Houška, J. Edwards, L. Feštr, T. Pomikálek","BK ARMEX ENERGY Děčín|10,15,20,44,5",1,0.7,39.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1.0,0.0,208.3,-208.3,0.0,-2
+BK ARMEX ENERGY Děčín,"M. Houška, D. Davis, J. Edwards, A. Rand, M. Šturanović","BK ARMEX ENERGY Děčín|15,2,20,24,47",1,0.7,40.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1.0,0.0,217.0,-217.0,0.0,-3
+BK Opava,"K. Kavan, F. Váňa, J. Slavík, I. Gray, J. Švandrlík","BK Opava|11,3,33,7,8",1,0.7,42.0,2,0,0,0,0,0,0,2,2,100.0,0,0,0,1,0,0,1,0,3,1.8,110.8,312.5,-201.7,2.86,-1
+SLUNETA  Ústí nad Labem,"N. Johnson, K. Lawrence, J. Potoček, T. Vyoral, L. Pecka","SLUNETA  Ústí nad Labem|10,3,31,4,44",1,0.7,44.0,1,0,1,0.0,0,0,0,1,1,100.0,0,0,0,0,0,0,1,0,0,2.3,42.7,0.0,42.7,1.36,1
+SK Slavia Praha,"N. Noumeros, R. Jones, R. Mrázek, M. Lufile, M. Dáňa","SK Slavia Praha|13,15,22,24,88",1,0.7,41.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5,0.1,0.0,151.4,-151.4,0.0,-5
+BK Olomoucko,"M. Nelson, J. Andre, K. Filewich, L. Autrey, A. Goga","BK Olomoucko|0,10,14,24,4",1,0.7,41.0,5,2,3,66.7,0,0,0,1,1,100.0,0,0,0,0,0,0,0,0,0,3.3,151.4,0.0,151.4,7.32,5
+USK Praha,"D. Vlk, O. Švec, T. Tainamo, H. Wright, P. Šafarčík","USK Praha|13,16,25,44,94",1,0.7,40.0,1,0,1,0.0,0,0,0,1,2,50.0,0,0,0,0,0,0,0,0,4,1.8,55.4,221.6,-166.2,1.5,-3
+Sršni Photomate Písek,"V. Sýkora, M. Ježek, J. Karlovský, J. Svoboda, M. Burda","Sršni Photomate Písek|10,22,41,77,9",1,0.7,44.0,3,1,1,100.0,0,0,0,1,1,100.0,0,0,0,2,0,0,0,0,0,1.4,217.0,0.0,217.0,4.09,3
+BK KVIS Pardubice,"J. Evans Iii, R. Moffatt, J. Bryant, K. Švrdlík, J. Tůma","BK KVIS Pardubice|11,13,4,9,98",1,0.7,42.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1.0,0.0,156.2,-156.2,0.0,-3
+BK ARMEX ENERGY Děčín,"F. Kroutil, J. Edwards, L. Feštr, M. Šturanović, T. Pomikálek","BK ARMEX ENERGY Děčín|13,20,44,47,5",2,0.6,34.0,1,0,0,0,0,0,0,1,2,50.0,0,0,0,0,0,0,1,0,0,1.8,55.4,0.0,55.4,1.76,1
+NH Ostrava,"M. Snopek, A. Číž, M. Čank, M. Svoboda, J. Roche","NH Ostrava|10,11,19,20,35",1,0.6,33.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1.0,208.3,118.4,90.0,3.64,1
+ERA Basketball Nymburk,"S. Rice, O. Sehnal, M. Santos - Silva, F. Rylich, V. Hruban","ERA Basketball Nymburk|10,19,7,73,77",1,0.6,35.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,208.3,0.0,208.3,3.43,2
+PUMPA Basket Brno,"P. Křivánek, J. Groves, R. Williams, K. Kalu, M. Rychtecký","PUMPA Basket Brno|12,20,33,34,4",1,0.6,35.0,8,3,3,100.0,2,2,100.0,0,0,0,0,0,0,0,0,0,0,0,0,2.9,277.8,0.0,277.8,13.71,8
+SLUNETA  Ústí nad Labem,"N. Johnson, J. Young, L. Pecka, F. Kábrt, D. Žikla","SLUNETA  Ústí nad Labem|10,2,44,8,9",1,0.6,33.0,1,0,0,0,0,0,0,1,2,50.0,0,0,0,0,0,0,0,0,2,0.8,118.4,208.3,-90.0,1.82,-1
+NH Ostrava,"A. Číž, S. Godwin, M. Svoboda, L. Palyza, E. Cato","NH Ostrava|11,14,20,23,25",2,0.6,35.0,0,0,3,0.0,0,3,0.0,0,0,0,0,0,0,0,0,0,1,0,2,3.8,0.0,75.5,-75.5,0.0,-2
+USK Praha,"T. Henderson Jr., D. Vlk, J. Soldán, M. Šafařík, C. Eduardo","USK Praha|1,13,23,5,7",2,0.6,35.0,2,1,3,33.3,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,2.9,69.4,0.0,69.4,3.43,2
+PUMPA Basket Brno,"Š. Svoboda, V. Půlpán, J. Groves, R. Williams, M. Stráněl","PUMPA Basket Brno|11,18,20,33,7",1,0.6,33.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2.9,69.4,0.0,69.4,3.64,2
+BK ARMEX ENERGY Děčín,"F. Kroutil, M. Houška, J. Štěrba, J. Edwards, T. Pomikálek","BK ARMEX ENERGY Děčín|13,15,16,20,5",1,0.6,38.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,1,0,3,1.9,0.0,156.2,-156.2,0.0,-3
+ERA Basketball Nymburk,"J. Bohačík, J. Brickus, M. Kříž, J. Lawrence, F. Rylich","ERA Basketball Nymburk|17,2,31,40,73",1,0.6,38.0,3,1,2,50.0,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,0,1.9,156.2,0.0,156.2,4.74,3
+NH Ostrava,"S. Godwin, M. Čank, M. Svoboda, K. Cole, L. Greer","NH Ostrava|14,19,20,24,3",1,0.6,35.0,2,1,2,50.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1.9,104.2,0.0,104.2,3.43,2
+Sršni Photomate Písek,"J. Haiblík, K. Týml, J. Karlovský, J. Šurý, P. Šlechta","Sršni Photomate Písek|13,33,41,55,8",1,0.6,38.0,6,1,1,100.0,1,1,100.0,3,3,100.0,0,0,0,1,0,0,0,0,4,2.2,269.4,208.3,61.1,9.47,2
+BK ARMEX ENERGY Děčín,"P. Alexander, F. Kroutil, J. Edwards, A. Rand, M. Šturanović","BK ARMEX ENERGY Děčín|0,13,20,24,47",1,0.6,35.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1.0,0.0,0.0,0.0,0.0,0
+NH Ostrava,"A. Číž, M. Čank, K. Cole, E. Cato, L. Greer","NH Ostrava|11,19,24,25,3",1,0.6,33.0,3,1,2,50.0,0,0,0,1,1,100.0,0,0,0,0,0,0,0,0,0,2.3,128.1,0.0,128.1,5.45,3
+BK Olomoucko,"K. Elvis, J. Andre, K. Filewich, A. Goga, O. Šiška","BK Olomoucko|1,10,14,4,9",1,0.6,36.0,3,1,1,100.0,0,0,0,1,1,100.0,0,0,0,0,0,0,0,0,0,1.4,217.0,0.0,217.0,5.0,3
+BK GAPA Hradec Králové,"C. John, M. Roub, L. Nikkarinen, T. Dvořák, K. Chatman","BK GAPA Hradec Králové|10,24,4,44,5",1,0.6,36.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.1,0.0,208.3,-208.3,0.0,-2
+BK Olomoucko,"M. Nelson, K. Elvis, K. Filewich, D. Žák, J. Oupoh","BK Olomoucko|0,1,14,22,7",1,0.6,36.0,0,0,0,0,0,0,0,0,2,0.0,0,0,0,0,0,0,0,0,0,0.8,0.0,0.0,0.0,0.0,0
+BK GAPA Hradec Králové,"A. Johnson, D. Škranc, V. Synáček, L. Nikkarinen, K. Chatman","BK GAPA Hradec Králové|0,12,27,4,5",1,0.6,36.0,2,0,0,0,0,0,0,2,2,100.0,0,0,0,0,0,0,0,0,1,0.8,236.7,118.4,118.4,3.33,1
+BK KVIS Pardubice,"J. Evans Iii, R. Moffatt, L. Kovář, R. Bonham, M. Nábělek","BK KVIS Pardubice|11,13,21,3,5",1,0.6,33.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0
+BK Opava,"W. Person Jr, C. Brown Jr, J. Šiřina, I. Gray, F. Zbránek","BK Opava|1,13,24,7,9",1,0.6,33.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1.0,0.0,0.0,0.0,0.0,0
+BK GAPA Hradec Králové,"K. Brewton, T. Merta, M. Roub, L. Nikkarinen, K. Chatman","BK GAPA Hradec Králové|2,23,24,4,5",1,0.6,36.0,2,1,2,50.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.9,104.2,0.0,104.2,3.33,2
+SK Slavia Praha,"P. Macháč, R. Jones, J. Matušík, R. Mrázek, M. Dáňa","SK Slavia Praha|14,15,16,22,88",1,0.6,33.0,0,0,2,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1.9,0.0,0.0,0.0,0.0,0
+Sršni Photomate Písek,"V. Sýkora, J. Haiblík, J. Karlovský, M. Svoboda, M. Burda","Sršni Photomate Písek|10,13,41,71,9",1,0.6,37.0,3,0,2,0.0,0,1,0.0,3,3,100.0,0,0,0,1,0,0,0,0,0,3.2,94.1,0.0,94.1,4.86,3
+BK Opava,"C. Brown Jr, F. Váňa, J. Slavík, I. Gray, J. Švandrlík","BK Opava|13,3,33,7,8",1,0.6,33.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,1,1.0,0.0,72.3,-72.3,0.0,-1
+SLUNETA  Ústí nad Labem,"I. Davidson, J. Young, K. Lawrence, T. Vyoral, L. Pecka","SLUNETA  Ústí nad Labem|18,2,3,4,44",1,0.6,33.0,1,0,0,0,0,0,0,1,1,100.0,0,0,0,0,0,0,1,0,0,1.4,72.3,0.0,72.3,1.82,1
+NH Ostrava,"A. Číž, S. Godwin, M. Čank, P. Novák, K. Cole","NH Ostrava|11,14,19,22,24",1,0.6,34.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1.0,0.0,104.2,-104.2,0.0,-2
+BK Opava,"K. Kavan, Š. Puršl, J. Šiřina, I. Gray, J. Švandrlík","BK Opava|11,20,24,7,8",1,0.6,36.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0
+SK Slavia Praha,"N. Noumeros, P. Macháč, M. Lufile, R. Clemons, M. Dáňa","SK Slavia Praha|13,14,24,3,88",1,0.6,34.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1.0,0.0,0.0,0.0,0.0,0
+BK KVIS Pardubice,"R. Moffatt, Z. Key, J. Bryant, A. Lukeš, K. Švrdlík","BK KVIS Pardubice|13,23,4,7,9",1,0.6,33.0,2,1,2,50.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.9,104.2,0.0,104.2,3.64,2
+SK Slavia Praha,"M. Ježek, N. Noumeros, P. Macháč, R. Jones, R. Mrázek","SK Slavia Praha|12,13,14,15,22",1,0.6,36.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0.1,0.0,256.1,-256.1,0.0,-6
+SK Slavia Praha,"M. Ježek, R. Jones, J. Matušík, R. Mrázek, M. Dáňa","SK Slavia Praha|12,15,16,22,88",1,0.6,34.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.1,0.0,208.3,-208.3,0.0,-2
+BK Olomoucko,"K. Filewich, L. Autrey, Š. Čermák, J. Oupoh, O. Šiška","BK Olomoucko|14,24,3,7,9",1,0.6,38.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1.9,0.0,0.0,0.0,0.0,0
+BK ARMEX ENERGY Děčín,"A. Dawes, F. Kroutil, J. Štěrba, J. Edwards, T. Pomikálek","BK ARMEX ENERGY Děčín|1,13,16,20,5",1,0.6,34.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0.1,0.0,260.4,-260.4,0.0,-5
+PUMPA Basket Brno,"J. Musil, A. Kejval, V. Půlpán, J. Groves, R. Williams","PUMPA Basket Brno|10,13,18,20,33",1,0.5,29.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0
+Sršni Photomate Písek,"V. Sýkora, J. Karlovský, M. Svoboda, P. Šlechta, M. Burda","Sršni Photomate Písek|10,41,71,8,9",1,0.5,28.0,0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1.9,0.0,85.4,-85.4,0.0,-2
+NH Ostrava,"M. Snopek, M. Čank, M. Svoboda, K. Cole, L. Greer","NH Ostrava|10,19,20,24,3",1,0.5,27.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+SLUNETA  Ústí nad Labem,"A. Pecháček, J. Young, J. Potoček, T. Vyoral, D. Žikla","SLUNETA  Ústí nad Labem|0,2,31,4,9",1,0.5,29.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.1,0.0,104.2,-104.2,0.0,-2
+BK GAPA Hradec Králové,"M. Popović, A. Petric, T. Merta, T. Dvořák, K. Chatman","BK GAPA Hradec Králové|10,11,23,44,5",1,0.5,31.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK KVIS Pardubice,"R. Moffatt, Z. Key, J. Bryant, M. Nábělek, J. Tůma","BK KVIS Pardubice|13,23,4,5,98",1,0.5,30.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.1,0.0,42.7,-42.7,0.0,-1
+SLUNETA  Ústí nad Labem,"N. Johnson, J. Young, J. Potoček, T. Vyoral, F. Kábrt","SLUNETA  Ústí nad Labem|10,2,31,4,8",1,0.5,30.0,3,1,5,20.0,1,4,25.0,0,0,0,0,0,0,0,0,0,1,0,0,5.8,52.1,0.0,52.1,6.0,3
+SK Slavia Praha,"M. Ježek, J. Matušík, P. Macháč, M. Dáňa, R. Pumprla","SK Slavia Praha|12,16,35,88,9",1,0.5,29.0,2,1,2,50.0,0,0,0,0,1,0.0,0,0,0,0,0,0,0,0,3,2.3,85.4,166.2,-80.8,4.14,-1
+BK ARMEX ENERGY Děčín,"F. Kroutil, J. Štěrba, D. Davis, J. Edwards, L. Feštr","BK ARMEX ENERGY Děčín|13,16,2,20,44",1,0.5,30.0,5,1,1,100.0,0,0,0,3,4,75.0,0,0,0,0,0,0,0,0,2,2.6,188.7,69.4,119.3,10.0,3
+NH Ostrava,"A. Číž, M. Čank, M. Svoboda, P. Novák, L. Palyza","NH Ostrava|11,19,20,22,23",1,0.5,31.0,2,1,2,50.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,3,1.9,104.2,118.4,-14.2,3.87,-1
+BK GAPA Hradec Králové,"C. John, D. Škranc, K. Brewton, T. Merta, M. Roub","BK GAPA Hradec Králové|10,12,2,23,24",1,0.5,31.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1.0,0.0,208.3,-208.3,0.0,-4
+NH Ostrava,"S. Godwin, L. Palyza, K. Cole, E. Cato, L. Greer","NH Ostrava|14,23,24,25,3",1,0.5,30.0,0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2.9,0.0,0.0,0.0,0.0,0
+SK Slavia Praha,"N. Noumeros, R. Jones, R. Mrázek, M. Lufile, D. Böhm","SK Slavia Praha|13,15,22,24,7",2,0.5,28.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1.0,0.0,0.0,0.0,0.0,0
+BK GAPA Hradec Králové,"J. Bubeníček, T. Merta, M. Roub, L. Nikkarinen, K. Chatman","BK GAPA Hradec Králové|16,23,24,4,5",1,0.5,29.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0
+BK Olomoucko,"J. Andre, J. Holmes, K. Filewich, D. Žák, A. Goga","BK Olomoucko|10,13,14,22,4",1,0.5,31.0,1,0,0,0,0,0,0,1,1,100.0,0,0,0,1,0,0,0,0,6,0.4,236.7,312.5,-75.8,1.94,-5
+Sršni Photomate Písek,"V. Sýkora, M. Kozák, K. Týml, P. Šlechta, M. Burda","Sršni Photomate Písek|10,11,33,8,9",1,0.5,29.0,0,0,0,0,0,0,0,0,1,0.0,0,0,0,1,0,0,1,0,5,1.4,0.0,260.4,-260.4,0.0,-5
+USK Praha,"J. Montgomery, D. Vlk, O. Švec, H. Wright, M. Šafařík","USK Praha|0,13,16,44,5",1,0.5,31.0,2,0,1,0.0,0,0,0,2,2,100.0,0,0,0,1,0,0,0,0,0,1.8,110.8,0.0,110.8,3.87,2
+BK GAPA Hradec Králové,"J. Bubeníček, K. Brewton, T. Merta, M. Roub, L. Nikkarinen","BK GAPA Hradec Králové|16,2,23,24,4",1,0.5,31.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+NH Ostrava,"A. Číž, S. Godwin, M. Čank, K. Cole, M. Janů","NH Ostrava|11,14,19,24,77",1,0.5,32.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0.1,0.0,104.2,-104.2,0.0,-2
+BK Olomoucko,"K. Filewich, D. Žák, L. Autrey, A. Goga, O. Šiška","BK Olomoucko|14,22,24,4,9",1,0.5,30.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,3,1.0,0.0,156.2,-156.2,0.0,-3
+BK ARMEX ENERGY Děčín,"F. Kroutil, M. Houška, D. Davis, J. Edwards, M. Šturanović","BK ARMEX ENERGY Děčín|13,15,2,20,47",1,0.5,28.0,2,0,0,0,0,0,0,2,3,66.7,0,0,0,1,0,0,0,0,2,1.3,157.8,110.8,47.0,4.29,0
+SK Slavia Praha,"N. Noumeros, P. Macháč, R. Jones, R. Mrázek, R. Clemons","SK Slavia Praha|13,14,15,22,3",1,0.5,27.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0.1,0.0,166.2,-166.2,0.0,-3
+BK ARMEX ENERGY Děčín,"F. Kroutil, J. Štěrba, D. Davis, J. Edwards, T. Slowiak","BK ARMEX ENERGY Děčín|13,16,2,20,7",2,0.4,22.0,4,0,0,0,0,0,0,4,8,50.0,0,0,0,0,0,0,0,0,0,3.4,118.4,0.0,118.4,10.91,4
+NH Ostrava,"M. Čank, M. Svoboda, P. Novák, L. Greer, D. Heinzl","NH Ostrava|19,20,22,3,7",1,0.4,24.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1.0,0.0,144.7,-144.7,0.0,-2
+NH Ostrava,"M. Snopek, A. Číž, M. Svoboda, L. Palyza, L. Greer","NH Ostrava|10,11,20,23,3",2,0.4,26.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0.1,0.0,217.0,-217.0,0.0,-3
+ERA Basketball Nymburk,"S. Rice, M. Svoboda, M. Santos - Silva, F. Rylich, V. Hruban","ERA Basketball Nymburk|10,11,7,73,77",1,0.4,24.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+ERA Basketball Nymburk,"S. Rice, O. Sehnal, J. Lawrence, F. Rylich, V. Hruban","ERA Basketball Nymburk|10,19,40,73,77",1,0.4,26.0,1,0,0,0,0,0,0,1,2,50.0,0,0,0,0,0,0,0,0,2,0.8,118.4,69.4,48.9,2.31,-1
+BK Opava,"K. Kavan, C. Brown Jr, Š. Puršl, R. Kouřil, J. Slavík","BK Opava|11,13,20,21,33",1,0.4,22.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+Sršni Photomate Písek,"J. Zvolánek, J. Karlovský, M. Svoboda, J. Svoboda, M. Burda","Sršni Photomate Písek|31,41,71,77,9",1,0.4,22.0,1,0,0,0,0,0,0,1,3,33.3,0,0,0,0,0,0,0,0,0,1.3,78.9,0.0,78.9,2.73,1
+PUMPA Basket Brno,"P. Křivánek, A. Kejval, J. Groves, R. Williams, R. Farský","PUMPA Basket Brno|12,13,20,33,8",1,0.4,22.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.1,0.0,78.9,-78.9,0.0,-1
+BK Opava,"C. Brown Jr, J. Šiřina, J. Slavík, J. Švandrlík, F. Zbránek","BK Opava|13,24,33,8,9",1,0.4,23.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK Opava,"W. Person Jr, Š. Puršl, J. Šiřina, J. Švandrlík, F. Zbránek","BK Opava|1,20,24,8,9",1,0.4,23.0,0,0,2,0.0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1.9,0.0,0.0,0.0,0.0,0
+SLUNETA  Ústí nad Labem,"N. Johnson, J. Young, T. Vyoral, F. Kábrt, D. Žikla","SLUNETA  Ústí nad Labem|10,2,4,8,9",1,0.4,24.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK GAPA Hradec Králové,"D. Škranc, T. Mikyska, J. Bubeníček, T. Merta, K. Chatman","BK GAPA Hradec Králové|12,13,16,23,5",1,0.4,23.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0.1,0.0,208.3,-208.3,0.0,-2
+BK Opava,"D. Motyčka, Š. Puršl, R. Kouřil, J. Šiřina, M. Vyroubal","BK Opava|14,20,21,24,25",1,0.4,23.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,208.3,0.0,208.3,5.22,2
+BK Olomoucko,"K. Elvis, J. Andre, J. Holmes, K. Filewich, O. Šiška","BK Olomoucko|1,10,13,14,9",1,0.4,23.0,1,0,0,0,0,0,0,1,1,100.0,0,0,0,1,0,0,0,0,0,0.4,236.7,0.0,236.7,2.61,1
+Sršni Photomate Písek,"K. Týml, J. Karlovský, J. Šurý, M. Svoboda, J. Svoboda","Sršni Photomate Písek|33,41,55,71,77",1,0.4,22.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+ERA Basketball Nymburk,"M. Svoboda, W. Dreamer, J. Bohačík, O. Sehnal, M. Kříž","ERA Basketball Nymburk|11,12,17,19,31",1,0.4,22.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+NH Ostrava,"S. Godwin, M. Čank, M. Svoboda, E. Cato, L. Greer","NH Ostrava|14,19,20,25,3",1,0.4,23.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK Opava,"C. Brown Jr, R. Kouřil, M. Vyroubal, J. Slavík, J. Švandrlík","BK Opava|13,21,25,33,8",1,0.4,22.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.1,0.0,208.3,-208.3,0.0,-2
+PUMPA Basket Brno,"Š. Svoboda, P. Křivánek, V. Půlpán, J. Groves, M. Stráněl","PUMPA Basket Brno|11,12,18,20,7",1,0.4,22.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.1,0.0,104.2,-104.2,0.0,-2
+Sršni Photomate Písek,"M. Kozák, K. Týml, J. Karlovský, J. Šurý, J. Svoboda","Sršni Photomate Písek|11,33,41,55,77",1,0.4,23.0,3,1,1,100.0,0,0,0,1,1,100.0,0,0,0,0,0,0,0,0,0,1.4,217.0,0.0,217.0,7.83,3
+Sršni Photomate Písek,"K. Týml, J. Karlovský, J. Šimonek, M. Svoboda, J. Svoboda","Sršni Photomate Písek|33,41,7,71,77",1,0.4,23.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,4,1.0,0.0,208.3,-208.3,0.0,-4
+ERA Basketball Nymburk,"M. Svoboda, O. Sehnal, M. Kříž, M. Santos - Silva, F. Rylich","ERA Basketball Nymburk|11,19,31,7,73",1,0.4,23.0,4,2,2,100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.9,208.3,0.0,208.3,10.43,4
+BK Opava,"K. Kavan, C. Brown Jr, M. Vyroubal, J. Slavík, F. Zbránek","BK Opava|11,13,25,33,9",1,0.4,26.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+NH Ostrava,"A. Číž, S. Godwin, M. Čank, K. Cole, L. Greer","NH Ostrava|11,14,19,24,3",1,0.4,22.0,2,1,2,50.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.9,104.2,0.0,104.2,5.45,2
+BK Opava,"W. Person Jr, C. Brown Jr, J. Šiřina, M. Vyroubal, I. Gray","BK Opava|1,13,24,25,7",1,0.4,23.0,3,0,0,0,0,0,0,3,4,75.0,0,0,0,0,0,0,1,0,3,2.6,113.2,156.2,-43.0,7.83,0
+SK Slavia Praha,"N. Noumeros, P. Macháč, R. Jones, J. Matušík, D. Böhm","SK Slavia Praha|13,14,15,16,7",1,0.4,26.0,5,0,0,0,0,0,0,5,5,100.0,0,0,0,0,0,0,0,0,1,2.1,236.7,36.2,200.6,11.54,4
+SK Slavia Praha,"N. Noumeros, P. Macháč, J. Matušík, R. Clemons, R. Mrázek","SK Slavia Praha|13,14,16,19,22",1,0.4,23.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1.0,0.0,0.0,0.0,0.0,0
+SK Slavia Praha,"P. Macháč, R. Jones, J. Matušík, R. Clemons, R. Mrázek","SK Slavia Praha|14,15,16,19,22",1,0.4,26.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1.0,0.0,236.7,-236.7,0.0,-2
+ERA Basketball Nymburk,"S. Rice, M. Svoboda, M. Kříž, J. Shumate, V. Hruban","ERA Basketball Nymburk|10,11,31,32,77",1,0.4,23.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK KVIS Pardubice,"R. Moffatt, R. Bonham, J. Bryant, A. Lukeš, J. Tůma","BK KVIS Pardubice|13,3,4,7,98",1,0.4,23.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+SLUNETA  Ústí nad Labem,"I. Davidson, K. Lawrence, J. Potoček, T. Vyoral, L. Pecka","SLUNETA  Ústí nad Labem|18,3,31,4,44",1,0.4,22.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,208.3,0.0,208.3,5.45,2
+PUMPA Basket Brno,"Š. Svoboda, V. Půlpán, K. Kalu, M. Rychtecký, R. Farský","PUMPA Basket Brno|11,18,34,4,8",1,0.4,24.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,208.3,0.0,208.3,5.0,2
+BK GAPA Hradec Králové,"A. Johnson, D. Škranc, M. Roub, V. Synáček, L. Nikkarinen","BK GAPA Hradec Králové|0,12,24,27,4",1,0.4,23.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1.0,0.0,208.3,-208.3,0.0,-2
+BK GAPA Hradec Králové,"D. Škranc, T. Merta, M. Roub, L. Nikkarinen, T. Dvořák","BK GAPA Hradec Králové|12,23,24,4,44",1,0.4,22.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,208.3,0.0,208.3,5.45,2
+BK Olomoucko,"M. Nelson, K. Elvis, J. Andre, J. Holmes, O. Šiška","BK Olomoucko|0,1,10,13,9",2,0.3,16.0,2,0,0,0,0,0,0,2,2,100.0,0,0,0,1,0,0,0,0,6,0.8,236.7,217.0,19.7,7.5,-4
+USK Praha,"S. Macht, D. Vlk, O. Švec, E. Edigin, M. Šafařík","USK Praha|11,13,16,41,5",1,0.3,19.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1.0,0.0,118.4,-118.4,0.0,-3
+NH Ostrava,"M. Snopek, M. Svoboda, P. Novák, L. Greer, D. Heinzl","NH Ostrava|10,20,22,3,7",1,0.3,18.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK Opava,"K. Kavan, Š. Puršl, J. Šiřina, M. Vyroubal, J. Švandrlík","BK Opava|11,20,24,25,8",1,0.3,16.0,3,1,1,100.0,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,312.5,0.0,312.5,11.25,3
+ERA Basketball Nymburk,"S. Rice, O. Sehnal, M. Kříž, M. Santos - Silva, F. Rylich, V. Hruban","ERA Basketball Nymburk|10,19,31,7,73,77",1,0.3,16.0,2,0,0,0,0,0,0,2,2,100.0,0,0,0,0,0,0,0,0,0,0.8,236.7,0.0,236.7,7.5,2
+BK Olomoucko,"M. Nelson, J. Andre, K. Filewich, D. Žák, A. Goga","BK Olomoucko|0,10,14,22,4",1,0.3,19.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+SLUNETA  Ústí nad Labem,"N. Johnson, J. Potoček, T. Vyoral, L. Pecka, D. Žikla","SLUNETA  Ústí nad Labem|10,31,4,44,9",1,0.3,16.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK ARMEX ENERGY Děčín,"J. Štěrba, D. Davis, J. Edwards, T. Pomikálek, T. Slowiak","BK ARMEX ENERGY Děčín|16,2,20,5,7",1,0.3,16.0,4,2,2,100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.9,208.3,0.0,208.3,15.0,4
+SLUNETA  Ústí nad Labem,"N. Johnson, T. Vyoral, L. Pecka, F. Kábrt, D. Žikla","SLUNETA  Ústí nad Labem|10,4,44,8,9",1,0.3,18.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.1,0.0,236.7,-236.7,0.0,-1
+SLUNETA  Ústí nad Labem,"N. Johnson, J. Potoček, T. Vyoral, L. Pecka, F. Kábrt","SLUNETA  Ústí nad Labem|10,31,4,44,8",1,0.3,20.0,5,0,0,0,0,0,0,5,5,100.0,0,0,0,0,0,0,0,0,0,2.1,236.7,0.0,236.7,15.0,5
+SK Slavia Praha,"N. Noumeros, R. Jones, J. Matušík, D. Böhm, M. Dáňa","SK Slavia Praha|13,15,16,7,88",1,0.3,16.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK GAPA Hradec Králové,"D. Škranc, K. Brewton, T. Merta, T. Dvořák, K. Chatman","BK GAPA Hradec Králové|12,2,23,44,5",1,0.3,17.0,3,0,0,0,0,0,0,3,3,100.0,0,0,0,0,0,0,0,0,0,1.3,236.7,0.0,236.7,10.59,3
+SK Slavia Praha,"M. Ježek, R. Jones, R. Mrázek, P. Macháč, D. Böhm","SK Slavia Praha|12,15,22,35,7",1,0.3,21.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,1,0,4,1.9,0.0,179.6,-179.6,0.0,-4
+ERA Basketball Nymburk,"J. Brickus, M. Kříž, K. Feazell, F. Rylich, V. Hruban","ERA Basketball Nymburk|2,31,6,73,77",1,0.3,20.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0
+SK Slavia Praha,"M. Ježek, R. Jones, J. Matušík, D. Böhm, R. Pumprla","SK Slavia Praha|12,15,16,7,9",1,0.3,21.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+PUMPA Basket Brno,"Š. Svoboda, P. Křivánek, R. Williams, K. Kalu, M. Stráněl","PUMPA Basket Brno|11,12,33,34,7",1,0.3,18.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+ERA Basketball Nymburk,"J. Bohačík, J. Brickus, J. Shumate, J. Lawrence, F. Rylich","ERA Basketball Nymburk|17,2,32,40,73",1,0.3,20.0,3,0,0,0,0,0,0,3,4,75.0,0,0,0,1,0,0,0,0,0,1.7,177.6,0.0,177.6,9.0,3
+BK Opava,"Š. Puršl, R. Kouřil, M. Vyroubal, J. Slavík, F. Zbránek","BK Opava|20,21,25,33,9",1,0.3,17.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1.0,0.0,208.3,-208.3,0.0,-2
+Sršni Photomate Písek,"J. Haiblík, J. Zvolánek, J. Karlovský, J. Šurý, P. Šlechta","Sršni Photomate Písek|13,31,41,55,8",1,0.3,17.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,208.3,0.0,208.3,7.06,2
+SK Slavia Praha,"M. Ježek, N. Noumeros, R. Mrázek, M. Lufile, D. Böhm","SK Slavia Praha|12,13,22,24,7",1,0.3,20.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0.1,0.0,208.3,-208.3,0.0,-2
+Sršni Photomate Písek,"M. Kozák, J. Šurý, M. Svoboda, J. Svoboda, P. Šlechta","Sršni Photomate Písek|11,55,71,77,8",1,0.3,20.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,208.3,0.0,208.3,6.0,2
+SK Slavia Praha,"N. Noumeros, R. Jones, J. Matušík, R. Mrázek, M. Lufile","SK Slavia Praha|13,15,16,22,24",1,0.3,20.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.1,0.0,208.3,-208.3,0.0,-2
+BK Opava,"W. Person Jr, C. Brown Jr, L. Jurečka, J. Šiřina, M. Vyroubal","BK Opava|1,13,23,24,25",1,0.3,18.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0.1,0.0,208.3,-208.3,0.0,-2
+Sršni Photomate Písek,"M. Kozák, J. Haiblík, K. Týml, M. Svoboda, P. Šlechta","Sršni Photomate Písek|11,13,33,71,8",1,0.3,16.0,2,0,0,0,0,0,0,2,2,100.0,0,0,0,0,0,0,0,0,0,0.8,236.7,0.0,236.7,7.5,2
+BK Opava,"W. Person Jr, C. Brown Jr, R. Kouřil, M. Vyroubal, F. Zbránek","BK Opava|1,13,21,25,9",1,0.3,16.0,5,1,1,100.0,1,1,100.0,2,3,66.7,0,0,0,0,0,0,0,0,0,2.2,224.5,0.0,224.5,18.75,5
+NH Ostrava,"A. Číž, S. Godwin, M. Čank, K. Cole, E. Cato","NH Ostrava|11,14,19,24,25",1,0.3,20.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+PUMPA Basket Brno,"A. Kejval, T. Jansa, D. Jelínek, M. Rychtecký, R. Farský","PUMPA Basket Brno|13,19,25,4,8",1,0.3,21.0,5,1,1,100.0,0,0,0,3,3,100.0,0,0,0,0,0,0,0,0,1,2.2,224.5,55.4,169.1,14.29,4
+SLUNETA  Ústí nad Labem,"A. Pecháček, I. Davidson, J. Young, T. Vyoral, L. Pecka","SLUNETA  Ústí nad Labem|0,18,2,4,44",1,0.3,17.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK ARMEX ENERGY Děčín,"P. Alexander, F. Kroutil, J. Štěrba, J. Edwards, L. Feštr","BK ARMEX ENERGY Děčín|0,13,16,20,44",1,0.3,17.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0.1,0.0,312.5,-312.5,0.0,-3
+BK GAPA Hradec Králové,"A. Johnson, D. Škranc, K. Brewton, M. Roub, L. Nikkarinen","BK GAPA Hradec Králové|0,12,2,24,4",1,0.3,18.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0.1,0.0,236.7,-236.7,0.0,-3
+BK KVIS Pardubice,"R. Moffatt, Z. Key, J. Bryant, A. Lukeš, J. Tůma","BK KVIS Pardubice|13,23,4,7,98",1,0.3,18.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.1,0.0,236.7,-236.7,0.0,-2
+BK Olomoucko,"M. Nelson, J. Andre, K. Filewich, L. Autrey, O. Šiška","BK Olomoucko|0,10,14,24,9",1,0.3,19.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1.0,208.3,236.7,-28.4,6.32,1
+PUMPA Basket Brno,"V. Půlpán, K. Kalu, M. Rychtecký, R. Cisarik, R. Farský","PUMPA Basket Brno|18,34,4,5,8",1,0.3,17.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1.0,0.0,0.0,0.0,0.0,0
+PUMPA Basket Brno,"Š. Svoboda, A. Kejval, V. Půlpán, M. Rychtecký, R. Farský","PUMPA Basket Brno|11,13,18,4,8",1,0.3,16.0,0,0,1,0.0,0,0,0,0,2,0.0,0,0,0,0,0,0,0,0,0,1.8,0.0,0.0,0.0,0.0,0
+PUMPA Basket Brno,"A. Kejval, V. Půlpán, D. Jelínek, R. Cisarik, T. Olison","PUMPA Basket Brno|13,18,25,5,6",1,0.3,18.0,3,1,1,100.0,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,312.5,0.0,312.5,10.0,3
+BK GAPA Hradec Králové,"A. Johnson, D. Škranc, K. Brewton, T. Merta, L. Nikkarinen","BK GAPA Hradec Králové|0,12,2,23,4",1,0.3,20.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK Olomoucko,"M. Nelson, J. Andre, K. Filewich, D. Žák, L. Autrey","BK Olomoucko|0,10,14,22,24",1,0.3,19.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,208.3,0.0,208.3,6.32,2
+PUMPA Basket Brno,"Š. Svoboda, A. Kejval, V. Půlpán, D. Jelínek, R. Cisarik","PUMPA Basket Brno|11,13,18,25,5",1,0.3,18.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0.1,0.0,312.5,-312.5,0.0,-3
+BK GAPA Hradec Králové,"D. Škranc, J. Bubeníček, K. Brewton, M. Roub, K. Chatman","BK GAPA Hradec Králové|12,16,2,24,5",1,0.2,10.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK Olomoucko,"K. Elvis, J. Andre, D. Žák, A. Goga, J. Svojanovský","BK Olomoucko|1,10,22,4,51",1,0.2,13.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK ARMEX ENERGY Děčín,"F. Kroutil, J. Edwards, L. Feštr, T. Pomikálek, T. Slowiak","BK ARMEX ENERGY Děčín|13,20,44,5,7",1,0.2,13.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1.9,104.2,0.0,104.2,9.23,2
+BK ARMEX ENERGY Děčín,"J. Štěrba, J. Edwards, L. Feštr, T. Pomikálek, T. Slowiak","BK ARMEX ENERGY Děčín|16,20,44,5,7",1,0.2,14.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,208.3,0.0,208.3,8.57,2
+BK Opava,"K. Kavan, C. Brown Jr, Š. Puršl, M. Vyroubal, J. Slavík","BK Opava|11,13,20,25,33",1,0.2,14.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK GAPA Hradec Králové,"M. Popović, A. Petric, D. Škranc, T. Dvořák, K. Chatman","BK GAPA Hradec Králové|10,11,12,44,5",1,0.2,13.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.1,0.0,208.3,-208.3,0.0,-2
+SLUNETA  Ústí nad Labem,"N. Johnson, J. Young, T. Vyoral, L. Pecka, F. Kábrt","SLUNETA  Ústí nad Labem|10,2,4,44,8",1,0.2,12.0,5,1,1,100.0,0,0,0,3,3,100.0,0,0,0,0,0,0,0,0,0,2.2,224.5,0.0,224.5,25.0,5
+BK GAPA Hradec Králové,"D. Škranc, K. Brewton, T. Merta, M. Roub, T. Dvořák","BK GAPA Hradec Králové|12,2,23,24,44",2,0.2,11.0,1,0,0,0,0,0,0,1,2,50.0,0,0,0,0,0,0,1,0,2,1.8,55.4,208.3,-152.9,5.45,-1
+SK Slavia Praha,"R. Jones, R. Mrázek, P. Macháč, D. Böhm, R. Pumprla","SK Slavia Praha|15,22,35,7,9",1,0.2,10.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+PUMPA Basket Brno,"Š. Svoboda, J. Groves, R. Williams, M. Stráněl, R. Farský","PUMPA Basket Brno|11,20,33,7,8",1,0.2,13.0,1,0,0,0,0,0,0,1,2,50.0,0,0,0,0,0,0,0,0,0,0.8,118.4,0.0,118.4,4.62,1
+SLUNETA  Ústí nad Labem,"A. Pecháček, J. Young, T. Vyoral, L. Pecka, F. Kábrt","SLUNETA  Ústí nad Labem|0,2,4,44,8",1,0.2,15.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.1,0.0,208.3,-208.3,0.0,-2
+SK Slavia Praha,"M. Ježek, J. Matušík, R. Mrázek, P. Macháč, R. Pumprla","SK Slavia Praha|12,16,22,35,9",1,0.2,15.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK ARMEX ENERGY Děčín,"F. Kroutil, M. Houška, J. Štěrba, D. Davis, T. Pomikálek","BK ARMEX ENERGY Děčín|13,15,16,2,5",1,0.2,15.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+SK Slavia Praha,"R. Jones, P. Macháč, D. Böhm, M. Dáňa, R. Pumprla","SK Slavia Praha|15,35,7,88,9",2,0.2,15.0,0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1.9,0.0,236.7,-236.7,0.0,-1
+Sršni Photomate Písek,"M. Kozák, J. Haiblík, J. Zvolánek, J. Karlovský, P. Šlechta","Sršni Photomate Písek|11,13,31,41,8",1,0.2,11.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1.0,0.0,0.0,0.0,0.0,0
+BK Opava,"C. Brown Jr, Š. Puršl, R. Kouřil, L. Jurečka, J. Šiřina","BK Opava|13,20,21,23,24",1,0.2,10.0,5,1,2,50.0,1,2,50.0,2,2,100.0,0,0,0,1,0,0,0,0,0,2.8,180.8,0.0,180.8,30.0,5
+BK ARMEX ENERGY Děčín,"P. Alexander, F. Kroutil, J. Štěrba, D. Davis, O. Žižka","BK ARMEX ENERGY Děčín|0,13,16,2,9",1,0.2,15.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,208.3,0.0,208.3,8.0,2
+BK Olomoucko,"J. Andre, J. Holmes, K. Filewich, A. Goga, O. Šiška","BK Olomoucko|10,13,14,4,9",1,0.2,10.0,2,0,0,0,0,0,0,2,2,100.0,0,0,0,0,0,0,0,0,3,0.8,236.7,312.5,-75.8,12.0,-1
+BK ARMEX ENERGY Děčín,"F. Kroutil, D. Davis, J. Edwards, A. Rand, T. Pomikálek","BK ARMEX ENERGY Děčín|13,2,20,24,5",1,0.2,15.0,2,0,0,0,0,0,0,2,2,100.0,0,0,0,0,0,0,0,0,0,0.8,236.7,0.0,236.7,8.0,2
+BK Opava,"W. Person Jr, C. Brown Jr, R. Kouřil, J. Šiřina, J. Švandrlík","BK Opava|1,13,21,24,8",1,0.2,12.0,2,1,3,33.3,0,2,0.0,0,0,0,0,0,0,1,0,0,0,0,4,2.9,69.4,236.7,-167.3,10.0,-2
+SK Slavia Praha,"M. Ježek, N. Noumeros, R. Jones, M. Lufile, D. Böhm","SK Slavia Praha|12,13,15,24,7",1,0.2,14.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1.0,0.0,166.2,-166.2,0.0,-3
+BK Opava,"W. Person Jr, Š. Puršl, R. Kouřil, M. Vyroubal, J. Švandrlík","BK Opava|1,20,21,25,8",1,0.2,11.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0
+BK Olomoucko,"M. Nelson, K. Elvis, M. Kvapil, D. Žák, J. Oupoh","BK Olomoucko|0,1,12,22,7",1,0.2,15.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1.0,0.0,0.0,0.0,0.0,0
+NH Ostrava,"A. Číž, K. Cole, E. Cato, L. Greer, D. Heinzl","NH Ostrava|11,24,25,3,7",1,0.2,11.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.1,0.0,236.7,-236.7,0.0,-1
+BK Opava,"C. Brown Jr, Š. Puršl, J. Šiřina, M. Vyroubal, I. Gray","BK Opava|13,20,24,25,7",1,0.2,10.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0.1,0.0,104.2,-104.2,0.0,-3
+SLUNETA  Ústí nad Labem,"A. Pecháček, N. Johnson, I. Davidson, T. Vyoral, L. Pecka","SLUNETA  Ústí nad Labem|0,10,18,4,44",1,0.2,14.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK ARMEX ENERGY Děčín,"F. Kroutil, M. Houška, J. Edwards, A. Rand, T. Pomikálek","BK ARMEX ENERGY Děčín|13,15,20,24,5",1,0.2,14.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.1,0.0,208.3,-208.3,0.0,-2
+SK Slavia Praha,"M. Ježek, R. Jones, M. Lufile, D. Böhm, M. Dáňa","SK Slavia Praha|12,15,24,7,88",1,0.2,15.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0.1,0.0,208.3,-208.3,0.0,-2
+Sršni Photomate Písek,"V. Sýkora, M. Kozák, J. Haiblík, K. Týml, M. Burda","Sršni Photomate Písek|10,11,13,33,9",1,0.2,14.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+SK Slavia Praha,"M. Ježek, N. Noumeros, R. Clemons, D. Böhm, M. Dáňa","SK Slavia Praha|12,13,3,7,88",1,0.2,11.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.1,0.0,118.4,-118.4,0.0,-1
+Sršni Photomate Písek,"V. Sýkora, M. Kozák, J. Karlovský, J. Svoboda, P. Šlechta","Sršni Photomate Písek|10,11,41,77,8",1,0.2,13.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.1,0.0,208.3,-208.3,0.0,-2
+BK GAPA Hradec Králové,"A. Johnson, J. Bubeníček, K. Brewton, L. Nikkarinen, K. Chatman","BK GAPA Hradec Králové|0,16,2,4,5",1,0.2,13.0,2,0,0,0,0,0,0,2,2,100.0,0,0,0,0,0,0,0,0,4,0.8,236.7,144.7,92.1,9.23,-2
+BK Olomoucko,"M. Kvapil, D. Žák, L. Autrey, J. Oupoh, O. Šiška","BK Olomoucko|12,22,24,7,9",1,0.2,12.0,3,1,2,50.0,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,3,1.9,156.2,177.6,-21.3,15.0,0
+PUMPA Basket Brno,"D. Jelínek, K. Kalu, R. Cisarik, T. Olison, R. Farský","PUMPA Basket Brno|25,34,5,6,8",1,0.2,13.0,0,0,2,0.0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,2,1.9,0.0,118.4,-118.4,0.0,-2
+BK KVIS Pardubice,"J. Evans Iii, R. Bonham, J. Bryant, K. Švrdlík, J. Tůma","BK KVIS Pardubice|11,3,4,9,98",1,0.2,15.0,2,0,0,0,0,0,0,2,2,100.0,0,0,0,0,0,0,0,0,1,0.8,236.7,236.7,0.0,8.0,1
+BK KVIS Pardubice,"J. Evans Iii, R. Moffatt, J. Bryant, A. Lukeš, J. Tůma","BK KVIS Pardubice|11,13,4,7,98",1,0.2,12.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1.0,0.0,0.0,0.0,0.0,0
+BK GAPA Hradec Králové,"A. Petric, D. Škranc, K. Brewton, T. Merta, K. Chatman","BK GAPA Hradec Králové|11,12,2,23,5",1,0.1,9.0,0,0,0,0,0,0,0,0,2,0.0,0,0,0,0,0,0,0,0,0,0.8,0.0,0.0,0.0,0.0,0
+BK ARMEX ENERGY Děčín,"F. Kroutil, J. Edwards, M. Šturanović, T. Pomikálek, T. Slowiak","BK ARMEX ENERGY Děčín|13,20,47,5,7",1,0.1,8.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,208.3,0.0,208.3,15.0,2
+USK Praha,"S. Macht, D. Vlk, O. Švec, T. Tainamo, E. Edigin","USK Praha|11,13,16,25,41",1,0.1,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK ARMEX ENERGY Děčín,"P. Macháč, J. Štěrba, J. Edwards, L. Feštr, T. Slowiak","BK ARMEX ENERGY Děčín|14,16,20,44,7",1,0.1,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK Olomoucko,"M. Nelson, K. Elvis, J. Andre, D. Žák, J. Svojanovský","BK Olomoucko|0,1,10,22,51",1,0.1,6.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1.0,0.0,208.3,-208.3,0.0,-2
+NH Ostrava,"M. Snopek, A. Číž, M. Čank, L. Palyza, L. Greer","NH Ostrava|10,11,19,23,3",1,0.1,6.0,0,0,1,0.0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,3,1.4,0.0,177.6,-177.6,0.0,-3
+BK ARMEX ENERGY Děčín,"F. Kroutil, J. Štěrba, J. Edwards, L. Feštr, T. Slowiak","BK ARMEX ENERGY Děčín|13,16,20,44,7",1,0.1,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK GAPA Hradec Králové,"M. Popović, D. Škranc, T. Mikyska, K. Brewton, K. Chatman","BK GAPA Hradec Králové|10,12,13,2,5",1,0.1,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+USK Praha,"J. Montgomery, S. Macht, E. Edigin, M. Šafařík, T. Palas","USK Praha|0,11,41,5,8",1,0.1,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK GAPA Hradec Králové,"M. Popović, D. Škranc, T. Merta, T. Dvořák, K. Chatman","BK GAPA Hradec Králové|10,12,23,44,5",1,0.1,9.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+NH Ostrava,"A. Číž, M. Svoboda, L. Palyza, K. Cole, L. Greer","NH Ostrava|11,20,23,24,3",1,0.1,5.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1.0,0.0,236.7,-236.7,0.0,-4
+NH Ostrava,"M. Snopek, M. Čank, M. Svoboda, L. Palyza, L. Greer","NH Ostrava|10,19,20,23,3",1,0.1,3.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.1,0.0,208.3,-208.3,0.0,-2
+NH Ostrava,"M. Čank, M. Svoboda, P. Novák, L. Palyza, L. Greer","NH Ostrava|19,20,22,23,3",1,0.1,5.0,1,0,2,0.0,0,2,0.0,1,2,50.0,0,0,0,0,0,0,0,0,0,2.8,36.2,0.0,36.2,12.0,1
+BK ARMEX ENERGY Děčín,"J. Štěrba, D. Davis, J. Edwards, L. Bryan Jr, L. Feštr","BK ARMEX ENERGY Děčín|16,2,20,22,44",1,0.1,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+SK Slavia Praha,"M. Ježek, R. Jones, D. Böhm, M. Dáňa, R. Pumprla","SK Slavia Praha|12,15,7,88,9",1,0.1,8.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK ARMEX ENERGY Děčín,"F. Kroutil, D. Davis, L. Feštr, M. Šturanović, T. Pomikálek","BK ARMEX ENERGY Děčín|13,2,44,47,5",2,0.1,8.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK GAPA Hradec Králové,"M. Popović, A. Petric, K. Brewton, M. Roub, K. Chatman","BK GAPA Hradec Králové|10,11,2,24,5",1,0.1,9.0,1,0,0,0,0,0,0,1,3,33.3,0,0,0,1,0,0,0,0,0,1.3,78.9,0.0,78.9,6.67,1
+SK Slavia Praha,"J. Matušík, R. Mrázek, P. Macháč, D. Böhm, M. Dáňa","SK Slavia Praha|16,22,35,7,88",1,0.1,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1.0,0.0,208.3,-208.3,0.0,-2
+Sršni Photomate Písek,"M. Kozák, J. Haiblík, K. Týml, J. Karlovský, J. Šurý","Sršni Photomate Písek|11,13,33,41,55",1,0.1,9.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1.0,0.0,110.8,-110.8,0.0,-2
+BK Opava,"C. Brown Jr, Š. Puršl, R. Kouřil, J. Šiřina, J. Slavík","BK Opava|13,20,21,24,33",1,0.1,8.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0
+BK Opava,"C. Brown Jr, Š. Puršl, M. Vyroubal, J. Slavík, J. Švandrlík","BK Opava|13,20,25,33,8",1,0.1,8.0,1,0,0,0,0,0,0,1,2,50.0,0,0,0,0,0,0,0,0,0,0.8,118.4,0.0,118.4,7.5,1
+BK GAPA Hradec Králové,"M. Popović, D. Škranc, T. Mikyska, K. Brewton, T. Merta","BK GAPA Hradec Králové|10,12,13,2,23",1,0.1,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK Olomoucko,"M. Nelson, J. Andre, J. Holmes, K. Filewich, O. Šiška","BK Olomoucko|0,10,13,14,9",1,0.1,8.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+PUMPA Basket Brno,"P. Křivánek, V. Půlpán, J. Groves, M. Stráněl, R. Farský","PUMPA Basket Brno|12,18,20,7,8",1,0.1,5.0,1,0,0,0,0,0,0,1,1,100.0,0,0,0,1,0,0,0,0,2,0.4,236.7,208.3,28.4,12.0,-1
+NH Ostrava,"A. Číž, S. Godwin, M. Svoboda, K. Cole, E. Cato","NH Ostrava|11,14,20,24,25",1,0.1,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK Opava,"W. Person Jr, R. Kouřil, M. Vyroubal, J. Švandrlík, F. Zbránek","BK Opava|1,21,25,8,9",1,0.1,6.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.1,0.0,118.4,-118.4,0.0,-1
+ERA Basketball Nymburk,"S. Rice, M. Svoboda, O. Sehnal, J. Shumate, K. Feazell","ERA Basketball Nymburk|10,11,19,32,6",1,0.1,4.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0
+NH Ostrava,"M. Čank, M. Svoboda, P. Novák, L. Palyza, D. Heinzl","NH Ostrava|19,20,22,23,7",1,0.1,3.0,1,0,1,0.0,0,1,0.0,1,2,50.0,0,0,0,0,0,0,0,0,0,1.8,55.4,0.0,55.4,20.0,1
+BK Opava,"W. Person Jr, J. Šiřina, M. Vyroubal, J. Slavík, J. Švandrlík","BK Opava|1,24,25,33,8",1,0.1,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK Opava,"W. Person Jr, C. Brown Jr, R. Kouřil, J. Slavík, F. Zbránek","BK Opava|1,13,21,33,9",1,0.1,7.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0
+BK GAPA Hradec Králové,"C. John, D. Škranc, K. Brewton, M. Roub, K. Chatman","BK GAPA Hradec Králové|10,12,2,24,5",1,0.1,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1.0,0.0,0.0,0.0,0.0,0
+BK GAPA Hradec Králové,"C. John, D. Škranc, L. Nikkarinen, T. Dvořák, K. Chatman","BK GAPA Hradec Králové|10,12,4,44,5",1,0.1,6.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK GAPA Hradec Králové,"A. Johnson, D. Škranc, M. Roub, L. Nikkarinen, K. Chatman","BK GAPA Hradec Králové|0,12,24,4,5",1,0.1,6.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.1,0.0,118.4,-118.4,0.0,-1
+SLUNETA  Ústí nad Labem,"N. Johnson, I. Davidson, J. Potoček, T. Vyoral, D. Žikla","SLUNETA  Ústí nad Labem|10,18,31,4,9",1,0.1,9.0,2,1,2,50.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1.9,104.2,0.0,104.2,13.33,2
+BK GAPA Hradec Králové,"T. Merta, M. Roub, V. Synáček, L. Nikkarinen, T. Dvořák","BK GAPA Hradec Králové|23,24,27,4,44",1,0.1,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK GAPA Hradec Králové,"A. Johnson, D. Škranc, T. Merta, M. Roub, L. Nikkarinen","BK GAPA Hradec Králové|0,12,23,24,4",1,0.1,4.0,1,0,0,0,0,0,0,1,1,100.0,0,0,0,0,0,0,0,0,0,0.4,236.7,0.0,236.7,15.0,1
+Sršni Photomate Písek,"V. Sýkora, M. Kozák, J. Haiblík, J. Zvolánek, M. Svoboda","Sršni Photomate Písek|10,11,13,31,71",1,0.1,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+SK Slavia Praha,"M. Ježek, J. Matušík, R. Mrázek, D. Böhm, M. Dáňa","SK Slavia Praha|12,16,22,7,88",1,0.1,5.0,0,0,0,0,0,0,0,0,2,0.0,0,0,0,0,0,0,0,0,2,0.8,0.0,104.2,-104.2,0.0,-2
+PUMPA Basket Brno,"P. Křivánek, V. Půlpán, D. Jelínek, R. Cisarik, T. Olison","PUMPA Basket Brno|12,18,25,5,6",1,0.1,8.0,1,0,0,0,0,0,0,1,2,50.0,0,0,0,0,0,0,0,0,0,0.8,118.4,0.0,118.4,7.5,1
+Sršni Photomate Písek,"V. Sýkora, J. Zvolánek, K. Týml, P. Šlechta, M. Burda","Sršni Photomate Písek|10,31,33,8,9",1,0.1,9.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0
+Sršni Photomate Písek,"V. Sýkora, M. Kozák, J. Zvolánek, P. Šlechta, M. Burda","Sršni Photomate Písek|10,11,31,8,9",1,0.1,9.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0.1,0.0,118.4,-118.4,0.0,-1
+PUMPA Basket Brno,"P. Křivánek, V. Půlpán, D. Jelínek, K. Kalu, T. Olison","PUMPA Basket Brno|12,18,25,34,6",1,0.1,9.0,1,0,0,0,0,0,0,1,2,50.0,0,0,0,0,0,0,0,0,0,0.8,118.4,0.0,118.4,6.67,1
+NH Ostrava,"A. Číž, M. Svoboda, L. Palyza, E. Cato, A. Ivánek","NH Ostrava|11,20,23,25,53",1,0.1,3.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+SLUNETA  Ústí nad Labem,"I. Davidson, K. Lawrence, J. Potoček, T. Vyoral, F. Kábrt","SLUNETA  Ústí nad Labem|18,3,31,4,8",1,0.1,3.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+NH Ostrava,"M. Snopek, M. Čank, M. Svoboda, E. Cato, L. Greer","NH Ostrava|10,19,20,25,3",1,0.1,3.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,2,1.0,0.0,236.7,-236.7,0.0,-2
+BK Olomoucko,"M. Nelson, K. Filewich, L. Autrey, A. Goga, J. Oupoh","BK Olomoucko|0,14,24,4,7",1,0.1,8.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK Opava,"K. Kavan, Š. Puršl, J. Šiřina, F. Váňa, J. Švandrlík","BK Opava|11,20,24,3,8",2,0.1,3.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.1,0.0,236.7,-236.7,0.0,-1
+SK Slavia Praha,"N. Noumeros, R. Mrázek, R. Clemons, D. Böhm, M. Dáňa","SK Slavia Praha|13,22,3,7,88",1,0.1,4.0,0,0,2,0.0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1.9,0.0,0.0,0.0,0.0,0
+BK GAPA Hradec Králové,"A. Johnson, D. Škranc, K. Brewton, T. Merta, T. Dvořák","BK GAPA Hradec Králové|0,12,2,23,44",1,0.1,6.0,1,0,0,0,0,0,0,1,1,100.0,0,0,0,0,0,0,0,0,0,0.4,236.7,0.0,236.7,10.0,1
+BK Opava,"K. Kavan, C. Brown Jr, Š. Puršl, J. Slavík, I. Gray","BK Opava|11,13,20,33,7",1,0.1,4.0,3,1,1,100.0,0,0,0,1,1,100.0,0,0,0,1,0,0,0,0,0,1.4,217.0,0.0,217.0,45.0,3
+BK GAPA Hradec Králové,"A. Johnson, K. Brewton, T. Merta, L. Nikkarinen, T. Dvořák","BK GAPA Hradec Králové|0,2,23,4,44",1,0.1,3.0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1.9,0.0,0.0,0.0,0.0,0
+BK Olomoucko,"M. Půlpán, D. Žák, L. Autrey, J. Oupoh, O. Šiška","BK Olomoucko|11,22,24,7,9",1,0.1,3.0,1,0,0,0,0,0,0,1,2,50.0,0,0,0,0,0,0,0,0,0,0.8,118.4,0.0,118.4,20.0,1
+BK ARMEX ENERGY Děčín,"F. Kroutil, M. Houška, L. Feštr, M. Šturanović, T. Pomikálek","BK ARMEX ENERGY Děčín|13,15,44,47,5",1,0.1,6.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+SLUNETA  Ústí nad Labem,"A. Pecháček, A. Rand, N. Johnson, I. Davidson, T. Vyoral","SLUNETA  Ústí nad Labem|0,1,10,18,4",1,0.1,6.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+SLUNETA  Ústí nad Labem,"A. Rand, N. Johnson, I. Davidson, K. Lawrence, F. Kábrt","SLUNETA  Ústí nad Labem|1,10,18,3,8",1,0.1,9.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0
+BK ARMEX ENERGY Děčín,"M. Houška, J. Štěrba, J. Edwards, O. Belikov, M. Šturanović","BK ARMEX ENERGY Děčín|15,16,20,31,47",1,0.1,3.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK GAPA Hradec Králové,"M. Popović, D. Škranc, K. Brewton, M. Roub, K. Chatman","BK GAPA Hradec Králové|10,12,2,24,5",1,0.0,2.0,1,0,0,0,0,0,0,1,3,33.3,0,0,0,1,0,0,0,0,0,1.3,78.9,0.0,78.9,30.0,1
+NH Ostrava,"A. Číž, M. Čank, L. Palyza, L. Greer, J. Roche","NH Ostrava|11,19,23,3,35",1,0.0,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.1,0.0,118.4,-118.4,0.0,-1
+ERA Basketball Nymburk,"S. Rice, M. Svoboda, W. Dreamer, O. Sehnal, F. Rylich","ERA Basketball Nymburk|10,11,12,19,73",1,0.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK KVIS Pardubice,"R. Moffatt, Z. Key, R. Bonham, M. Nábělek, A. Lukeš","BK KVIS Pardubice|13,23,3,5,7",1,0.0,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+SLUNETA  Ústí nad Labem,"N. Johnson, T. Vyoral, L. Pecka, F. Kábrt, J. Eatmon","SLUNETA  Ústí nad Labem|10,4,44,8,99",1,0.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+NH Ostrava,"M. Snopek, A. Číž, M. Svoboda, K. Cole, L. Greer","NH Ostrava|10,11,20,24,3",1,0.0,1.0,1,0,0,0,0,0,0,1,1,100.0,0,0,0,0,0,0,0,0,0,0.4,236.7,0.0,236.7,60.0,1
+SLUNETA  Ústí nad Labem,"N. Johnson, J. Potoček, T. Vyoral, F. Kábrt, D. Žikla","SLUNETA  Ústí nad Labem|10,31,4,8,9",1,0.0,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+ERA Basketball Nymburk,"S. Rice, J. Bohačík, O. Sehnal, J. Shumate, F. Rylich","ERA Basketball Nymburk|10,17,19,32,73",1,0.0,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+ERA Basketball Nymburk,"S. Rice, O. Sehnal, J. Brickus, M. Kříž, J. Shumate","ERA Basketball Nymburk|10,19,2,31,32",1,0.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1.0,0.0,62.5,-62.5,0.0,-3
+ERA Basketball Nymburk,"S. Rice, O. Sehnal, M. Kříž, J. Shumate, F. Rylich","ERA Basketball Nymburk|10,19,31,32,73",1,0.0,2.0,2,0,0,0,0,0,0,2,2,100.0,0,0,0,0,0,0,0,0,0,0.8,236.7,0.0,236.7,60.0,2
+SLUNETA  Ústí nad Labem,"N. Johnson, J. Young, J. Potoček, T. Vyoral, D. Žikla","SLUNETA  Ústí nad Labem|10,2,31,4,9",1,0.0,2.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,2,1.0,0.0,236.7,-236.7,0.0,-2
+ERA Basketball Nymburk,"J. Bohačík, O. Sehnal, J. Shumate, J. Lawrence, F. Rylich","ERA Basketball Nymburk|17,19,32,40,73",1,0.0,2.0,1,0,0,0,0,0,0,1,1,100.0,0,0,0,0,0,0,0,0,0,0.4,236.7,0.0,236.7,30.0,1
+BK ARMEX ENERGY Děčín,"P. Alexander, F. Kroutil, D. Davis, M. Šturanović, O. Žižka","BK ARMEX ENERGY Děčín|0,13,2,47,9",1,0.0,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK Opava,"W. Person Jr, Š. Puršl, M. Vyroubal, J. Švandrlík, F. Zbránek","BK Opava|1,20,25,8,9",1,0.0,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.1,0.0,118.4,-118.4,0.0,-1
+Sršni Photomate Písek,"J. Haiblík, K. Týml, M. Svoboda, J. Svoboda, P. Šlechta","Sršni Photomate Písek|13,33,71,77,8",1,0.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK GAPA Hradec Králové,"D. Škranc, M. Roub, T. Tkadlec, L. Nikkarinen, K. Chatman","BK GAPA Hradec Králové|12,24,3,4,5",1,0.0,1.0,0,0,1,0.0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0
+BK Olomoucko,"M. Nelson, K. Elvis, K. Filewich, A. Goga, J. Oupoh","BK Olomoucko|0,1,14,4,7",1,0.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK KVIS Pardubice,"J. Evans Iii, R. Moffatt, Z. Key, R. Bonham, J. Bryant","BK KVIS Pardubice|11,13,23,3,4",1,0.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK Olomoucko,"K. Elvis, J. Andre, M. Kvapil, D. Žák, A. Goga","BK Olomoucko|1,10,12,22,4",1,0.0,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK Opava,"Š. Puršl, M. Vyroubal, J. Slavík, I. Gray, F. Zbránek","BK Opava|20,25,33,7,9",1,0.0,1.0,2,1,1,100.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1.0,208.3,0.0,208.3,120.0,2
+PUMPA Basket Brno,"V. Půlpán, D. Jelínek, M. Rychtecký, R. Cisarik, T. Olison","PUMPA Basket Brno|18,25,4,5,6",1,0.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK ARMEX ENERGY Děčín,"F. Kroutil, M. Houška, J. Edwards, A. Rand, M. Šturanović","BK ARMEX ENERGY Děčín|13,15,20,24,47",1,0.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+PUMPA Basket Brno,"Š. Svoboda, P. Křivánek, D. Jelínek, K. Kalu, T. Olison","PUMPA Basket Brno|11,12,25,34,6",1,0.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK KVIS Pardubice,"R. Moffatt, L. Kovář, J. Bryant, A. Lukeš, K. Švrdlík","BK KVIS Pardubice|13,21,4,7,9",1,0.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+Sršni Photomate Písek,"V. Sýkora, J. Karlovský, P. Šlechta, M. Burda, D. Fait","Sršni Photomate Písek|10,41,8,9,93",1,0.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+USK Praha,"J. Montgomery, O. Švec, J. Soldán, M. Šafařík, C. Eduardo","USK Praha|0,16,23,5,7",1,0.0,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK Opava,"Š. Puršl, J. Šiřina, J. Slavík, I. Gray, F. Zbránek","BK Opava|20,24,33,7,9",1,0.0,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+PUMPA Basket Brno,"P. Křivánek, V. Půlpán, K. Kalu, R. Cisarik, T. Olison","PUMPA Basket Brno|12,18,34,5,6",1,0.0,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+ERA Basketball Nymburk,"M. Svoboda, O. Sehnal, J. Shumate, J. Lawrence, F. Rylich","ERA Basketball Nymburk|11,19,32,40,73",1,0.0,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK KVIS Pardubice,"M. Svojanovský, Z. Key, A. Lukeš, K. Švrdlík, J. Tůma","BK KVIS Pardubice|2,23,7,9,98",1,0.0,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+SK Slavia Praha,"M. Ježek, N. Noumeros, R. Jones, R. Mrázek, M. Lufile","SK Slavia Praha|12,13,15,22,24",1,0.0,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK Olomoucko,"M. Nelson, J. Andre, K. Filewich, A. Goga, O. Šiška","BK Olomoucko|0,10,14,4,9",1,0.0,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK GAPA Hradec Králové,"A. Johnson, J. Bubeníček, T. Merta, T. Dvořák, K. Chatman","BK GAPA Hradec Králové|0,16,23,44,5",1,0.0,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK Olomoucko,"M. Půlpán, M. Kvapil, D. Žák, J. Oupoh, O. Šiška","BK Olomoucko|11,12,22,7,9",1,0.0,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
+BK GAPA Hradec Králové,"A. Johnson, K. Brewton, M. Roub, L. Nikkarinen, K. Chatman","BK GAPA Hradec Králové|0,2,24,4,5",1,0.0,2.0,1,0,0,0,0,0,0,1,2,50.0,0,0,0,0,0,0,0,0,0,0.8,118.4,0.0,118.4,30.0,1
+SLUNETA  Ústí nad Labem,"A. Pecháček, N. Johnson, J. Young, K. Lawrence, F. Kábrt","SLUNETA  Ústí nad Labem|0,10,2,3,8",1,0.0,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,0.0,0.0,0.0,0
