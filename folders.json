@@ -1,4 +1,8 @@
 {"folders":[
+  {"path":"adult/data_2026-04-21T06-44_BNXT","folder_name":"data_2026-04-21T06-44_BNXT","timestamp":"2026-04-21T06-44","competition_code":"BNXT"}
+,
+  {"path":"adult/data_2026-04-21T06-06_CBFFE","folder_name":"data_2026-04-21T06-06_CBFFE","timestamp":"2026-04-21T06-06","competition_code":"CBFFE"}
+,
   {"path":"adult/data_2026-04-20T23-26_HBBC","folder_name":"data_2026-04-20T23-26_HBBC","timestamp":"2026-04-20T23-26","competition_code":"HBBC"}
 ,
   {"path":"adult/data_2026-04-20T16-34_PRO_B","folder_name":"data_2026-04-20T16-34_PRO_B","timestamp":"2026-04-20T16-34","competition_code":"PRO_B"}
