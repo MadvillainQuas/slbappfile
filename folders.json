@@ -1,4 +1,6 @@
 {"folders":[
+  {"path":"adult/data_2026-04-27T07-57_SLB","folder_name":"data_2026-04-27T07-57_SLB","timestamp":"2026-04-27T07-57","competition_code":"SLB"}
+,
   {"path":"adult/data_2026-04-21T06-44_BNXT","folder_name":"data_2026-04-21T06-44_BNXT","timestamp":"2026-04-21T06-44","competition_code":"BNXT"}
 ,
   {"path":"adult/data_2026-04-21T06-06_CBFFE","folder_name":"data_2026-04-21T06-06_CBFFE","timestamp":"2026-04-21T06-06","competition_code":"CBFFE"}
