@@ -1,6 +1,9 @@
 {
   "status": "running",
-  "current_request": "monday_auto_1777267295",
-  "started_at": "2026-04-27T06:21:35.690852",
-  "updated_at": "2026-04-27T06:21:36.312984"
+  "mode": "all",
+  "competitions": [
+    "ACB"
+  ],
+  "started_at": "2026-04-28T11:15:41.818109",
+  "updated_at": "2026-04-28T11:15:42.852056"
 }
