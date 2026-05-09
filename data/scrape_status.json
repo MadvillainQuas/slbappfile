@@ -2,8 +2,9 @@
   "status": "running",
   "mode": "all",
   "competitions": [
-    "SLB"
+    "SLB",
+    "BBE"
   ],
-  "started_at": "2026-05-09T19:09:00.529653",
-  "updated_at": "2026-05-09T19:09:01.117033"
+  "started_at": "2026-05-09T19:31:32.109302",
+  "updated_at": "2026-05-09T19:31:32.648765"
 }
