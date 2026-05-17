@@ -1,9 +1,12 @@
 {
-  "status": "running",
-  "mode": "all",
-  "competitions": [
-    "USPORTS"
-  ],
-  "started_at": "2026-05-17T23:06:04.805084",
-  "updated_at": "2026-05-17T23:06:05.439781"
+  "status": "idle",
+  "last_run": "2026-05-17T23:08:06.744615",
+  "last_result": {
+    "success": 1,
+    "failed": 0,
+    "competitions": [
+      "USPORTS"
+    ]
+  },
+  "updated_at": "2026-05-17T23:08:07.443175"
 }
