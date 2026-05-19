@@ -1,12 +1,9 @@
 {
-  "status": "idle",
-  "last_run": "2026-05-17T23:08:06.744615",
-  "last_result": {
-    "success": 1,
-    "failed": 0,
-    "competitions": [
-      "USPORTS"
-    ]
-  },
-  "updated_at": "2026-05-17T23:08:07.443175"
+  "status": "running",
+  "mode": "all",
+  "competitions": [
+    "HBBC"
+  ],
+  "started_at": "2026-05-19T20:20:39.514086",
+  "updated_at": "2026-05-19T20:20:40.153023"
 }
