@@ -1,12 +1,9 @@
 {
-  "status": "idle",
-  "last_run": "2026-06-12T15:53:32.892920",
-  "last_result": {
-    "success": 1,
-    "failed": 0,
-    "competitions": [
-      "SLB"
-    ]
-  },
-  "updated_at": "2026-06-12T15:53:34.209403"
+  "status": "running",
+  "mode": "all",
+  "competitions": [
+    "HBBC"
+  ],
+  "started_at": "2026-06-29T18:16:09.511619",
+  "updated_at": "2026-06-29T18:16:10.130585"
 }
