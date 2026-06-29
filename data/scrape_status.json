@@ -1,9 +1,12 @@
 {
-  "status": "running",
-  "mode": "all",
-  "competitions": [
-    "HBBC"
-  ],
-  "started_at": "2026-06-29T18:16:09.511619",
-  "updated_at": "2026-06-29T18:16:10.130585"
+  "status": "idle",
+  "last_run": "2026-06-29T22:39:46.342026",
+  "last_result": {
+    "success": 1,
+    "failed": 0,
+    "competitions": [
+      "HBBC"
+    ]
+  },
+  "updated_at": "2026-06-29T22:39:46.944621"
 }
