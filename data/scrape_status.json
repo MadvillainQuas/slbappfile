@@ -1,12 +1,30 @@
 {
-  "status": "idle",
-  "last_run": "2026-07-15T16:35:37.476757",
-  "last_result": {
-    "success": 0,
-    "failed": 1,
-    "competitions": [
-      "PRO_A"
-    ]
-  },
-  "updated_at": "2026-07-15T16:35:40.816984"
+  "status": "running",
+  "mode": "all",
+  "competitions": [
+    "SLB",
+    "BBE",
+    "HBBC",
+    "PRO_A",
+    "PRO_B",
+    "BBL",
+    "FBAA",
+    "CBFFE",
+    "ACB",
+    "BNXT",
+    "SBA",
+    "KOS",
+    "SBL_SE",
+    "EL",
+    "NKL",
+    "GREL",
+    "USPORTS",
+    "LNB_ELITE",
+    "LNB_ELITE2",
+    "SBF",
+    "CEBL",
+    "BLJ"
+  ],
+  "started_at": "2026-07-16T12:24:39.687396",
+  "updated_at": "2026-07-16T12:24:40.290002"
 }
