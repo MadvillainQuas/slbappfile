@@ -1,14 +1,20 @@
 {
-  "status": "idle",
-  "last_run": "2026-07-16T17:44:11.138160",
-  "last_result": {
-    "success": 3,
-    "failed": 0,
-    "competitions": [
-      "PRO_A",
-      "CIBA",
-      "BLJ"
-    ]
-  },
-  "updated_at": "2026-07-16T17:44:11.889602"
+  "status": "running",
+  "mode": "all",
+  "competitions": [
+    "BBL",
+    "FBAA",
+    "CBFFE",
+    "ACB",
+    "BNXT",
+    "SBA",
+    "KOS",
+    "EL",
+    "LNB_ELITE",
+    "LNB_ELITE2",
+    "SBF",
+    "BGNBL"
+  ],
+  "started_at": "2026-07-17T08:47:56.859122",
+  "updated_at": "2026-07-17T08:47:57.502949"
 }
